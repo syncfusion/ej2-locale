@@ -1,0 +1,1495 @@
+Zoomen
+
+Hineinzoomen
+
+Rauszoomen
+
+Zurücksetzen
+
+Pfanne
+
+Zoom zurücksetzen
+
+Tag
+
+Woche
+
+Arbeitswoche
+
+Monat
+
+Agenda
+
+Woche Agenda
+
+Arbeitswoche Agenda
+
+Monatsagenda
+
+Heute
+
+Keine Ereignisse
+
+An diesem Tag sind keine Veranstaltungen geplant.
+
+Den ganzen Tag
+
+Anfang
+
+Ende
+
+Mehr
+
+Schließen
+
+Stornieren
+
+(Kein Titel)
+
+Löschen
+
+Ereignis löschen
+
+Löschen Sie mehrere Ereignisse
+
+Artikel ausgewählt
+
+Reihe löschen
+
+Bearbeiten
+
+Reihe bearbeiten
+
+Veranstaltung bearbeiten
+
+Erstellen
+
+Gegenstand
+
+Titel hinzufügen
+
+Mehr Details
+
+sparen
+
+Möchten Sie nur dieses Ereignis oder die gesamte Serie bearbeiten?
+
+Möchten Sie nur dieses Ereignis oder die ganze Serie löschen?
+
+Möchten Sie dieses Ereignis wirklich löschen?
+
+Möchten Sie die ausgewählten Ereignisse wirklich löschen?
+
+Neues Event
+
+Titel
+
+Ort
+
+Beschreibung
+
+Zeitzone
+
+Startzeitzone
+
+Endzeitzone
+
+Wiederholen
+
+sparen
+
+Stornieren
+
+Löschen
+
+Wiederholung
+
+Das Wiederholungsmuster ist nicht gültig.
+
+Die Änderungen, die an bestimmten Instanzen dieser Serie vorgenommen wurden, werden abgebrochen und diese Ereignisse werden wieder mit der Serie übereinstimmen.
+
+Die Dauer des Ereignisses muss kürzer sein als die Häufigkeit des Ereignisses. Verkürzen Sie die Dauer oder ändern Sie das Wiederholungsmuster im Wiederholungsereignis-Editor.
+
+Einige Monate haben weniger als das ausgewählte Datum. In diesen Monaten fällt das Vorkommen auf das letzte Datum des Monats.
+
+Zwei Vorkommen desselben Ereignisses können nicht am selben Tag auftreten.
+
+Wiederholung bearbeiten
+
+Wiederholt
+
+Aufmerksam
+
+Das ausgewählte Enddatum liegt vor dem Startdatum.
+
+Der eingegebene Datumswert ist ungültig.
+
+OK
+
+Auftreten
+
+Serie
+
+Bisherige
+
+Nächster
+
+Timeline-Tag
+
+Timeline Woche
+
+Timeline-Arbeitswoche
+
+Timeline-Monat
+
+Keiner
+
+Täglich
+
+Wöchentlich
+
+Monatlich
+
+Monat
+
+Jährlich
+
+noch nie
+
+Bis
+
+Anzahl
+
+Zuerst
+
+Zweite
+
+Dritte
+
+Vierte
+
+Letzte
+
+Wiederholen
+
+Wiederhole jeden
+
+Wiederholen Sie Ein
+
+Ende
+
+Tag
+
+Tage)
+
+Wochen)
+
+Monat (e)
+
+Jahre)
+
+jeden
+
+mal)
+
+auf
+
+bis
+
+Wiederholt
+
+Tage)
+
+Wochen)
+
+Monat (e)
+
+Jahre)
+
+Monat Woche
+
+Monatsposition
+
+Monatsexpander
+
+Jahr Expander
+
+Wiederholungsintervall
+
+Schließen
+
+Gesamtsumme
+
+Gesamt
+
+Wert
+
+Kein Wert
+
+Reihe
+
+Säule
+
+Zusammenbruch
+
+Erweitern
+
+Hier die Reihe fallen lassen
+
+Drop Spalte hier
+
+Wert hier fallen lassen
+
+Filter hier ablegen
+
+Filter
+
+Gefiltert
+
+Sortieren
+
+Filter
+
+Reihen
+
+Säulen
+
+Werte
+
+Schließen
+
+Stornieren
+
+Löschen
+
+Berechnetes Feld
+
+Berechnetes Feld erstellen
+
+Geben Sie den Feldnamen ein
+
+Error
+
+Ungültiger Formel- oder Feldname
+
+Beispiel: ('Sum (Order_Count)' + 'Summe (In_Stock)') * 250
+
+Fügen Sie Felder hinzu und bearbeiten Sie die Formel hier.
+
+Das berechnete Feld kann in keiner anderen Region als der Wertachse platziert werden.
+
+Aufmerksam
+
+Warnung
+
+OK
+
+Suche
+
+Ziehen
+
+Löschen
+
+Summe
+
+Durchschnittlich
+
+Anzahl
+
+Mindest
+
+Max
+
+Alle Felder
+
+Formel
+
+Zu Zeile hinzufügen
+
+Zu Spalte hinzufügen
+
+Zum Wert hinzufügen
+
+Zu Filter hinzufügen
+
+Keine Datensätze zur Anzeige
+
+In diesem Namen existiert bereits ein Feld. Bitte geben Sie einen anderen Namen ein.
+
+In diesem Namen existiert bereits ein Berechnungsfeld. Möchten Sie es ersetzen?
+
+Keine Treffer
+
+Summiert Werte nach
+
+Bearbeiten
+
+klar
+
+Ziehen Sie Felder in die Formel und legen Sie sie dort ab
+
+Ziehen Sie das Feld in die Formel
+
+klar
+
+durch
+
+Geben Sie den Wert ein
+
+Geben Sie das Datum ein
+
+Entspricht
+
+Ist nicht gleich
+
+Beginnt mit
+
+Beginnt nicht mit
+
+Endet mit
+
+Hört nicht mit auf
+
+Enthält
+
+Beinhaltet nicht
+
+Größer als
+
+Größer als oder gleich wie
+
+Weniger als
+
+Gleich oder kleiner als
+
+Zwischen
+
+Nicht zwischen
+
+Vor
+
+Vor oder gleich
+
+Nach
+
+Nach oder gleich
+
+Mitglied
+
+Etikette
+
+Datum
+
+Zeigen Sie die Artikel an, für die das Label angezeigt wird
+
+Zeigen Sie die Artikel an, für die das Datum gilt
+
+Zeige die Gegenstände für welche
+
+und
+
+Bedingte Formatierung
+
+SICH BEWERBEN
+
+Bedingung hinzufügen
+
+Format
+
+Pivot-Feldliste
+
+Feldliste
+
+Filter hier ablegen
+
+Drop Spalte hier
+
+Hier die Reihe fallen lassen
+
+Wert hier fallen lassen
+
+Feld hier hinzufügen
+
+Wählen Sie das Feld aus
+
+Felder zwischen den Achsen ziehen:
+
+hinzufügen
+
+Ziehen
+
+Filter
+
+Gefiltert
+
+Sortieren
+
+Löschen
+
+Filter
+
+Reihen
+
+Säulen
+
+Werte
+
+Berechnetes Feld
+
+Berechnetes Feld erstellen
+
+Geben Sie den Feldnamen ein
+
+Error
+
+Ungültiger Formel- oder Feldname
+
+Beispiel: ('Sum (Order_Count)' + 'Summe (In_Stock)') * 250
+
+Fügen Sie Felder hinzu und bearbeiten Sie die Formel hier.
+
+Das berechnete Feld kann in keiner anderen Region als der Wertachse platziert werden.
+
+Suche
+
+Schließen
+
+Stornieren
+
+Löschen
+
+Aufmerksam
+
+Warnung
+
+OK
+
+Summe
+
+Durchschnittlich
+
+Anzahl
+
+Mindest
+
+Max
+
+Alle Felder
+
+Formel
+
+In diesem Namen existiert bereits ein Feld. Bitte geben Sie einen anderen Namen ein.
+
+In diesem Namen existiert bereits ein Berechnungsfeld. Möchten Sie es ersetzen?
+
+Keine Treffer
+
+Summiert Werte nach
+
+Bearbeiten
+
+klar
+
+Ziehen Sie Felder in die Formel und legen Sie sie dort ab
+
+Ziehen Sie das Feld in die Formel
+
+klar
+
+durch
+
+Geben Sie den Wert ein
+
+Geben Sie das Datum ein
+
+Entspricht
+
+Ist nicht gleich
+
+Beginnt mit
+
+Beginnt nicht mit
+
+Endet mit
+
+Hört nicht mit auf
+
+Enthält
+
+Beinhaltet nicht
+
+Größer als
+
+Größer als oder gleich wie
+
+Weniger als
+
+Gleich oder kleiner als
+
+Zwischen
+
+Nicht zwischen
+
+Vor
+
+Vor oder gleich
+
+Nach
+
+Nach oder gleich
+
+Mitglied
+
+Etikette
+
+Datum
+
+Wert
+
+Zeigen Sie die Artikel an, für die das Label angezeigt wird
+
+Zeigen Sie die Artikel an, für die das Datum gilt
+
+Zeige die Gegenstände für welche
+
+und
+
+SICH BEWERBEN
+
+Zoomen
+
+Hineinzoomen
+
+Rauszoomen
+
+Zurücksetzen
+
+Pfanne
+
+Zoom zurücksetzen
+
+Keine Datensätze zur Anzeige
+
+wahr
+
+falsch
+
+Ungültige Filterdaten
+
+Ziehen Sie hier eine Spaltenüberschrift, um ihre Spalte zu gruppieren
+
+Klicken Sie hier, um die Gruppierung aufzuheben
+
+Die Gruppierung ist für diese Spalte deaktiviert
+
+"s Filter Bar Zelle
+
+DataSource darf beim erstmaligen Laden nicht leer sein, da Spalten aus dataSource in AutoGenerate Column Grid generiert werden
+
+Hinzufügen
+
+Bearbeiten
+
+Stornieren
+
+Aktualisieren
+
+Löschen
+
+Drucken
+
+PDF-Export
+
+Excel-Export
+
+Word-Export
+
+CSV-Export
+
+Suche
+
+Säulen
+
+sparen
+
+Artikel
+
+Artikel
+
+Für den Bearbeitungsvorgang wurden keine Datensätze ausgewählt
+
+Für den Löschvorgang wurden keine Datensätze ausgewählt
+
+sparen
+
+OK
+
+Stornieren
+
+Details von
+
+Neuen Datensatz hinzufügen
+
+Möchten Sie die Änderungen wirklich speichern?
+
+Nicht gespeicherte Änderungen gehen verloren. Bist du dir sicher, dass du weitermachen willst?
+
+Möchten Sie den Datensatz wirklich löschen?
+
+Möchten Sie die Änderungen wirklich abbrechen?
+
+Wählen Sie Spalte
+
+Suchspalten
+
+Keine Treffer gefunden
+
+Filter
+
+klar
+
+Beginnt mit
+
+Endet mit
+
+Enthält
+
+Gleich
+
+Nicht gleich
+
+Weniger als
+
+Weniger als oder gleich
+
+Größer als
+
+Größer als oder gleich
+
+Wählen Sie ein Datum
+
+Geben Sie den Wert ein
+
+Kopieren
+
+Nach dieser Spalte gruppieren
+
+Gruppierung durch diese Spalte aufheben
+
+Auto Fit für alle Spalten
+
+Passen Sie diese Spalte automatisch an
+
+Export
+
+Erste Seite
+
+Letzte Seite
+
+Vorherige Seite
+
+Nächste Seite
+
+Aufsteigend sortieren
+
+Absteigend sortieren
+
+Datensatz bearbeiten
+
+Aufzeichnung löschen
+
+Filter
+
+Wählen Sie Alle
+
+Rohlinge
+
+Wahr
+
+Falsch
+
+Keine Treffer gefunden
+
+Filter löschen
+
+Zahlenfilter
+
+Textfilter
+
+Datumsfilter
+
+DateTime-Filter
+
+Matchfall
+
+Zwischen
+
+Benutzerdefinierte Filter
+
+Geben Sie den Wert ein
+
+Wählen Sie ein Datum
+
+UND
+
+ODER
+
+Zeige Zeilen wo:
+
+{0} von {1} Seiten
+
+({0} Elemente)
+
+Gehe zur ersten Seite
+
+Gehe zur letzten Seite
+
+Gehe zur nächsten Seite
+
+Zurück zur letzten Seite
+
+Gehe zum nächsten Pager
+
+Gehe zum vorherigen Pager
+
+Objekte pro Seite
+
+Artikel
+
+Alle
+
+Ausrichtungen
+
+rechtfertig links
+
+berechtigenCenter
+
+justifyRight
+
+justifyFull
+
+Schriftartenname
+
+Schriftgröße
+
+Schriftfarbe
+
+Hintergrundfarbe
+
+klarFormat
+
+alles löschen
+
+ungeordnete Liste
+
+Bestellliste
+
+Link erstellen
+
+Verbindung öffnen
+
+BearbeitenLink
+
+entferneLink
+
+Verbindung öffnen
+
+BearbeitenLink
+
+entferneLink
+
+Bild
+
+ersetzen
+
+ausrichten
+
+Bildbeschriftung
+
+Löschen
+
+EinfügenLink
+
+Anzeige
+
+Alt-Text
+
+Abmessungen
+
+Vollbild
+
+maximieren
+
+minimieren
+
+niedrigerer Fall
+
+oberes Gehäuse
+
+drucken
+
+Formate
+
+Quellcode
+
+Vorschau
+
+Aussicht
+
+Code eingeben
+
+Linksbündig
+
+Im Zentrum anordnen
+
+Rechts ausrichten
+
+Justifizieren ausrichten
+
+Schriftartenname
+
+Schriftgröße
+
+Schriftfarbe
+
+Hintergrundfarbe
+
+Fett gedruckt
+
+kursiv
+
+unterstreichen
+
+durchgestrichen
+
+Schnitt
+
+Kopieren
+
+Einfügen
+
+Einzug
+
+Aussenseiter
+
+rückgängig machen
+
+wiederholen
+
+hochgestellt
+
+Index
+
+Hyperlink einfügen
+
+Verbindung öffnen
+
+Link bearbeiten
+
+Link entfernen
+
+Link einfügen
+
+alternativer Text
+
+Kleinbuchstaben
+
+Großbuchstaben
+
+Code eingeben
+
+Text anzeigen
+
+Kurzinfo
+
+Webadresse
+
+http://example.com
+
+Link in neuem Fenster öffnen
+
+Link einfügen
+
+Einfügen
+
+Stornieren
+
+Aktualisieren
+
+Bild einfügen
+
+Sie können auch einen Link aus dem Internet bereitstellen
+
+Bitte geben Sie eine URL für Ihr Bild an
+
+Bild hier ablegen oder zum Hochladen blättern
+
+Klicken Sie hier zum Hochladen
+
+Alternativer Text
+
+alternativer Text
+
+Durchsuche
+
+http://example.com/image.png
+
+Bildbeschriftung
+
+Bildgröße
+
+Höhe
+
+Breite
+
+Text eingeben
+
+Sich bewerben
+
+Stornieren
+
+Wechselmodus
+
+Durchsuche...
+
+klar
+
+Hochladen
+
+Oder drop Dateien hier
+
+Dateigröße ist zu groß
+
+Dateigröße ist zu klein
+
+Dateityp ist nicht erlaubt
+
+Die Datei konnte nicht hochgeladen werden
+
+Datei erfolgreich hochgeladen
+
+Die Datei wurde erfolgreich entfernt
+
+Die Datei konnte nicht entfernt werden
+
+Hochladen
+
+Bereit zum Hochladen
+
+Abbrechen
+
+Löschen
+
+Stornieren
+
+Datei löschen
+
+Datei-Upload wurde angehalten
+
+Pause
+
+Fortsetzen
+
+Wiederholen
+
+Datei-Upload abgebrochen
+
+Wert erhöhen
+
+Wert verringern
+
+Heute
+
+Heute
+
+Wählen Sie ein Datum
+
+Wählen Sie einen Datumsbereich
+
+Anfangsdatum
+
+Endtermin
+
+Sich bewerben
+
+Stornieren
+
+Ausgewählte Tage
+
+Tage
+
+Benutzerdefinierten Bereich
+
+Wähle eine Zeit aus
+
+Heute
+
+Wählen Sie ein Datum und eine Uhrzeit
+
+Schließen
+
+Tabelle
+
+Reihe
+
+Zelle
+
+OK
+
+Stornieren
+
+Größe
+
+Bevorzugte Breite
+
+Punkte
+
+Prozent
+
+Messen Sie in
+
+Ausrichtung
+
+Links
+
+Center
+
+Recht
+
+Rechtfertigen
+
+Einrückung von links
+
+Rahmen und Schattierung
+
+Optionen
+
+Höhe angeben
+
+Mindestens
+
+Genau
+
+Zeilenhöhe ist
+
+Lassen Sie die Zeile über Seiten hinweg brechen
+
+Wiederholen Sie den Vorgang als Kopfzeile oben auf jeder Seite
+
+Vertikale Ausrichtung
+
+oben
+
+Unterseite
+
+Standard-Zellenränder
+
+Standard-Zellenabstand
+
+Abstand zwischen Zellen zulassen
+
+Zellränder
+
+Wie der ganze Tisch
+
+Grenzen
+
+Keiner
+
+Single
+
+Punkt
+
+DashSmallGap
+
+DashLargeGap
+
+Strich Punkt
+
+DashDotDot
+
+Doppelt
+
+Verdreifachen
+
+ThinThickSmallGap
+
+ThickThinSmallGap
+
+ThinThickThinSmallGap
+
+ThinThickMediumGap
+
+ThickThinMediumGap
+
+ThinThickThinMediumGap
+
+ThinThickLargeGap
+
+ThickThinLargeGap
+
+ThinThickThinLargeGap
+
+EinzelWavy
+
+DoppelWavy
+
+DashDotStroked
+
+Relief3D
+
+Gravieren3D
+
+Anfang
+
+Einsatz
+
+Dick
+
+Stil
+
+Breite
+
+Höhe
+
+Brief
+
+Boulevardzeitung
+
+Legal
+
+Erklärung
+
+Exekutive
+
+A3
+
+A4
+
+A5
+
+B4
+
+B5
+
+Benutzerdefiniertes Format
+
+Unterschiedlich ungerade und gerade
+
+Andere erste Seite
+
+Vom Rand
+
+Header
+
+Fußzeile
+
+Ränder
+
+Papier
+
+Layout
+
+Orientierung
+
+Landschaft
+
+Porträt
+
+Inhaltsverzeichnis
+
+Seitenzahlen anzeigen
+
+Richten Sie die Seitenzahlen rechts aus
+
+Nichts
+
+Tabulator
+
+Ebenen anzeigen
+
+Verwenden Sie Hyperlinks anstelle von Seitenzahlen
+
+Erstellen Sie das Inhaltsverzeichnis aus
+
+Stile
+
+Verfügbare Stile
+
+Inhaltsverzeichnis Ebene
+
+Überschrift
+
+Absatz auflisten
+
+Normal
+
+Gliederungsebenen
+
+Tabelleneingabefelder
+
+Ändern
+
+Farbe
+
+Rahmen
+
+Box
+
+Alle
+
+Brauch
+
+Vorschau
+
+Schattierung
+
+Füllen
+
+Gelten
+
+Tabelleneigenschaften
+
+Zelloptionen
+
+Tabellenoptionen
+
+Tabelle einfügen
+
+Anzahl der Spalten
+
+Anzahl der Reihen
+
+Text zum Anzeigen
+
+Adresse
+
+Hyperlink einfügen
+
+Hyperlink bearbeiten
+
+Einfügen
+
+Allgemeines
+
+Vertiefung
+
+Vor dem Text
+
+Besondere
+
+Erste Linie
+
+Hängend
+
+Nach dem Text
+
+Durch
+
+Vor
+
+Zeilenabstand
+
+Nach
+
+Beim
+
+Mehrere
+
+Abstand
+
+Definieren Sie eine neue Multilevel-Liste
+
+Listenebene
+
+Wählen Sie die Stufe, die geändert werden soll
+
+Niveau
+
+Zahlenformat
+
+Zahlenstil für dieses Level
+
+Geben Sie die Formatierung für die Nummer ein
+
+Anfangen bei
+
+Liste neu starten nach
+
+Position
+
+Texteinzug bei
+
+Ausgerichtet auf
+
+Folge der Nummer mit
+
+Tabulatorzeichen
+
+Raum
+
+Arabisch
+
+UpRoman
+
+NiedrigRoman
+
+UpLetter
+
+LowLetter
+
+Nummer
+
+Führende Null
+
+Kugel
+
+Ordinal
+
+Ordinaler Text
+
+Für Osten
+
+Kein Neustart
+
+Schriftart
+
+Schriftstil
+
+Stil unterstreichen
+
+Schriftfarbe
+
+Auswirkungen
+
+Durchgestrichen
+
+Hochgestellt
+
+Index
+
+Doppelt durchgestrichen
+
+Regulär
+
+Fett gedruckt
+
+Kursiv
+
+Schnitt
+
+Kopieren
+
+Einfügen
+
+Hyperlink
+
+Öffnen Sie den Hyperlink
+
+Kopiere Hyperlink
+
+Entfernen Sie den Hyperlink
+
+Absatz
+
+Zellen verbinden
+
+Einfügen oben
+
+Unten einfügen
+
+Einfügen links
+
+Rechts einfügen
+
+Löschen
+
+Tabelle löschen
+
+Zeile löschen
+
+Spalte löschen
+
+Dateiname
+
+Formatierungstyp
+
+sparen
+
+Navigation
+
+Ergebnisse
+
+Ersetzen
+
+Alles ersetzen
+
+Wir haben alle ersetzt
+
+Finden
+
+Keine Treffer
+
+Alles erledigt
+
+Ergebnis
+
+von
+
+Instanzen
+
+mit
+
+Klicken Sie, um dem Link zu folgen
+
+Nummerierung fortsetzen
+
+Name des Lesezeichens
+
+Schließen
+
+Neu starten um
+
+Eigenschaften
+
+Name
+
+Stiltyp
+
+Stil basierend auf
+
+Style für folgenden Absatz
+
+Formatierung
+
+Nummerierung und Aufzählungszeichen
+
+Nummerierung
+
+Feld aktualisieren
+
+Feld bearbeiten
+
+Lesezeichen
+
+Seiteneinrichtung
+
+Keine Lesezeichen gefunden
+
+Einstufiges Zahlenformat: </ br> [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Beispiel: Kapitel% 1. wird die Nummerierung wie folgt anzeigen: </ br> Kapitel 1. Element </ br> Kapitel 2. Element </ br> ... </ br> Kapitel N. Element </ br> </ br> Mehrstufiges Zahlenformat: </ br > [PREFIX]% [LEVELNUMBER] [SUFFIX] + [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Beispiel:% 1.% 2. wird die Nummerierung wie </ br> 1.1 anzeigen. Artikel </ br> 1.2. Artikel </ br> ... </ br> 1.N. Artikel
+
+Format
+
+Erstellen Sie einen neuen Stil
+
+Stil ändern
+
+Neu
+
+Kugeln
+
+Verwenden Sie Lesezeichen
+
+Inhaltsverzeichnis
+
+ 

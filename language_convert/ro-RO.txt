@@ -1,0 +1,1495 @@
+Zoom
+
+A mari
+
+A micsora
+
+restabili
+
+Tigaie
+
+Resetați mărirea
+
+Zi
+
+Săptămână
+
+Saptamana de lucru
+
+Lună
+
+Agendă
+
+Agenda săptămânii
+
+Agenda săptămânii de lucru
+
+Agenda lunii
+
+Astăzi
+
+Fără evenimente
+
+Nu există evenimente programate în această zi.
+
+Toată ziua
+
+start
+
+Sfârşit
+
+Mai Mult
+
+Închide
+
+Anulare
+
+(Fara titlu)
+
+Șterge
+
+Ștergeți evenimentul
+
+Ștergeți mai multe evenimente
+
+Elementele selectate
+
+Ștergeți seria
+
+Editați | ×
+
+Editați seria
+
+Editați evenimentul
+
+Crea
+
+Subiect
+
+Adauga titlu
+
+Mai multe detalii
+
+Salvați
+
+Doriți să editați numai acest eveniment sau întreaga serie?
+
+Doriți să ștergeți numai acest eveniment sau întreaga serie?
+
+Sigur doriți să ștergeți acest eveniment?
+
+Sigur doriți să ștergeți evenimentele selectate?
+
+Eveniment nou
+
+Titlu
+
+Locație
+
+Descriere
+
+Fus orar
+
+Porniți fusul orar
+
+End Timezone
+
+Repeta
+
+Salvați
+
+Anulare
+
+Șterge
+
+recurență
+
+Modelul de recurență nu este valid.
+
+Modificările aduse instanțelor specifice din această serie vor fi anulate iar acele evenimente se vor potrivi din nou cu seria.
+
+Durata evenimentului trebuie să fie mai scurtă decât frecvența acestuia. Scurtați durata sau schimbați modelul de recurență în editorul evenimentului de recurență.
+
+Unele luni au mai puțin decât data selectată. Pentru aceste luni, apariția va fi în ultima zi a lunii.
+
+Două apariții ale aceluiași eveniment nu pot avea loc în aceeași zi.
+
+Editați recurența
+
+repetă
+
+Alerta
+
+Data de încheiere selectată are loc înainte de data de începere.
+
+Valoarea data introdusă este nevalidă.
+
+O.K
+
+apariție
+
+Serie
+
+Anterior
+
+Următor →
+
+Ziua timpului
+
+Săptămâna calendaristică
+
+Saptamana lucratoare
+
+Luna cronologică
+
+Nici unul
+
+Zilnic
+
+Săptămânal
+
+Lunar
+
+Lună
+
+Anual
+
+Nu
+
+Pana cand
+
+Numara
+
+Primul
+
+Al doilea
+
+Al treilea
+
+Al patrulea
+
+Ultimul
+
+Repeta
+
+Repetați fiecare
+
+Repetați activat
+
+Sfârşit
+
+Zi
+
+Ziua (s)
+
+Săptămâna (s)
+
+Luni)
+
+Ani)
+
+fiecare
+
+timp (s)
+
+pe
+
+pana cand
+
+repetă
+
+zi (s)
+
+săptămână (s)
+
+luni)
+
+ani)
+
+Săptămâna lunii
+
+Poziția lunii
+
+Expandator de luni
+
+An Expander
+
+Repetați intervalul
+
+Închide
+
+Total general
+
+Total
+
+Valoare
+
+Fără valoare
+
+Rând
+
+Coloană
+
+Colaps
+
+Extinde
+
+Aruncați rândul aici
+
+Scoateți coloana aici
+
+Dați valoare aici
+
+Puneți filtrul aici
+
+Filtru
+
+Filtrate
+
+Fel
+
+Filtre
+
+rânduri
+
+coloane
+
+valori
+
+Închide
+
+Anulare
+
+Șterge
+
+Câmpul calculat
+
+Creează câmpul calculat
+
+Introduceți numele câmpului
+
+Eroare
+
+Numele sau formula nevalidă a câmpului.
+
+Exemplu: ('Sumă (Ordine_Count)' + 'Sumă (In_Stock)') * 250
+
+Adăugați câmpuri și editați formulele aici.
+
+Câmpul calculat nu poate fi amplasat în nicio altă regiune decât axa valorică.
+
+Alerta
+
+Avertizare
+
+O.K
+
+Căutare
+
+Trage
+
+Elimina
+
+Sumă
+
+In medie
+
+Numara
+
+min
+
+Max
+
+Toate câmpurile
+
+Formulă
+
+Adăugați la rând
+
+Adăugați în coloană
+
+Adăugați la valoare
+
+Adăugați la filtru
+
+Nu există înregistrări de afișat
+
+Un câmp există deja în acest nume. Introduceți un nume diferit.
+
+Un câmp de calcul există deja în acest nume. Vrei sa o inlocuiesti?
+
+Nici-o potrivire
+
+Rezumă valorile prin
+
+Editați | ×
+
+clar
+
+Trageți și plasați câmpurile în formule
+
+Trageți câmpul la formula
+
+clar
+
+de
+
+Introduceți valoarea
+
+Introduceți data
+
+Este egal
+
+Nu este egal
+
+Începe cu
+
+Nu începe cu
+
+Se termină cu
+
+Nu se termină cu
+
+Conține
+
+Nu contine
+
+Mai mare ca
+
+Mai mare decât egală cu
+
+Mai puțin decât
+
+Mai mic sau egal cu
+
+Între
+
+Nu între
+
+Inainte de
+
+Înainte sau egal cu
+
+După
+
+După sau egal cu
+
+Membru
+
+Eticheta
+
+Data
+
+Afișați elementele pentru care eticheta
+
+Afișați elementele pentru care data
+
+Afișați elementele pentru care
+
+și
+
+Formatarea condițională
+
+APLICA
+
+Adăugați o condiție
+
+Format
+
+Pivot câmp Lista
+
+Lista de câmpuri
+
+Puneți filtrul aici
+
+Scoateți coloana aici
+
+Aruncați rândul aici
+
+Dați valoare aici
+
+Adăugați câmp aici
+
+Alegeți câmpul
+
+Trageți câmpurile între axele de mai jos:
+
+adăuga
+
+Trage
+
+Filtru
+
+Filtrate
+
+Fel
+
+Elimina
+
+Filtre
+
+rânduri
+
+coloane
+
+valori
+
+Câmpul calculat
+
+Creează câmpul calculat
+
+Introduceți numele câmpului
+
+Eroare
+
+Numele sau formula nevalidă a câmpului.
+
+Exemplu: ('Sumă (Ordine_Count)' + 'Sumă (In_Stock)') * 250
+
+Adăugați câmpuri și editați formulele aici.
+
+Câmpul calculat nu poate fi amplasat în nicio altă regiune decât axa valorică.
+
+Căutare
+
+Închide
+
+Anulare
+
+Șterge
+
+Alerta
+
+Avertizare
+
+O.K
+
+Sumă
+
+In medie
+
+Numara
+
+min
+
+Max
+
+Toate câmpurile
+
+Formulă
+
+Un câmp există deja în acest nume. Introduceți un nume diferit.
+
+Un câmp de calcul există deja în acest nume. Vrei sa o inlocuiesti?
+
+Nici-o potrivire
+
+Rezumă valorile prin
+
+Editați | ×
+
+clar
+
+Trageți și plasați câmpurile în formule
+
+Trageți câmpul la formula
+
+clar
+
+de
+
+Introduceți valoarea
+
+Introduceți data
+
+Este egal
+
+Nu este egal
+
+Începe cu
+
+Nu începe cu
+
+Se termină cu
+
+Nu se termină cu
+
+Conține
+
+Nu contine
+
+Mai mare ca
+
+Mai mare decât egală cu
+
+Mai puțin decât
+
+Mai mic sau egal cu
+
+Între
+
+Nu între
+
+Inainte de
+
+Înainte sau egal cu
+
+După
+
+După sau egal cu
+
+Membru
+
+Eticheta
+
+Data
+
+Valoare
+
+Afișați elementele pentru care eticheta
+
+Afișați elementele pentru care data
+
+Afișați elementele pentru care
+
+și
+
+APLICA
+
+Zoom
+
+A mari
+
+A micsora
+
+restabili
+
+Tigaie
+
+Resetați mărirea
+
+Nu există înregistrări de afișat
+
+Adevărat
+
+fals
+
+Date de filtrare nevalide
+
+Trageți un antet de coloană aici pentru a grupa coloana sa
+
+Faceți clic aici pentru a dezgheța
+
+Gruparea este dezactivată pentru această coloană
+
+"s cell cell bar
+
+DataSource nu trebuie să fie goală la încărcarea inițială, deoarece coloanele sunt generate de dataSource în Gridul de coloane AutoGenerate
+
+Adăuga
+
+Editați | ×
+
+Anulare
+
+Actualizați
+
+Șterge
+
+Imprimare
+
+Export PDF
+
+Excel Export
+
+Export de cuvinte
+
+CSV Export
+
+Căutare
+
+coloane
+
+Salvați
+
+articol
+
+articole
+
+Nu sunt selectate înregistrări pentru operația de editare
+
+Nu sunt selectate înregistrări pentru operația de ștergere
+
+Salvați
+
+O.K
+
+Anulare
+
+Detaliile
+
+Adăugați o nouă înregistrare
+
+Sigur doriți să salvați modificările?
+
+Modificările nesalvate vor fi pierdute. Esti sigur ca vrei sa continui?
+
+Sigur doriți să ștergeți înregistrarea?
+
+Sigur doriți să anulați modificările?
+
+Alegeți Coloana
+
+coloane de căutare
+
+Nu s-a gasit nici o potrivire
+
+Filtru
+
+clar
+
+Incepe cu
+
+Se termină cu
+
+Conține
+
+Egal
+
+Nu este egal
+
+Mai puțin decât
+
+Mai puțin decât egal
+
+Mai mare ca
+
+Mai mare decât egală
+
+Alegeți o dată
+
+Introduceți valoarea
+
+Copie
+
+Grupează după această coloană
+
+Ungroup de această coloană
+
+Auto Fit toate coloanele
+
+Auto Fit această coloană
+
+Export
+
+Prima pagina
+
+Ultima pagina
+
+Pagina anterioară
+
+Pagina următoare
+
+Sortare ascendentă
+
+Sortează descrescător
+
+Editați înregistrarea
+
+Ștergeți înregistrarea
+
+Filtru
+
+Selectează tot
+
+Blanks
+
+Adevărat
+
+Fals
+
+Nu s-a gasit nici o potrivire
+
+Șterge filtrul
+
+Numărul de filtre
+
+Filtre de text
+
+Filtre de date
+
+Filtrele DateTime
+
+Caseta de meci
+
+Între
+
+Filtru customizat
+
+Introduceți valoarea
+
+Alegeți o dată
+
+ȘI
+
+SAU
+
+Afișați rânduri în care:
+
+{0} din {1} pagini
+
+({0} elemente)
+
+Du-te la prima pagină
+
+Du-te la ultima pagină
+
+Accesați pagina următoare
+
+Accesați pagina anterioară
+
+Mergeți la următorul pager
+
+Mergeți la pagerul anterior
+
+articole pe pagină
+
+Articole
+
+Toate
+
+aliniamente
+
+justifyLeft
+
+justifyCenter
+
+justifyRight
+
+justifyFull
+
+FontName
+
+marimea fontului
+
+fONTCOLOR
+
+culoare de fundal
+
+clearFormat
+
+curata tot
+
+lista neordonata
+
+lista ordonata
+
+Creați link
+
+deschide link-ul
+
+EDITLINK
+
+removeLink
+
+deschide link-ul
+
+EDITLINK
+
+removeLink
+
+imagine
+
+a inlocui
+
+alinia
+
+legendă
+
+elimina
+
+insertLink
+
+afişa
+
+aLTTEXT
+
+dimensiune
+
+ecran complet
+
+maximaliza
+
+minimaliza
+
+litere mici
+
+majuscule
+
+imprimare
+
+formate
+
+cod sursa
+
+previzualizare
+
+viewside
+
+introduce codul
+
+Alinia la stânga
+
+Aliniere la centru
+
+Aliniați-vă bine
+
+Aliniați Justify
+
+Nume font
+
+Marimea fontului
+
+Culoare font
+
+Culoare de fundal
+
+îndrăzneţ
+
+cursiv
+
+sublinia
+
+strikethrough
+
+a taia
+
+copie
+
+pastă
+
+liniuță
+
+fără indentare
+
+Anula
+
+a reface
+
+superscript
+
+subscript
+
+Introduceți hyperlinkul
+
+Deschide link-ul
+
+Editați legătura
+
+Eliminați legătura
+
+Inserați linkul
+
+Text alternativ
+
+Cazul inferior
+
+Majuscule
+
+Introduce codul
+
+Afișați textul
+
+tooltip
+
+Adresa de internet
+
+http://example.com
+
+Deschide link-ul într-o fereastră nouă
+
+Inserați linkul
+
+Introduce
+
+Anulare
+
+Actualizați
+
+Inserați imaginea
+
+De asemenea, puteți furniza un link de pe web
+
+Furnizați o adresă URL pentru imaginea dvs.
+
+Aruncați imaginea aici sau răsfoiți pentru încărcare
+
+Faceți clic aici pentru a încărca
+
+Text alternativ
+
+Text alternativ
+
+Naviga
+
+http://example.com/image.png
+
+Legendă
+
+Marimea imaginii
+
+Înălţime
+
+Lăţime
+
+Introduceți text
+
+aplica
+
+Anulare
+
+Mod de comutare
+
+Naviga...
+
+clar
+
+Încărcați
+
+Sau aruncați fișiere aici
+
+Dimensiunea fișierului este prea mare
+
+Dimensiunea fișierului este prea mică
+
+Tipul de fișier nu este permis
+
+Fișierul nu a putut fi încărcat
+
+fisier uploadat cu succes
+
+Fișierul a fost eliminat cu succes
+
+Imposibil de eliminat fișierul
+
+Se încarcă
+
+Sunteți gata să încărcați
+
+avorta
+
+Elimina
+
+Anulare
+
+Sterge fisierul
+
+Încărcarea fișierului este întreruptă
+
+Pauză
+
+Relua
+
+Reîncercați
+
+Încărcarea fișierului a fost anulată
+
+Creșteți valoarea
+
+Valoarea devalorizării
+
+Astăzi
+
+Astăzi
+
+Alegeți o dată
+
+Alegeți un interval de date
+
+Data de început
+
+Data de încheiere
+
+aplica
+
+Anulare
+
+Zile selectate
+
+zi
+
+Intervalul personalizat
+
+Alegeți un timp
+
+Astăzi
+
+Alegeți o dată și o oră
+
+Închide
+
+Masa
+
+Rând
+
+celulă
+
+O.K
+
+Anulare
+
+mărimea
+
+Lățimea preferată
+
+puncte
+
+La sută
+
+Măsurați în
+
+Aliniere
+
+Stânga
+
+Centru
+
+Dreapta
+
+Justifica
+
+Indentă din stânga
+
+Frontiere și umbrire
+
+Opțiuni
+
+Specificați înălțimea
+
+Macar
+
+Exact
+
+Înălțimea rândului este
+
+Permite rândul să intre în pagini
+
+Repetați ca rând antet în partea de sus a fiecărei pagini
+
+Aliniere verticală
+
+Top
+
+Fund
+
+Marginile celulare implicite
+
+Distanta de celule predefinita
+
+Permiteți spațierea între celule
+
+Margini ale celulelor
+
+La fel ca toată masa
+
+Frontiere
+
+Nici unul
+
+Singur
+
+Punct
+
+DashSmallGap
+
+DashLargeGap
+
+DashDot
+
+DashDotDot
+
+Dubla
+
+Triplu
+
+ThinThickSmallGap
+
+ThickThinSmallGap
+
+ThinThickThinSmallGap
+
+ThinThickMediumGap
+
+ThickThinMediumGap
+
+ThinThickThinMediumGap
+
+ThinThickLargeGap
+
+ThickThinLargeGap
+
+ThinThickThinLargeGap
+
+SingleWavy
+
+DoubleWavy
+
+DashDotStroked
+
+Emboss3D
+
+Engrave3D
+
+Început
+
+Medalion
+
+Gros
+
+Stil
+
+Lăţime
+
+Înălţime
+
+Scrisoare
+
+tabloid
+
+legal
+
+Afirmație
+
+Executiv
+
+A3
+
+A4
+
+A5
+
+B4
+
+B5
+
+Marime personalizata
+
+Diferite ciudate și uniforme
+
+Prima pagină diferită
+
+De la margine
+
+Antet
+
+Subsol
+
+Margini
+
+Hârtie
+
+schemă
+
+Orientare
+
+Peisaj
+
+Portret
+
+Cuprins
+
+Afișați numerele paginilor
+
+Aliniați numerele paginilor
+
+Nimic
+
+Tab-leader
+
+Arătați nivelurile
+
+Utilizați hyperlink-uri în loc de numere de pagini
+
+Construiți conținutul din
+
+stiluri
+
+Stiluri disponibile
+
+Nivelul TOC
+
+rubrică
+
+Paragraful paragrafului
+
+Normal
+
+Conturul nivelurilor
+
+Câmpurile de intrare în tabel
+
+Modifica
+
+Culoare
+
+reglaj
+
+Cutie
+
+Toate
+
+Personalizat
+
+previzualizare
+
+Umbrire
+
+Completati
+
+Aplica pentru
+
+Proprietățile tabelului
+
+Opțiunile celulelor
+
+Opțiuni tabel
+
+Introduceți tabelul
+
+Numar de coloane
+
+Număr de rânduri
+
+Text pentru afișare
+
+Adresa
+
+Introduceți hyperlinkul
+
+Editați hyperlinkul
+
+Introduce
+
+General
+
+zimțuire
+
+Înainte de text
+
+Special
+
+Prima linie
+
+Agăţat
+
+După text
+
+De
+
+Inainte de
+
+Spațierea liniei
+
+După
+
+La
+
+Multiplu
+
+Spațiere
+
+Definiți o nouă listă cu mai multe niveluri
+
+Nivelul listei
+
+Alegeți nivelul de modificat
+
+Nivel
+
+Formatul numărului
+
+Stilul numărului pentru acest nivel
+
+Introduceți formatul pentru număr
+
+Incepe la
+
+Reporniți lista după
+
+Poziţie
+
+Text liniuță la
+
+Aliniați la
+
+Urmați numărul cu
+
+Caracter tab
+
+Spaţiu
+
+arabic
+
+UpRoman
+
+LowRoman
+
+UpLetter
+
+LowLetter
+
+Număr
+
+Conducerea zero
+
+Glonţ
+
+Ordinal
+
+Ordinal Text
+
+Pentru Est
+
+Nu reporniți
+
+Font
+
+Stilul fontului
+
+Subliniind stilul
+
+Culoarea fonturilor
+
+Efecte
+
+Tăiat
+
+Exponent
+
+subscript
+
+Dublu striking
+
+Regulat
+
+Îndrăzneţ
+
+Cursiv
+
+A taia
+
+Copie
+
+Pastă
+
+Hyperlink
+
+Deschideți hyperlinkul
+
+Copiați hyperlinkul
+
+Eliminați hyperlinkul
+
+Paragraf
+
+Uneste celulele
+
+Inserați deasupra
+
+Inserați mai jos
+
+Introduceți stânga
+
+Inserați dreapta
+
+Șterge
+
+Ștergeți tabelul
+
+Ștergeți rândul
+
+Ștergeți coloana
+
+Nume de fișier
+
+Tipul de format
+
+Salvați
+
+Navigare
+
+Rezultate
+
+A inlocui
+
+Înlocuiește-le pe toate
+
+Am înlocuit totul
+
+Găsi
+
+Nici-o potrivire
+
+Totul este gata
+
+Rezultat
+
+de
+
+instanțe
+
+cu
+
+Faceți clic pentru a urma linkul
+
+Continuați numerotarea
+
+Nume de marcator
+
+Închide
+
+Reporniți la
+
+Proprietăți
+
+Nume
+
+Tip de stil
+
+Stil bazat pe
+
+Stil pentru următorul paragraf
+
+Formatarea
+
+Numerotarea și gloanțele
+
+Numerotare
+
+Actualizați câmpul
+
+Editați câmpul
+
+semn de carte
+
+Configurare pagina
+
+Nu au fost găsite semne de carte
+
+Formatul numărului unic de nivel: </ br> [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> De exemplu, capitolul% 1. va afișa o numerotare ca </ br> Capitolul 1. Element </ br> Capitolul 2. Element </ br> ... </ br> Capitolul N. Element </ br> </ br> Formatul numerelor multiple: </ br > [PREFIX]% [LEVELNUMBER] [SUFFIX] + [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> De exemplu,% 1% 2. va afișa numerotarea ca </ br> 1.1. Articol </ br> 1.2. Articol </ br> ... </ br> 1 N.. Articol
+
+Format
+
+Creați un stil nou
+
+Modificați stilul
+
+Nou
+
+Marcatori
+
+Utilizați marcajele
+
+Cuprins
+
+ 

@@ -1,0 +1,1495 @@
+Zoom
+
+Agrandir
+
+Dézoomer
+
+Réinitialiser
+
+La poêle
+
+Réinitialiser le zoom
+
+journée
+
+La semaine
+
+Semaine de travail
+
+Mois
+
+Ordre du jour
+
+Agenda de la semaine
+
+Agenda de la semaine de travail
+
+Agenda du mois
+
+Aujourd'hui
+
+Pas d'événements
+
+Aucun événement n'est prévu ce jour-là.
+
+Toute la journée
+
+Début
+
+Fin
+
+plus
+
+Fermer
+
+Annuler
+
+(Pas de titre)
+
+Effacer
+
+Supprimer un événement
+
+Supprimer plusieurs événements
+
+Articles sélectionnés
+
+Supprimer la série
+
+modifier
+
+Modifier la série
+
+Modifier l'événement
+
+Créer
+
+Assujettir
+
+Ajouter un titre
+
+Plus de détails
+
+sauvegarder
+
+Voulez-vous modifier uniquement cet événement ou une série entière?
+
+Voulez-vous supprimer uniquement cet événement ou une série entière?
+
+Êtes-vous sûr de vouloir supprimer cet événement?
+
+Êtes-vous sûr de vouloir supprimer les événements sélectionnés?
+
+Nouvel évènement
+
+Titre
+
+Emplacement
+
+La description
+
+Fuseau horaire
+
+Début du fuseau horaire
+
+Fin du fuseau horaire
+
+Répéter
+
+sauvegarder
+
+Annuler
+
+Effacer
+
+Récurrence
+
+Le modèle de récurrence n'est pas valide.
+
+Les modifications apportées à des instances spécifiques de cette série seront annulées et ces événements correspondront à nouveau à la série.
+
+La durée de l'événement doit être plus courte que sa fréquence. Raccourcissez la durée ou modifiez le modèle de récurrence dans l'éditeur d'événement de récurrence.
+
+Certains mois ont moins que la date sélectionnée. Pour ces mois, l'événement se produira à la dernière date du mois.
+
+Deux occurrences du même événement ne peuvent pas se produire le même jour.
+
+Modifier la récurrence
+
+Répète
+
+Alerte
+
+La date de fin sélectionnée se produit avant la date de début.
+
+La valeur de date saisie est invalide.
+
+D'accord
+
+Occurrence
+
+Séries
+
+précédent
+
+Prochain
+
+Journée chronologique
+
+Semaine chronologique
+
+Semaine de travail chronologique
+
+Mois de la chronologie
+
+Aucun
+
+du quotidien
+
+Hebdomadaire
+
+Mensuel
+
+Mois
+
+Annuel
+
+Jamais
+
+Jusqu'à
+
+Compter
+
+Premier
+
+Seconde
+
+Troisième
+
+Quatrième
+
+Dernier
+
+Répéter
+
+Répéter tous les
+
+Répéter sur
+
+Fin
+
+journée
+
+Journées)
+
+Semaines)
+
+Mois)
+
+Années)
+
+chaque
+
+fois)
+
+sur
+
+jusqu'à
+
+Répète
+
+journées)
+
+semaines)
+
+mois)
+
+années)
+
+Mois Semaine
+
+Position du mois
+
+Mois Expander
+
+Année Expander
+
+Intervalle de répétition
+
+Fermer
+
+somme finale
+
+Total
+
+Valeur
+
+Aucune valeur
+
+Rangée
+
+Colonne
+
+Effondrer
+
+Développer
+
+Drop row ici
+
+Déposer la colonne ici
+
+Déposer la valeur ici
+
+Drop filter ici
+
+Filtre
+
+Filtré
+
+Trier
+
+Des filtres
+
+Des rangées
+
+Colonnes
+
+Valeurs
+
+Fermer
+
+Annuler
+
+Effacer
+
+Champ calculé
+
+Créer un champ calculé
+
+Entrez le nom du champ
+
+Erreur
+
+Formule ou nom de champ non valide.
+
+Exemple: ('Sum (Order_Count)' + 'Sum (In_Stock)') * 250
+
+Ajoutez des champs et modifiez la formule ici.
+
+Le champ calculé ne peut être placé dans aucune autre région, à l'exception de l'axe des valeurs.
+
+Alerte
+
+Attention
+
+D'accord
+
+Chercher
+
+Traîne
+
+Retirer
+
+Somme
+
+Moyenne
+
+Compter
+
+Min
+
+Max
+
+Tous les champs
+
+Formule
+
+Ajouter à la rangée
+
+Ajouter à la colonne
+
+Ajouter à la valeur
+
+Ajouter au filtre
+
+Aucun enregistrement à afficher
+
+Un champ existe déjà sous ce nom. Veuillez entrer un autre nom.
+
+Un champ de calcul existe déjà sous ce nom. Voulez-vous le remplacer?
+
+Pas de correspondance
+
+Valeurs de résumés par
+
+modifier
+
+Clair
+
+Faites glisser et déposez les champs dans la formule
+
+Faites glisser le champ sur la formule
+
+Clair
+
+par
+
+Entrez la valeur
+
+Entrez la date
+
+Équivaut à
+
+N'est pas égal
+
+Commence par
+
+Ne commence pas avec
+
+Se termine par
+
+Ne finit pas avec
+
+Contient
+
+Ne contient pas
+
+Plus grand que
+
+Plus grand ou égal à
+
+Moins que
+
+Inférieur ou égal à
+
+Entre
+
+Pas entre
+
+Avant
+
+Avant ou égale à
+
+Après
+
+Après ou égale à
+
+Membre
+
+Étiquette
+
+Rendez-vous amoureux
+
+Montrer les articles pour lesquels l'étiquette
+
+Montrer les articles pour lesquels la date
+
+Montrer les articles pour lesquels
+
+et
+
+Mise en forme conditionnelle
+
+APPLIQUER
+
+Ajouter une condition
+
+Format
+
+Liste des champs pivotants
+
+Liste de champ
+
+Drop filter ici
+
+Déposer la colonne ici
+
+Drop row ici
+
+Déposer la valeur ici
+
+Ajouter un champ ici
+
+Choisissez un champ
+
+Faites glisser les champs entre les axes ci-dessous:
+
+ajouter
+
+Traîne
+
+Filtre
+
+Filtré
+
+Trier
+
+Retirer
+
+Des filtres
+
+Des rangées
+
+Colonnes
+
+Valeurs
+
+Champ calculé
+
+Créer un champ calculé
+
+Entrez le nom du champ
+
+Erreur
+
+Formule ou nom de champ non valide.
+
+Exemple: ('Sum (Order_Count)' + 'Sum (In_Stock)') * 250
+
+Ajoutez des champs et modifiez la formule ici.
+
+Le champ calculé ne peut être placé dans aucune autre région, à l'exception de l'axe des valeurs.
+
+Chercher
+
+Fermer
+
+Annuler
+
+Effacer
+
+Alerte
+
+Attention
+
+D'accord
+
+Somme
+
+Moyenne
+
+Compter
+
+Min
+
+Max
+
+Tous les champs
+
+Formule
+
+Un champ existe déjà sous ce nom. Veuillez entrer un autre nom.
+
+Un champ de calcul existe déjà sous ce nom. Voulez-vous le remplacer?
+
+Pas de correspondance
+
+Valeurs de résumés par
+
+modifier
+
+Clair
+
+Faites glisser et déposez les champs dans la formule
+
+Faites glisser le champ sur la formule
+
+Clair
+
+par
+
+Entrez la valeur
+
+Entrez la date
+
+Équivaut à
+
+N'est pas égal
+
+Commence par
+
+Ne commence pas avec
+
+Se termine par
+
+Ne finit pas avec
+
+Contient
+
+Ne contient pas
+
+Plus grand que
+
+Plus grand ou égal à
+
+Moins que
+
+Inférieur ou égal à
+
+Entre
+
+Pas entre
+
+Avant
+
+Avant ou égale à
+
+Après
+
+Après ou égale à
+
+Membre
+
+Étiquette
+
+Rendez-vous amoureux
+
+Valeur
+
+Montrer les articles pour lesquels l'étiquette
+
+Montrer les articles pour lesquels la date
+
+Montrer les articles pour lesquels
+
+et
+
+APPLIQUER
+
+Zoom
+
+Agrandir
+
+Dézoomer
+
+Réinitialiser
+
+La poêle
+
+Réinitialiser le zoom
+
+Aucun enregistrement à afficher
+
+vrai
+
+faux
+
+Données de filtre non valides
+
+Faites glisser un en-tête de colonne ici pour regrouper sa colonne
+
+Cliquez ici pour dissocier
+
+Le regroupement est désactivé pour cette colonne
+
+"cellule de barre de filtre
+
+DataSource ne doit pas être vide lors du chargement initial car les colonnes sont générées à partir de dataSource dans AutoGenerate Column Grid
+
+Ajouter
+
+modifier
+
+Annuler
+
+Mettre à jour
+
+Effacer
+
+Impression
+
+Export PDF
+
+Exportation Excel
+
+Word export
+
+Export CSV
+
+Chercher
+
+Colonnes
+
+sauvegarder
+
+article
+
+articles
+
+Aucun enregistrement sélectionné pour l'opération de modification
+
+Aucun enregistrement sélectionné pour l'opération de suppression
+
+sauvegarder
+
+D'accord
+
+Annuler
+
+Les détails de
+
+Ajouter un nouvel enregistrement
+
+Êtes-vous sûr de vouloir enregistrer les modifications?
+
+Les modifications non enregistrées seront perdues. Es-tu sur de vouloir continuer?
+
+Êtes-vous sûr de vouloir supprimer l'enregistrement?
+
+Êtes-vous sûr de vouloir annuler les modifications?
+
+Choisissez la colonne
+
+colonnes de recherche
+
+Aucun résultat
+
+Filtre
+
+Clair
+
+Commence avec
+
+Se termine par
+
+Contient
+
+Égal
+
+Inégal
+
+Moins que
+
+Moins qu'égale
+
+Plus grand que
+
+Meilleur que ou égal
+
+Choisissez une date
+
+Entrez la valeur
+
+Copie
+
+Grouper par cette colonne
+
+Dissocier par cette colonne
+
+Auto Fit toutes les colonnes
+
+Auto Fit cette colonne
+
+Exportation
+
+Première page
+
+Dernière page
+
+Page précédente
+
+Page suivante
+
+Trier par ordre croissant
+
+Trier par ordre décroissant
+
+Modifier l'enregistrement
+
+Supprimer l'enregistrement
+
+Filtre
+
+Tout sélectionner
+
+Des blancs
+
+Vrai
+
+Faux
+
+Aucun résultat
+
+Effacer le filtre
+
+Nombre de filtres
+
+Filtres de texte
+
+Filtres de date
+
+Filtres DateTime
+
+Cas de correspondance
+
+Entre
+
+Filtre personnalisé
+
+Entrez la valeur
+
+Choisissez une date
+
+ET
+
+OU
+
+Afficher les lignes où:
+
+{0} de {1} pages
+
+({0} articles)
+
+Aller à la première page
+
+Aller à la dernière page
+
+Aller à la page suivante
+
+Aller à la page précédente
+
+Aller au prochain téléavertisseur
+
+Aller au téléavertisseur précédent
+
+objets par page
+
+Articles
+
+Tout
+
+alignements
+
+justifier
+
+justifierCenter
+
+justifierRight
+
+justifier
+
+fontName
+
+taille de police
+
+couleur de la police
+
+Couleur de fond
+
+clearFormat
+
+tout effacer
+
+liste non ordonnée
+
+listeListe
+
+créerLien
+
+ouvrir le lien
+
+editLink
+
+supprimerLink
+
+ouvrir le lien
+
+editLink
+
+supprimerLink
+
+image
+
+remplacer
+
+aligner
+
+légende
+
+retirer
+
+insertLink
+
+afficher
+
+altText
+
+dimension
+
+plein écran
+
+maximiser
+
+minimiser
+
+minuscule
+
+majuscule
+
+impression
+
+formats
+
+code source
+
+Aperçu
+
+vue
+
+insérer le code
+
+Alignez à gauche
+
+Aligner le centre
+
+Aligner à droite
+
+Aligner Justifier
+
+Nom de la police
+
+Taille de police
+
+Couleur de la police
+
+Couleur de fond
+
+audacieux
+
+italique
+
+souligner
+
+barré
+
+Couper
+
+copie
+
+coller
+
+indent
+
+dépassé
+
+annuler
+
+refaire
+
+exposant
+
+indice
+
+Insérer un lien hypertexte
+
+Ouvrir le lien
+
+Modifier le lien
+
+Supprimer le lien
+
+Insérer un lien
+
+Texte alternatif
+
+Minuscule
+
+Haut de casse
+
+Insérer le code
+
+Afficher le texte
+
+Info-bulle
+
+Adresse web
+
+http://exemple.com
+
+Ouvre le lien dans une nouvelle fenêtre
+
+Insérer un lien
+
+Insérer
+
+Annuler
+
+Mettre à jour
+
+Insérer une image
+
+Vous pouvez également fournir un lien depuis le Web
+
+Veuillez fournir une URL pour votre image
+
+Déposez l'image ici ou parcourez pour télécharger
+
+Cliquez ici pour télécharger
+
+Texte alternatif
+
+Texte alternatif
+
+Feuilleter
+
+http://example.com/image.png
+
+Légende
+
+Taille de l'image
+
+la taille
+
+Largeur
+
+Entrez du texte
+
+Appliquer
+
+Annuler
+
+Mode de commutation
+
+Feuilleter...
+
+Clair
+
+Télécharger
+
+Ou déposer des fichiers ici
+
+La taille du fichier est trop grande
+
+La taille du fichier est trop petite
+
+Le type de fichier n'est pas autorisé
+
+Le fichier n'a pas pu être téléchargé
+
+Fichier téléchargé avec succès
+
+Fichier supprimé avec succès
+
+Impossible de supprimer le fichier
+
+Téléchargement
+
+Prêt à télécharger
+
+Avorter
+
+Retirer
+
+Annuler
+
+Supprimer le fichier
+
+Téléchargement de fichier en pause
+
+Pause
+
+CV
+
+Recommencez
+
+Téléchargement de fichier annulé
+
+Valeur d'incrément
+
+Valeur de décrémentation
+
+Aujourd'hui
+
+Aujourd'hui
+
+Choisissez une date
+
+Choisissez une plage de dates
+
+Date de début
+
+Date de fin
+
+Appliquer
+
+Annuler
+
+Jours choisis
+
+Journées
+
+Gamme personnalisée
+
+Choisissez une heure
+
+Aujourd'hui
+
+Choisissez une date et une heure
+
+Fermer
+
+Table
+
+Rangée
+
+Cellule
+
+D'accord
+
+Annuler
+
+Taille
+
+Largeur préférée
+
+Points
+
+Pour cent
+
+Mesurer en
+
+Alignement
+
+La gauche
+
+Centre
+
+Droite
+
+Justifier
+
+Indentation de gauche
+
+Bordures et Ombrage
+
+Les options
+
+Spécifier la hauteur
+
+Au moins
+
+Exactement
+
+La hauteur de la ligne est
+
+Autoriser la ligne à se séparer sur plusieurs pages
+
+Répétez comme ligne d'en-tête en haut de chaque page
+
+Alignement vertical
+
+Haut
+
+Bas
+
+Marges de cellule par défaut
+
+Espacement des cellules par défaut
+
+Autoriser l'espacement entre les cellules
+
+Marges cellulaires
+
+Comme la table entière
+
+Les frontières
+
+Aucun
+
+Unique
+
+Point
+
+DashSmallGap
+
+DashLargeGap
+
+DashDot
+
+DashDotDot
+
+Double
+
+Tripler
+
+ThinThickSmallGap
+
+ThickThinSmallGap
+
+ThinThickThinSmallGap
+
+ThinThickMediumGap
+
+ThickThinMediumGap
+
+ThinThickThinMediumGap
+
+ThinThickLargeGap
+
+ThickThinLargeGap
+
+ThinThickThinLargeGap
+
+SingleWavy
+
+DoubleWavy
+
+DashDotStroked
+
+Emboss3D
+
+Engrave3D
+
+Début
+
+Encart
+
+Épais
+
+Style
+
+Largeur
+
+la taille
+
+Lettre
+
+Tabloïde
+
+Légal
+
+Déclaration
+
+Exécutif
+
+A3
+
+A4
+
+A5
+
+B4
+
+B5
+
+Format personnalisé
+
+Différent et pair
+
+Première page différente
+
+Du bord
+
+Entête
+
+Bas de page
+
+Les marges
+
+Papier
+
+Disposition
+
+Orientation
+
+Paysage
+
+Portrait
+
+Table des matières
+
+Afficher les numéros de page
+
+Aligner les numéros de page à droite
+
+Rien
+
+Chef de tabulation
+
+Afficher les niveaux
+
+Utilisez des hyperliens au lieu de numéros de page
+
+Construire une table des matières à partir de
+
+modes
+
+Styles disponibles
+
+Niveau COT
+
+Titre
+
+Paragraphe de liste
+
+Ordinaire
+
+Niveaux hiérarchiques
+
+Champs d'entrée de table
+
+Modifier
+
+Couleur
+
+Réglage
+
+Boîte
+
+Tout
+
+Douane
+
+Aperçu
+
+Ombres
+
+Remplir
+
+Postuler à
+
+Propriétés du tableau
+
+Options de cellule
+
+Options de table
+
+Insérer un tableau
+
+Le nombre de colonnes
+
+Nombre de rangées
+
+Texte à afficher
+
+Adresse
+
+Insérer un lien hypertexte
+
+Modifier un lien hypertexte
+
+Insérer
+
+Général
+
+Échancrure
+
+Avant le texte
+
+Spécial
+
+Première ligne
+
+Pendaison
+
+Après le texte
+
+Par
+
+Avant
+
+Interligne
+
+Après
+
+À
+
+Plusieurs
+
+Espacement
+
+Définir une nouvelle liste à plusieurs niveaux
+
+Niveau de liste
+
+Choisissez le niveau à modifier
+
+Niveau
+
+Format de nombre
+
+Style de numéro pour ce niveau
+
+Entrer le formatage pour le numéro
+
+Commencer à
+
+Redémarrer la liste après
+
+Position
+
+Retrait du texte à
+
+Aligné à
+
+Suivez le numéro avec
+
+Caractère de tabulation
+
+Espace
+
+arabe
+
+UpRoman
+
+LowRoman
+
+UpLetter
+
+LowLetter
+
+Nombre
+
+Zéro avant
+
+Balle
+
+Ordinal
+
+Texte Ordinal
+
+Pour l'est
+
+Pas de redémarrage
+
+Police de caractère
+
+Le style de police
+
+Style soulignement
+
+Couleur de la police
+
+Effets
+
+Barré
+
+Exposant
+
+Indice
+
+Double barré
+
+Ordinaire
+
+Audacieux
+
+Italique
+
+Couper
+
+Copie
+
+Coller
+
+Lien hypertexte
+
+Ouvrir un lien hypertexte
+
+Copier le lien hypertexte
+
+Supprimer le lien hypertexte
+
+Paragraphe
+
+Fusionner des cellules
+
+Insérer ci-dessus
+
+Insérer ci-dessous
+
+Insérer à gauche
+
+Insérer le droit
+
+Effacer
+
+Supprimer la table
+
+Supprimer la ligne
+
+Supprimer la colonne
+
+Nom de fichier
+
+Type de format
+
+sauvegarder
+
+La navigation
+
+Résultats
+
+Remplacer
+
+Remplace tout
+
+Nous avons remplacé tous
+
+Trouver
+
+Pas de correspondance
+
+Terminé
+
+Résultat
+
+de
+
+instances
+
+avec
+
+Cliquez pour suivre le lien
+
+Continuer la numérotation
+
+Nom du signet
+
+Fermer
+
+Redémarrer à
+
+Propriétés
+
+prénom
+
+Type de style
+
+Style basé sur
+
+Style pour le paragraphe suivant
+
+Mise en forme
+
+Numérotation et balles
+
+Numérotage
+
+Champ de mise à jour
+
+Modifier le champ
+
+Signet
+
+Mise en page
+
+Aucun signet trouvé
+
+Format de numéro à un seul niveau: </ br> [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Par exemple, Chapitre% 1. affichera la numérotation comme </ br> Chapitre 1. Elément </ br> Chapitre 2. Elément </ br> ... </ br> Chapitre N. Elément </ br> </ br> Format de numéro multiniveau: </ br > [PREFIX]% [LEVELNUMBER] [SUFFIX] + [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Par exemple,% 1.% 2. affichera la numérotation comme </ br> 1.1. Item </ br> 1.2. Item </ br>… </ br> 1.N. Article
+
+Format
+
+Créer un nouveau style
+
+Modifier le style
+
+Nouveau
+
+Balles
+
+Utiliser les signets
+
+Table des matières
+
+ 

@@ -1,0 +1,1495 @@
+Thu phóng
+
+Phóng to
+
+Thu nhỏ
+
+Cài lại
+
+Pan
+
+Đặt lại thu phóng
+
+ngày
+
+Tuần
+
+Tuần làm việc
+
+tháng
+
+Chương trình làm việc
+
+Chương trình tuần
+
+Tuần làm việc
+
+Chương trình tháng
+
+Hôm nay
+
+Không có sự kiện
+
+Không có sự kiện nào được lên lịch vào ngày này.
+
+Cả ngày
+
+Khởi đầu
+
+Kết thúc
+
+hơn
+
+Gần
+
+Hủy bỏ
+
+(Không tiêu đề)
+
+Xóa bỏ
+
+Xóa sự kiện
+
+Xóa nhiều sự kiện
+
+Đã chọn các mục
+
+Xóa chuỗi
+
+Chỉnh sửa
+
+Chỉnh sửa chuỗi
+
+Chỉnh sửa sự kiện
+
+Tạo nên
+
+Môn học
+
+Thêm tiêu đề
+
+Xem chi tiết
+
+Tiết kiệm
+
+Bạn có muốn chỉ chỉnh sửa sự kiện này hoặc toàn bộ chuỗi không?
+
+Bạn có muốn xóa chỉ sự kiện này hoặc toàn bộ chuỗi không?
+
+Bạn có chắc chắn muốn xóa sự kiện này?
+
+Bạn có chắc chắn muốn xóa các sự kiện đã chọn không?
+
+Sự kiện mới
+
+Chức vụ
+
+Vị trí
+
+Sự miêu tả
+
+Múi giờ
+
+Múi giờ bắt đầu
+
+Múi giờ kết thúc
+
+Nói lại
+
+Tiết kiệm
+
+Hủy bỏ
+
+Xóa bỏ
+
+Sự tái xuất
+
+Mẫu lặp lại không hợp lệ.
+
+Các thay đổi được thực hiện cho các phiên bản cụ thể của loạt bài này sẽ bị hủy và các sự kiện đó sẽ khớp lại với chuỗi.
+
+Thời lượng của sự kiện phải ngắn hơn thời gian diễn ra sự kiện. Hãy rút ngắn thời lượng hoặc thay đổi mẫu lặp lại trong trình chỉnh sửa sự kiện lặp lại.
+
+Một số tháng có ít hơn ngày đã chọn. Trong những tháng này, sự xuất hiện sẽ rơi vào ngày cuối cùng của tháng.
+
+Hai lần xuất hiện của cùng một sự kiện không thể xảy ra trong cùng một ngày.
+
+Chỉnh sửa lặp lại
+
+Lặp lại
+
+Cảnh báo
+
+Ngày kết thúc đã chọn xảy ra trước ngày bắt đầu.
+
+Giá trị ngày đã nhập không hợp lệ.
+
+Được
+
+Sự xuất hiện
+
+Loạt
+
+Trước
+
+Kế tiếp
+
+Ngày thời gian
+
+Tuần lễ thời gian
+
+Tuần làm việc theo thời gian
+
+Tháng thời gian
+
+không ai
+
+hằng ngày
+
+Hàng tuần
+
+Hàng tháng
+
+tháng
+
+Hàng năm
+
+Không bao giờ
+
+Cho đến
+
+Đếm
+
+Đầu tiên
+
+Thứ hai
+
+Thứ ba
+
+Thứ tư
+
+Cuối cùng
+
+Nói lại
+
+Lặp lại mọi
+
+Lặp lại vào
+
+Kết thúc
+
+ngày
+
+Ngày
+
+Tuần
+
+Tháng)
+
+Năm
+
+mỗi
+
+thời gian
+
+trên
+
+cho đến
+
+Lặp lại
+
+ngày
+
+tuần
+
+tháng)
+
+năm
+
+Tháng theo tháng
+
+Tháng vị trí
+
+Tháng Expander
+
+Năm Expander
+
+Khoảng lặp lại
+
+Gần
+
+Tổng cộng
+
+Toàn bộ
+
+Giá trị
+
+Không có giá trị
+
+Hàng
+
+Cột
+
+Sự sụp đổ
+
+Mở rộng
+
+Thả hàng tại đây
+
+Thả cột vào đây
+
+Thả giá trị tại đây
+
+Thả bộ lọc tại đây
+
+Bộ lọc
+
+Đã lọc
+
+Sắp xếp
+
+Bộ lọc
+
+Hàng
+
+Cột
+
+Giá trị
+
+Gần
+
+Hủy bỏ
+
+Xóa bỏ
+
+Trường được tính toán
+
+Tạo trường được tính toán
+
+Nhập tên trường
+
+lỗi
+
+Tên trường hoặc công thức không hợp lệ.
+
+Ví dụ: ('Tổng (Order_Count)' + 'Tổng (In_Stock)') * 250
+
+Thêm trường và chỉnh sửa công thức tại đây.
+
+Không thể đặt trường được tính toán ở bất kỳ vùng nào khác ngoại trừ trục giá trị.
+
+Cảnh báo
+
+Cảnh báo
+
+được
+
+Tìm kiếm
+
+Kéo
+
+Tẩy
+
+Tổng
+
+Trung bình cộng
+
+Đếm
+
+Min
+
+Tối đa
+
+Tất cả các trường
+
+Công thức
+
+Thêm vào hàng
+
+Thêm vào cột
+
+Thêm vào giá trị
+
+Thêm vào bộ lọc
+
+Không có hồ sơ nào để hiển thị
+
+Một trường đã tồn tại trong tên này. Vui lòng nhập một tên khác.
+
+Trường tính toán đã tồn tại trong tên này. Bạn có muốn thay thế nó?
+
+Không có trận đấu
+
+Tóm tắt các giá trị theo
+
+Chỉnh sửa
+
+Thông thoáng
+
+Kéo và thả các trường vào công thức
+
+Kéo trường vào công thức
+
+Thông thoáng
+
+bởi
+
+Nhập giá trị
+
+Nhập ngày
+
+Bằng
+
+Không bình đẳng
+
+Bắt đầu với
+
+Không bắt đầu với
+
+Kết thúc với
+
+Không kết thúc với
+
+Chứa đựng
+
+Không chứa
+
+Lớn hơn
+
+Lớn hơn hoặc bằng
+
+Ít hơn
+
+Ít hơn hoặc bằng
+
+Giữa
+
+Không phải ở giữa
+
+Trước
+
+Trước hoặc Bằng
+
+Sau
+
+Sau hoặc bằng
+
+Hội viên
+
+Nhãn
+
+Ngày
+
+Hiển thị các mục mà nhãn
+
+Hiển thị các mục mà ngày tháng
+
+Hiển thị các mục mà
+
+và
+
+Định dạng có điều kiện
+
+ỨNG DỤNG
+
+Thêm điều kiện
+
+định dạng
+
+Danh sách trường Pivot
+
+Danh sách các trường
+
+Thả bộ lọc tại đây
+
+Thả cột vào đây
+
+Thả hàng tại đây
+
+Thả giá trị tại đây
+
+Thêm trường tại đây
+
+Chọn trường
+
+Kéo các trường giữa các trục bên dưới:
+
+thêm vào
+
+Kéo
+
+Bộ lọc
+
+Đã lọc
+
+Sắp xếp
+
+Tẩy
+
+Bộ lọc
+
+Hàng
+
+Cột
+
+Giá trị
+
+Trường được tính toán
+
+Tạo trường được tính toán
+
+Nhập tên trường
+
+lỗi
+
+Tên trường hoặc công thức không hợp lệ.
+
+Ví dụ: ('Tổng (Order_Count)' + 'Tổng (In_Stock)') * 250
+
+Thêm trường và chỉnh sửa công thức tại đây.
+
+Không thể đặt trường được tính toán ở bất kỳ vùng nào khác ngoại trừ trục giá trị.
+
+Tìm kiếm
+
+Gần
+
+Hủy bỏ
+
+Xóa bỏ
+
+Cảnh báo
+
+Cảnh báo
+
+được
+
+Tổng
+
+Trung bình cộng
+
+Đếm
+
+Min
+
+Tối đa
+
+Tất cả các trường
+
+Công thức
+
+Một trường đã tồn tại trong tên này. Vui lòng nhập một tên khác.
+
+Trường tính toán đã tồn tại trong tên này. Bạn có muốn thay thế nó?
+
+Không có trận đấu
+
+Tóm tắt các giá trị theo
+
+Chỉnh sửa
+
+Thông thoáng
+
+Kéo và thả các trường vào công thức
+
+Kéo trường vào công thức
+
+Thông thoáng
+
+bởi
+
+Nhập giá trị
+
+Nhập ngày
+
+Bằng
+
+Không bình đẳng
+
+Bắt đầu với
+
+Không bắt đầu với
+
+Kết thúc với
+
+Không kết thúc với
+
+Chứa đựng
+
+Không chứa
+
+Lớn hơn
+
+Lớn hơn hoặc bằng
+
+Ít hơn
+
+Ít hơn hoặc bằng
+
+Giữa
+
+Không phải ở giữa
+
+Trước
+
+Trước hoặc Bằng
+
+Sau
+
+Sau hoặc bằng
+
+Hội viên
+
+Nhãn
+
+Ngày
+
+Giá trị
+
+Hiển thị các mục mà nhãn
+
+Hiển thị các mục mà ngày tháng
+
+Hiển thị các mục mà
+
+và
+
+ỨNG DỤNG
+
+Thu phóng
+
+Phóng to
+
+Thu nhỏ
+
+Cài lại
+
+Pan
+
+Đặt lại thu phóng
+
+Không có hồ sơ nào để hiển thị
+
+thật
+
+sai
+
+Dữ liệu bộ lọc không hợp lệ
+
+Kéo tiêu đề cột vào đây để nhóm cột của nó
+
+Nhấp vào đây để hủy nhóm
+
+Tính năng nhóm được tắt cho cột này
+
+ô thanh bộ lọc "s
+
+DataSource không được để trống khi tải ban đầu vì các cột được tạo từ dataSource trong AutoGenerate Column Grid
+
+Thêm vào
+
+Chỉnh sửa
+
+Hủy bỏ
+
+Cập nhật
+
+Xóa bỏ
+
+In
+
+Xuất PDF
+
+Xuất Excel
+
+Xuất từ
+
+Xuất CSV
+
+Tìm kiếm
+
+Cột
+
+Tiết kiệm
+
+mục
+
+mặt hàng
+
+Không có hồ sơ nào được chọn cho hoạt động chỉnh sửa
+
+Không có hồ sơ nào được chọn để xóa hoạt động
+
+Tiết kiệm
+
+được
+
+Hủy bỏ
+
+Chi tiết của
+
+Thêm bản ghi mới
+
+Bạn có chắc chắn muốn lưu thay đổi không?
+
+Các thay đổi chưa được lưu sẽ bị mất. Bạn có chắc chắn muốn tiếp tục không?
+
+Bạn có chắc chắn muốn xóa bản ghi không?
+
+Bạn có chắc chắn muốn Hủy thay đổi không?
+
+Chọn cột
+
+cột tìm kiếm
+
+Lọc kết quả tìm thấy
+
+Bộ lọc
+
+Thông thoáng
+
+Bắt đầu với
+
+Kết thúc với
+
+Chứa đựng
+
+Công bằng
+
+Không công bằng
+
+Ít hơn
+
+Nhỏ hơn hoặc bằng
+
+Lớn hơn
+
+Lớn hơn hoặc bằng
+
+Chọn một ngày
+
+Nhập giá trị
+
+Sao chép
+
+Nhóm theo cột này
+
+Hủy nhóm theo cột này
+
+Tự động phù hợp với tất cả các cột
+
+Tự động phù hợp với cột này
+
+Xuất khẩu
+
+Trang đầu tiên
+
+Trang cuối
+
+Trang trước
+
+Trang tiếp theo
+
+Sắp xếp tăng dần
+
+Sắp xếp giảm dần
+
+Chỉnh sửa bản ghi
+
+Xóa hồ sơ
+
+Bộ lọc
+
+Chọn tất cả
+
+Khoảng trống
+
+Thật
+
+Sai
+
+Lọc kết quả tìm thấy
+
+LÀm sạch bộ lọc
+
+Bộ lọc số
+
+Bộ lọc văn bản
+
+Bộ lọc ngày
+
+Bộ lọc ngày giờ
+
+Trường hợp phù hợp
+
+Giữa
+
+Bộ lọc tùy chỉnh
+
+Nhập giá trị
+
+Chọn một ngày
+
+VÀ
+
+HOẶC LÀ
+
+Hiển thị các hàng ở đâu:
+
+{0} trong số {1} trang
+
+({0} mục)
+
+Chuyển đến trang đầu tiên
+
+Đến trang cuối
+
+Chuyển đến trang tiếp theo
+
+Chuyển đến trang trước
+
+Chuyển đến máy nhắn tin tiếp theo
+
+Chuyển đến máy nhắn tin trước
+
+Số mục trên mỗi trang
+
+Mặt hàng
+
+Tất cả các
+
+sự sắp xếp
+
+justifyLeft
+
+justifyCenter
+
+justifyRight
+
+justifyFull
+
+fontName
+
+cỡ chữ
+
+màu chữ
+
+màu nền
+
+clearFormat
+
+Làm sạch tất cả
+
+unorderedList
+
+danh sách được yêu cầu
+
+tạo đường link
+
+mở liên kết
+
+editLink
+
+removeLink
+
+mở liên kết
+
+editLink
+
+removeLink
+
+hình ảnh
+
+thay thế
+
+căn chỉnh
+
+chú thích
+
+tẩy
+
+chèn đường dẫn
+
+trưng bày
+
+altText
+
+kích thước
+
+toàn màn hình
+
+tối đa hóa
+
+giảm thiểu
+
+lowerCase
+
+upperCase
+
+in
+
+định dạng
+
+mã nguồn
+
+xem trước
+
+viewside
+
+nhập mã
+
+Căn trái
+
+Căn giữa
+
+Sắp xếp đúng
+
+Căn đều
+
+Tên phông chữ
+
+Cỡ chữ
+
+Màu chữ
+
+Màu nền
+
+Dũng cảm
+
+nghiêng
+
+gạch dưới
+
+gạch ngang
+
+cắt tỉa
+
+sao chép
+
+dán
+
+thụt lề
+
+hèn nhát
+
+hủy bỏ
+
+làm lại
+
+siêu văn bản
+
+chỉ số
+
+Chèn siêu kết nối
+
+Mở liên kết
+
+Chỉnh sửa liên kết
+
+Xóa liên kết
+
+Chèn đường dẫn
+
+Văn bản thay thế
+
+Chữ thường
+
+Trường hợp trên
+
+Nhập mã
+
+Văn bản hiển thị
+
+Chú giải công cụ
+
+Địa chỉ web
+
+http://example.com
+
+Mở liên kết trong cửa sổ mới
+
+Chèn đường dẫn
+
+Chèn
+
+Hủy bỏ
+
+Cập nhật
+
+Chèn hình ảnh
+
+Bạn cũng có thể cung cấp liên kết từ web
+
+Vui lòng cung cấp URL cho hình ảnh của bạn
+
+Thả hình ảnh vào đây hoặc duyệt để tải lên
+
+Nhấp vào đây để tải lên
+
+Văn bản thay thế
+
+Văn bản thay thế
+
+Duyệt
+
+http://example.com/image.png
+
+Chú thích
+
+Kích cỡ hình
+
+Chiều cao
+
+Chiều rộng
+
+Nhập văn bản
+
+Ứng dụng
+
+Hủy bỏ
+
+Chế độ chuyển đổi
+
+Duyệt ...
+
+Thông thoáng
+
+Tải lên
+
+Hoặc thả tệp tại đây
+
+Kích thước tệp quá lớn
+
+Kích thước tệp quá nhỏ
+
+Loại tệp không được phép
+
+Không thể tải lên tệp
+
+Tải tài liệu thành công
+
+Đã xóa tệp thành công
+
+Không thể xóa tệp
+
+Đang tải lên
+
+Sẵn sàng tải lên
+
+Hủy bỏ
+
+Tẩy
+
+Hủy bỏ
+
+Xóa tài liệu
+
+Đã tạm dừng tải lên tệp
+
+Tạm ngừng
+
+Tiếp tục
+
+Thử lại
+
+Đã hủy tải tệp lên
+
+Giá trị gia tăng
+
+Giá trị giảm dần
+
+Hôm nay
+
+Hôm nay
+
+Chọn một ngày
+
+Chọn phạm vi ngày
+
+Ngày bắt đầu
+
+Ngày cuối
+
+Ứng dụng
+
+Hủy bỏ
+
+Ngày đã chọn
+
+Ngày
+
+Phạm vi tùy chỉnh
+
+Chọn thời gian
+
+Hôm nay
+
+Chọn ngày và giờ
+
+Gần
+
+Bàn
+
+Hàng
+
+Cell
+
+Được
+
+Hủy bỏ
+
+Kích thước
+
+Chiều rộng ưa thích
+
+Điểm
+
+Phần trăm
+
+Đo lường trong
+
+Căn chỉnh
+
+Trái
+
+Trung tâm
+
+Đúng
+
+Căn đều
+
+Thụt lề từ trái sang
+
+Biên giới và bóng
+
+Tùy chọn
+
+Chỉ định chiều cao
+
+Ít nhất
+
+Chính xác
+
+Chiều cao hàng là
+
+Cho phép hàng ngắt trên các trang
+
+Lặp lại như hàng tiêu đề ở đầu mỗi trang
+
+Căn chỉnh theo chiều dọc
+
+Hàng đầu
+
+Dưới cùng
+
+Lề ô mặc định
+
+Khoảng cách ô mặc định
+
+Cho phép khoảng cách giữa các ô
+
+Lề di động
+
+Giống như toàn bộ bảng
+
+Biên giới
+
+không ai
+
+Độc thân
+
+Dấu chấm
+
+DashSmallGap
+
+DashLargeGap
+
+Đi thẳng
+
+DashDotDot
+
+Gấp đôi
+
+Ba
+
+ThinThickSmallGap
+
+ThickThinSmallGap
+
+ThinThickThinSmallGap
+
+ThinThickMediumGap
+
+ThickThinMediumGap
+
+ThinThickThinMediumGap
+
+ThinThickLargeGap
+
+ThickThinLargeGap
+
+ThinThickThinLargeGap
+
+SingleWavy
+
+DoubleWavy
+
+DashDotStroked
+
+Emboss3D
+
+Engrave3D
+
+Bù đắp
+
+Bắt đầu
+
+Dày
+
+Phong cách
+
+Chiều rộng
+
+Chiều cao
+
+Lá thư
+
+Báo lá cải
+
+Hợp pháp
+
+Tuyên bố
+
+Điều hành
+
+A3
+
+A4
+
+A5
+
+B 4
+
+B5
+
+Kích thước tùy chỉnh
+
+Khác nhau lẻ và thậm chí
+
+Trang đầu tiên khác
+
+Từ cạnh
+
+Tiêu đề
+
+Chân trang
+
+Lề
+
+Giấy
+
+Bố trí
+
+Sự định hướng
+
+Phong cảnh
+
+Chân dung
+
+Mục lục
+
+Hiển thị số trang
+
+Số trang phải phù hợp
+
+Không có gì
+
+Trưởng nhóm
+
+Hiển thị các cấp
+
+Sử dụng siêu liên kết thay vì số trang
+
+Xây dựng mục lục từ
+
+Kiểu
+
+Các kiểu có sẵn
+
+Mức TOC
+
+Phần mở đầu
+
+Đoạn danh sách
+
+Bình thường
+
+Mức phác thảo
+
+Các trường nhập bảng
+
+Sửa đổi
+
+Màu
+
+Cài đặt
+
+Cái hộp
+
+Tất cả các
+
+Tập quán
+
+Xem trước
+
+Bóng
+
+Lấp đầy
+
+Nộp đơn
+
+Thuộc tính bảng
+
+Tùy chọn ô
+
+Tùy chọn bảng
+
+Chèn bảng
+
+Số cột
+
+Số hàng
+
+Văn bản để hiển thị
+
+Địa chỉ nhà
+
+Chèn siêu kết nối
+
+Chỉnh sửa siêu kết nối
+
+Chèn
+
+Chung
+
+Thụt lề
+
+Trước văn bản
+
+Đặc biệt
+
+Dòng đầu tiên
+
+Treo
+
+Sau văn bản
+
+Bởi
+
+Trước
+
+Giãn cách dòng
+
+Sau
+
+Tại
+
+Nhiều
+
+khoảng cách
+
+Xác định danh sách Multilevel mới
+
+Cấp danh sách
+
+Chọn cấp độ để sửa đổi
+
+Cấp độ
+
+Định dạng số
+
+Kiểu số cho cấp này
+
+Nhập định dạng cho số
+
+Bắt đầu tại
+
+Khởi động lại danh sách sau
+
+Chức vụ
+
+Thụt lề văn bản tại
+
+Được sắp xếp tại
+
+Theo số với
+
+Ký tự tab
+
+Không gian
+
+tiếng Ả Rập
+
+UpRoman
+
+LowRoman
+
+UpLetter
+
+LowLetter
+
+Con số
+
+Số không hàng đầu
+
+Đạn
+
+Thứ tự
+
+Văn bản bình thường
+
+Đối với Đông
+
+Không khởi động lại
+
+Phông chữ
+
+Kiểu phông chữ
+
+Kiểu gạch dưới
+
+Màu chữ
+
+Hiệu ứng
+
+Đường gạch ngang
+
+Siêu văn bản
+
+Chỉ số
+
+Đường gạch ngang đôi
+
+Đều đặn
+
+Dũng cảm
+
+Nghiêng
+
+Cắt tỉa
+
+Sao chép
+
+Dán
+
+Siêu liên kết
+
+Mở siêu kết nối
+
+Sao chép siêu kết nối
+
+Xóa siêu kết nối
+
+Đoạn văn
+
+Hợp nhất ô
+
+Chèn ở trên
+
+Chèn bên dưới
+
+Chèn trái
+
+Chèn đúng
+
+Xóa bỏ
+
+Xóa bảng
+
+Xóa hàng
+
+Xóa cột
+
+Tên tệp
+
+Loại định dạng
+
+Tiết kiệm
+
+dẫn đường
+
+Các kết quả
+
+Thay thế
+
+Thay thế tất cả
+
+Chúng tôi đã thay thế tất cả
+
+Tìm thấy
+
+Không có trận đấu
+
+Tất cả đã được làm xong
+
+Kết quả
+
+của
+
+các phiên bản
+
+với
+
+Nhấp để theo dõi liên kết
+
+Tiếp tục đánh số
+
+Tên dấu trang
+
+Gần
+
+Khởi động lại tại
+
+Tính chất
+
+Tên
+
+Kiểu kiểu
+
+Kiểu dựa trên
+
+Kiểu cho đoạn sau
+
+Định dạng
+
+Đánh số và dấu đầu dòng
+
+Đánh số
+
+Cập nhật trường
+
+Chỉnh sửa trường
+
+Dấu trang
+
+Thiết lập trang
+
+Không tìm thấy dấu trang
+
+Định dạng số một cấp: </ br> [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Ví dụ: Chương% 1. sẽ hiển thị số như </ br> Chương 1. Mục </ br> Chương 2. Mục </ br> ... </ br> Chương N. Mục </ br> </ br> Định dạng số nhiều: </ br > [PREFIX]% [LEVELNUMBER] [SUFFIX] + [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Ví dụ:% 1.% 2. sẽ hiển thị số như </ br> 1.1. Mục </ br> 1.2. Mục </ br>… </ br> 1.N. Mục
+
+định dạng
+
+Tạo kiểu mới
+
+Sửa đổi kiểu
+
+Mới
+
+Đạn
+
+Sử dụng dấu trang
+
+Mục lục
+
+ 

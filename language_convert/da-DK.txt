@@ -1,0 +1,1495 @@
+Zoom
+
+Zoom ind
+
+Zoome ud
+
+Nulstil
+
+Pande
+
+Nulstil zoom
+
+Dag
+
+Uge
+
+Arbejdsuge
+
+Måned
+
+Dagsorden
+
+Uge Agenda
+
+Arbejdsugeagentur
+
+Månedens dagsorden
+
+I dag
+
+Ingen begivenheder
+
+Der er ingen begivenheder planlagt på denne dag.
+
+Hele dagen
+
+Start
+
+Ende
+
+mere
+
+Tæt
+
+Afbestille
+
+(Ingen titel)
+
+Slet
+
+Slet begivenhed
+
+Slet flere begivenheder
+
+Elementer valgt
+
+Slet serie
+
+Redigere
+
+Rediger serie
+
+Rediger begivenhed
+
+skab
+
+Emne
+
+Tilføj titel
+
+Flere detaljer
+
+Gemme
+
+Vil du kun redigere denne begivenhed eller hele serien?
+
+Vil du kun slette denne begivenhed eller hele serien?
+
+Er du sikker på, at du vil slette denne begivenhed?
+
+Er du sikker på, at du vil slette de valgte hændelser?
+
+Ny begivenhed
+
+Titel
+
+Beliggenhed
+
+Beskrivelse
+
+Tidszone
+
+Start tidszone
+
+Afslut tidszone
+
+Gentage
+
+Gemme
+
+Afbestille
+
+Slet
+
+Tilbagevenden
+
+Gentagelsesmønstret er ikke gyldigt.
+
+Ændringerne foretaget til specifikke forekomster af denne serie annulleres, og disse arrangementer matcher serien igen.
+
+Varigheden af ​​arrangementet skal være kortere end det hyppigt forekommer. Forkort længden, eller skift gentagelsesmønsteret i recurrence event editor.
+
+Nogle måneder har færre end den valgte dato. I disse måneder vil forekomsten falde på den sidste dato i måneden.
+
+To forekomster af samme begivenhed kan ikke forekomme samme dag.
+
+Rediger gentagelse
+
+gentager
+
+Alert
+
+Den valgte slutdato finder sted før startdatoen.
+
+Den indtastede datoværdi er ugyldig.
+
+Okay
+
+Hændelse
+
+Serie
+
+Tidligere
+
+Næste
+
+Tidslinjes dag
+
+Timeline Week
+
+Timeline Work Week
+
+Tidslinjemåned
+
+Ingen
+
+Daglige
+
+Ugentlig
+
+Månedlige
+
+Måned
+
+årlig
+
+Aldrig
+
+Indtil
+
+Tælle
+
+Først
+
+Anden
+
+Tredje
+
+Fjerde
+
+Sidst
+
+Gentage
+
+Gentag hver gang
+
+Gentag på
+
+Ende
+
+Dag
+
+Dage)
+
+Uge (r)
+
+Måned (er)
+
+Flere år)
+
+hver
+
+tid (s)
+
+på
+
+indtil
+
+gentager
+
+dage)
+
+uge (r)
+
+måned (er)
+
+flere år)
+
+Måned Uge
+
+Månedsposition
+
+Måned Expander
+
+Årsudvidelse
+
+Gentag Interval
+
+Tæt
+
+Grand Total
+
+Total
+
+Værdi
+
+Ingen værdi
+
+Række
+
+Kolonne
+
+Bryder sammen
+
+Udvide
+
+Drop række her
+
+Drop kolonne her
+
+Drop værdi her
+
+Drop filter her
+
+Filter
+
+filtreret
+
+Sortere
+
+filtre
+
+rækker
+
+Kolonner
+
+Værdier
+
+Tæt
+
+Afbestille
+
+Slet
+
+Beregnet felt
+
+Opret Beregnet Felt
+
+Indtast feltnavnet
+
+Fejl
+
+Ugyldig formel eller feltnavn.
+
+Eksempel: ('Sum (Order_Count)' + 'Sum (In_Stock)') * 250
+
+Tilføj felter og rediger formel her.
+
+Beregnet felt kan ikke placeres i nogen anden region undtagen værdiakse.
+
+Alert
+
+Advarsel
+
+Okay
+
+Søg
+
+Træk
+
+Fjerne
+
+Sum
+
+Gennemsnit
+
+Tælle
+
+Min
+
+Max
+
+Alle felter
+
+Formel
+
+Tilføj til række
+
+Tilføj til kolonne
+
+Tilføj til værdi
+
+Tilføj til filter
+
+Ingen poster at vise
+
+Der findes allerede et felt i dette navn. Indtast venligst et andet navn.
+
+Der findes allerede et beregningsfelt i dette navn. Vil du erstatte det?
+
+Ingen kampe
+
+Sammendrag værdier af
+
+Redigere
+
+Klar
+
+Træk og slip felter til formel
+
+Træk felt til formel
+
+Klar
+
+ved
+
+Indtast værdi
+
+Indtast dato
+
+Lige med
+
+Gælder ikke
+
+Starter med
+
+Begynder ikke med
+
+Slutter med
+
+Slutter ikke med
+
+Indeholder
+
+Indeholder ikke
+
+Bedre end
+
+Større end eller lige til
+
+Mindre end
+
+Mindre end eller lige til
+
+Mellem
+
+Ikke mellem
+
+Før
+
+Før eller lig med
+
+Efter
+
+Efter eller lig med
+
+Medlem
+
+Etiket
+
+Dato
+
+Vis de emner, som etiketten indeholder
+
+Vis de elementer, for hvilke datoen
+
+Vis emnerne for hvilke
+
+og
+
+Betinget formatering
+
+ANSØGE
+
+Tilføj betingelse
+
+Format
+
+Pivot Field List
+
+Feltliste
+
+Drop filter her
+
+Drop kolonne her
+
+Drop række her
+
+Drop værdi her
+
+Tilføj felt her
+
+Vælg felt
+
+Træk felter mellem akser nedenfor:
+
+tilføje
+
+Træk
+
+Filter
+
+filtreret
+
+Sortere
+
+Fjerne
+
+filtre
+
+rækker
+
+Kolonner
+
+Værdier
+
+Beregnet felt
+
+Opret Beregnet Felt
+
+Indtast feltnavnet
+
+Fejl
+
+Ugyldig formel eller feltnavn.
+
+Eksempel: ('Sum (Order_Count)' + 'Sum (In_Stock)') * 250
+
+Tilføj felter og rediger formel her.
+
+Beregnet felt kan ikke placeres i nogen anden region undtagen værdiakse.
+
+Søg
+
+Tæt
+
+Afbestille
+
+Slet
+
+Alert
+
+Advarsel
+
+Okay
+
+Sum
+
+Gennemsnit
+
+Tælle
+
+Min
+
+Max
+
+Alle felter
+
+Formel
+
+Der findes allerede et felt i dette navn. Indtast venligst et andet navn.
+
+Der findes allerede et beregningsfelt i dette navn. Vil du erstatte det?
+
+Ingen kampe
+
+Sammendrag værdier af
+
+Redigere
+
+Klar
+
+Træk og slip felter til formel
+
+Træk felt til formel
+
+Klar
+
+ved
+
+Indtast værdi
+
+Indtast dato
+
+Lige med
+
+Gælder ikke
+
+Starter med
+
+Begynder ikke med
+
+Slutter med
+
+Slutter ikke med
+
+Indeholder
+
+Indeholder ikke
+
+Bedre end
+
+Større end eller lige til
+
+Mindre end
+
+Mindre end eller lige til
+
+Mellem
+
+Ikke mellem
+
+Før
+
+Før eller lig med
+
+Efter
+
+Efter eller lig med
+
+Medlem
+
+Etiket
+
+Dato
+
+Værdi
+
+Vis de emner, som etiketten indeholder
+
+Vis de elementer, for hvilke datoen
+
+Vis emnerne for hvilke
+
+og
+
+ANSØGE
+
+Zoom
+
+Zoom ind
+
+Zoome ud
+
+Nulstil
+
+Pande
+
+Nulstil zoom
+
+Ingen poster at vise
+
+rigtigt
+
+falsk
+
+Ugyldige filterdata
+
+Træk en kolonneoverskrift her for at gruppere sin kolonne
+
+Klik her for at opdele gruppen
+
+Gruppering er deaktiveret for denne kolonne
+
+s filter bar celle
+
+DataSource må ikke være tom ved initialbelastning, da kolonner genereres fra dataSource i AutoGenerate Column Grid
+
+Tilføje
+
+Redigere
+
+Afbestille
+
+Opdatering
+
+Slet
+
+Print
+
+PDF Export
+
+Excel Export
+
+Word Export
+
+CSV Export
+
+Søg
+
+Kolonner
+
+Gemme
+
+vare
+
+elementer
+
+Ingen poster valgt til redigering
+
+Ingen poster valgt til sletning
+
+Gemme
+
+Okay
+
+Afbestille
+
+Detaljer om
+
+Tilføj ny post
+
+Er du sikker på, at du vil gemme ændringer?
+
+Ubesvarede ændringer vil gå tabt. Er du sikker på, at du vil fortsætte?
+
+Er du sikker på, at du vil slette posten?
+
+Er du sikker på, at du vil annullere ændringerne?
+
+Vælg kolonne
+
+søge kolonner
+
+Ingen match fundet
+
+Filter
+
+Klar
+
+Begynder med
+
+Slutter med
+
+Indeholder
+
+Lige
+
+Ikke lige
+
+Mindre end
+
+Mindre end eller lige
+
+Bedre end
+
+Større end eller lige
+
+Vælg en dato
+
+Indtast værdien
+
+Kopi
+
+Gruppér efter denne kolonne
+
+Ungroup ved denne kolonne
+
+Auto Tilpas alle kolonner
+
+Auto Tilpas denne kolonne
+
+Eksport
+
+Første side
+
+Sidste side
+
+Forrige side
+
+Næste side
+
+Sorter stigende
+
+Sorter faldende
+
+Rediger post
+
+Slet post
+
+Filter
+
+Vælg alle
+
+Blanks
+
+Rigtigt
+
+Falsk
+
+Ingen match fundet
+
+Ryd filter
+
+Antal filtre
+
+Tekstfiltre
+
+Datofiltre
+
+DateTime Filters
+
+Match case
+
+Mellem
+
+Brugerdefineret filter
+
+Indtast værdien
+
+Vælg en dato
+
+OG
+
+ELLER
+
+Vis rækker hvor:
+
+{0} af {1} sider
+
+({0} poster)
+
+Gå til første side
+
+Gå til sidste side
+
+Gå til næste side
+
+Gå til forrige side
+
+Gå til næste personsøger
+
+Gå til tidligere personsøger
+
+Elementer pr. Side
+
+Elementer
+
+Alle
+
+alignments
+
+justifyLeft
+
+justifyCenter
+
+justifyRight
+
+justifyFull
+
+fontname
+
+skriftstørrelse
+
+skrift farve
+
+baggrundsfarve
+
+clearFormat
+
+Slet alt
+
+unorderedList
+
+orderedlist
+
+createLink
+
+Åben link
+
+EDITLINK
+
+removeLink
+
+Åben link
+
+EDITLINK
+
+removeLink
+
+billede
+
+erstatte
+
+tilpasse
+
+billedtekst
+
+fjerne
+
+insertLink
+
+Skærm
+
+altText
+
+dimension
+
+Fuld skærm
+
+maksimere
+
+minimere
+
+små bogstaver
+
+store bogstaver
+
+Print
+
+formater
+
+kildekode
+
+forhåndsvisning
+
+viewside
+
+indsæt kode
+
+Juster venstre
+
+Juster Center
+
+Juster højre
+
+Juster Justify
+
+Skrifttype navn
+
+Skriftstørrelse
+
+Skrift farve
+
+Baggrundsfarve
+
+dristig
+
+kursiv
+
+understrege
+
+gennemstregning
+
+skære
+
+kopi
+
+sæt ind
+
+led
+
+udbuling
+
+fortryde
+
+redo
+
+hævet
+
+sænket
+
+Indsæt hyperlink
+
+Åben link
+
+Rediger link
+
+Fjern link
+
+Indsæt Link
+
+Alternativ tekst
+
+Små bogstaver
+
+Store bogstaver
+
+Indsæt kode
+
+Skærmtekst
+
+tooltip
+
+Web adresse
+
+http://example.com
+
+Åbn link i nyt vindue
+
+Indsæt Link
+
+Indsæt
+
+Afbestille
+
+Opdatering
+
+Indsæt billede
+
+Du kan også give et link fra internettet
+
+Angiv en webadresse til dit billede
+
+Drop billede her eller browse for at uploade
+
+Klik her for at uploade
+
+Alternativ tekst
+
+Alternativ tekst
+
+Gennemse
+
+http://example.com/image.png
+
+Billedtekst
+
+Billedestørrelse
+
+Højde
+
+Bredde
+
+Indtast tekst
+
+ansøge
+
+Afbestille
+
+Skift tilstand
+
+Gennemse ...
+
+Klar
+
+Upload
+
+Eller slip filer her
+
+Filstørrelsen er for stor
+
+Filstørrelsen er for lille
+
+Filtype er ikke tilladt
+
+Filen kunne ikke uploades
+
+Filen er uploadet korrekt
+
+Filen blev fjernet med succes
+
+Kan ikke fjerne filen
+
+Upload
+
+Klar til at uploade
+
+Abort
+
+Fjerne
+
+Afbestille
+
+Slet fil
+
+Filoploading pauset
+
+Pause
+
+Genoptag
+
+Prøve igen
+
+Filoploading annulleret
+
+Stigningsværdi
+
+Decrement værdi
+
+I dag
+
+I dag
+
+Vælg en dato
+
+Vælg et datointerval
+
+Start dato
+
+Slutdato
+
+ansøge
+
+Afbestille
+
+Udvalgte dage
+
+Dage
+
+Custom Range
+
+Vælg en tid
+
+I dag
+
+Vælg en dato og klokkeslæt
+
+Tæt
+
+Bord
+
+Række
+
+Celle
+
+Okay
+
+Afbestille
+
+Størrelse
+
+Foretrukne bredde
+
+Points
+
+procent
+
+Foranstaltning i
+
+Justering
+
+Venstre
+
+Centrum
+
+Højre
+
+Begrund
+
+Indrykket fra venstre
+
+Grænser og skygge
+
+Muligheder
+
+Angiv højde
+
+I det mindste
+
+Nemlig
+
+Rækkehøjde er
+
+Tillad række at gå på tværs af sider
+
+Gentag som overskriftsrække øverst på hver side
+
+Lodret justering
+
+Top
+
+Bund
+
+Standard celle marginer
+
+Standardcelleafstand
+
+Tillad afstand mellem celler
+
+Cellmargener
+
+Samme som hele bordet
+
+Grænser
+
+Ingen
+
+Enkelt
+
+punktum
+
+DashSmallGap
+
+DashLargeGap
+
+punkterede
+
+DashDotDot
+
+Dobbelt
+
+Triple
+
+ThinThickSmallGap
+
+ThickThinSmallGap
+
+ThinThickThinSmallGap
+
+ThinThickMediumGap
+
+ThickThinMediumGap
+
+ThinThickThinMediumGap
+
+ThinThickLargeGap
+
+ThickThinLargeGap
+
+ThinThickThinLargeGap
+
+SingleWavy
+
+DoubleWavy
+
+DashDotStroked
+
+Emboss3D
+
+Engrave3D
+
+Begyndelsen
+
+Indsat
+
+Tyk
+
+Stil
+
+Bredde
+
+Højde
+
+Brev
+
+tabloid
+
+gyldige
+
+Udmelding
+
+Executive
+
+A3
+
+A4
+
+A5
+
+B4
+
+B5
+
+Brugerdefineret størrelse
+
+Forskellige ulige og lige
+
+Forskellige første side
+
+Fra kanten
+
+Header
+
+Sidefod
+
+Margener
+
+Papir
+
+Layout
+
+Orientering
+
+Landskab
+
+Portræt
+
+Indholdsfortegnelse
+
+Vis sidetal
+
+Højre juster sidetal
+
+Ikke noget
+
+Tab leder
+
+Vis niveauer
+
+Brug hyperlinks i stedet for sidetal
+
+Byg indholdsfortegnelse fra
+
+styles
+
+Tilgængelige stilarter
+
+TOC niveau
+
+Overskrift
+
+Liste afsnit
+
+Normal
+
+Skitse niveauer
+
+Tabel indtastningsfelter
+
+Modificere
+
+Farve
+
+Indstilling
+
+Boks
+
+Alle
+
+Brugerdefinerede
+
+Eksempel
+
+Skygge
+
+Fylde
+
+Ansøg til
+
+Tabelegenskaber
+
+Celleindstillinger
+
+Tabelindstillinger
+
+Indsæt tabel
+
+Antal kolonner
+
+Antal rækker
+
+Tekst, der skal vises
+
+Adresse
+
+Indsæt hyperlink
+
+Rediger hyperlink
+
+Indsæt
+
+Generel
+
+Indrykning
+
+Før tekst
+
+Særlig
+
+Første linje
+
+Hængende
+
+Efter tekst
+
+Ved
+
+Før
+
+Linjeafstand
+
+Efter
+
+På
+
+Mange
+
+Mellemrum
+
+Definer ny Multilevel liste
+
+Liste niveau
+
+Vælg niveau for at ændre
+
+Niveau
+
+Nummerformat
+
+Nummer stil til dette niveau
+
+Indtast formatering for nummer
+
+Start ved
+
+Genstart listen efter
+
+Position
+
+Tekst indent på
+
+Aligned at
+
+Følg nummer med
+
+Fanebladet
+
+Plads
+
+arabisk
+
+UpRoman
+
+LowRoman
+
+UpLetter
+
+LowLetter
+
+Nummer
+
+Førende nul
+
+Kugle
+
+ordenstal
+
+Ordinært Tekst
+
+For øst
+
+Ingen genstart
+
+Skrifttype
+
+Skrifttype
+
+Understrege stil
+
+Skrift farve
+
+effekter
+
+Gennemstreget
+
+Hævet
+
+Sænket
+
+Dobbelt gennemstrækning
+
+Fast
+
+Dristig
+
+Kursiv
+
+Skære
+
+Kopi
+
+sæt ind
+
+hyperlink
+
+Åbn hyperlink
+
+Kopier hyperlink
+
+Fjern hyperlink
+
+Afsnit
+
+Flette celler
+
+Indsæt ovenfor
+
+Indsæt nedenfor
+
+Indsæt til venstre
+
+Indsæt højre
+
+Slet
+
+Slet tabel
+
+Slet række
+
+Slet kolonne
+
+Filnavn
+
+Format Type
+
+Gemme
+
+Navigation
+
+Resultater
+
+Erstatte
+
+Udskift alle
+
+Vi erstattede alt
+
+Find
+
+Ingen kampe
+
+Helt færdig
+
+Resultat
+
+af
+
+forekomster
+
+med
+
+Klik for at følge link
+
+Fortsæt nummerering
+
+Bogmærke navn
+
+Tæt
+
+Genstart på
+
+Ejendomme
+
+Navn
+
+Stil type
+
+Stil baseret på
+
+Stil til følgende afsnit
+
+Formatering
+
+Nummerering og kugler
+
+Nummerering
+
+Opdateringsfelt
+
+Rediger felt
+
+bogmærke
+
+Sideopsætning
+
+Ingen bogmærker fundet
+
+Enkeltniveau nummerformat: </ br> [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> F.eks. Kapitel% 1. vil vise nummerering som </ br> Kapitel 1. Element </ br> Kapitel 2. Element </ br> ... </ br> Kapitel N. Element </ br> </ br> Multilevel nummerformat: </ br > [PREFIX]% [LEVELNUMBER] [SUFFIX] + [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> For eksempel% 1.% 2. vil vise nummerering som </ br> 1.1. Punkt </ br> 1.2. Vare </ br> ... </ br> 1.n. Vare
+
+Format
+
+Opret ny stil
+
+Rediger stil
+
+Ny
+
+Kugler
+
+Brug bogmærker
+
+Indholdsfortegnelse
+
+ 

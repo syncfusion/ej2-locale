@@ -1,0 +1,1495 @@
+Zum
+
+Mengezum masuk
+
+Zum keluar
+
+Tetapkan semula
+
+Pan
+
+Tetapkan semula Zum
+
+Hari
+
+Minggu
+
+Minggu Kerja
+
+Bulan
+
+Agenda
+
+Agenda Minggu
+
+Agenda Minggu Kerja
+
+Agenda Bulan
+
+Hari ini
+
+Tiada acara
+
+Tiada acara yang dijadualkan pada hari ini.
+
+Sepanjang hari
+
+Mulakan
+
+Akhirnya
+
+lebih lagi
+
+Tutup
+
+Batalkan
+
+(Tiada tajuk)
+
+Padam
+
+Padamkan Peristiwa
+
+Padam Pelbagai Acara
+
+Item dipilih
+
+Padam Siri
+
+Edit
+
+Edit Siri
+
+Edit Acara
+
+Buat
+
+Subjek
+
+Tambah tajuk
+
+Maklumat lanjut
+
+Simpan
+
+Adakah anda mahu mengedit sahaja acara atau keseluruhan siri ini?
+
+Adakah anda mahu memadamkan acara atau siri keseluruhan ini?
+
+Adakah anda pasti mahu memadamkan acara ini?
+
+Adakah anda pasti mahu memadamkan acara yang dipilih?
+
+Acara Baru
+
+Tajuk
+
+Lokasi
+
+Penerangan
+
+Zon masa
+
+Mulakan Zon Waktu
+
+Akhir Zon
+
+Ulang
+
+Simpan
+
+Batalkan
+
+Padam
+
+Pengulangan
+
+Corak pengulangan tidak sah.
+
+Perubahan yang dibuat kepada contoh spesifik dalam siri ini akan dibatalkan dan acara tersebut akan sepadan dengan siri ini lagi.
+
+Tempoh acara mestilah lebih pendek daripada berapa kerap berlaku. Mempersendakan tempoh, atau menukar pola berulang dalam editor acara ulangan.
+
+Beberapa bulan mempunyai kurang daripada tarikh yang dipilih. Untuk bulan-bulan ini, kejadian itu akan jatuh pada tarikh akhir bulan itu.
+
+Dua peristiwa yang sama tidak boleh berlaku pada hari yang sama.
+
+Edit Pengulangan
+
+Berulang
+
+Amaran
+
+Tarikh tamat yang dipilih berlaku sebelum tarikh mula.
+
+Nilai tarikh yang dimasukkan adalah tidak sah.
+
+Okey
+
+Kejadian
+
+Siri
+
+Sebelum ini
+
+Seterusnya
+
+Hari Talian Masa
+
+Minggu Timeline
+
+Minggu Kerja Garis Masa
+
+Bulan Timeline
+
+Tiada
+
+Harian
+
+Setiap minggu
+
+Bulanan
+
+Bulan
+
+Setiap tahun
+
+Jangan sekali-kali
+
+Sehingga
+
+Kira
+
+Pertama
+
+Kedua
+
+Ketiga
+
+Keempat
+
+Terakhir
+
+Ulang
+
+Ulang setiap
+
+Ulang Aktif
+
+Akhirnya
+
+Hari
+
+Hari (s)
+
+Minggu (s)
+
+Bulan (s)
+
+Tahun (s)
+
+setiap
+
+masa (s)
+
+pada
+
+sehingga
+
+Berulang
+
+hari (s)
+
+minggu (s)
+
+bulan (s)
+
+tahun (s)
+
+Minggu Bulan
+
+Kedudukan Bulan
+
+Expander Bulan
+
+Expander Tahun
+
+Ulang Selang
+
+Tutup
+
+Jumlah keseluruhan
+
+Jumlah
+
+Nilai
+
+Tiada nilai
+
+Row
+
+Kolum
+
+Runtuh
+
+Perluas
+
+Letakkan baris di sini
+
+Letakkan ruangan di sini
+
+Nilai drop di sini
+
+Drop penapis di sini
+
+Penapis
+
+Ditapis
+
+Isih
+
+Penapis
+
+Baris
+
+Lajur
+
+Nilai
+
+Tutup
+
+Batalkan
+
+Padam
+
+Medan yang dikira
+
+Buat Lapangan Yang Dihitung
+
+Masukkan nama medan
+
+Ralat
+
+Nama formula atau nama lapangan tidak sah.
+
+Contoh: ('Sum (Order_Count)' + 'Sum (In_Stock)') * 250
+
+Tambah medan dan edit formula di sini.
+
+Medan yang dihitung tidak boleh ditempatkan di mana-mana rantau lain kecuali paksi nilai.
+
+Amaran
+
+Amaran
+
+okey
+
+Carian
+
+Seret
+
+Keluarkan
+
+Jumlah
+
+Purata
+
+Kira
+
+Min
+
+Maks
+
+Semua Bidang
+
+Formula
+
+Tambah ke Baris
+
+Tambah ke Lajur
+
+Tambah ke Nilai
+
+Tambah ke Penapis
+
+tiada rekod untuk dipaparkan
+
+Medan telah wujud dalam nama ini. Sila masukkan nama lain.
+
+Medan pengiraan sudah ada dalam nama ini. Adakah anda ingin menggantikannya?
+
+Tiada perlawanan
+
+Nilai ringkasan oleh
+
+Edit
+
+Jelas
+
+Seret dan lepaskan medan untuk formula
+
+Seret medan ke formula
+
+Jelas
+
+oleh
+
+Masukkan nilai
+
+Masukkan tarikh
+
+Sama
+
+Tidak Sama
+
+Bermula dengan
+
+Tidak Bermula Dengan
+
+Berakhir Dengan
+
+Tidak Berakhir Dengan
+
+Mengandungi
+
+Tidak mengandungi
+
+Lebih besar daripada
+
+Lebih daripada atau sama
+
+Kurang daripada
+
+Kurang Daripada Atau Bersamaan
+
+Antara
+
+Bukan Antara
+
+Sebelum ini
+
+Sebelum Atau Sama Kepada
+
+Selepas
+
+Selepas Atau Sama Untuk
+
+Ahli
+
+Label
+
+Tarikh
+
+Tunjukkan item yang labelnya
+
+Tunjukkan item yang tarikhnya dipaparkan
+
+Tunjukkan item yang mana
+
+dan
+
+Pemformatan Bersyarat
+
+MEMOHON
+
+Tambah Keadaan
+
+Format
+
+Senarai Medan Pivot
+
+Senarai Medan
+
+Drop penapis di sini
+
+Letakkan ruangan di sini
+
+Letakkan baris di sini
+
+Nilai drop di sini
+
+Tambah medan di sini
+
+Pilih medan
+
+Seret medan antara paksi di bawah:
+
+Tambah
+
+Seret
+
+Penapis
+
+Ditapis
+
+Isih
+
+Keluarkan
+
+Penapis
+
+Baris
+
+Lajur
+
+Nilai
+
+Medan yang dikira
+
+Buat Lapangan Yang Dihitung
+
+Masukkan nama medan
+
+Ralat
+
+Nama formula atau nama lapangan tidak sah.
+
+Contoh: ('Sum (Order_Count)' + 'Sum (In_Stock)') * 250
+
+Tambah medan dan edit formula di sini.
+
+Medan yang dihitung tidak boleh ditempatkan di mana-mana rantau lain kecuali paksi nilai.
+
+Carian
+
+Tutup
+
+Batalkan
+
+Padam
+
+Amaran
+
+Amaran
+
+okey
+
+Jumlah
+
+Purata
+
+Kira
+
+Min
+
+Maks
+
+Semua Bidang
+
+Formula
+
+Medan telah wujud dalam nama ini. Sila masukkan nama lain.
+
+Medan pengiraan sudah ada dalam nama ini. Adakah anda ingin menggantikannya?
+
+Tiada perlawanan
+
+Nilai ringkasan oleh
+
+Edit
+
+Jelas
+
+Seret dan lepaskan medan untuk formula
+
+Seret medan ke formula
+
+Jelas
+
+oleh
+
+Masukkan nilai
+
+Masukkan tarikh
+
+Sama
+
+Tidak Sama
+
+Bermula dengan
+
+Tidak Bermula Dengan
+
+Berakhir Dengan
+
+Tidak Berakhir Dengan
+
+Mengandungi
+
+Tidak mengandungi
+
+Lebih besar daripada
+
+Lebih daripada atau sama
+
+Kurang daripada
+
+Kurang Daripada Atau Bersamaan
+
+Antara
+
+Bukan Antara
+
+Sebelum ini
+
+Sebelum Atau Sama Kepada
+
+Selepas
+
+Selepas Atau Sama Untuk
+
+Ahli
+
+Label
+
+Tarikh
+
+Nilai
+
+Tunjukkan item yang labelnya
+
+Tunjukkan item yang tarikhnya dipaparkan
+
+Tunjukkan item yang mana
+
+dan
+
+MEMOHON
+
+Zum
+
+Mengezum masuk
+
+Zum keluar
+
+Tetapkan semula
+
+Pan
+
+Tetapkan semula Zum
+
+tiada rekod untuk dipaparkan
+
+benar
+
+salah
+
+Data Penapis Tidak Sah
+
+Seret tajuk lajur di sini untuk menyusun lajurnya
+
+Klik di sini untuk mengumpul
+
+Pengkelasan tidak dilumpuhkan untuk lajur ini
+
+"sel bar penapis
+
+DataSource tidak boleh kosong pada beban awal kerana lajur dihasilkan dari dataSource dalam AutoGenerate Column Grid
+
+Tambah
+
+Edit
+
+Batalkan
+
+Kemas kini
+
+Padam
+
+Cetak
+
+Eksport PDF
+
+Eksport Excel
+
+Eksport Kata
+
+Eksport CSV
+
+Carian
+
+Lajur
+
+Simpan
+
+item
+
+barangan
+
+Tiada rekod yang dipilih untuk operasi edit
+
+Tiada rekod yang dipilih untuk operasi padam
+
+Simpan
+
+okey
+
+Batalkan
+
+Maklumat mengenai
+
+Tambah Rekod Baru
+
+Adakah anda pasti mahu menyimpan perubahan?
+
+Perubahan yang tidak disimpan akan hilang. Adakah anda pasti mahu teruskan?
+
+Adakah anda pasti mahu Menghapus Rekod?
+
+Adakah anda pasti mahu Batalkan perubahan?
+
+Pilih Lajur
+
+lajur carian
+
+Tiada Perlawanan Dijumpai
+
+Penapis
+
+Jelas
+
+Bermula dengan
+
+Berakhir Dengan
+
+Mengandungi
+
+Sama
+
+Tidak sama
+
+Kurang daripada
+
+Kurang Daripada Atau Sama
+
+Lebih besar daripada
+
+Lebih Daripada Atau Sama
+
+Pilih Tarikh
+
+Masukkan nilai
+
+Salinan
+
+Kumpulan mengikut lajur ini
+
+Ungroup mengikut lajur ini
+
+Auto Fit semua lajur
+
+Pasangkan Auto lajur ini
+
+Eksport
+
+Muka surat pertama
+
+Muka surat terakhir
+
+Halaman sebelumnya
+
+Muka surat seterusnya
+
+Isih Menaik
+
+Isih Menurun
+
+Edit Rekod
+
+Padam Rekod
+
+Penapis
+
+Pilih semua
+
+Kosong
+
+Benar
+
+Salah
+
+Tiada Perlawanan Dijumpai
+
+Kosongkan Penapis
+
+Penapis Bilangan
+
+Penapis Teks
+
+Penapis Tarikh
+
+Penapis Tarikh
+
+Kes pertandingan
+
+Antara
+
+Penapis Tersuai
+
+Masukkan nilai
+
+Pilih tarikh
+
+DAN
+
+ATAU
+
+Tunjukkan baris di mana:
+
+{0} halaman {1}
+
+({0} item)
+
+Pergi ke halaman pertama
+
+Pergi ke halaman terakhir
+
+Pergi ke halaman seterusnya
+
+Pergi ke halaman sebelumnya
+
+Pergi ke pager seterusnya
+
+Pergi ke pager sebelumnya
+
+Barangan setiap halaman
+
+Item
+
+Semua
+
+penjajaran
+
+justifyLeft
+
+justifyCenter
+
+justifyRight
+
+justifyFull
+
+fontName
+
+Saiz huruf
+
+fontColor
+
+warna latar belakang
+
+clearFormat
+
+kosongkan semua
+
+unorderedList
+
+perintahList
+
+createLink
+
+openLink
+
+editLink
+
+removeLink
+
+openLink
+
+editLink
+
+removeLink
+
+gambar
+
+menggantikan
+
+menyelaraskan
+
+keterangan
+
+keluarkan
+
+insertLink
+
+paparan
+
+altTeks
+
+dimensi
+
+skrin penuh
+
+memaksimumkan
+
+meminimumkan
+
+lowerCase
+
+uppercase
+
+cetak
+
+format
+
+kod sumber
+
+pratonton
+
+pemandangan
+
+masukkan kod
+
+Align Kiri
+
+Align Centre
+
+Align Right
+
+Align Justify
+
+Nama fon
+
+Saiz huruf
+
+Warna fon
+
+Warna latar belakang
+
+berani
+
+italik
+
+garis bawah
+
+menyerang
+
+potong
+
+salinan
+
+tampal
+
+indent
+
+langgar
+
+undo
+
+buat semula
+
+superskrip
+
+subskrip
+
+Masukkan Hyperlink
+
+Pautan Terbuka
+
+Edit Pautan
+
+Keluarkan Pautan
+
+Masukkan Pautan
+
+Teks alternatif
+
+Kes Rendah
+
+Kes atas
+
+Masukkan kod
+
+Teks Paparan
+
+Petua alat
+
+Alamat Web
+
+http://example.com
+
+Buka Pautan dalam Tetingkap Baru
+
+Masukkan Pautan
+
+Masukkan
+
+Batalkan
+
+Kemas kini
+
+Masukkan Imej
+
+Anda juga boleh menyediakan pautan dari web
+
+Sila berikan URL untuk imej anda
+
+Drop imej di sini atau semak imbas untuk dimuat naik
+
+Klik di sini untuk memuat naik
+
+Teks alternatif
+
+Teks alternatif
+
+Semak imbas
+
+http://example.com/image.png
+
+Keterangan
+
+Saiz gambar
+
+Ketinggian
+
+Lebar
+
+Masukkan Teks
+
+Memohon
+
+Batalkan
+
+Mod Suis
+
+Semak imbas ...
+
+Jelas
+
+Muat naik
+
+Atau jatuhkan fail di sini
+
+Saiz fail terlalu besar
+
+Saiz fail terlalu kecil
+
+Jenis fail tidak dibenarkan
+
+Fail gagal dimuat naik
+
+Fail dimuat naik berjaya
+
+Fail dikeluarkan dengan jayanya
+
+Tidak dapat menghapus fail
+
+Memuat naik
+
+Sedia untuk memuat naik
+
+Abort
+
+Keluarkan
+
+Batalkan
+
+Padam fail
+
+Muat naik fail dijeda
+
+Jeda
+
+Teruskan
+
+Cuba semula
+
+Muat naik fail dibatalkan
+
+Nilai pertambahan
+
+Nilai penolakan
+
+Hari ini
+
+Hari ini
+
+Pilih tarikh
+
+Pilih julat tarikh
+
+Tarikh mula
+
+Tarikh tamat
+
+Memohon
+
+Batalkan
+
+Hari Terpilih
+
+Hari
+
+Julat Custom
+
+Pilih masa
+
+Hari ini
+
+Pilih tarikh dan masa
+
+Tutup
+
+Jadual
+
+Row
+
+Sel
+
+Okey
+
+Batalkan
+
+Saiz
+
+Lebar pilihan
+
+Mata
+
+Peratus
+
+Ukur masuk
+
+Penjajaran
+
+Dibiarkan
+
+Pusat
+
+Betul
+
+Justify
+
+Inden dari kiri
+
+Borders dan Shading
+
+Pilihan
+
+Tentukan ketinggian
+
+Sekurang-kurangnya
+
+Betul
+
+Ketinggian baris adalah
+
+Benarkan baris untuk memecah halaman
+
+Ulangi sebagai baris tajuk di bahagian atas setiap halaman
+
+Penjajaran menegak
+
+Teratas
+
+Bawah
+
+Margin sel default
+
+Jarak sel lalai
+
+Benarkan jarak antara sel-sel
+
+Margin sel
+
+Sama seperti keseluruhan jadual
+
+Sempadan
+
+Tiada
+
+Single
+
+Dot
+
+DashSmallGap
+
+DashLargeGap
+
+DashDot
+
+DashDotDot
+
+Double
+
+Triple
+
+ThinThickSmallGap
+
+ThickThinSmallGap
+
+ThinThickThinSmallGap
+
+ThinThickMediumGap
+
+ThickThinMediumGap
+
+ThinThickThinMediumGap
+
+ThinThickLargeGap
+
+ThickThinLargeGap
+
+ThinThickThinLargeGap
+
+SingleWavy
+
+DoubleWavy
+
+DashDotStroked
+
+Emboss3D
+
+Engrave3D
+
+Awal
+
+Inset
+
+Tebal
+
+Gaya
+
+Lebar
+
+Ketinggian
+
+Surat
+
+Tabloid
+
+Undang-undang
+
+Kenyataan
+
+Eksekutif
+
+A3
+
+A4
+
+A5
+
+B4
+
+B5
+
+Saiz tersuai
+
+Ganjil yang berbeza dan juga
+
+Halaman pertama yang berbeza
+
+Dari tepi
+
+Kepala
+
+Footer
+
+Margin
+
+Kertas
+
+Susun atur
+
+Orientasi
+
+Landskap
+
+Potret
+
+Isi kandungan
+
+Tunjukkan nombor halaman
+
+Nombor halaman penjajaran kanan
+
+Tiada apa-apa
+
+Ketua tab
+
+Tunjukkan tahap
+
+Gunakan hyperlink bukan nombor halaman
+
+Bina jadual kandungan dari
+
+Gaya
+
+Gaya yang ada
+
+Tahap TOC
+
+Tajuk
+
+Senaraikan Perenggan
+
+Normal
+
+Tahap garis
+
+Jadual kemasukan jadual
+
+Ubah suai
+
+Warna
+
+Menetapkan
+
+Kotak
+
+Semua
+
+Custom
+
+Pratonton
+
+Shading
+
+Isi
+
+Memohon kepada
+
+Harta Jadual
+
+Pilihan Sel
+
+Pilihan Jadual
+
+Masukkan Jadual
+
+Bilangan lajur
+
+Bilangan baris
+
+Teks untuk dipaparkan
+
+Alamat
+
+Masukkan Hyperlink
+
+Edit Hyperlink
+
+Masukkan
+
+Ketua
+
+Indentasi
+
+Sebelum teks
+
+Khas
+
+Barisan pertama
+
+Menggantung
+
+Selepas teks
+
+Oleh
+
+Sebelum ini
+
+Jarak baris
+
+Selepas
+
+Pada
+
+Pelbagai
+
+Jarak
+
+Tentukan senarai Multilevel baru
+
+Tahap senarai
+
+Pilih tahap untuk mengubah suai
+
+Tahap
+
+Format nombor
+
+Gaya nombor untuk tahap ini
+
+Masukkan pemformatan untuk nombor
+
+Bermula pada
+
+Mula semula senarai selepas
+
+Jawatan
+
+Teks indent di
+
+Aligned at
+
+Ikut nombor dengan
+
+Watak tab
+
+Ruang
+
+Arab
+
+UpRoman
+
+LowRoman
+
+UpLetter
+
+LowLetter
+
+Nombor
+
+Memimpin sifar
+
+Bullet
+
+Ordinal
+
+Teks Ordinal
+
+Untuk Timur
+
+Tidak dimulakan semula
+
+Fon
+
+Gaya fon
+
+Gaya bawah garis
+
+Warna fon
+
+Kesan
+
+Strikethrough
+
+Superskrip
+
+Subskrip
+
+Penyerang berganda
+
+Biasa
+
+Bold
+
+Italic
+
+Potong
+
+Salinan
+
+Tampal
+
+Hyperlink
+
+Buka Hyperlink
+
+Salin Hyperlink
+
+Keluarkan Hyperlink
+
+Perenggan
+
+Mencantumkan sel
+
+Masukkan Atas
+
+Masukkan di bawah
+
+Masukkan Kiri
+
+Masukkan Hak
+
+Padam
+
+Padamkan Jadual
+
+Padamkan Row
+
+Padamkan Kolom
+
+Nama fail
+
+Jenis Format
+
+Simpan
+
+Navigasi
+
+Keputusan
+
+Ganti
+
+Ganti Semua
+
+Kami menggantikan semua
+
+Cari
+
+Tiada perlawanan
+
+Semua Selesai
+
+Keputusan
+
+daripada
+
+contohnya
+
+dengan
+
+Klik untuk ikut pautan
+
+Teruskan Penomboran
+
+Nama penanda buku
+
+Tutup
+
+Mulakan Semula Pada
+
+Hartanah
+
+Nama
+
+Jenis gaya
+
+Gaya berdasarkan
+
+Gaya untuk perenggan berikut
+
+Pemformatan
+
+Penomboran dan Peluru
+
+Penomboran
+
+Kemas kini Medan
+
+Edit Medan
+
+Penanda buku
+
+Persediaan Halaman
+
+Tiada penanda buku ditemui
+
+Format nombor peringkat tunggal: </ br> [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Sebagai contoh, Bab% 1. akan memaparkan penomboran seperti </ br> Bab 1. Item </ br> Bab 2. Item </ br> ... </ br> Bab N. Item </ br> </ br> Format nombor berganda: </ br > [PREFIX]% [LEVELNUMBER] [SUFFIX] + [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Sebagai contoh,% 1.% 2. akan memaparkan penomboran seperti </ br> 1.1. Perkara </ br> 1.2. Perkara </ br> ... </ br> 1.N. Perkara
+
+Format
+
+Buat Gaya Baru
+
+Ubahsuai Gaya
+
+Baru
+
+Peluru
+
+Gunakan penanda buku
+
+Isi kandungan
+
+ 

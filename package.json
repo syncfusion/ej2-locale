@@ -1,0 +1,18 @@
+{
+  "name": "google_translator",
+  "version": "1.0.0",
+  "description": "to translate the language",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "glob": "^7.1.3",
+    "gulp": "^3.9.1",
+    "simple-git": "^1.102.0",
+    "shelljs": "^0.8.2"
+  }
+}

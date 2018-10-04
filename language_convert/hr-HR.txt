@@ -1,0 +1,1495 @@
+Zum
+
+ZoomIn
+
+Smanji
+
+Reset
+
+tava
+
+Poništi zumiranje
+
+Dan
+
+Tjedan
+
+Radni tjedan
+
+Mjesec
+
+dnevni red
+
+Tjedni raspored
+
+Radni tjedan rada
+
+Mjesecni dnevni red
+
+Danas
+
+Nema događaja
+
+Danas nema zakazanih događaja.
+
+Cijeli dan
+
+Početak
+
+Kraj
+
+više
+
+Zatvoriti
+
+Otkazati
+
+(Bez naslova)
+
+Izbrisati
+
+Izbriši događaj
+
+Obriši više događaja
+
+Odabrane stavke
+
+Izbriši seriju
+
+Uredi
+
+Uredi seriju
+
+Uređivanje događaja
+
+Stvoriti
+
+predmet
+
+Dodaj Naslov
+
+Više detalja
+
+Uštedjeti
+
+Želite li urediti samo ovaj događaj ili cijelu seriju?
+
+Želite li izbrisati samo ovaj događaj ili cijelu seriju?
+
+Jeste li sigurni da želite izbrisati ovaj događaj?
+
+Jeste li sigurni da želite izbrisati odabrane događaje?
+
+Novi događaj
+
+Titula
+
+Mjesto
+
+Opis
+
+Vremenska zona
+
+Pokreni vremensko razdoblje
+
+Završi vremenski razmak
+
+Ponoviti
+
+Uštedjeti
+
+Otkazati
+
+Izbrisati
+
+vraćanje
+
+Obnova obrasca nije valjana.
+
+Promjene izvršene na određene slučajeve ove serije bit će otkazane i ti će se događaji ponovo podudarati sa serijom.
+
+Trajanje događaja mora biti kraće od učestalosti pojavljivanja. Skratite trajanje ili promijenite uzorak ponavljanja u uređivaču događaja ponavljanja.
+
+Neki mjeseci imaju manje od odabranog datuma. Tijekom ovih mjeseci, pojava će pasti na zadnji datum u mjesecu.
+
+Iste se dvije događaje istog događaja ne mogu pojaviti istog dana.
+
+Uredi ponovljeno pojavljivanje
+
+ponavlja
+
+uzbuna
+
+Odabrani datum završetka pojavljuje se prije datuma početka.
+
+Unesena vrijednost datuma nije valjana.
+
+U redu
+
+događaj
+
+Niz
+
+prijašnji
+
+Sljedeći
+
+Dan u vremenskoj traci
+
+Vremenski tjedan
+
+Tjedan radnog tjedna
+
+Vremenski mjesec
+
+nijedan
+
+Dnevno
+
+Tjedni
+
+Mjesečno
+
+Mjesec
+
+Godišnje
+
+Nikada
+
+Do
+
+Računati
+
+Prvi
+
+Drugi
+
+Treći
+
+Četvrta
+
+Posljednji
+
+Ponoviti
+
+Ponovite svaki
+
+Ponovite
+
+Kraj
+
+Dan
+
+Dan (a)
+
+Tjedni)
+
+Mjesec (i)
+
+Godine)
+
+svaki
+
+Vrijeme (s)
+
+na
+
+do
+
+ponavlja
+
+dan (a)
+
+tjedni)
+
+mjesec (i)
+
+godine)
+
+Tjedan mjeseca
+
+Pozicija mjeseca
+
+Mjesec Expander
+
+Godina Proširenje
+
+Ponavljanje intervala
+
+Zatvoriti
+
+Ukupno
+
+ukupno
+
+Vrijednost
+
+Bez vrijednosti
+
+Red
+
+Kolona
+
+Kolaps
+
+Proširiti
+
+Ispustite red ovdje
+
+Ispustite stupac ovdje
+
+Vrijedi vrijednost ovdje
+
+Ispustite filtar ovdje
+
+filtar
+
+filtriran
+
+Vrsta
+
+filteri
+
+redovi
+
+Kolumne
+
+vrijednosti
+
+Zatvoriti
+
+Otkazati
+
+Izbrisati
+
+Izračunato polje
+
+Napravite izračunato polje
+
+Unesite naziv polja
+
+greška
+
+Nevažeća formula ili naziv polja.
+
+Primjer: ('Sum (Order_Count)' + 'Sum (In_Stock)') * 250
+
+Dodajte polja i uredite formulu ovdje.
+
+Izračunato polje ne može se nalaziti u bilo kojem drugom području osim osi vrijednosti.
+
+uzbuna
+
+Upozorenje
+
+u redu
+
+traži
+
+Opterećenje
+
+Ukloniti
+
+Iznos
+
+prosječan
+
+Računati
+
+min
+
+maksimum
+
+Sva polja
+
+Formula
+
+Dodaj u redak
+
+Dodaj u stupac
+
+Dodaj u vrijednost
+
+Dodaj u filtar
+
+Nema zapisa za prikaz
+
+Polje već postoji u tom nazivu. Unesite drugi naziv.
+
+Polje za izračun već postoji u tom nazivu. Želiš li to zamijeniti?
+
+Nema utakmica
+
+Sažetak vrijednosti po
+
+Uredi
+
+Čisto
+
+Povucite i ispustite polja u formulu
+
+Povucite polje na formulu
+
+Čisto
+
+po
+
+Unesite vrijednost
+
+Unesite datum
+
+Jednako
+
+Nije jednako
+
+Počinje sa
+
+Ne počinje
+
+Završava s
+
+Ne završava
+
+sadrži
+
+Ne sadrži
+
+Veći od
+
+Veća ili jednaka
+
+Manje od
+
+Manje od ili jednako
+
+Između
+
+Nije između
+
+Prije
+
+Prije ili jednako
+
+Nakon
+
+Nakon ili jednako
+
+Član
+
+Označiti
+
+Datum
+
+Pokažite stavke za koje je oznaka
+
+Pokažite stavke za koje je datum
+
+Pokažite stavke za koje
+
+i
+
+Uvjetno oblikovanje
+
+PRIJAVITE SE
+
+Dodaj uvjet
+
+Format
+
+Pivot popis polja
+
+Popis polja
+
+Ispustite filtar ovdje
+
+Ispustite stupac ovdje
+
+Ispustite red ovdje
+
+Vrijedi vrijednost ovdje
+
+Dodajte polje ovdje
+
+Odaberite polje
+
+Povucite polja između osi ispod:
+
+dodati
+
+Opterećenje
+
+filtar
+
+filtriran
+
+Vrsta
+
+Ukloniti
+
+filteri
+
+redovi
+
+Kolumne
+
+vrijednosti
+
+Izračunato polje
+
+Napravite izračunato polje
+
+Unesite naziv polja
+
+greška
+
+Nevažeća formula ili naziv polja.
+
+Primjer: ('Sum (Order_Count)' + 'Sum (In_Stock)') * 250
+
+Dodajte polja i uredite formulu ovdje.
+
+Izračunato polje ne može se nalaziti u bilo kojem drugom području osim osi vrijednosti.
+
+traži
+
+Zatvoriti
+
+Otkazati
+
+Izbrisati
+
+uzbuna
+
+Upozorenje
+
+u redu
+
+Iznos
+
+prosječan
+
+Računati
+
+min
+
+maksimum
+
+Sva polja
+
+Formula
+
+Polje već postoji u tom nazivu. Unesite drugi naziv.
+
+Polje za izračun već postoji u tom nazivu. Želiš li to zamijeniti?
+
+Nema utakmica
+
+Sažetak vrijednosti po
+
+Uredi
+
+Čisto
+
+Povucite i ispustite polja u formulu
+
+Povucite polje na formulu
+
+Čisto
+
+po
+
+Unesite vrijednost
+
+Unesite datum
+
+Jednako
+
+Nije jednako
+
+Počinje sa
+
+Ne počinje
+
+Završava s
+
+Ne završava
+
+sadrži
+
+Ne sadrži
+
+Veći od
+
+Veća ili jednaka
+
+Manje od
+
+Manje od ili jednako
+
+Između
+
+Nije između
+
+Prije
+
+Prije ili jednako
+
+Nakon
+
+Nakon ili jednako
+
+Član
+
+Označiti
+
+Datum
+
+Vrijednost
+
+Pokažite stavke za koje je oznaka
+
+Pokažite stavke za koje je datum
+
+Pokažite stavke za koje
+
+i
+
+PRIJAVITE SE
+
+Zum
+
+ZoomIn
+
+Smanji
+
+Reset
+
+tava
+
+Poništi zumiranje
+
+Nema zapisa za prikaz
+
+pravi
+
+lažan
+
+Nevažeći podaci filtra
+
+Ovdje povucite zaglavlje stupca da biste grupirali njegov stupac
+
+Kliknite ovdje da biste odstranili grupu
+
+Grupiranje je onemogućeno za ovaj stupac
+
+a
+
+DataSource ne smije biti prazan pri početnom opterećenju budući da su stupci generirani iz podatakaSource u automatskoj generaciji stupaca
+
+Dodati
+
+Uredi
+
+Otkazati
+
+Ažuriraj
+
+Izbrisati
+
+otisak
+
+PDF izvoz
+
+Excel izvoz
+
+Izvoz riječi
+
+CSV izvoz
+
+traži
+
+Kolumne
+
+Uštedjeti
+
+artikal
+
+stavke
+
+Nema odabranih zapisa za uređivanje
+
+Nema odabranih zapisa za brisanje
+
+Uštedjeti
+
+u redu
+
+Otkazati
+
+Pojedinosti o
+
+Dodaj novi zapis
+
+Jeste li sigurni da želite spremiti promjene?
+
+Nespremljene promjene bit će izgubljene. Jeste li sigurni da želite nastaviti?
+
+Jeste li sigurni da želite izbrisati zapis?
+
+Jeste li sigurni da želite poništiti izmjene?
+
+Odaberite Stupac
+
+stupce za pretraživanje
+
+Nije pronađena nijedna podudaranja
+
+filtar
+
+Čisto
+
+Počinje sa
+
+Završava s
+
+sadrži
+
+Jednak
+
+Nejednak
+
+Manje od
+
+Manje od ili jednako
+
+Veći od
+
+Veća ili jednaka
+
+Odaberite datum
+
+Unesite vrijednost
+
+Kopirati
+
+Grupa po ovom stupcu
+
+Odstripljenje po ovom stupcu
+
+Automatski prilagodite sve stupce
+
+Automatski prilagodite ovaj stupac
+
+Izvoz
+
+Prva stranica
+
+Zadnja stranica
+
+Prethodna stranica
+
+Sljedeća stranica
+
+Sortiraj uzlazno
+
+Poredaj silazno
+
+Uredi zapis
+
+Izbriši zapis
+
+filtar
+
+Odaberi sve
+
+Blanks
+
+Pravi
+
+lažan
+
+Nije pronađena nijedna podudaranja
+
+Izbriši filtar
+
+Brojni filtri
+
+Filtri teksta
+
+Filtri datuma
+
+Filtri za DateTime
+
+Kutija šibica
+
+Između
+
+Prilagođeni filtar
+
+Unesite vrijednost
+
+Odaberite datum
+
+I
+
+ILI
+
+Prikaži retke u kojima:
+
+{0} od {1} stranica
+
+({0} stavki)
+
+Idite na prvu stranicu
+
+Idite na zadnju stranicu
+
+Idite na sljedeću stranicu
+
+Idite na prethodnu stranicu
+
+Idi na sljedeći pager
+
+Idite na prethodni pager
+
+stavke po stranici
+
+stavke
+
+svi
+
+poravnanja
+
+justifyLeft
+
+justifyCenter
+
+justifyRight
+
+justifyFull
+
+fontName
+
+veličina fonta
+
+boja fonta
+
+boja pozadine
+
+clearFormat
+
+očistiti sve
+
+unorderedList
+
+orderedList
+
+StvoriVezu
+
+otvori link
+
+EDITLINK
+
+removeLink
+
+otvori link
+
+EDITLINK
+
+removeLink
+
+slika
+
+zamijeniti
+
+uskladiti
+
+naslov
+
+ukloniti
+
+insertLink
+
+prikaz
+
+AltText
+
+dimenzija
+
+puni zaslon
+
+povećala
+
+umanjiti
+
+malim slovima
+
+velikim slovima
+
+otisak
+
+formati
+
+izvorni kod
+
+pregled
+
+viewside
+
+Unesite kod
+
+Poravnaj lijevu stranu
+
+Poravnajte centar
+
+Poravnajte se s desne strane
+
+Poravnajte opravdanje
+
+Naziv fonta
+
+Veličina fonta
+
+Boja fonta
+
+Boja pozadine
+
+odvažan
+
+kurzivan
+
+naglasiti
+
+precrtano
+
+izrezati
+
+kopirati
+
+zalijepiti
+
+uvući
+
+izvlaka
+
+otkopčati
+
+preurediti
+
+natpis
+
+potpisan
+
+Umetni hipervezu
+
+Otvori link
+
+Uredi vezu
+
+Ukloni vezu
+
+Umetni vezu
+
+Alternativni tekst
+
+Mala slova
+
+Velika slova
+
+Unesite kod
+
+Prikaz teksta
+
+Opis
+
+Web adresa
+
+http://example.com
+
+Otvori vezu u novom prozoru
+
+Umetni vezu
+
+Umetnuti
+
+Otkazati
+
+Ažuriraj
+
+Umetnite sliku
+
+Također možete pružiti vezu s weba
+
+Navedite URL svoje slike
+
+Ispustite sliku ovdje ili pregledajte prijenos
+
+Kliknite ovdje da biste ga prenijeli
+
+Alternativni tekst
+
+Alternativni tekst
+
+pretraživati
+
+http://example.com/image.png
+
+Naslov
+
+Veličina slike
+
+Visina
+
+Širina
+
+Unesite tekst
+
+primijeniti
+
+Otkazati
+
+Način prebacivanja
+
+Pretraživati...
+
+Čisto
+
+Učitaj
+
+Ili ostavite datoteke ovdje
+
+Veličina datoteke je prevelika
+
+Veličina datoteke je premala
+
+Vrsta datoteke nije dopuštena
+
+Datoteka nije uspjela prenijeti
+
+Datoteka je uspješno prenesena
+
+Datoteka je uspješno uklonjena
+
+Nije moguće ukloniti datoteku
+
+Prijenos
+
+Spremno za prijenos
+
+Prekid
+
+Ukloniti
+
+Otkazati
+
+Izbrisati dateoteku
+
+Datoteka je pauzirana
+
+Pauza
+
+rezime
+
+Pokušaj ponovno
+
+Otkazivanje datoteke je otkazano
+
+Povećanje vrijednosti
+
+Pad vrijednosti
+
+Danas
+
+Danas
+
+Odaberite datum
+
+Odaberite datumski raspon
+
+Početni datum
+
+Datum završetka
+
+primijeniti
+
+Otkazati
+
+Odabrani dani
+
+dana
+
+Prilagođeni raspon
+
+Odaberite vrijeme
+
+Danas
+
+Odaberite datum i vrijeme
+
+Zatvoriti
+
+Stol
+
+Red
+
+ćelija
+
+U redu
+
+Otkazati
+
+Veličina
+
+Poželjna širina
+
+točke
+
+posto
+
+Mjera u
+
+Poravnanje
+
+Lijevo
+
+Centar
+
+Pravo
+
+Opravdati
+
+Ulaz iz lijevo
+
+Granice i sjenčanje
+
+Opcije
+
+Odredite visinu
+
+Barem
+
+Točno
+
+Visina reda je
+
+Dopusti da se red prekine na stranicama
+
+Ponovite kao redak zaglavlja na vrhu svake stranice
+
+Okomito poravnanje
+
+Vrh
+
+Dno
+
+Zadane margine ćelija
+
+Zadani razmak stanice
+
+Dopusti razmak između stanica
+
+Granice ćelija
+
+Isto kao i cijeli stol
+
+granice
+
+nijedan
+
+Singl
+
+Točka
+
+DashSmallGap
+
+DashLargeGap
+
+DashDot
+
+DashDotDot
+
+Dvostruko
+
+Utrostručiti
+
+ThinThickSmallGap
+
+ThickThinSmallGap
+
+ThinThickThinSmallGap
+
+ThinThickMediumGap
+
+ThickThinMediumGap
+
+ThinThickThinMediumGap
+
+ThinThickLargeGap
+
+ThickThinLargeGap
+
+ThinThickThinLargeGap
+
+SingleWavy
+
+DoubleWavy
+
+DashDotStroked
+
+Emboss3D
+
+Engrave3D
+
+Početku
+
+umetak
+
+gust
+
+Stil
+
+Širina
+
+Visina
+
+Pismo
+
+u zbijenom obliku
+
+pravni
+
+izjava
+
+Izvršni
+
+A3
+
+A4
+
+A5
+
+B4
+
+B5
+
+Veličina po izboru
+
+Različiti čudni i ravnopravni
+
+Različita prva stranica
+
+Od ruba
+
+Zaglavlje
+
+Podnožje
+
+margine
+
+Papir
+
+raspored
+
+Orijentacija
+
+pejzaž
+
+Portret
+
+Sadržaj
+
+Prikaži brojeve stranica
+
+Desno poravnajte brojeve stranica
+
+Ništa
+
+Voditeljica tabulatora
+
+Prikaži razine
+
+Koristite hiperveze umjesto brojeva stranica
+
+Izradu tablice sadržaja iz
+
+Stilovi
+
+Dostupni stilovi
+
+TOC razinu
+
+Naslov
+
+Popis Stavka
+
+Normalan
+
+Razine razine
+
+Polja za unos tablice
+
+izmijeniti
+
+Boja
+
+postavljanje
+
+kutija
+
+svi
+
+Prilagođen
+
+pregled
+
+Sjenčanje
+
+ispuniti
+
+Prijaviti se
+
+Svojstva tablice
+
+Opcije ćelija
+
+Opcije tablice
+
+Umetni tablicu
+
+Broj stupaca
+
+Broj redaka
+
+Tekst za prikaz
+
+Adresa
+
+Umetni hipervezu
+
+Uredi hipervezu
+
+Umetnuti
+
+General
+
+uvlačenje
+
+Prije teksta
+
+poseban
+
+Prvi red
+
+Vješanje
+
+Nakon teksta
+
+Po
+
+Prije
+
+Razmak između redova
+
+Nakon
+
+Na
+
+višekratnik
+
+razmak
+
+Definirajte novi višerazinski popis
+
+Razina popisa
+
+Odaberite razinu za izmjenu
+
+nivo
+
+Format broja
+
+Stil broja za ovu razinu
+
+Unesite oblikovanje za broj
+
+Počnite od
+
+Ponovo pokrenite popis nakon
+
+Položaj
+
+Tekst se uvlači u
+
+Poravnati na
+
+Slijedi broj s
+
+Karakter kartice
+
+Prostor
+
+arapski
+
+UpRoman
+
+LowRoman
+
+UpLetter
+
+LowLetter
+
+Broj
+
+Vodeća nula
+
+Metak
+
+Redni
+
+Ordinalni tekst
+
+Za Istok
+
+Nema ponovnog pokretanja
+
+krstionica
+
+Stil fonta
+
+Podcrtati stil
+
+Boja fonta
+
+efekti
+
+precrtano
+
+natpis
+
+potpisan
+
+Dvostruko precizno
+
+redovan
+
+odvažan
+
+kurzivan
+
+Izrezati
+
+Kopirati
+
+Zalijepiti
+
+hiperlink
+
+Otvori Hyperlink
+
+Kopiraj hipervezu
+
+Ukloni hipervezu
+
+stav
+
+Spajanje ćelija
+
+Umetni iznad
+
+Umetni ispod
+
+Umetni ulijevo
+
+Umetni udesno
+
+Izbrisati
+
+Izbriši tablicu
+
+Izbriši redak
+
+Izbriši stupac
+
+Naziv datoteke
+
+Vrsta formata
+
+Uštedjeti
+
+navigacija
+
+Rezultati
+
+Zamijeniti
+
+Zamjeni sve
+
+Sve smo zamijenili
+
+Pronaći
+
+Nema utakmica
+
+Sve je učinjeno
+
+Proizlaziti
+
+od
+
+slučajevi
+
+s
+
+Kliknite da biste slijedili vezu
+
+Nastavite brojčano
+
+Naziv oznake
+
+Zatvoriti
+
+Ponovo pokrenite računalo
+
+Nekretnine
+
+Ime
+
+Vrsta stila
+
+Stil na temelju
+
+Stil za sljedeći odlomak
+
+oblikovanje
+
+Brojanje i metaka
+
+numeracija
+
+Ažuriraj polje
+
+Uredi polje
+
+Označite
+
+Podešavanje stranice
+
+Nisu pronađene oznake
+
+Format jednog broja na razini: </ br> [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Na primjer, Poglavlje% 1. će prikazati numeriranje kao </ br> Poglavlje 1. Predmet </ br> Poglavlje 2. Predmet </ br> ... </ br> Poglavlje N. Stavka </ br> </ br> Multilevel format broja: </ br > [PREFIX]% [LEVELNUMBER] [SUFFIX] + [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Na primjer,% 1.% 2. prikazat će brojčano prikazivanje kao </ br> 1.1. Točka </ br> 1.2. Stavka </ br> ... </ br> 1.N. Artikal
+
+Format
+
+Stvori novi stil
+
+Izmijenite stil
+
+Novi
+
+Grafičke oznake
+
+Upotrijebite oznake
+
+Sadržaj
+
+ 

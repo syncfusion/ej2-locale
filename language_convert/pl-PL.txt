@@ -1,0 +1,1495 @@
+Powiększenie
+
+Zbliżenie
+
+ZoomOut
+
+Nastawić
+
+Patelnia
+
+Resetuj zoom
+
+Dzień
+
+Tydzień
+
+Tydzień pracy
+
+Miesiąc
+
+Program
+
+Agenda tygodnia
+
+Agenda Tygodnia Pracy
+
+Agenda miesiąca
+
+Dzisiaj
+
+Brak wydarzeń
+
+Nie zaplanowano żadnych wydarzeń w tym dniu.
+
+Cały dzień
+
+Początek
+
+Koniec
+
+jeszcze
+
+Blisko
+
+Anuluj
+
+(Bez tytułu)
+
+Kasować
+
+Usuń wydarzenie
+
+Usuń wiele zdarzeń
+
+Elementy wybrane
+
+Usuń serię
+
+Edytować
+
+Edytuj serię
+
+Edytuj wydarzenie
+
+Stwórz
+
+Przedmiot
+
+Dodaj tytuł
+
+Więcej szczegółów
+
+Zapisać
+
+Czy chcesz edytować tylko to wydarzenie lub całą serię?
+
+Czy chcesz usunąć tylko to wydarzenie lub całą serię?
+
+Czy na pewno chcesz usunąć to wydarzenie?
+
+Czy na pewno chcesz usunąć wybrane wydarzenia?
+
+Nowe wydarzenie
+
+Tytuł
+
+Lokalizacja
+
+Opis
+
+Strefa czasowa
+
+Rozpocznij strefę czasową
+
+Zakończ strefę czasową
+
+Powtarzać
+
+Zapisać
+
+Anuluj
+
+Kasować
+
+Nawrót
+
+Wzór powtarzania jest nieprawidłowy.
+
+Zmiany wprowadzone w określonych instancjach tej serii zostaną anulowane, a te wydarzenia ponownie będą pasować do serii.
+
+Czas trwania wydarzenia musi być krótszy niż częstotliwość jego występowania. Skróć czas trwania lub zmień wzorzec cyklu w edytorze zdarzeń rekurencyjnych.
+
+Niektóre miesiące mają mniej niż wybrana data. W tych miesiącach wystąpienie przypada na ostatnią datę miesiąca.
+
+Dwa wystąpienia tego samego zdarzenia nie mogą wystąpić tego samego dnia.
+
+Edycja powtarzalności
+
+Powtarza się
+
+Alarm
+
+Wybrana data zakończenia ma miejsce przed datą rozpoczęcia.
+
+Wprowadzona wartość daty jest nieprawidłowa.
+
+Ok
+
+Występowanie
+
+Seria
+
+Poprzedni
+
+Kolejny
+
+Dzień na osi czasu
+
+Tydzień osi czasu
+
+Timeline Work Week
+
+Miesiąc czasu
+
+Żaden
+
+Codziennie
+
+Co tydzień
+
+Miesięczny
+
+Miesiąc
+
+Rocznie
+
+Nigdy
+
+Aż do
+
+Liczyć
+
+Pierwszy
+
+druga
+
+Trzeci
+
+Czwarty
+
+Ostatni, ubiegły, zeszły
+
+Powtarzać
+
+Powtarzaj każde
+
+Powtórz
+
+Koniec
+
+Dzień
+
+Dni)
+
+Tydzień (tygodnie)
+
+Miesięcy)
+
+Rok (y)
+
+każdy
+
+czasy)
+
+na
+
+aż do
+
+Powtarza się
+
+dni)
+
+tydzień (tygodnie)
+
+miesięcy)
+
+rok (lata)
+
+Tydzień miesiąca
+
+Pozycja miesiąca
+
+Miesiąc Expander
+
+Ekspansja roku
+
+Powtórz interwał
+
+Blisko
+
+Łączna suma
+
+Całkowity
+
+Wartość
+
+Bez wartości
+
+Rząd
+
+Kolumna
+
+Zawalić się
+
+Rozszerzać
+
+Rzuć tutaj wiersz
+
+Upuść kolumnę tutaj
+
+Upuść tutaj wartość
+
+Upuść filtr tutaj
+
+Filtr
+
+Przefiltrowany
+
+Sortować
+
+Filtry
+
+Wydziwianie
+
+Kolumny
+
+Wartości
+
+Blisko
+
+Anuluj
+
+Kasować
+
+Obliczone pole
+
+Utwórz pole obliczeniowe
+
+Wprowadź nazwę pola
+
+Błąd
+
+Nieprawidłowa formuła lub nazwa pola.
+
+Przykład: ("Suma (Order_Count)" + "Suma (In_Stock)") * 250
+
+Dodaj pola i edytuj formułę tutaj.
+
+Pola obliczeniowego nie można umieścić w żadnym innym regionie z wyjątkiem osi wartości.
+
+Alarm
+
+Ostrzeżenie
+
+ok
+
+Szukaj
+
+Opór
+
+Usunąć
+
+Suma
+
+Średni
+
+Liczyć
+
+Min
+
+Max
+
+Wszystkie pola
+
+Formuła
+
+Dodaj do wiersza
+
+Dodaj do kolumny
+
+Dodaj do wartości
+
+Dodaj do filtra
+
+brak nagrań do odtworzenia
+
+Pole już istnieje w tej nazwie. Podaj inną nazwę.
+
+Pole obliczeniowe już istnieje w tej nazwie. Czy chcesz to wymienić?
+
+Brak wyników
+
+Podsumowuje wartości według
+
+Edytować
+
+Jasny
+
+Przeciągnij i upuść pola do formuły
+
+Przeciągnij pole do formuły
+
+Jasny
+
+przez
+
+Wprowadź wartość
+
+Wprowadź datę
+
+Równa się
+
+Nie równa się
+
+Zaczyna się z
+
+Nie zaczyna się od
+
+Kończy się na
+
+Nie kończy się
+
+Zawiera
+
+Nie zawiera
+
+Lepszy niż
+
+Większe bądź równe
+
+Mniej niż
+
+Mniejszy lub równy
+
+pomiędzy
+
+Nie pomiędzy
+
+Przed
+
+Przed lub równy
+
+Po
+
+Po lub równy
+
+Członek
+
+Etykieta
+
+Data
+
+Pokaż elementy, dla których etykieta
+
+Pokaż elementy, dla których data
+
+Pokaż przedmioty, dla których
+
+i
+
+Formatowanie warunkowe
+
+ZASTOSOWAĆ
+
+Dodaj warunek
+
+Format
+
+Lista pól przestawnych
+
+Lista pól
+
+Upuść filtr tutaj
+
+Upuść kolumnę tutaj
+
+Rzuć tutaj wiersz
+
+Upuść tutaj wartość
+
+Dodaj tutaj pole
+
+Wybierz pole
+
+Przeciągnij pola między osiami poniżej:
+
+Dodaj
+
+Opór
+
+Filtr
+
+Przefiltrowany
+
+Sortować
+
+Usunąć
+
+Filtry
+
+Wydziwianie
+
+Kolumny
+
+Wartości
+
+Obliczone pole
+
+Utwórz pole obliczeniowe
+
+Wprowadź nazwę pola
+
+Błąd
+
+Nieprawidłowa formuła lub nazwa pola.
+
+Przykład: ("Suma (Order_Count)" + "Suma (In_Stock)") * 250
+
+Dodaj pola i edytuj formułę tutaj.
+
+Pola obliczeniowego nie można umieścić w żadnym innym regionie z wyjątkiem osi wartości.
+
+Szukaj
+
+Blisko
+
+Anuluj
+
+Kasować
+
+Alarm
+
+Ostrzeżenie
+
+ok
+
+Suma
+
+Średni
+
+Liczyć
+
+Min
+
+Max
+
+Wszystkie pola
+
+Formuła
+
+Pole już istnieje w tej nazwie. Podaj inną nazwę.
+
+Pole obliczeniowe już istnieje w tej nazwie. Czy chcesz to wymienić?
+
+Brak wyników
+
+Podsumowuje wartości według
+
+Edytować
+
+Jasny
+
+Przeciągnij i upuść pola do formuły
+
+Przeciągnij pole do formuły
+
+Jasny
+
+przez
+
+Wprowadź wartość
+
+Wprowadź datę
+
+Równa się
+
+Nie równa się
+
+Zaczyna się z
+
+Nie zaczyna się od
+
+Kończy się na
+
+Nie kończy się
+
+Zawiera
+
+Nie zawiera
+
+Lepszy niż
+
+Większe bądź równe
+
+Mniej niż
+
+Mniejszy lub równy
+
+pomiędzy
+
+Nie pomiędzy
+
+Przed
+
+Przed lub równy
+
+Po
+
+Po lub równy
+
+Członek
+
+Etykieta
+
+Data
+
+Wartość
+
+Pokaż elementy, dla których etykieta
+
+Pokaż elementy, dla których data
+
+Pokaż przedmioty, dla których
+
+i
+
+ZASTOSOWAĆ
+
+Powiększenie
+
+Zbliżenie
+
+ZoomOut
+
+Nastawić
+
+Patelnia
+
+Resetuj zoom
+
+brak nagrań do odtworzenia
+
+prawdziwe
+
+fałszywy
+
+Nieprawidłowe dane filtra
+
+Przeciągnij tutaj nagłówek kolumny, aby pogrupować jej kolumnę
+
+Kliknij tutaj, aby rozgrupować
+
+Grupowanie jest wyłączone dla tej kolumny
+
+"s pasek filtrujący komórki
+
+DataSource nie może być puste przy początkowym załadowaniu, ponieważ kolumny są generowane z DataSource w AutoGenerate Column Grid
+
+Dodaj
+
+Edytować
+
+Anuluj
+
+Aktualizacja
+
+Kasować
+
+Wydrukować
+
+Eksport PDF
+
+Eksport do Excela
+
+Eksport Word
+
+Eksport CSV
+
+Szukaj
+
+Kolumny
+
+Zapisać
+
+pozycja
+
+przedmiotów
+
+Brak wybranych rekordów do operacji edycji
+
+Brak wybranych rekordów do operacji usuwania
+
+Zapisać
+
+ok
+
+Anuluj
+
+Szczegóły
+
+Dodaj nowy rekord
+
+Czy na pewno chcesz zapisać zmiany?
+
+Niezapisane zmiany zostaną utracone. Jesteś pewien, że chcesz kontynuować?
+
+Czy na pewno chcesz usunąć rekord?
+
+Czy na pewno chcesz anulować zmiany?
+
+Wybierz kolumnę
+
+kolumny wyszukiwania
+
+Nie znaleziono żadnego meczu
+
+Filtr
+
+Jasny
+
+Zaczynać z
+
+Kończy się na
+
+Zawiera
+
+Równy
+
+Nie równe
+
+Mniej niż
+
+Mniej niż równy
+
+Lepszy niż
+
+Większe lub równe
+
+Wybierz datę
+
+Wprowadź wartość
+
+Kopiuj
+
+Grupuj według tej kolumny
+
+Rozgrupuj według tej kolumny
+
+Auto Dopasuj wszystkie kolumny
+
+Automatycznie dopasuj tę kolumnę
+
+Eksport
+
+Pierwsza strona
+
+Ostatnia strona
+
+Poprzednia strona
+
+Następna strona
+
+Sortuj rosnąco
+
+Sortuj malejąco
+
+Edytuj rekord
+
+Usuń rekord
+
+Filtr
+
+Zaznacz wszystko
+
+Puste
+
+Prawdziwe
+
+Fałszywy
+
+Nie znaleziono żadnego meczu
+
+Czysty filtr
+
+Filtry liczbowe
+
+Filtry tekstowe
+
+Filtry daty
+
+Filtry DateTime
+
+Sprawa meczu
+
+pomiędzy
+
+Filtr niestandardowy
+
+Wprowadź wartość
+
+Wybierz datę
+
+I
+
+LUB
+
+Pokaż wiersze, w których:
+
+{0} z {1} stron
+
+({0} przedmiotów)
+
+Idź do pierwszej strony
+
+Idź do ostatniej strony
+
+Przejdź do następnej strony
+
+Wróć do poprzedniej strony
+
+Przejdź do następnego pagera
+
+Przejdź do poprzedniego pagera
+
+przedmioty na stronę
+
+Przedmiotów
+
+Wszystko
+
+wyrównania
+
+justifyLeft
+
+justifyCenter
+
+justifyRight
+
+justifyFull
+
+Nazwa czcionki
+
+rozmiar czcionki
+
+kolor czcionki
+
+kolor tła
+
+clearFormat
+
+Wyczyść wszystko
+
+nieuporządkowana lista
+
+uporządkowana lista
+
+createLink
+
+openLink
+
+editLink
+
+removeLink
+
+openLink
+
+editLink
+
+removeLink
+
+obraz
+
+zastąpić
+
+wyrównać
+
+podpis
+
+usunąć
+
+insertLink
+
+pokaz
+
+altText
+
+wymiar
+
+pełny ekran
+
+Wyolbrzymiać
+
+zminimalizować
+
+lowerCase
+
+duże litery
+
+wydrukować
+
+formaty
+
+kod źródłowy
+
+zapowiedź
+
+widok
+
+Wprowadź kod
+
+Wyrównaj w lewo
+
+Wyrównaj centrum
+
+Wyrównaj w prawo
+
+Wyrównaj Justuj
+
+Nazwa czcionki
+
+Rozmiar czcionki
+
+Kolor czcionki
+
+Kolor tła
+
+pogrubienie
+
+italski
+
+podkreślać
+
+przekreślenie
+
+ciąć
+
+Kopiuj
+
+pasta
+
+akapit
+
+outdent
+
+Cofnij
+
+przerobić
+
+napisany u góry
+
+indeks
+
+Wstaw łącze
+
+Otwórz link
+
+Edytuj link
+
+Usuń link
+
+Wstaw link
+
+alternatywny tekst
+
+Małe litery
+
+Duże litery
+
+Wprowadź kod
+
+Wyświetl tekst
+
+Etykietka
+
+Adres internetowy
+
+http://example.com
+
+Otwórz link w nowym oknie
+
+Wstaw link
+
+Wstawić
+
+Anuluj
+
+Aktualizacja
+
+Umieść obraz
+
+Możesz także podać link z internetu
+
+Podaj adres URL swojego obrazu
+
+Upuść obraz tutaj lub przeglądaj, aby przesłać
+
+Kliknij tutaj, aby przesłać
+
+Alternatywny tekst
+
+alternatywny tekst
+
+Paść się
+
+http://example.com/image.png
+
+Podpis
+
+Rozmiar obrazu
+
+Wysokość
+
+Szerokość
+
+Wprowadź tekst
+
+Zastosować
+
+Anuluj
+
+Tryb przełączania
+
+Paść się...
+
+Jasny
+
+Przekazać plik
+
+Lub upuść pliki tutaj
+
+Rozmiar pliku jest zbyt duży
+
+Rozmiar pliku jest zbyt mały
+
+Typ pliku jest niedozwolony
+
+Nie udało się przesłać pliku
+
+Plik przesłany pomyślnie
+
+Plik został pomyślnie usunięty
+
+Nie można usunąć pliku
+
+Przesyłanie
+
+Gotowy do przesłania
+
+Anulować
+
+Usunąć
+
+Anuluj
+
+Usunąć plik
+
+Przesyłanie pliku zostało wstrzymane
+
+Pauza
+
+Wznawianie
+
+Spróbować ponownie
+
+Przesyłanie pliku zostało anulowane
+
+Wartość przyrostu
+
+Zmniejsz wartość
+
+Dzisiaj
+
+Dzisiaj
+
+Wybierz datę
+
+Wybierz zakres dat
+
+Data rozpoczęcia
+
+Data końcowa
+
+Zastosować
+
+Anuluj
+
+Wybrane dni
+
+Dni
+
+Zakres niestandardowy
+
+Wybierz czas
+
+Dzisiaj
+
+Wybierz datę i godzinę
+
+Blisko
+
+Stół
+
+Rząd
+
+Komórka
+
+Ok
+
+Anuluj
+
+Rozmiar
+
+Preferowana szerokość
+
+Zwrotnica
+
+Procent
+
+Zmierz w
+
+Wyrównanie
+
+Lewo
+
+Centrum
+
+Dobrze
+
+Uzasadniać
+
+Wcięcie od lewej
+
+Granice i cieniowanie
+
+Opcje
+
+Określ wysokość
+
+Przynajmniej
+
+Dokładnie
+
+Wysokość wiersza wynosi
+
+Zezwalaj na łamanie wierszy na stronach
+
+Powtórz jako wiersz nagłówka u góry każdej strony
+
+Pionowe wyrównanie
+
+Top
+
+Dolny
+
+Domyślne marginesy komórek
+
+Domyślny odstęp między komórkami
+
+Zezwalaj na odstępy między komórkami
+
+Marginesy komórki
+
+Taki sam jak cały stół
+
+Granice
+
+Żaden
+
+Pojedynczy
+
+Kropka
+
+DashSmallGap
+
+DashLargeGap
+
+DashDot
+
+DashDotDot
+
+Podwójnie
+
+Potroić
+
+ThinThickSmallGap
+
+ThickThinSmallGap
+
+ThinThickThinSmallGap
+
+ThinThickMediumGap
+
+ThickThinMediumGap
+
+ThinThickThinMediumGap
+
+ThinThickLargeGap
+
+ThickThinLargeGap
+
+ThinThickThinLargeGap
+
+SingleWavy
+
+DoubleWavy
+
+DashDotStroked
+
+Emboss3D
+
+Engrave3D
+
+Początek
+
+Wstawka
+
+Gruby
+
+Styl
+
+Szerokość
+
+Wysokość
+
+List
+
+Tabletka
+
+Prawny
+
+Komunikat
+
+Wykonawczy
+
+A3
+
+A4
+
+A5
+
+B4
+
+B5
+
+Niestandardowy rozmiar
+
+Różne dziwne i parzyste
+
+Inna pierwsza strona
+
+Od krawędzi
+
+nagłówek
+
+Stopka
+
+Marginesy
+
+Papier
+
+Układ
+
+Orientacja
+
+Krajobraz
+
+Portret
+
+Spis treści
+
+Pokaż numery stron
+
+Prawidłowe wyrównanie numerów stron
+
+Nic
+
+Lider tabulatora
+
+Pokaż poziomy
+
+Użyj hiperłączy zamiast numerów stron
+
+Zbuduj spis treści z
+
+Style
+
+Dostępne style
+
+Poziom spisu treści
+
+Nagłówek
+
+Listuj listę
+
+Normalna
+
+Poziomy konspektu
+
+Pola wprowadzania tabeli
+
+Modyfikować
+
+Kolor
+
+Oprawa
+
+Pudełko
+
+Wszystko
+
+Zwyczaj
+
+Zapowiedź
+
+Zacienienie
+
+Napełnić
+
+Zastosuj do
+
+Właściwości tabeli
+
+Opcje komórki
+
+Opcje tabeli
+
+Wypełnij tabelę
+
+Liczba kolumn
+
+Liczba rzędów
+
+Tekst do wyświetlenia
+
+Adres
+
+Wstaw łącze
+
+Edytuj hiperłącze
+
+Wstawić
+
+Generał
+
+Wcięcie
+
+Przed tekstem
+
+Specjalny
+
+Pierwsza linia
+
+Wiszące
+
+Po tekście
+
+Przez
+
+Przed
+
+Odstępy między wierszami
+
+Po
+
+W
+
+Wielokrotność
+
+Rozstaw
+
+Zdefiniuj nową listę wielopoziomową
+
+Poziom listy
+
+Wybierz poziom do modyfikacji
+
+Poziom
+
+Format liczbowy
+
+Styl numeru dla tego poziomu
+
+Wprowadź formatowanie numeru
+
+Zacznij od
+
+Ponownie uruchom listę po
+
+Pozycja
+
+Wcięcie tekstu na
+
+Wyrównany w
+
+Obserwuj numer za pomocą
+
+Znak tabulatora
+
+Przestrzeń
+
+arabski
+
+UpRoman
+
+LowRoman
+
+UpLetter
+
+LowLetter
+
+Numer
+
+Prowadzące zero
+
+Kula
+
+Porządkowy
+
+Tekst porządkowy
+
+Dla Wschodu
+
+Bez restartu
+
+Czcionka
+
+Styl czcionki
+
+Podkreśl styl
+
+Kolor czcionki
+
+Ruchomości
+
+Przekreślenie
+
+Napisany u góry
+
+Indeks
+
+Podwójne przekreślenie
+
+Regularny
+
+Pogrubienie
+
+italski
+
+Ciąć
+
+Kopiuj
+
+Pasta
+
+Hiperłącze
+
+Otwórz hiperłącze
+
+Skopiuj hiperłącze
+
+Usuń hiperłącze
+
+Ustęp
+
+Scal komórki
+
+Wstaw powyżej
+
+Wstaw poniżej
+
+Wstaw w lewo
+
+Wstaw w prawo
+
+Kasować
+
+Usuń tabelę
+
+Usuń wiersz
+
+Usuń kolumnę
+
+Nazwa pliku
+
+Typ formatu
+
+Zapisać
+
+Nawigacja
+
+Wyniki
+
+Zastąpić
+
+Zamień wszystko
+
+Zastąpiliśmy wszystko
+
+Odnaleźć
+
+Brak wyników
+
+Wszystko gotowe
+
+Wynik
+
+z
+
+instancje
+
+z
+
+Kliknij, aby śledzić link
+
+Kontynuuj numerowanie
+
+Nazwa zakładki
+
+Blisko
+
+Uruchom ponownie w
+
+Nieruchomości
+
+Nazwa
+
+Rodzaj stylu
+
+Styl oparty na
+
+Styl do następnego akapitu
+
+Formatowanie
+
+Numeracja i punktory
+
+Numeracja
+
+Zaktualizuj pole
+
+Edytuj pole
+
+Zakładka
+
+Ustawienia strony
+
+Nie znaleziono zakładek
+
+Format liczby pojedynczej: </ br> [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Na przykład, rozdział% 1. wyświetli numerację jak </ br> Rozdział 1. Pozycja </ br> Rozdział 2. Pozycja </ br> ... </ br> Rozdział N. Pozycja </ br> </ br> Format numeru wielopoziomowego: </ br > [PREFIX]% [LEVELNUMBER] [SUFFIX] + [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Na przykład% 1.% 2. wyświetli numerację jak </ br> 1.1. Przedmiot </ br> 1.2. Przedmiot </ br> ... </ br> 1.N. Pozycja
+
+Format
+
+Utwórz nowy styl
+
+Zmień styl
+
+Nowy
+
+Kule
+
+Użyj zakładek
+
+Spis treści
+
+ 

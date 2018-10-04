@@ -1,0 +1,1495 @@
+Zoom
+
+Mais Zoom
+
+Reduzir o zoom
+
+Restabelecer
+
+Panela
+
+Redefinir Zoom
+
+Dia
+
+Semana
+
+Semana de trabalho
+
+Mês
+
+Agenda
+
+Agenda da semana
+
+Agenda da Semana de Trabalho
+
+Mês Agenda
+
+Hoje
+
+Sem eventos
+
+Não há eventos agendados para este dia.
+
+Dia todo
+
+Começar
+
+Fim
+
+Mais
+
+Fechar
+
+Cancelar
+
+(Sem título)
+
+Excluir
+
+Excluir evento
+
+Excluir vários eventos
+
+Itens selecionados
+
+Excluir série
+
+Editar
+
+Editar séries
+
+Editar evento
+
+Crio
+
+Sujeito
+
+Adicionar título
+
+Mais detalhes
+
+Salve 
+
+Quer editar apenas este evento ou toda a série?
+
+Deseja excluir apenas este evento ou toda a série?
+
+Tem certeza de que deseja excluir este evento?
+
+Tem certeza de que deseja excluir os eventos selecionados?
+
+Novo evento
+
+Título
+
+Localização
+
+Descrição
+
+Fuso horário
+
+Start Timezone
+
+End Timezone
+
+Repetir
+
+Salve 
+
+Cancelar
+
+Excluir
+
+Recorrência
+
+O padrão de recorrência não é válido.
+
+As alterações feitas em instâncias específicas desta série serão canceladas e esses eventos corresponderão à série novamente.
+
+A duração do evento deve ser menor do que a frequência com que ocorre. Encurtar a duração ou alterar o padrão de recorrência no editor de eventos de recorrência.
+
+Alguns meses têm menos que a data selecionada. Para esses meses, a ocorrência cairá na última data do mês.
+
+Duas ocorrências do mesmo evento não podem ocorrer no mesmo dia.
+
+Editar recorrência
+
+Repete
+
+Alerta
+
+A data final selecionada ocorre antes da data de início.
+
+O valor da data introduzido é inválido.
+
+Está bem
+
+Ocorrência
+
+Series
+
+Anterior
+
+Próximo
+
+Dia da Linha do Tempo
+
+Semana da linha do tempo
+
+Semana de trabalho da linha do tempo
+
+Mês da Linha do Tempo
+
+Nenhum
+
+Diariamente
+
+Semanal
+
+Por mês
+
+Mês
+
+Anual
+
+Nunca
+
+Até
+
+Contagem
+
+Primeiro
+
+Segundo
+
+Terceiro
+
+Quarto
+
+Último
+
+Repetir
+
+Repita todos os
+
+Repetir em
+
+Fim
+
+Dia
+
+Dias)
+
+Semana (s)
+
+Mês (s)
+
+Anos)
+
+cada
+
+tempo (s)
+
+em
+
+até
+
+Repete
+
+dias)
+
+semana (s)
+
+mês (s)
+
+anos)
+
+Mês semana
+
+Posição do mês
+
+Expansor Mês
+
+Expansor do Ano
+
+Repetir Intervalo
+
+Fechar
+
+Total geral
+
+Total
+
+Valor
+
+Sem valor
+
+Linha
+
+Coluna
+
+Colapso
+
+Expandir
+
+Solte fila aqui
+
+Solte a coluna aqui
+
+Valor da gota aqui
+
+Solte o filtro aqui
+
+Filtro
+
+Filtrado
+
+Ordenar
+
+Filtros
+
+Linhas
+
+Colunas
+
+Valores
+
+Fechar
+
+Cancelar
+
+Excluir
+
+Campo calculado
+
+Criar campo calculado
+
+Digite o nome do campo
+
+Erro
+
+Fórmula ou nome de campo inválido.
+
+Exemplo: ('Sum (Order_Count)' + 'Sum (In_Stock)') * 250
+
+Adicione campos e edite a fórmula aqui.
+
+O campo calculado não pode ser colocado em nenhuma outra região, exceto o eixo de valor.
+
+Alerta
+
+Atenção
+
+Está bem
+
+Pesquisa
+
+Arrastar
+
+Remover
+
+Soma
+
+Média
+
+Contagem
+
+Minuto
+
+Max
+
+Todos os campos
+
+Fórmula
+
+Adicionar à linha
+
+Adicionar à coluna
+
+Adicionar ao valor
+
+Adicionar ao filtro
+
+Não há registros a serem exibidos
+
+Um campo já existe nesse nome. Por favor, insira um nome diferente.
+
+Já existe um campo de cálculo neste nome. Quer substituir?
+
+Sem combinações
+
+Resume valores por
+
+Editar
+
+Claro
+
+Arraste e solte os campos para a fórmula
+
+Arrastar campo para fórmula
+
+Claro
+
+de
+
+Insira o valor
+
+Insira a data
+
+É igual a
+
+Não é igual
+
+Começa com
+
+Não começa com
+
+Termina com
+
+Não termina com
+
+Contém
+
+Não contém
+
+Melhor que
+
+Melhor que ou igual a
+
+Menos que
+
+Menos que ou igual a
+
+Entre
+
+Não entre
+
+Antes
+
+Antes ou igual a
+
+Depois de
+
+Depois ou igual a
+
+Membro
+
+Rótulo
+
+Encontro
+
+Mostrar os itens para os quais o rótulo
+
+Mostrar os itens para os quais a data
+
+Mostrar os itens para os quais
+
+e
+
+Formatação condicional
+
+APLIQUE
+
+Adicionar condição
+
+Formato
+
+Lista de Campos Dinâmicos
+
+Lista de campos
+
+Solte o filtro aqui
+
+Solte a coluna aqui
+
+Solte fila aqui
+
+Valor da gota aqui
+
+Adicione campo aqui
+
+Escolha o campo
+
+Arraste os campos entre os eixos abaixo:
+
+adicionar
+
+Arrastar
+
+Filtro
+
+Filtrado
+
+Ordenar
+
+Remover
+
+Filtros
+
+Linhas
+
+Colunas
+
+Valores
+
+Campo calculado
+
+Criar campo calculado
+
+Digite o nome do campo
+
+Erro
+
+Fórmula ou nome de campo inválido.
+
+Exemplo: ('Sum (Order_Count)' + 'Sum (In_Stock)') * 250
+
+Adicione campos e edite a fórmula aqui.
+
+O campo calculado não pode ser colocado em nenhuma outra região, exceto o eixo de valor.
+
+Pesquisa
+
+Fechar
+
+Cancelar
+
+Excluir
+
+Alerta
+
+Atenção
+
+Está bem
+
+Soma
+
+Média
+
+Contagem
+
+Minuto
+
+Max
+
+Todos os campos
+
+Fórmula
+
+Um campo já existe nesse nome. Por favor, insira um nome diferente.
+
+Já existe um campo de cálculo neste nome. Quer substituir?
+
+Sem combinações
+
+Resume valores por
+
+Editar
+
+Claro
+
+Arraste e solte os campos para a fórmula
+
+Arrastar campo para fórmula
+
+Claro
+
+de
+
+Insira o valor
+
+Insira a data
+
+É igual a
+
+Não é igual
+
+Começa com
+
+Não começa com
+
+Termina com
+
+Não termina com
+
+Contém
+
+Não contém
+
+Melhor que
+
+Melhor que ou igual a
+
+Menos que
+
+Menos que ou igual a
+
+Entre
+
+Não entre
+
+Antes
+
+Antes ou igual a
+
+Depois de
+
+Depois ou igual a
+
+Membro
+
+Rótulo
+
+Encontro
+
+Valor
+
+Mostrar os itens para os quais o rótulo
+
+Mostrar os itens para os quais a data
+
+Mostrar os itens para os quais
+
+e
+
+APLIQUE
+
+Zoom
+
+Mais Zoom
+
+Reduzir o zoom
+
+Restabelecer
+
+Panela
+
+Redefinir Zoom
+
+Não há registros a serem exibidos
+
+verdade
+
+falso
+
+Dados de filtro inválidos
+
+Arraste um cabeçalho de coluna para agrupar sua coluna
+
+Clique aqui para desagrupar
+
+O agrupamento está desativado para esta coluna
+
+"s bar da barra de filtro
+
+O DataSource não deve estar vazio na carga inicial, pois as colunas são geradas a partir do dataSource no AutoGenerate Column Grid
+
+Adicionar
+
+Editar
+
+Cancelar
+
+Atualizar
+
+Excluir
+
+Impressão
+
+Exportação de PDF
+
+Exportação do Excel
+
+Exportação de Palavras
+
+Exportação CSV
+
+Pesquisa
+
+Colunas
+
+Salve 
+
+item
+
+Unid
+
+Nenhum registro selecionado para operação de edição
+
+Nenhum registro selecionado para operação de exclusão
+
+Salve 
+
+Está bem
+
+Cancelar
+
+Detalhes de
+
+Adicionar novo registro
+
+Tem certeza de que deseja salvar as alterações?
+
+As alterações não salvas serão perdidas. Você tem certeza que quer continuar?
+
+Tem certeza de que deseja excluir o registro?
+
+Tem certeza de que deseja cancelar as alterações?
+
+Escolha a coluna
+
+colunas de pesquisa
+
+Nenhuma equivalência encontrada
+
+Filtro
+
+Claro
+
+Começa com
+
+Termina com
+
+Contém
+
+Igual
+
+Não igual
+
+Menos que
+
+Menor ou igual
+
+Melhor que
+
+Maior que ou igual
+
+Escolha uma data
+
+Digite o valor
+
+cópia de
+
+Agrupar por esta coluna
+
+Desagrupar por esta coluna
+
+Ajuste automático de todas as colunas
+
+Auto ajuste esta coluna
+
+Exportar
+
+Primeira página
+
+Última página
+
+Página anterior
+
+Próxima página
+
+Ordernar ascendente
+
+Ordenar Descendente
+
+Editar registro
+
+Apagar registro
+
+Filtro
+
+Selecionar tudo
+
+Blanks
+
+Verdade
+
+Falso
+
+Nenhuma equivalência encontrada
+
+Filtro limpo
+
+Filtros Numéricos
+
+Filtros de Texto
+
+Filtros de data
+
+Filtros DateTime
+
+Caso de compatibilidade
+
+Entre
+
+Filtro customizado
+
+Digite o valor
+
+Escolha uma data
+
+E
+
+OU
+
+Mostrar linhas em que:
+
+{0} de {1} páginas
+
+({0} itens)
+
+Ir para a primeira página
+
+Ir para a última página
+
+Ir para a próxima página
+
+Ir para a página anterior
+
+Ir para o próximo pager
+
+Ir para o pager anterior
+
+itens por página
+
+Unid
+
+Todos
+
+alinhamentos
+
+justifyLeft
+
+justifyCenter
+
+justifyRight
+
+justificar
+
+fontName
+
+tamanho da fonte
+
+cor da fonte
+
+cor de fundo
+
+clearFormat
+
+limpar tudo
+
+unorderedList
+
+orderedlist
+
+createLink
+
+link aberto
+
+editLink
+
+removeLink
+
+link aberto
+
+editLink
+
+removeLink
+
+imagem
+
+substituir
+
+alinhar
+
+rubrica
+
+remover
+
+insertLink
+
+exibição
+
+texto alternativo
+
+dimensão
+
+tela cheia
+
+maximizar
+
+minimizar
+
+lowerCase
+
+upperCase
+
+impressão
+
+formatos
+
+Código fonte
+
+preview
+
+vista lateral
+
+insira Código
+
+Alinhar à esquerda
+
+Alinhar centro
+
+Alinhar à Direita
+
+Alinhar Justifique
+
+Nome da fonte
+
+Tamanho da fonte
+
+Cor da fonte
+
+Cor de fundo
+
+negrito
+
+itálico
+
+sublinhado
+
+tachado
+
+cortar
+
+cópia de
+
+colar
+
+recuar
+
+outdent
+
+desfazer
+
+refazer
+
+sobrescrito
+
+subscrito
+
+Insira o hyperlink
+
+Link aberto
+
+Editar link
+
+Remover link
+
+Inserir link
+
+Texto Alternativo
+
+Minúscula
+
+Maiúsculas
+
+Insira Código
+
+Exibir texto
+
+Tooltip
+
+Endereço da Web
+
+http://example.com
+
+Abrir link em nova janela
+
+Inserir link
+
+Inserir
+
+Cancelar
+
+Atualizar
+
+Inserir Imagem
+
+Você também pode fornecer um link da web
+
+Por favor, forneça um URL para sua imagem
+
+Solte a imagem aqui ou navegue para fazer o upload
+
+Clique aqui para fazer upload
+
+Texto alternativo
+
+Texto Alternativo
+
+Squeaky toy
+
+http://example.com/image.png
+
+Rubrica
+
+Tamanho da imagem
+
+Altura
+
+Largura
+
+Digite o texto
+
+Aplique
+
+Cancelar
+
+Mudar de modo
+
+Squeaky toy...
+
+Claro
+
+Envio
+
+Ou solte arquivos aqui
+
+O tamanho do arquivo é muito grande
+
+O tamanho do arquivo é muito pequeno
+
+Tipo de arquivo não permitido
+
+Falha no upload do arquivo
+
+Arquivo enviado com sucesso
+
+Arquivo removido com sucesso
+
+Não é possível remover o arquivo
+
+Upload
+
+Pronto para fazer upload
+
+Abortar
+
+Remover
+
+Cancelar
+
+Excluir arquivo
+
+Upload de arquivo pausado
+
+Pausa
+
+Currículo
+
+Tente novamente
+
+Upload de arquivo cancelado
+
+Valor de incremento
+
+Valor de decréscimo
+
+Hoje
+
+Hoje
+
+Escolha uma data
+
+Escolha um período
+
+Data de início
+
+Data final
+
+Aplique
+
+Cancelar
+
+Dias selecionados
+
+Dias
+
+Faixa personalizada
+
+Escolha um horário
+
+Hoje
+
+Escolha uma data e hora
+
+Fechar
+
+Mesa
+
+Linha
+
+Célula
+
+Está bem
+
+Cancelar
+
+Tamanho
+
+Largura preferida
+
+Pontos
+
+Por cento
+
+Meça em
+
+Alinhamento
+
+Esquerda
+
+Centro
+
+Certo
+
+Justificar
+
+Recuo da esquerda
+
+Bordas e sombreamento
+
+Opções
+
+Especifique a altura
+
+Finalmente
+
+Exatamente
+
+Altura da linha é
+
+Permitir que a linha quebre as páginas
+
+Repita como linha de cabeçalho no topo de cada página
+
+Alinhamento vertical
+
+Topo
+
+Inferior
+
+Margens da célula padrão
+
+Espaçamento de célula padrão
+
+Permitir espaçamento entre células
+
+Margens das Células
+
+O mesmo que a tabela inteira
+
+Fronteiras
+
+Nenhum
+
+solteiro
+
+Ponto
+
+DashSmallGap
+
+DashLargeGap
+
+DashDot
+
+DashDotDot
+
+Duplo
+
+Triplo
+
+ThinThickSmallGap
+
+ThickThinSmallGap
+
+ThickThickThinSmallGap
+
+ThinThickMediumGap
+
+ThickThinMediumGap
+
+ThinThickThinMediumGap
+
+ThinThickLargeGap
+
+ThickThinLargeGap
+
+ThinThickThinLargeGap
+
+SingleWavy
+
+DoubleWavy
+
+DashDotStroked
+
+Emboss3D
+
+Engrave3D
+
+Início
+
+Inserir
+
+Grosso
+
+Estilo
+
+Largura
+
+Altura
+
+Carta
+
+Tablóide
+
+Legal
+
+Declaração
+
+Executivo
+
+A3
+
+A4
+
+A5
+
+B4
+
+B5
+
+Tamanho personalizado
+
+Diferentes ímpares e pares
+
+Primeira página diferente
+
+Da borda
+
+Cabeçalho
+
+Rodapé
+
+Margens
+
+Papel
+
+Layout
+
+Orientação
+
+Panorama
+
+Retrato
+
+Índice
+
+Mostrar números de página
+
+Alinhar à direita os números de página
+
+Nada
+
+Líder de guia
+
+Mostrar níveis
+
+Use hyperlinks em vez de números de páginas
+
+Construir tabela de conteúdos de
+
+Estilos
+
+Estilos disponíveis
+
+Nível de TOC
+
+Título
+
+Parágrafo da lista
+
+Normal
+
+Níveis de estrutura de tópicos
+
+Campos de entrada da tabela
+
+Modificar
+
+Cor
+
+Configuração
+
+Caixa
+
+Todos
+
+personalizadas
+
+Visualizar
+
+Sombreamento
+
+Preencher
+
+Aplicar para
+
+Propriedades da tabela
+
+Opções de Célula
+
+Opções da Tabela
+
+Insira a tabela
+
+Numero de colunas
+
+Numero de linhas
+
+Texto para exibir
+
+Endereço
+
+Insira o hyperlink
+
+Editar hiperlink
+
+Inserir
+
+Geral
+
+Recuo
+
+Antes do texto
+
+Especial
+
+Primeira linha
+
+Suspensão
+
+Depois do texto
+
+De
+
+Antes
+
+Espaçamento entre linhas
+
+Depois de
+
+No
+
+Múltiplo
+
+Espaçamento
+
+Definir nova lista Multilevel
+
+Nível de lista
+
+Escolha o nível para modificar
+
+Nível
+
+Formato numérico
+
+Estilo numérico para este nível
+
+Digite a formatação para o número
+
+Começa ás
+
+Reinicie a lista depois
+
+Posição
+
+Texto recuo em
+
+Alinhado em
+
+Siga o número com
+
+Caractere de tabulação
+
+Espaço
+
+árabe
+
+UpRoman
+
+LowRoman
+
+UpLetter
+
+LowLetter
+
+Número
+
+Zero à esquerda
+
+Bala
+
+Ordinal
+
+Texto Ordinal
+
+Para o leste
+
+Sem reinício
+
+Fonte
+
+Estilo de fonte
+
+Estilo sublinhado
+
+Cor da fonte
+
+Efeitos
+
+Tachado
+
+Sobrescrito
+
+Subscrito
+
+Tachado duplo
+
+Regular
+
+Negrito
+
+itálico
+
+Cortar
+
+cópia de
+
+Colar
+
+Hiperlink
+
+Abrir hiperlink
+
+Copiar hiperlink
+
+Remover hiperlink
+
+Parágrafo
+
+Mesclar Células
+
+Inserir acima
+
+Inserir abaixo
+
+Inserir à esquerda
+
+Inserir à direita
+
+Excluir
+
+Excluir tabela
+
+Excluir linha
+
+Excluir coluna
+
+Nome do arquivo
+
+Tipo de formato
+
+Salve 
+
+Navegação
+
+Resultados
+
+Substituir
+
+Substitua tudo
+
+Nós substituímos tudo
+
+Encontrar
+
+Sem combinações
+
+Tudo feito
+
+Resultado
+
+do
+
+instâncias
+
+com
+
+Clique para seguir o link
+
+Continue a numeração
+
+Nome do marcador
+
+Fechar
+
+Reinicie em
+
+Propriedades
+
+Nome
+
+Tipo de estilo
+
+Estilo baseado em
+
+Estilo para o parágrafo seguinte
+
+Formatação
+
+Numeração e marcadores
+
+Numeração
+
+Atualizar campo
+
+Editar campo
+
+marca páginas
+
+Configurações da página
+
+Nenhum marcador encontrado
+
+Formato numérico de nível único: </ br> [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Por exemplo, Capítulo% 1. exibirá numeração como </ br> Capítulo 1. Item </ br> Capítulo 2. Item </ br> ... </ br> Capítulo N. Item </ br> </ br> Formato de número multinível: </ br > [PREFIX]% [LEVELNUMBER] [SUFFIX] + [PREFIXO]% [LEVELNUMBER] [SUFFIX] </ br> Por exemplo,% 1.% 2. irá exibir numeração como </ br> 1.1. Item </ br> 1.2. Item </ br>… </ br> 1.N. Item
+
+Formato
+
+Crie um novo estilo
+
+Modificar Estilo
+
+Novo
+
+Balas
+
+Use marcadores
+
+Índice
+
+ 

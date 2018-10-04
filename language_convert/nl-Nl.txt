@@ -1,0 +1,1495 @@
+Zoom
+
+In zoomen
+
+Uitzoomen
+
+Reset
+
+Pan
+
+Zoom opnieuw instellen
+
+Dag
+
+Week
+
+Werkweek
+
+Maand
+
+Agenda
+
+Weekagenda
+
+Werkweek Agenda
+
+Maandagenda
+
+Vandaag
+
+Geen evenementen
+
+Er zijn geen evenementen gepland op deze dag.
+
+De hele dag
+
+Begin
+
+Einde
+
+meer
+
+Dichtbij
+
+Annuleer
+
+(Geen titel)
+
+Verwijder
+
+Evenement verwijderen
+
+Meerdere evenementen verwijderen
+
+Items geselecteerd
+
+Serie verwijderen
+
+Bewerk
+
+Bewerk serie
+
+Gebeurtenis bewerken
+
+creëren
+
+Onderwerpen
+
+Voeg titel toe
+
+Meer details
+
+Opslaan
+
+Wilt u alleen deze gebeurtenis of hele reeks bewerken?
+
+Wilt u alleen deze gebeurtenis of hele reeks verwijderen?
+
+Weet je zeker dat je deze afspraak wilt verwijderen?
+
+Weet je zeker dat je de geselecteerde evenementen wilt verwijderen?
+
+Nieuw evenement
+
+Titel
+
+Plaats
+
+Beschrijving
+
+Tijdzone
+
+Start tijdzone
+
+Eindtijdzone
+
+Herhaling
+
+Opslaan
+
+Annuleer
+
+Verwijder
+
+Herhaling
+
+Het terugkeerpatroon is niet geldig.
+
+De wijzigingen die in specifieke exemplaren van deze serie zijn aangebracht, worden geannuleerd en deze gebeurtenissen komen opnieuw overeen met de reeks.
+
+De duur van het evenement moet korter zijn dan hoe vaak het gebeurt. Verkort de duur of wijzig het patroon van herhalingen in de editor voor herhalingsevenementen.
+
+Sommige maanden hebben minder dan de geselecteerde datum. Voor deze maanden valt het voorval de laatste dag van de maand.
+
+Twee exemplaren van dezelfde gebeurtenis kunnen niet dezelfde dag plaatsvinden.
+
+Herhaling bewerken
+
+herhalingen
+
+alarm
+
+De geselecteerde einddatum vindt plaats vóór de startdatum.
+
+De ingevoerde datumwaarde is ongeldig.
+
+OK
+
+voorval
+
+Serie
+
+voorgaand
+
+volgende
+
+Tijdlijndag
+
+Tijdlijnweek
+
+Tijdlijn werkweek
+
+Tijdlijn maand
+
+Geen
+
+Dagelijks
+
+Wekelijks
+
+Maandelijks
+
+Maand
+
+jaar-
+
+Nooit
+
+Tot
+
+tellen
+
+Eerste
+
+Tweede
+
+Derde
+
+Vierde
+
+Laatste
+
+Herhaling
+
+Herhaal elke
+
+Herhaal Aan
+
+Einde
+
+Dag
+
+Dag (en)
+
+Weken)
+
+Maanden)
+
+Jaar (s)
+
+elk
+
+tijd (s)
+
+op
+
+tot
+
+herhalingen
+
+dag (en)
+
+weken)
+
+maanden)
+
+jaar (jaren)
+
+Maandweek
+
+Maand positie
+
+Maand Expander
+
+Jaar Expander
+
+Herhaal interval
+
+Dichtbij
+
+Eindtotaal
+
+Totaal
+
+Waarde
+
+Geen waarde
+
+Rij
+
+Kolom
+
+Ineenstorting
+
+Uitbreiden
+
+Zet rij hier neer
+
+Zet hier de kolom neer
+
+Drop-waarde hier
+
+Zet filter hier neer
+
+Filter
+
+gefilterd
+
+Soort
+
+filters
+
+rijen
+
+columns
+
+waarden
+
+Dichtbij
+
+Annuleer
+
+Verwijder
+
+Berekend veld
+
+Maak berekend veld
+
+Voer de veldnaam in
+
+Fout
+
+Ongeldige formule of veldnaam.
+
+Voorbeeld: ('Som (Order_Count)' + 'Som (In_Stock)') * 250
+
+Voeg velden toe en bewerk de formule hier.
+
+Het berekende veld kan niet in een ander gebied worden geplaatst behalve de waardeas.
+
+alarm
+
+Waarschuwing
+
+OK
+
+Zoeken
+
+Slepen
+
+Verwijderen
+
+Som
+
+Gemiddelde
+
+tellen
+
+min
+
+Max
+
+Alle velden
+
+Formule
+
+Toevoegen aan rij
+
+Toevoegen aan kolom
+
+Voeg toe aan waarde
+
+Toevoegen aan filter
+
+Geen records om weer te geven
+
+Er bestaat al een veld in deze naam. Voer een andere naam in.
+
+Er bestaat al een rekenveld in deze naam. Wil je het vervangen?
+
+Geen overeenkomsten
+
+Geeft waarden samen door
+
+Bewerk
+
+Duidelijk
+
+Versleep de velden naar de formule
+
+Versleep het veld naar de formule
+
+Duidelijk
+
+door
+
+Voer waarde in
+
+Voer datum in
+
+Is gelijk aan
+
+Is niet gelijk aan
+
+Begint met
+
+Begint niet mee
+
+Eindigt met
+
+Eindigt niet met
+
+bevat
+
+Bevat geen
+
+Groter dan
+
+Groter dan of gelijk aan
+
+Minder dan
+
+Minder dan of gelijk aan
+
+Tussen
+
+Niet tussen
+
+Voor
+
+Voor of gelijk aan
+
+Na
+
+After Or Equal To
+
+Lid
+
+Etiket
+
+Datum
+
+Toon de items waarvoor het label
+
+Toon de items waarvoor de datum
+
+Toon de items waarvoor
+
+en
+
+Conditionele opmaak
+
+VAN TOEPASSING ZIJN
+
+Voorwaarde toevoegen
+
+Formaat
+
+Pivot Field List
+
+Field List
+
+Zet filter hier neer
+
+Zet hier de kolom neer
+
+Zet rij hier neer
+
+Drop-waarde hier
+
+Voeg veld toe hier
+
+Kies een veld
+
+Sleep velden tussen onderstaande assen:
+
+toevoegen
+
+Slepen
+
+Filter
+
+gefilterd
+
+Soort
+
+Verwijderen
+
+filters
+
+rijen
+
+columns
+
+waarden
+
+Berekend veld
+
+Maak berekend veld
+
+Voer de veldnaam in
+
+Fout
+
+Ongeldige formule of veldnaam.
+
+Voorbeeld: ('Som (Order_Count)' + 'Som (In_Stock)') * 250
+
+Voeg velden toe en bewerk de formule hier.
+
+Het berekende veld kan niet in een ander gebied worden geplaatst behalve de waardeas.
+
+Zoeken
+
+Dichtbij
+
+Annuleer
+
+Verwijder
+
+alarm
+
+Waarschuwing
+
+OK
+
+Som
+
+Gemiddelde
+
+tellen
+
+min
+
+Max
+
+Alle velden
+
+Formule
+
+Er bestaat al een veld in deze naam. Voer een andere naam in.
+
+Er bestaat al een rekenveld in deze naam. Wil je het vervangen?
+
+Geen overeenkomsten
+
+Geeft waarden samen door
+
+Bewerk
+
+Duidelijk
+
+Versleep de velden naar de formule
+
+Versleep het veld naar de formule
+
+Duidelijk
+
+door
+
+Voer waarde in
+
+Voer datum in
+
+Is gelijk aan
+
+Is niet gelijk aan
+
+Begint met
+
+Begint niet mee
+
+Eindigt met
+
+Eindigt niet met
+
+bevat
+
+Bevat geen
+
+Groter dan
+
+Groter dan of gelijk aan
+
+Minder dan
+
+Minder dan of gelijk aan
+
+Tussen
+
+Niet tussen
+
+Voor
+
+Voor of gelijk aan
+
+Na
+
+After Or Equal To
+
+Lid
+
+Etiket
+
+Datum
+
+Waarde
+
+Toon de items waarvoor het label
+
+Toon de items waarvoor de datum
+
+Toon de items waarvoor
+
+en
+
+VAN TOEPASSING ZIJN
+
+Zoom
+
+In zoomen
+
+Uitzoomen
+
+Reset
+
+Pan
+
+Zoom opnieuw instellen
+
+Geen records om weer te geven
+
+waar
+
+vals
+
+Ongeldige filtergegevens
+
+Sleep hier een kolomkop om de kolom te groeperen
+
+Klik hier om te de-groeperen
+
+Groeperen is uitgeschakeld voor deze kolom
+
+"s filterbarcel
+
+DataSource mag niet leeg zijn bij de eerste keer laden, omdat kolommen worden gegenereerd vanuit dataSource in AutoGenerate Column Grid
+
+Toevoegen
+
+Bewerk
+
+Annuleer
+
+Bijwerken
+
+Verwijder
+
+Afdrukken
+
+PDF exporteren
+
+Excel Export
+
+Word Export
+
+CSV-export
+
+Zoeken
+
+columns
+
+Opslaan
+
+item
+
+items
+
+Geen records geselecteerd voor bewerkingsbewerking
+
+Geen records geselecteerd voor verwijderen
+
+Opslaan
+
+OK
+
+Annuleer
+
+Details van
+
+Nieuw record toevoegen
+
+Weet je zeker dat je wijzigingen wilt opslaan?
+
+Niet-opgeslagen wijzigingen gaan verloren. Weet je zeker dat je door wilt gaan?
+
+Weet je zeker dat je Record wilt verwijderen?
+
+Weet je zeker dat je de wijzigingen wilt annuleren?
+
+Kies Kolom
+
+zoek kolommen
+
+Geen overeenkomsten gevonden
+
+Filter
+
+Duidelijk
+
+Begint met
+
+Eindigt met
+
+bevat
+
+Gelijk
+
+Niet gelijk
+
+Minder dan
+
+Minder dan of gelijk
+
+Groter dan
+
+Groter dan of gelijk aan
+
+Kies een datum
+
+Voer de waarde in
+
+Kopiëren
+
+Groepeer op deze kolom
+
+Degroeperen op basis van deze kolom
+
+Auto Fit alle kolommen
+
+Auto Fit deze kolom
+
+Exporteren
+
+Eerste pagina
+
+Laatste pagina
+
+Vorige bladzijde
+
+Volgende bladzijde
+
+Oplopend sorteren
+
+Aflopend sorteren
+
+Bewerk record
+
+Record verwijderen
+
+Filter
+
+Selecteer alles
+
+blanks
+
+waar
+
+vals
+
+Geen overeenkomsten gevonden
+
+Filter wissen
+
+Getalfilters
+
+Tekstfilters
+
+Datumfilters
+
+DateTime-filters
+
+Match Case
+
+Tussen
+
+Aangepaste filter
+
+Voer de waarde in
+
+Kies een datum
+
+EN
+
+OF
+
+Toon rijen waar:
+
+{0} van {1} pagina's
+
+({0} items)
+
+Ga naar de eerste pagina
+
+Ga naar de laatste pagina
+
+Ga naar de volgende pagina
+
+Ga naar de vorige pagina
+
+Ga naar de volgende pager
+
+Ga naar de vorige pager
+
+Artikelen per pagina
+
+items
+
+Alle
+
+uitlijningen
+
+justifyLeft
+
+justifyCenter
+
+justifyRight
+
+justifyFull
+
+fontName
+
+lettertypegrootte
+
+fontcolor
+
+Achtergrond kleur
+
+clearFormat
+
+wis alles
+
+ongeordende lijst
+
+bestelde lijst
+
+CreateLink
+
+open link
+
+editLink
+
+removeLink
+
+open link
+
+editLink
+
+removeLink
+
+beeld
+
+vervangen
+
+richten
+
+onderschrift
+
+verwijderen
+
+insertLink
+
+tonen
+
+Alt-tekst
+
+dimensie
+
+volledig scherm
+
+maximaliseren
+
+verkleinen
+
+Kleine letters
+
+hOOFDLETTERS
+
+afdrukken
+
+formats
+
+broncode
+
+voorvertoning
+
+viewside
+
+Voeg code in
+
+Links uitlijnen
+
+Centre uitlijnen
+
+Rechts uitlijnen
+
+Lijn Justify uit
+
+Lettertype naam
+
+Lettertypegrootte
+
+Letterkleur
+
+Achtergrond kleur
+
+stoutmoedig
+
+cursief
+
+onderstrepen
+
+doorhalen
+
+besnoeiing
+
+kopiëren
+
+plakken
+
+inspringen
+
+outdent
+
+ongedaan maken
+
+opnieuw doen
+
+superscript
+
+subscript
+
+Voeg hyperlink in
+
+Open link
+
+Link bewerken
+
+Link verwijderen
+
+Link invoegen
+
+alternatieve tekst
+
+Kleine letters
+
+Hoofdletters
+
+Voeg code in
+
+Displaytekst
+
+tooltip
+
+Webadres
+
+http://example.com
+
+Open de link in een nieuw venster
+
+Link invoegen
+
+invoegen
+
+Annuleer
+
+Bijwerken
+
+Voeg afbeelding in
+
+U kunt ook een link van internet opgeven
+
+Geef een URL op voor uw afbeelding
+
+Zet hier een afbeelding neer of blader om te uploaden
+
+Klik hier om te uploaden
+
+Alternatieve tekst
+
+alternatieve tekst
+
+Blader
+
+http://example.com/image.png
+
+Onderschrift
+
+Afbeeldingsgrootte
+
+Hoogte
+
+Breedte
+
+Tekst invoeren
+
+Van toepassing zijn
+
+Annuleer
+
+Verander modus
+
+Bladeren ...
+
+Duidelijk
+
+Uploaden
+
+Of zet hier bestanden neer
+
+Bestandsgrootte is te groot
+
+Bestandsgrootte is te klein
+
+Bestandstype is niet toegestaan
+
+Bestand kan niet worden geüpload
+
+bestand succesvol geüpload
+
+Bestand met succes verwijderd
+
+Kan bestand niet verwijderen
+
+uploaden
+
+Klaar om te uploaden
+
+Afbreken
+
+Verwijderen
+
+Annuleer
+
+Verwijder bestand
+
+Bestandsupload onderbroken
+
+Pauze
+
+Hervat
+
+opnieuw proberen
+
+Bestandsupload geannuleerd
+
+Waarde verhogen
+
+Verlagingswaarde
+
+Vandaag
+
+Vandaag
+
+Kies een datum
+
+Kies een datumbereik
+
+Begin datum
+
+Einddatum
+
+Van toepassing zijn
+
+Annuleer
+
+Geselecteerde dagen
+
+dagen
+
+Aangepast bereik
+
+Kies een tijd
+
+Vandaag
+
+Kies een datum en tijd
+
+Dichtbij
+
+Tafel
+
+Rij
+
+Cel
+
+OK
+
+Annuleer
+
+Grootte
+
+Voorkeur breedte
+
+punten
+
+procent
+
+Meet in
+
+opstelling
+
+Links
+
+Centrum
+
+Rechts
+
+Rechtvaardigen
+
+Inspringing van links
+
+Randen en schaduw
+
+opties
+
+Geef de hoogte op
+
+Minstens
+
+Precies
+
+Rijhoogte is
+
+Sta rij toe om pagina's te doorbreken
+
+Herhaal als kopregel bovenaan elke pagina
+
+Verticale uitlijning
+
+Top
+
+Bodem
+
+Standaard celmarges
+
+Standaard celafstand
+
+Sta ruimte toe tussen cellen
+
+Celmarges
+
+Hetzelfde als de hele tafel
+
+borders
+
+Geen
+
+single
+
+Punt
+
+DashSmallGap
+
+DashLargeGap
+
+DashDot
+
+DashDotDot
+
+Dubbele
+
+Verdrievoudigen
+
+ThinThickSmallGap
+
+ThickThinSmallGap
+
+ThinThickThinSmallGap
+
+ThinThickMediumGap
+
+ThickThinMediumGap
+
+ThinThickThinMediumGap
+
+ThinThickLargeGap
+
+ThickThinLargeGap
+
+ThinThickThinLargeGap
+
+SingleWavy
+
+DoubleWavy
+
+DashDotStroked
+
+Emboss3D
+
+Engrave3D
+
+Begin
+
+inzet
+
+Dik
+
+Stijl
+
+Breedte
+
+Hoogte
+
+Brief
+
+tabloid
+
+wettelijk
+
+Uitspraak
+
+uitvoerend
+
+A3
+
+A4
+
+A5
+
+B4
+
+B5
+
+Aangepast formaat
+
+Verschillende oneven en even
+
+Verschillende eerste pagina
+
+Van rand
+
+hoofd
+
+footer
+
+marges
+
+Papier
+
+lay-out
+
+oriëntering
+
+Landschap
+
+Portret
+
+Inhoudsopgave
+
+Toon paginanummers
+
+Lijn de paginanummers rechts uit
+
+Niets
+
+Tab leider
+
+Show levels
+
+Gebruik hyperlinks in plaats van paginanummers
+
+Bouw inhoudsopgave van
+
+stijlen
+
+Beschikbare stijlen
+
+TOC niveau
+
+titel
+
+Lijst van alinea's
+
+normaal
+
+Overzichtsniveaus
+
+Tabel invoervelden
+
+Wijzigen
+
+Kleur
+
+omgeving
+
+Doos
+
+Alle
+
+gewoonte
+
+Voorbeeld
+
+shading
+
+Vullen
+
+Gelden voor
+
+Tabeleigenschappen
+
+Celopties
+
+Tabel opties
+
+Tabel invoegen
+
+Aantal columns
+
+Aantal rijen
+
+Tekst die moet worden weergegeven
+
+Adres
+
+Voeg hyperlink in
+
+Hyperlink bewerken
+
+invoegen
+
+Algemeen
+
+deuk
+
+Voor de tekst
+
+speciaal
+
+Eerste lijn
+
+opknoping
+
+Na tekst
+
+Door
+
+Voor
+
+Regelafstand
+
+Na
+
+Op
+
+Meerdere
+
+tussenruimte
+
+Definieer een nieuwe lijst met meer niveaus
+
+Lijstniveau
+
+Kies niveau om te wijzigen
+
+Niveau
+
+Nummer formaat
+
+Nummerstijl voor dit niveau
+
+Voer de opmaak voor het nummer in
+
+Begin bij
+
+Herstart lijst na
+
+Positie
+
+Tekstindeling op
+
+Uitgelijnd op
+
+Volg nummer met
+
+Tab-teken
+
+Ruimte
+
+Arabisch
+
+UpRoman
+
+LowRoman
+
+UpLetter
+
+LowLetter
+
+Aantal
+
+Voorloopnul
+
+Kogel
+
+rangtelwoord
+
+Oorspronkelijke tekst
+
+Voor Oost
+
+Geen herstart
+
+doopvont
+
+Lettertype
+
+Stijl onderstrepen
+
+Letterkleur
+
+Bijwerkingen
+
+doorhalen
+
+superscript
+
+Onderschrift
+
+Dubbel doorhalen
+
+regelmatig
+
+Stoutmoedig
+
+Cursief
+
+Besnoeiing
+
+Kopiëren
+
+Plakken
+
+hyperlink
+
+Open Hyperlink
+
+Hyperlink kopiëren
+
+Hyperlink verwijderen
+
+paragraaf
+
+Cellen samenvoegen
+
+Boven invoegen
+
+Voeg hieronder in
+
+Plaats links
+
+Voeg rechts in
+
+Verwijder
+
+Tabel verwijderen
+
+Verwijder rij
+
+Kolom verwijderen
+
+Bestandsnaam
+
+Formaat Type
+
+Opslaan
+
+Navigatie
+
+resultaten
+
+Vervangen
+
+Vervang alles
+
+We hebben alles vervangen
+
+Vind
+
+Geen overeenkomsten
+
+Helemaal klaar
+
+Resultaat
+
+van
+
+instanties
+
+met
+
+Klik om de link te volgen
+
+Doorgaan met nummering
+
+Naam van de bladwijzer
+
+Dichtbij
+
+Start opnieuw op
+
+eigenschappen
+
+Naam
+
+Stijl type
+
+Stijl gebaseerd op
+
+Stijl voor de volgende alinea
+
+opmaak
+
+Nummering en opsommingstekens
+
+nummering
+
+Veld bijwerken
+
+Bewerk veld
+
+Bladwijzer
+
+Pagina instellingen
+
+Geen bladwijzers gevonden
+
+Formaat met één niveau nummer: </ br> [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Bijvoorbeeld hoofdstuk% 1. geeft de nummering weer zoals </ br> Hoofdstuk 1. Item </ br> Hoofdstuk 2. Item </ br> ... </ br> Hoofdstuk N. Item </ br> </ br> Multilevel nummerformaat: </ br > [PREFIX]% [LEVELNUMBER] [SUFFIX] + [PREFIX]% [LEVELNUMBER] [SUFFIX] </ br> Bijvoorbeeld% 1.% 2. geeft nummering weer zoals </ br> 1.1. Item </ br> 1.2. Item </ br> ... </ br> 1.N. Item
+
+Formaat
+
+Maak een nieuwe stijl
+
+Wijzig stijl
+
+nieuwe
+
+kogels
+
+Gebruik bladwijzers
+
+Inhoudsopgave
+
+ 
