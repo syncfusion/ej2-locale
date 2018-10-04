@@ -1,6 +1,6 @@
 # ej2-locale
 
-A package of Essential JS 2 component’s locale texts for Various language.
+A package of Essential JS 2 component’s locale texts for various language.
 
 ## Currently supported localization languages
 
