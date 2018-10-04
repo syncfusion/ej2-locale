@@ -1,7 +1,7 @@
 {
   "name": "ej2-locale-text",
   "version": "16.3.0.21",
-  "description": "Essential JS 2 Base Library widgets in various languages",
+  "description": "localized text for all Essential JS 2 Component in various languages",
   "author": "Syncfusion Inc.",
   "license": "SEE LICENSE IN license",
   "keywords": [
@@ -10,7 +10,9 @@
     "ej2 base",
     "base",
     "library",
-    "ej2-locale-text"
+    "ej2-locale-text",
+    "locale",
+    "l10n"
   ],
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
-## About Syncfusion EJ2-locale-text
+## About Syncfusion EJ2 locale text
 
-Syncfusion's Essential Studio for JavaScript with language packs for the localization of all EJ2 widgets.
+A Package for all Essential JS2 Components in localized text for various language. 
 
 ## Currently supported localization languages
 
