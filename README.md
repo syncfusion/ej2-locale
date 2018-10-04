@@ -1,6 +1,6 @@
-## About Syncfusion EJ2 locale text
+# ej2-locale
 
-A Package for all Essential JS2 Components in localized text for various language. 
+A package of Essential JS 2 component’s locale texts for Various language.
 
 ## Currently supported localization languages
 
