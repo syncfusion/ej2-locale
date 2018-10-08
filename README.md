@@ -1,6 +1,6 @@
 # ej2-locale
 
-Locale translations for Essential JS 2 components in multiple languages
+Locale translations for Essential JS 2 components in multiple languages.
 
 ## Currently supported localization languages
 
@@ -38,7 +38,7 @@ Locale translations for Essential JS 2 components in multiple languages
 
 ### Load locale text for Essential Js 2 components
 
-In L10n.load function, you can load translation directly from a JSON file locale text. For ex., In the below code snippet we have loaded the locale file for Arabic culture.
+To load translation object in Essential JS 2 components, you can locale object in L10.load function from ejbase. For ex., In the below code snippet we have loaded the locale file for Arabic culture.
 
 ```typescript
 var L10n = new ej.base.L10();
