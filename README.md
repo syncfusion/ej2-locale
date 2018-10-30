@@ -39,11 +39,13 @@ Locale translations for Essential JS 2 components in multiple languages.
 To load translation object in Essential JS 2 components, you can load locale object in L10.load function from ej.base. For example, In the below code snippet we have loaded the locale file for Arabic culture.
 
 ```typescript
-var L10n = new ej.base.L10();
-var setCulture = new ej.base.setCulture();
-L10n.load({
-    var ajax = new ej.base.Ajax('/src/ar-AE.json', 'GET', true);
-    ajax.send()
-});
-setCulture(‘ar-AE’);
+ej.base.setCulture('ar-AE');
+var val, ajax;
+var ajax = new ej.base.Ajax('/src/ar-AE.json', 'GET', true);
+ajax.onSuccess = function (value) {
+        //Assigning locale text value for Essential JS 2 components
+        ej.base.L10n.load(value);
+    };
+ajax.send();
+
 ```
