@@ -33,3 +33,19 @@ A package of Essential JS 2 component’s locale texts for various language.
 | tr-TR        | Turkish - Turkey               |
 | vi-VN        | Vietnamese - Vietnam           |
 | zh-CN        | Chinese - China                |
+
+## How To load locale text for Essential JS 2 components
+
+To load translation object in Essential JS 2 components, you can load locale object in L10.load function from ej.base. For example, In the below code snippet we have loaded the locale file for Arabic culture.
+
+```typescript
+ej.base.setCulture('ar-AE');
+var val, ajax;
+var ajax = new ej.base.Ajax('/src/ar-AE.json', 'GET', true);
+ajax.onSuccess = function (value) {
+        //Assigning locale text value for Essential JS 2 components
+        ej.base.L10n.load(value);
+    };
+ajax.send();
+
+```
