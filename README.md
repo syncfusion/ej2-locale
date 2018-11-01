@@ -40,7 +40,6 @@ To load translation object in Essential JS 2 components, you can load locale obj
 
 ```typescript
 ej.base.setCulture('ar-AE');
-var val, ajax;
 var ajax = new ej.base.Ajax('/src/ar-AE.json', 'GET', true);
 ajax.onSuccess = function (value) {
         //Assigning locale text value for Essential JS 2 components
