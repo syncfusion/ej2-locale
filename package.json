@@ -1,6 +1,6 @@
 {
-  "name": "ej2-locale-text",
-  "version": "16.3.0.21",
+  "name": "ej2-locale",
+  "version": "16.4.42",
   "description": "localized text for all Essential JS 2 Component in various languages",
   "author": "Syncfusion Inc.",
   "license": "SEE LICENSE IN license",
