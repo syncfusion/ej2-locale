@@ -7,33 +7,33 @@ Locale translations for Essential JS 2 components in multiple languages.
 | Culture-Code | Language                       |
 | ------------ | ------------------------------ |
 | ar-AE        | Arabic - United Arab Emirates  |
-| cs-CZ        | Czech - Czech Republic         |
-| da-DK        | Danish - Denmark               |
-| de-DE        | German - Germany               |
+| cs        | Czech - Czech Republic         |
+| da      | Danish - Denmark               |
+| de       | German - Germany               |
 | en-US        | English - United States        |
-| es-ES        | Spanish - Spain                |
-| fa-IR        | Farsi - Iran                   |
-| fi-FI        | Finnish - Finland              |
-| fr-FR        | French - France                |
-| he-IL        | Hebrew - Israel                |
-| hr-HR        | Croatian - Croatia             |
-| hu-HU        | Hungarian - Hungary    
+| es      | Spanish - Spain                |
+| fa      | Farsi - Iran                   |
+| fi       | Finnish - Finland              |
+| fr        | French - France                |
+| he       | Hebrew - Israel                |
+| hr      | Croatian - Croatia             |
+| hu     | Hungarian - Hungary    
 | id           | Indonesian
-| it-IT        | Italian - Italy                |
-| ja-JP        | Japanese - Japan               |
-| ko-KR        | Korean - Korea                 |
-| ms-MY        | Malay - Malaysia               |
-| nb-NO        | Norwegian (Bokmål) - Norway    |
-| nl-NL        | Dutch - The Netherlands        |
-| pl-PL        | Polish - Poland                |
-| pt-PT        | Portuguese - Portugal          |
-| ro-RO        | Romanian - Romania             |
-| ru-RU        | Russian - Russia               |
-| sk-SK        | Slovak - Slovakia              |
-| sv-SE        | Swedish - Sweden               |
-| tr-TR        | Turkish - Turkey               |
-| vi-VN        | Vietnamese - Vietnam           |
-| zh-CN        | Chinese - China                |
+| it     | Italian - Italy                |
+| ja     | Japanese - Japan               |
+| ko     | Korean - Korea                 |
+| ms      | Malay - Malaysia               |
+| nb      | Norwegian (Bokmål) - Norway    |
+| nl      | Dutch - The Netherlands        |
+| pl      | Polish - Poland                |
+| pt      | Portuguese - Portugal          |
+| ro      | Romanian - Romania             |
+| ru     | Russian - Russia               |
+| sk     | Slovak - Slovakia              |
+| sv      | Swedish - Sweden               |
+| tr    | Turkish - Turkey               |
+| vi     | Vietnamese - Vietnam           |
+| zh       | Chinese - China                |
 
 ## How To load locale text for Essential JS 2 components
 
