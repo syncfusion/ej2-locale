@@ -1,6 +1,6 @@
 # ej2-locale
 
-Locale translations for Essential JS 2 components in multiple languages.
+Locale translations for Essential JS 2 components in multiple languages
 
 ## Currently supported localization languages
 
