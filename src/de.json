@@ -976,10 +976,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Keine Aufzeichnungen gefunden",
             "actionFailureTemplate": "Die Anfrage ist fehlgeschlagen",
-            "overflowCountTemplate": "+ $ {count} mehr ..",
+            "overflowCountTemplate": "+ ${count} mehr ..",
             "selectAllText": "Wählen Sie Alle",
             "unSelectAllText": "Alles wiederufen",
-            "totalCountTemplate": "$ {count} ausgewählt"
+            "totalCountTemplate": "${count} ausgewählt"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Keine Aufzeichnungen gefunden",
@@ -996,7 +996,7 @@
         "multi-select": {
             "noRecordsTemplate": "Keine Aufzeichnungen gefunden",
             "actionFailureTemplate": "Die Anfrage ist fehlgeschlagen",
-            "overflowCountTemplate": "+ $ {count} mehr ..",
+            "overflowCountTemplate": "+ ${count} mehr ..",
             "selectAllText": "Wählen Sie Alle",
             "unSelectAllText": "Alles wiederufen"
         },
