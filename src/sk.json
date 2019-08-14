@@ -1100,26 +1100,6 @@
             "Server error": "Webová služba nepočúva. Prehliadač PDF závisí od všetkých jeho funkcií na webových službách. Ak chcete pokračovať, spustite webovú službu."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Toto pole je povinné.",
-            "email": "Prosím zadajte platnú emailovú adresu.",
-            "url": "Prosím vložte platnú URL.",
-            "date": "Zadajte platný dátum.",
-            "dateIso": "Zadajte platný dátum (ISO).",
-            "creditcard": "Zadajte platné číslo karty",
-            "number": "Zadajte platné číslo.",
-            "digits": "Zadajte iba číslice.",
-            "maxLength": "Zadajte maximálne {0} znakov.",
-            "minLength": "Zadajte aspoň {0} znakov.",
-            "rangeLength": "Zadajte hodnotu medzi {0} a {1} znakmi.",
-            "range": "Zadajte hodnotu medzi {0} a {1}.",
-            "max": "Zadajte hodnotu, ktorá je menšia alebo rovná {0}.",
-            "min": "Zadajte hodnotu väčšiu alebo rovnú {0}.",
-            "regex": "Zadajte správnu hodnotu.",
-            "tel": "Prosím zadajte platné telefónne číslo.",
-            "pattern": "Zadajte správnu hodnotu vzoru.",
-            "equalTo": "Zadajte platný text zhody"
-        },
         "rich-text-editor": {
             "alignments": "zarovnanie",
             "justifyleft": "justifyLeft",

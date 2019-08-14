@@ -1100,26 +1100,6 @@
             "Server error": "O serviço da Web não está escutando. O PDF Viewer depende do serviço da web para todos os seus recursos. Por favor, inicie o serviço da web para continuar."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Este campo é obrigatório.",
-            "email": "Por favor insira um endereço de e-mail válido.",
-            "url": "Por favor, insira um URL válido.",
-            "date": "Por favor insira uma data válida.",
-            "dateIso": "Por favor insira uma data válida (ISO).",
-            "creditcard": "Por favor, insira o número do cartão válido",
-            "number": "por favor insira um número válido.",
-            "digits": "Por favor, digite apenas dígitos.",
-            "maxLength": "Por favor, insira não mais que {0} caracteres.",
-            "minLength": "Por favor, insira pelo menos {0} caracteres.",
-            "rangeLength": "Por favor insira um valor entre {0} e {1} caracteres.",
-            "range": "Por favor insira um valor entre {0} e {1}.",
-            "max": "Por favor insira um valor menor ou igual a {0}.",
-            "min": "Por favor insira um valor maior ou igual a {0}.",
-            "regex": "Por favor insira um valor correto.",
-            "tel": "Por favor insira um número de telefone válido.",
-            "pattern": "Por favor, insira um valor de padrão correto.",
-            "equalTo": "Por favor insira o texto de correspondência válido"
-        },
         "rich-text-editor": {
             "alignments": "alinhamentos",
             "justifyleft": "justifyLeft",

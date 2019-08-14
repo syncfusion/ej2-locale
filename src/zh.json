@@ -1100,26 +1100,6 @@
             "Server error": "网络服务不是在听。 PDF Viewer依赖于Web服务的所有功能。请启动Web服务以继续。"
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "这是必填栏。",
-            "email": "请输入有效的电子邮件地址。",
-            "url": "请输入有效网址。",
-            "date": "请输入一个有效的日期。",
-            "dateIso": "请输入有效日期（ISO）。",
-            "creditcard": "请输入有效的卡号",
-            "number": "请输入有效的号码。",
-            "digits": "请只输入数字。",
-            "maxLength": "请输入不超过{0}个字符。",
-            "minLength": "请输入至少{0}个字符。",
-            "rangeLength": "请输入介于{0}和{1}个字符之间的值。",
-            "range": "请输入介于{0}和{1}之间的值。",
-            "max": "请输入小于或等于{0}的值。",
-            "min": "请输入大于或等于{0}的值。",
-            "regex": "请输入正确的值。",
-            "tel": "请输入一个有效的电话号码。",
-            "pattern": "请输入正确的图案值。",
-            "equalTo": "请输入有效的匹配文本"
-        },
         "rich-text-editor": {
             "alignments": "路线",
             "justifyleft": "证明左边",

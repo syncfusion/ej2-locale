@@ -1100,26 +1100,6 @@
             "Server error": "Serviciul web nu ascultă. PDF Viewer depinde de serviciul web pentru toate funcțiile sale. Vă rugăm să începeți serviciul web pentru a continua."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Acest câmp este obligatoriu.",
-            "email": "Te rog introdu o adresa de email valida.",
-            "url": "Vă rugăm să introduceți o adresă URL validă.",
-            "date": "Vă rugăm să introduceți o dată validă.",
-            "dateIso": "Vă rugăm să introduceți o dată valabilă (ISO).",
-            "creditcard": "Vă rugăm să introduceți numărul valid al cardului",
-            "number": "Vă rugăm să introduceți un număr valid.",
-            "digits": "Te rog introdu doar cifre.",
-            "maxLength": "Vă rugăm să introduceți nu mai mult de {0} caractere.",
-            "minLength": "Vă rugăm să introduceți cel puțin {0} caractere.",
-            "rangeLength": "Vă rugăm să introduceți o valoare între {0} și {1} caractere.",
-            "range": "Vă rugăm să introduceți o valoare între {0} și {1}.",
-            "max": "Vă rugăm să introduceți o valoare mai mică sau egală cu {0}.",
-            "min": "Vă rugăm să introduceți o valoare mai mare sau egală cu {0}.",
-            "regex": "Vă rugăm să introduceți o valoare corectă.",
-            "tel": "Va rugam sa introduceti un numar de telefon valid.",
-            "pattern": "Vă rugăm să introduceți o valoare corectă a modelului.",
-            "equalTo": "Vă rugăm să introduceți textul de potrivire valid"
-        },
         "rich-text-editor": {
             "alignments": "aliniamente",
             "justifyleft": "justifyLeft",

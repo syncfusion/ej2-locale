@@ -1100,26 +1100,6 @@
             "Server error": "Web-Service hört nicht zu. PDF Viewer ist in allen Funktionen vom Web-Service abhängig. Bitte starten Sie den Webdienst, um fortzufahren."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Dieses Feld wird benötigt.",
-            "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
-            "url": "Bitte geben Sie eine gültige URL ein.",
-            "date": "Bitte gib ein korrektes Datum an.",
-            "dateIso": "Bitte geben Sie ein gültiges Datum (ISO) ein.",
-            "creditcard": "Bitte geben Sie eine gültige Kartennummer ein",
-            "number": "Bitte geben Sie eine gültige Nummer ein.",
-            "digits": "Bitte gib nur Ziffern ein.",
-            "maxLength": "Bitte geben Sie nicht mehr als {0} Zeichen ein.",
-            "minLength": "Bitte geben Sie mindestens {0} Zeichen ein.",
-            "rangeLength": "Bitte geben Sie einen Wert zwischen {0} und {1} Zeichen ein.",
-            "range": "Bitte geben Sie einen Wert zwischen {0} und {1} ein.",
-            "max": "Bitte geben Sie einen Wert ein, der kleiner oder gleich {0} ist.",
-            "min": "Bitte geben Sie einen Wert größer oder gleich {0} ein.",
-            "regex": "Bitte geben Sie einen korrekten Wert ein.",
-            "tel": "Bitte geben Sie eine gültige Telefonnummer ein.",
-            "pattern": "Bitte geben Sie einen korrekten Musterwert ein.",
-            "equalTo": "Bitte geben Sie den gültigen Übereinstimmungstext ein"
-        },
         "rich-text-editor": {
             "alignments": "Ausrichtungen",
             "justifyleft": "justifyLeft",

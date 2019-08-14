@@ -1100,26 +1100,6 @@
             "Server error": "Webová služba neposlouchá. Prohlížeč PDF závisí na všech jeho funkcích na webové službě. Chcete-li pokračovat, spusťte webovou službu."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Toto pole je povinné.",
-            "email": "Prosím zadejte platnou emailovou adresu.",
-            "url": "Zadejte prosím platnou adresu URL.",
-            "date": "Prosím vložte správné datum.",
-            "dateIso": "Zadejte platné datum (ISO).",
-            "creditcard": "Zadejte platné číslo karty",
-            "number": "Prosím zadejte platné číslo.",
-            "digits": "Zadejte pouze číslice.",
-            "maxLength": "Zadejte maximálně {0} znaků.",
-            "minLength": "Zadejte alespoň {0} znaků.",
-            "rangeLength": "Zadejte prosím hodnotu mezi {0} a {1} znaky.",
-            "range": "Zadejte hodnotu mezi {0} a {1}.",
-            "max": "Zadejte hodnotu menší nebo rovnou {0}.",
-            "min": "Zadejte hodnotu větší nebo rovnou {0}.",
-            "regex": "Zadejte prosím správnou hodnotu.",
-            "tel": "Vložte prosím platné telefonní číslo.",
-            "pattern": "Zadejte správnou hodnotu vzoru.",
-            "equalTo": "Zadejte prosím platný text shody"
-        },
         "rich-text-editor": {
             "alignments": "zarovnání",
             "justifyleft": "ospravedlnit vlevo",

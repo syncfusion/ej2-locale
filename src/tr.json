@@ -1100,26 +1100,6 @@
             "Server error": "Web servisi dinlemiyor. PDF Viewer, tüm özellikleri için web servisine bağlıdır. Devam etmek için lütfen web servisini başlatın."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Bu alan gereklidir.",
-            "email": "Geçerli bir e.",
-            "url": "Lütfen geçerli bir adres girin.",
-            "date": "Lütfen geçerli bir tarih giriniz.",
-            "dateIso": "Lütfen geçerli bir tarih girin (ISO).",
-            "creditcard": "Lütfen geçerli bir kart numarası giriniz",
-            "number": "Lütfen geçerli bir numara giriniz.",
-            "digits": "Lütfen sadece rakam giriniz.",
-            "maxLength": "Lütfen {0} karakterden fazla karakter girmeyin.",
-            "minLength": "Lütfen en az {0} karakter girin.",
-            "rangeLength": "Lütfen {0} ve {1} karakterleri arasında bir değer girin.",
-            "range": "Lütfen {0} ve {1} arasında bir değer girin.",
-            "max": "Lütfen {0} 'a eşit veya daha küçük bir değer girin.",
-            "min": "Lütfen {0} 'a eşit veya daha büyük bir değer girin.",
-            "regex": "Lütfen doğru bir değer giriniz.",
-            "tel": "Geçerli bir telefon numarası giriniz.",
-            "pattern": "Lütfen doğru bir kalıp değeri girin.",
-            "equalTo": "Lütfen geçerli eşleşme metnini girin"
-        },
         "rich-text-editor": {
             "alignments": "hizalamalarını",
             "justifyleft": "justifyLeft",

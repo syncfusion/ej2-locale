@@ -1100,26 +1100,6 @@
             "Server error": "Webtjenesten lytter ikke. PDF Viewer er avhengig av nettjeneste for alle funksjoner. Start nettjenesten for å fortsette."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Dette feltet er obligatorisk.",
-            "email": "Vennligst skriv inn en gyldig e-post adresse.",
-            "url": "Vennligst skriv inn en gyldig url.",
-            "date": "Vennligst oppgi en gyldig dato.",
-            "dateIso": "Angi en gyldig dato (ISO).",
-            "creditcard": "Vennligst tast inn gyldig kortnummer",
-            "number": "Vennligst oppgi et gyldig nummer.",
-            "digits": "Skriv bare sifre.",
-            "maxLength": "Skriv inn ikke mer enn {0} tegn.",
-            "minLength": "Skriv inn minst {0} tegn.",
-            "rangeLength": "Skriv inn en verdi mellom {0} og {1} tegn.",
-            "range": "Skriv inn en verdi mellom {0} og {1}.",
-            "max": "Skriv inn en verdi mindre enn eller lik {0}.",
-            "min": "Skriv inn en verdi større enn eller lik {0}.",
-            "regex": "Angi riktig verdi.",
-            "tel": "Vennligst oppgi et gyldig telefonnummer.",
-            "pattern": "Angi riktig mønsterverdi.",
-            "equalTo": "Skriv inn den gyldige samsvarsteksten"
-        },
         "rich-text-editor": {
             "alignments": "justeringer",
             "justifyleft": "justifyLeft",

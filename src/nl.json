@@ -1100,26 +1100,6 @@
             "Server error": "Web-service luistert niet. PDF Viewer is afhankelijk van webservice voor al zijn functies. Start de webservice om door te gaan."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Dit veld is verplicht.",
-            "email": "Gelieve een geldig e-mailadres in te geven.",
-            "url": "Voer een geldige URL in.",
-            "date": "Vul alstublieft een geldige datum in.",
-            "dateIso": "Voer een geldige datum (ISO) in.",
-            "creditcard": "Voer een geldig kaartnummer in",
-            "number": "Voer alstublieft een geldig nummer in.",
-            "digits": "Alleen cijfers invoeren a.u.b.",
-            "maxLength": "Voer niet meer dan {0} tekens in.",
-            "minLength": "Voer ten minste {0} tekens in.",
-            "rangeLength": "Voer een waarde in tussen {0} en {1} tekens lang.",
-            "range": "Voer een waarde in tussen {0} en {1}.",
-            "max": "Voer een waarde kleiner dan of gelijk aan {0} in.",
-            "min": "Voer een waarde groter dan of gelijk aan {0} in.",
-            "regex": "Voer een juiste waarde in.",
-            "tel": "Voer alstublieft een geldig telefoonnummer in.",
-            "pattern": "Voer een juiste patroonwaarde in.",
-            "equalTo": "Voer de geldige overeenkomsttekst in"
-        },
         "rich-text-editor": {
             "alignments": "uitlijningen",
             "justifyleft": "justifyLeft",

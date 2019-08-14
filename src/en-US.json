@@ -1100,26 +1100,6 @@
             "Server error": "Web-service is not listening. PDF Viewer depends on web-service for all it's features. Please start the web service to continue."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "This field is required.",
-            "email": "Please enter a valid email address.",
-            "url": "Please enter a valid URL.",
-            "date": "Please enter a valid date.",
-            "dateIso": "Please enter a valid date ( ISO ).",
-            "creditcard": "Please enter valid card number",
-            "number": "Please enter a valid number.",
-            "digits": "Please enter only digits.",
-            "maxLength": "Please enter no more than {0} characters.",
-            "minLength": "Please enter at least {0} characters.",
-            "rangeLength": "Please enter a value between {0} and {1} characters long.",
-            "range": "Please enter a value between {0} and {1}.",
-            "max": "Please enter a value less than or equal to {0}.",
-            "min": "Please enter a value greater than or equal to {0}.",
-            "regex": "Please enter a correct value.",
-            "tel": "Please enter a valid phone number.",
-            "pattern": "Please enter a correct pattern value.",
-            "equalTo": "Please enter the valid match text"
-        },
         "rich-text-editor": {
             "alignments": "alignments",
             "justifyleft": "justifyLeft",

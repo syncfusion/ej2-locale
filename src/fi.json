@@ -1100,26 +1100,6 @@
             "Server error": "Web-palvelu ei kuuntele. PDF Viewer riippuu verkkopalvelusta kaikilla sen ominaisuuksilla. Käynnistä verkkopalvelu jatkaaksesi."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Tämä kenttä pitää täyttää.",
-            "email": "Ole hyvä ja syötä toimiva sähköpostiosoite.",
-            "url": "Anna kelvollinen URL-osoite.",
-            "date": "Anna kelvollinen päivämäärä.",
-            "dateIso": "Anna kelvollinen päivämäärä (ISO).",
-            "creditcard": "Anna voimassa oleva kortin numero",
-            "number": "Anna kelvollinen numero.",
-            "digits": "Ole hyvä ja syötä ainoastaan ​​numeroita.",
-            "maxLength": "Kirjoita korkeintaan {0} merkkiä.",
-            "minLength": "Anna vähintään {0} merkkiä.",
-            "rangeLength": "Anna arvo, joka on {0} - {1} merkkiä pitkä.",
-            "range": "Anna arvo väliltä {0} - {1}.",
-            "max": "Anna arvo, joka on pienempi tai yhtä suuri kuin {0}.",
-            "min": "Anna arvo, joka on suurempi tai yhtä suuri kuin {0}.",
-            "regex": "Anna oikea arvo.",
-            "tel": "Ole hyvä ja näppäile voimassaoleva puhelinnumero.",
-            "pattern": "Anna oikea kuvion arvo.",
-            "equalTo": "Anna kelvollinen vastaavuusteksti"
-        },
         "rich-text-editor": {
             "alignments": "rinnastuksia",
             "justifyleft": "justifyLeft",

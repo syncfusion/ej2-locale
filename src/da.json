@@ -1100,26 +1100,6 @@
             "Server error": "Web-service lytter ikke. PDF Viewer afhænger af web-service for alle dets funktioner. Start webtjenesten for at fortsætte."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Dette felt er påkrævet.",
-            "email": "Indtast venligst en gyldig e-mailadresse.",
-            "url": "Indtast en gyldig URL.",
-            "date": "Indtast en gyldig dato.",
-            "dateIso": "Indtast en gyldig dato (ISO).",
-            "creditcard": "Indtast et gyldigt kortnummer",
-            "number": "Indtast et gyldigt nummer.",
-            "digits": "Indtast kun cifre.",
-            "maxLength": "Indtast højst {0} tegn.",
-            "minLength": "Indtast mindst {0} tegn.",
-            "rangeLength": "Indtast en værdi mellem {0} og {1} tegn lang.",
-            "range": "Indtast en værdi mellem {0} og {1}.",
-            "max": "Indtast en værdi, der er mindre end eller lig med {0}.",
-            "min": "Indtast en værdi, der er større end eller lig med {0}.",
-            "regex": "Indtast en korrekt værdi.",
-            "tel": "Indtast venligst et gyldigt telefonnummer.",
-            "pattern": "Indtast en korrekt mønsterværdi.",
-            "equalTo": "Indtast den gyldige matchende tekst"
-        },
         "rich-text-editor": {
             "alignments": "alignments",
             "justifyleft": "justifyLeft",

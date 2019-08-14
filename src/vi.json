@@ -1100,26 +1100,6 @@
             "Server error": "Dịch vụ web không lắng nghe. Trình xem PDF phụ thuộc vào dịch vụ web cho tất cả các tính năng của nó. Vui lòng bắt đầu dịch vụ web để tiếp tục."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Lĩnh vực này là bắt buộc.",
-            "email": "Vui lòng nhập một địa chỉ email hợp lệ.",
-            "url": "Vui lòng nhập một URL hợp lệ.",
-            "date": "Vui lòng nhập một ngày hợp lệ.",
-            "dateIso": "Vui lòng nhập một ngày hợp lệ (ISO).",
-            "creditcard": "Vui lòng nhập số thẻ hợp lệ",
-            "number": "Vui lòng nhập một số hợp lệ.",
-            "digits": "Vui lòng chỉ nhập các chữ số.",
-            "maxLength": "Vui lòng nhập không quá {0} ký tự.",
-            "minLength": "Vui lòng nhập ít nhất {0} ký tự.",
-            "rangeLength": "Vui lòng nhập một giá trị trong khoảng từ {0} đến {1} ký tự.",
-            "range": "Vui lòng nhập một giá trị trong khoảng từ {0} đến {1}.",
-            "max": "Vui lòng nhập một giá trị nhỏ hơn hoặc bằng {0}.",
-            "min": "Vui lòng nhập giá trị lớn hơn hoặc bằng {0}.",
-            "regex": "Vui lòng nhập một giá trị chính xác.",
-            "tel": "Xin vui lòng nhập một số điện thoại hợp lệ.",
-            "pattern": "Vui lòng nhập một giá trị mẫu chính xác.",
-            "equalTo": "Vui lòng nhập văn bản phù hợp"
-        },
         "rich-text-editor": {
             "alignments": "sắp xếp",
             "justifyleft": "biện minh",

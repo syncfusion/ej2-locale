@@ -1100,26 +1100,6 @@
             "Server error": "Web usluga ne sluša. PDF Viewer ovisi o web servisu za sve njegove značajke. Pokrenite web uslugu da biste nastavili."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Ovo polje je obavezno.",
-            "email": "Molimo Vas da unesete validnu email adresu.",
-            "url": "Unesite valjanu URL adresu.",
-            "date": "Molimo unesite važeći datum.",
-            "dateIso": "Unesite važeći datum (ISO).",
-            "creditcard": "Unesite važeći broj kartice",
-            "number": "Molimo unesite važeći broj.",
-            "digits": "Unesite samo cifre.",
-            "maxLength": "Molimo unesite najviše {0} znakova.",
-            "minLength": "Unesite najmanje {0} znakova.",
-            "rangeLength": "Unesite vrijednost između {0} i {1} znakova.",
-            "range": "Unesite vrijednost između {0} i {1}.",
-            "max": "Unesite vrijednost manju ili jednaku {0}.",
-            "min": "Unesite vrijednost veću ili jednaku {0}.",
-            "regex": "Molimo unesite tačnu vrijednost.",
-            "tel": "Unesite važeći telefonski broj.",
-            "pattern": "Unesite ispravnu vrijednost uzorka.",
-            "equalTo": "Unesite važeći tekst podudaranja"
-        },
         "rich-text-editor": {
             "alignments": "poravnanja",
             "justifyleft": "opravdatiLeft",

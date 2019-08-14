@@ -1100,26 +1100,6 @@
             "Server error": "Usługa internetowa nie nasłuchuje. Przeglądarka plików PDF zależy od serwisu internetowego we wszystkich jego funkcjach. Uruchom usługę internetową, aby kontynuować."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "To pole jest wymagane.",
-            "email": "Proszę wpisać aktualny adres e-mail.",
-            "url": "Proszę podać poprawny adres URL.",
-            "date": "Proszę wprowadź poprawną datę.",
-            "dateIso": "Podaj prawidłową datę (ISO).",
-            "creditcard": "Proszę podać poprawny numer karty",
-            "number": "Proszę wprowadzić poprawny numer.",
-            "digits": "Wprowadź tylko cyfry.",
-            "maxLength": "Wpisz nie więcej niż {0} znaków.",
-            "minLength": "Wprowadź co najmniej {0} znaków.",
-            "rangeLength": "Wprowadź wartość od {0} do {1} znaków.",
-            "range": "Wprowadź wartość z przedziału od {0} do {1}.",
-            "max": "Wprowadź wartość mniejszą lub równą {0}.",
-            "min": "Wprowadź wartość większą lub równą {0}.",
-            "regex": "Wpisz poprawną wartość.",
-            "tel": "Proszę wpisać poprawny numer telefonu.",
-            "pattern": "Podaj poprawną wartość wzoru.",
-            "equalTo": "Wpisz poprawny tekst dopasowania"
-        },
         "rich-text-editor": {
             "alignments": "wyrównania",
             "justifyleft": "justifyLeft",

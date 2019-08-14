@@ -1100,26 +1100,6 @@
             "Server error": "Perkhidmatan web tidak mendengar. Viewer PDF bergantung pada perkhidmatan web untuk semua ciri-ciri itu. Sila mulakan perkhidmatan web untuk meneruskan."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Bidang ini diperlukan.",
-            "email": "Sila masukkan alamat emel yang sah.",
-            "url": "Sila masukkan URL yang sah.",
-            "date": "Sila masukkan tarikh yang sah.",
-            "dateIso": "Sila masukkan tarikh yang sah (ISO).",
-            "creditcard": "Sila masukkan nombor kad yang sah",
-            "number": "Sila masukkan nombor yang sah.",
-            "digits": "Sila masukkan digit sahaja.",
-            "maxLength": "Sila masukkan tidak lebih daripada {0} aksara.",
-            "minLength": "Sila masukkan sekurang-kurangnya {0} aksara.",
-            "rangeLength": "Sila masukkan nilai antara {0} dan {1} aksara yang panjang.",
-            "range": "Sila masukkan nilai antara {0} dan {1}.",
-            "max": "Sila masukkan nilai kurang daripada atau sama dengan {0}.",
-            "min": "Sila masukkan nilai yang lebih besar daripada atau sama dengan {0}.",
-            "regex": "Sila masukkan nilai yang betul.",
-            "tel": "Sila masukkan nombor telefon yang sah.",
-            "pattern": "Sila masukkan nilai corak yang betul.",
-            "equalTo": "Sila masukkan teks padanan yang sah"
-        },
         "rich-text-editor": {
             "alignments": "penjajaran",
             "justifyleft": "justifyLeft",

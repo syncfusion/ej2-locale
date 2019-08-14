@@ -1100,26 +1100,6 @@
             "Server error": "Webbtjänsten lyssnar inte. PDF Viewer beror på webbtjänsten för alla dess funktioner. Starta webbtjänsten för att fortsätta."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Detta fält krävs.",
-            "email": "Ange en giltig e-postadress.",
-            "url": "Var god och skriv in en giltig url.",
-            "date": "Var vänlig ange ett giltigt datum.",
-            "dateIso": "Ange ett giltigt datum (ISO).",
-            "creditcard": "Ange giltigt kortnummer",
-            "number": "Var vänlig skriv in ett giltigt nummer.",
-            "digits": "Ange bara siffror.",
-            "maxLength": "Ange inte mer än {0} tecken.",
-            "minLength": "Ange minst {0} tecken.",
-            "rangeLength": "Ange ett värde mellan {0} och {1} tecken långt.",
-            "range": "Ange ett värde mellan {0} och {1}.",
-            "max": "Ange ett värde som är mindre än eller lika med {0}.",
-            "min": "Ange ett värde större än eller lika med {0}.",
-            "regex": "Ange ett korrekt värde.",
-            "tel": "Var vänlig och slå in ett giltigt telefonnummer.",
-            "pattern": "Ange ett korrekt mönstervärde.",
-            "equalTo": "Ange giltig matchningstext"
-        },
         "rich-text-editor": {
             "alignments": "inpass",
             "justifyleft": "justifyLeft",

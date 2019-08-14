@@ -1100,26 +1100,6 @@
             "Server error": "Layanan web tidak mendengarkan. Penampil PDF tergantung pada layanan web untuk semua fitur itu. Silakan mulai layanan web untuk melanjutkan."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Bagian ini diperlukan.",
-            "email": "Silakan isi alamat email.",
-            "url": "Silakan masukkan URL yang valid.",
-            "date": "Silakan masukkan tanggal yang valid.",
-            "dateIso": "Silakan masukkan tanggal yang valid (ISO).",
-            "creditcard": "Silakan masukkan nomor kartu yang valid",
-            "number": "Silakan masukkan nomor yang valid.",
-            "digits": "Masukkan hanya digit.",
-            "maxLength": "Harap masukkan tidak lebih dari {0} karakter.",
-            "minLength": "Silakan masukkan setidaknya {0} karakter.",
-            "rangeLength": "Masukkan nilai antara panjang {0} dan {1} karakter.",
-            "range": "Silakan masukkan nilai antara {0} dan {1}.",
-            "max": "Masukkan nilai kurang dari atau sama dengan {0}.",
-            "min": "Silakan masukkan nilai yang lebih besar dari atau sama dengan {0}.",
-            "regex": "Silakan masukkan nilai yang benar.",
-            "tel": "Silahkan masukkan nomor telepon yang benar.",
-            "pattern": "Silakan masukkan nilai pola yang benar.",
-            "equalTo": "Silakan masukkan teks pencocokan yang valid"
-        },
         "rich-text-editor": {
             "alignments": "keberpihakan",
             "justifyleft": "justifyLeft",

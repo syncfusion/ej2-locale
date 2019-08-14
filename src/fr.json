@@ -1100,26 +1100,6 @@
             "Server error": "Le service Web n'écoute pas. La visionneuse PDF dépend du service Web pour toutes ses fonctionnalités. Veuillez démarrer le service Web pour continuer."
         },
         "drawing": {},
-        "formvalidator": {
-            "required": "Ce champ est requis.",
-            "email": "S'il vous plaît, mettez une adresse email valide.",
-            "url": "Veuillez entrer une URL valide.",
-            "date": "Veuillez entrer une date valide.",
-            "dateIso": "Veuillez entrer une date valide (ISO).",
-            "creditcard": "Veuillez entrer un numéro de carte valide",
-            "number": "S'il vous plait, entrez un nombre valide.",
-            "digits": "Merci de n'entrer que des chiffres.",
-            "maxLength": "Veuillez ne pas entrer plus de {0} caractères.",
-            "minLength": "Veuillez entrer au moins {0} caractères.",
-            "rangeLength": "Veuillez entrer une valeur comprise entre {0} et {1} caractères.",
-            "range": "Veuillez entrer une valeur comprise entre {0} et {1}.",
-            "max": "Veuillez entrer une valeur inférieure ou égale à {0}.",
-            "min": "Veuillez entrer une valeur supérieure ou égale à {0}.",
-            "regex": "S'il vous plaît entrer une valeur correcte.",
-            "tel": "S'il vous plaît entrer un numéro de téléphone valide.",
-            "pattern": "Veuillez entrer une valeur de modèle correcte.",
-            "equalTo": "S'il vous plaît entrer le texte de correspondance valide"
-        },
         "rich-text-editor": {
             "alignments": "alignements",
             "justifyleft": "justifier",
