@@ -31,6 +31,7 @@ Locale translations for Essential JS 2 components in multiple languages.
 | ru     | Russian - Russia               |
 | sk     | Slovak - Slovakia              |
 | sv      | Swedish - Sweden               |
+| th     | Thai - Thailand                 |
 | tr    | Turkish - Turkey               |
 | vi     | Vietnamese - Vietnam           |
 | zh       | Chinese - China                |
