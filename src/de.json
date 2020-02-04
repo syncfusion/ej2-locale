@@ -1,7 +1,7 @@
 {
     "de": {
         "pdfviewer": {
-            "PdfViewer": "﻿PDF Viewer",
+            "PdfViewer": "PDF Viewer",
             "Cancel": "Stornieren",
             "Download file": "Download-Datei",
             "Download": "Herunterladen",
@@ -1483,7 +1483,7 @@
             "imageHeader": "Bild einfügen",
             "imageLinkHeader": "Sie können auch einen Link aus dem Internet bereitstellen",
             "mdimageLink": "Bitte geben Sie eine URL für Ihr Bild an",
-            "imageUploadMessage": "Legen Sie das Bild hier ab oder navigieren Sie zum Hochladen",
+            "imageUploadMessage": "Legen Sie das Bild hier ab oder durchsuchen Sie es, um es hochzuladen",
             "imageDeviceUploadMessage": "Klicken Sie hier zum Hochladen",
             "imageAlternateText": "Alternativer Text",
             "alternateHeader": "alternativer Text",
@@ -2067,7 +2067,7 @@
             "Next Comment": "Nächster Kommentar",
             "Previous Comment": "Vorheriger Kommentar",
             "Un-posted comments": "Nicht veröffentlichte Kommentare",
-            "Discard Comment": "Hinzugefügte Kommentare, die nicht gepostet wurden. Wenn Sie fortfahren, wird dieser Kommentar verworfen.",
+            "Discard Comment": "Hinzugefügt Kommentare nicht gepostet. Wenn Sie fortfahren, wird dieser Kommentar verworfen.",
             "No Headings": "Keine Überschrift gefunden!",
             "Add Headings": "Dieses Dokument hat keine Überschriften. Bitte fügen Sie Überschriften hinzu und versuchen Sie es erneut."
         },

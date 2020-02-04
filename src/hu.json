@@ -1,7 +1,7 @@
 {
     "hu": {
         "pdfviewer": {
-            "PdfViewer": "﻿PDF Viewer",
+            "PdfViewer": "PDF Viewer",
             "Cancel": "Megszünteti",
             "Download file": "Fájl letöltése",
             "Download": "Letöltés",
@@ -161,8 +161,8 @@
             "taskBeforePredecessor_FS": "A '{0}' áthelyezésével indította el, mielőtt a '{1}' befejeződik, és a két feladat össze van kapcsolva. Ennek eredményeként a linkeket nem lehet tiszteletben tartani. Válasszon egyet az alábbiak közül a végrehajtáshoz",
             "taskAfterPredecessor_FS": "A (z) '{0}' távolodott a (z) '{1}' -től, és a két feladat össze van kapcsolva. Ennek eredményeként a linkeket nem lehet tiszteletben tartani. Válasszon egyet az alábbiak közül a végrehajtáshoz",
             "taskBeforePredecessor_SS": "A (z) „{0}” áthelyezésével indította el, mielőtt a „{1}” elindult volna, és a két feladat össze van kapcsolva. Ennek eredményeként a linkeket nem lehet tiszteletben tartani. Válasszon egyet az alábbiak közül a végrehajtáshoz",
-            "taskAfterPredecessor_SS": "A (z) „{0}” -át áthelyezte, hogy a (z) „{1}” elindulása után kezdje el, és a két feladat össze van kapcsolva. Ennek eredményeként a linkeket nem lehet tiszteletben tartani. Válasszon egyet az alábbiak közül a végrehajtáshoz",
-            "taskBeforePredecessor_FF": "A (z) „{0}” áthelyezésével befejezte a „{1}” befejezését, és a két feladat össze van kapcsolva. Ennek eredményeként a linkeket nem lehet tiszteletben tartani. Válasszon egyet az alábbiak közül a végrehajtáshoz",
+            "taskAfterPredecessor_SS": "A (z) „{0}” -át áthelyezte, hogy a (z) „{1}” elindulása után elinduljon, és a két feladat össze legyen kapcsolva. Ennek eredményeként a linkeket nem lehet tiszteletben tartani. Válasszon egyet az alábbiak közül a végrehajtáshoz",
+            "taskBeforePredecessor_FF": "A (z) '{0}' áthelyezésével befejezte a (z) '{1}' befejezését, és a két feladat össze van kapcsolva. Ennek eredményeként a linkeket nem lehet tiszteletben tartani. Válasszon egyet az alábbiak közül a végrehajtáshoz",
             "taskAfterPredecessor_FF": "A (z) „{0}” áthelyezésével befejezte a „{1}” befejezését és a két feladat összekapcsolását. Ennek eredményeként a linkeket nem lehet tiszteletben tartani. Válasszon egyet az alábbiak közül a végrehajtáshoz",
             "taskBeforePredecessor_SF": "A (z) '{0}' távolodott a (z) '{1}' -től a kezdéshez, és a két feladat össze van kapcsolva. Ennek eredményeként a linkeket nem lehet tiszteletben tartani. Válasszon egyet az alábbiak közül a végrehajtáshoz",
             "taskAfterPredecessor_SF": "A (z) „{0}” -át áthelyezte, hogy a „{1}” elindulása után befejezze és a két feladat összekapcsolódjon. Ennek eredményeként a linkeket nem lehet tiszteletben tartani. Válasszon egyet az alábbiak közül a végrehajtáshoz",
@@ -1108,7 +1108,7 @@
             "True": "igaz",
             "False": "hamis",
             "InvalidFilterMessage": "Érvénytelen szűrőadatok",
-            "GroupDropArea": "Húzza ide az oszlop fejlécét az oszlop csoportosításához",
+            "GroupDropArea": "Húzza ide egy oszlop fejlécét az oszlop csoportosításához",
             "UnGroup": "Kattintson ide a csoportosításhoz",
             "GroupDisable": "Az oszlopban a csoportosítás le van tiltva",
             "FilterbarTitle": "msgstr \"szűrősáv cellája",
@@ -1129,7 +1129,7 @@
             "Item": "tétel",
             "Items": "példány",
             "EditOperationAlert": "Nincs kiválasztva rekord a szerkesztési művelethez",
-            "DeleteOperationAlert": "Nincs törölt művelet a törlés művelethez",
+            "DeleteOperationAlert": "Nincs törölt művelet a törlési művelethez",
             "SaveButton": "Megment",
             "OKButton": "rendben",
             "CancelButton": "Megszünteti",

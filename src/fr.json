@@ -1,7 +1,7 @@
 {
     "fr": {
         "pdfviewer": {
-            "PdfViewer": "﻿Visionneuse PDF",
+            "PdfViewer": "Visionneuse PDF",
             "Cancel": "Annuler",
             "Download file": "Télécharger un fichier",
             "Download": "Télécharger",
@@ -161,7 +161,7 @@
             "taskBeforePredecessor_FS": "Vous avez déplacé «{0}» pour commencer avant la fin de «{1}» et les deux tâches sont liées. Par conséquent, les liens ne peuvent pas être honorés. Sélectionnez une action ci-dessous pour effectuer",
             "taskAfterPredecessor_FS": "Vous avez déplacé '{0}' de '{1}' et les deux tâches sont liées. Par conséquent, les liens ne peuvent pas être honorés. Sélectionnez une action ci-dessous pour effectuer",
             "taskBeforePredecessor_SS": "Vous avez déplacé '{0}' pour démarrer avant le démarrage de '{1}' et les deux tâches sont liées. Par conséquent, les liens ne peuvent pas être honorés. Sélectionnez une action ci-dessous pour effectuer",
-            "taskAfterPredecessor_SS": "Vous avez déplacé '{0}' pour commencer après le démarrage de '{1}' et les deux tâches sont liées. Par conséquent, les liens ne peuvent pas être honorés. Sélectionnez une action ci-dessous pour effectuer",
+            "taskAfterPredecessor_SS": "Vous avez déplacé '{0}' pour démarrer après le démarrage de '{1}' et les deux tâches sont liées. Par conséquent, les liens ne peuvent pas être honorés. Sélectionnez une action ci-dessous pour effectuer",
             "taskBeforePredecessor_FF": "Vous avez déplacé '{0}' pour terminer avant la fin de '{1}' et les deux tâches sont liées. Par conséquent, les liens ne peuvent pas être honorés. Sélectionnez une action ci-dessous pour effectuer",
             "taskAfterPredecessor_FF": "Vous avez déplacé «{0}» pour terminer une fois «{1}» terminé et les deux tâches sont liées. Par conséquent, les liens ne peuvent pas être honorés. Sélectionnez une action ci-dessous pour effectuer",
             "taskBeforePredecessor_SF": "Vous avez déplacé '{0}' de '{1}' vers le début et les deux tâches sont liées. Par conséquent, les liens ne peuvent pas être honorés. Sélectionnez une action ci-dessous pour effectuer",
@@ -1112,7 +1112,7 @@
             "UnGroup": "Cliquez ici pour dissocier",
             "GroupDisable": "Le regroupement est désactivé pour cette colonne",
             "FilterbarTitle": "Cellule de barre de filtre \"s",
-            "EmptyDataSourceError": "DataSource ne doit pas être vide au chargement initial car les colonnes sont générées à partir de dataSource dans AutoGenerate Column Grid",
+            "EmptyDataSourceError": "DataSource ne doit pas être vide lors du chargement initial car les colonnes sont générées à partir de dataSource dans AutoGenerate Column Grid",
             "Add": "Ajouter",
             "Edit": "Éditer",
             "Cancel": "Annuler",

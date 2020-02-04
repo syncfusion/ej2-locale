@@ -1,7 +1,7 @@
 {
     "fi": {
         "pdfviewer": {
-            "PdfViewer": "﻿PDF Viewer",
+            "PdfViewer": "PDF Viewer",
             "Cancel": "Peruuttaa",
             "Download file": "Lataa tiedosto",
             "Download": "ladata",
@@ -1111,7 +1111,7 @@
             "GroupDropArea": "Vedä sarakkeen otsikko tähän ryhmitelläksesi sen sarake",
             "UnGroup": "Poista ryhmä napsauttamalla tätä",
             "GroupDisable": "Ryhmittely on poistettu käytöstä tässä sarakkeessa",
-            "FilterbarTitle": "\"suodatinpalkkisolu",
+            "FilterbarTitle": "\"suodatinpalkin solu",
             "EmptyDataSourceError": "DataSource ei saa olla tyhjä alkuperäisessä latauksessa, koska sarakkeet luodaan dataSourcesta AutoGenerate -sarakkeen ruudukossa",
             "Add": "Lisätä",
             "Edit": "Muokata",

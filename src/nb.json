@@ -1,7 +1,7 @@
 {
     "nb": {
         "pdfviewer": {
-            "PdfViewer": "﻿PDF-visning",
+            "PdfViewer": "PDF-visning",
             "Cancel": "Avbryt",
             "Download file": "Last ned fil",
             "Download": "nedlasting",
@@ -1015,7 +1015,7 @@
             "regex": "Angi riktig verdi.",
             "tel": "Vennligst oppgi et gyldig telefonnummer.",
             "pattern": "Angi riktig mønsterverdi.",
-            "equalTo": "Skriv inn den gyldige samsvarsteksten"
+            "equalTo": "Vennligst skriv inn den gyldige samsvarsteksten"
         },
         "filemanager": {
             "NewFolder": "Ny mappe",
@@ -1112,7 +1112,7 @@
             "UnGroup": "Klikk her for å gruppere",
             "GroupDisable": "Gruppering er deaktivert for denne kolonnen",
             "FilterbarTitle": "\"s filterstangcelle",
-            "EmptyDataSourceError": "DataSource må ikke være tom ved første belastning siden kolonner genereres fra dataSource i AutoGenerate Column Grid",
+            "EmptyDataSourceError": "DataSource må ikke være tomt ved første belastning siden kolonner genereres fra dataSource i AutoGenerate Column Grid",
             "Add": "Legg til",
             "Edit": "Redigere",
             "Cancel": "Avbryt",

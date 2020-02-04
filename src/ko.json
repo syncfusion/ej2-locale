@@ -1,7 +1,7 @@
 {
     "ko": {
         "pdfviewer": {
-            "PdfViewer": "﻿PDF 뷰어",
+            "PdfViewer": "PDF 뷰어",
             "Cancel": "취소",
             "Download file": "파일 다운로드",
             "Download": "다운로드",
@@ -158,7 +158,7 @@
             "start": "스타트",
             "finish": "끝",
             "enterValue": "값을 입력하십시오",
-            "taskBeforePredecessor_FS": "'{1}'이 (가) 완료되기 전에 시작하도록 '{0}'을 (를) 이동했으며 두 작업이 연결되었습니다. 결과적으로 링크를 사용할 수 없습니다. 수행 할 작업을 아래에서 선택하십시오",
+            "taskBeforePredecessor_FS": "'{1}'이 (가) 완료되기 전에 시작하기 위해 '{0}'을 (를) 이동했으며 두 작업이 연결되었습니다. 결과적으로 링크를 사용할 수 없습니다. 수행 할 작업을 아래에서 선택하십시오",
             "taskAfterPredecessor_FS": "'{1}'에서 '{0}'을 (를) 이동했으며 두 작업이 연결되었습니다. 결과적으로 링크를 사용할 수 없습니다. 수행 할 작업을 아래에서 선택하십시오",
             "taskBeforePredecessor_SS": "'{1}'이 (가) 시작되기 전에 시작하도록 '{0}'을 (를) 이동했으며 두 작업이 연결되었습니다. 결과적으로 링크를 사용할 수 없습니다. 수행 할 작업을 아래에서 선택하십시오",
             "taskAfterPredecessor_SS": "'{1}'이 (가) 시작된 후 시작하도록 '{0}'을 (를) 이동했으며 두 작업이 연결되었습니다. 결과적으로 링크를 사용할 수 없습니다. 수행 할 작업을 아래에서 선택하십시오",
@@ -585,7 +585,7 @@
             "showSubTotalsRowsOnly": "부분 합계 행만 표시",
             "showSubTotalsColumnsOnly": "부분 합계 열만 표시",
             "showGrandTotals": "총계 표시",
-            "doNotShowGrandTotals": "총계 표시 안 함",
+            "doNotShowGrandTotals": "총계 표시 안함",
             "showGrandTotalsRowsOnly": "총계 행만 표시",
             "showGrandTotalsColumnsOnly": "총계 열만 표시",
             "fieldList": "필드리스트 표시",
@@ -1101,7 +1101,7 @@
             "Button-Keep-Both": "둘 다 유지",
             "Button-Replace": "바꾸다",
             "Button-Skip": "건너 뛰기",
-            "ApplyAll-Label": "모든 현재 항목에 대해이 작업을 수행하십시오."
+            "ApplyAll-Label": "모든 현재 항목에 대해"
         },
         "grid": {
             "EmptyRecord": "표시 할 레코드가 없습니다",
@@ -1110,7 +1110,7 @@
             "InvalidFilterMessage": "잘못된 필터 데이터",
             "GroupDropArea": "열 머리글을 여기로 끌어 열을 그룹화하십시오",
             "UnGroup": "그룹을 해제하려면 여기를 클릭하십시오",
-            "GroupDisable": "이 열에 대해 그룹화가 비활성화되었습니다.",
+            "GroupDisable": "이 열에 대해 그룹화가 비활성화되었습니다",
             "FilterbarTitle": "\"s 필터 막대 셀",
             "EmptyDataSourceError": "자동 생성 열 그리드의 dataSource에서 열이 생성되므로 초기로드시 DataSource를 비워 둘 수 없습니다.",
             "Add": "더하다",

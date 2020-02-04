@@ -1,7 +1,7 @@
 {
     "fa": {
         "pdfviewer": {
-            "PdfViewer": "﻿PDF Viewer",
+            "PdfViewer": "PDF Viewer",
             "Cancel": "لغو",
             "Download file": "دریافت فایل",
             "Download": "دانلود",
@@ -385,7 +385,7 @@
             "Bookmark": "نشانک",
             "Page Setup": "تنظیمات صفحه",
             "No bookmarks found": "هیچ نشانک یافت نشد",
-            "Number format tooltip information": "قالب شماره یک سطح: </br> [PREFIX]٪ [LEVELNUMBER] [SUFFIX] </br> به عنوان مثال ، فصل٪ 1. شماره شماره مانند </br> فصل 1 نمایش داده خواهد شد. بخش 1. مورد </br> فصل 2. مورد </br> ... </br> فصل N. مورد > [PREFIX]٪ [LEVELNUMBER] [SUFFIX] + [PREFIX]٪ [LEVELNUMBER] [SUFFIX] </br> به عنوان مثال ،٪ 1٪ 2. شماره گذاری می شود مانند </ br> 1.1. مورد </br> 1.2. مورد </br>… </br> 1.N. مورد",
+            "Number format tooltip information": "قالب شماره یک سطح: </br> [PREFIX]٪ [LEVELNUMBER] [SUFFIX] </br> به عنوان مثال ، فصل٪ 1. شماره شماره مانند </br> فصل 1 نمایش داده خواهد شد. بخش 1. مورد </br> فصل 2. مورد </br> ... </br> فصل N. مورد </br> </br> قالب عددی چند سطحی: </ br > [PREFIX]٪ [LEVELNUMBER] [SUFFIX] + [PREFIX]٪ [LEVELNUMBER] [SUFFIX] </br> به عنوان مثال ،٪ 1٪ 2. شماره گذاری می شود مانند </ br> 1.1. مورد </br> 1.2. مورد </br>… </br> 1.N. مورد",
             "Format": "قالب",
             "Create New Style": "سبک جدیدی ایجاد کنید",
             "Modify Style": "تغییر سبک",
@@ -777,7 +777,7 @@
             "baseItem": "مورد اصلی:",
             "example": "به عنوان مثال:",
             "editorDataLimitMsg": " موارد بیشتر برای اصلاح بیشتر جستجو کنید.",
-            "deferLayoutUpdate": "به روزرسانی طرح بندی معوق",
+            "deferLayoutUpdate": "به روزرسانی طرح بندی را به تعویق بیندازید",
             "null": "خالی",
             "undefined": "تعریف نشده",
             "groupOutOfRange": "خارج از محدوده",
@@ -787,7 +787,7 @@
             "selectedHierarchy": "سلسله مراتب والدین",
             "formatString": "فرمت رشته",
             "expressionField": "اصطلاح",
-            "olapDropText": "مثال: [اقدامات]. [مقدار سفارش] + ([اندازه گیری]. [مقدار سفارش] * 0.10)",
+            "olapDropText": "مثال: [اقدامات]. [مقدار سفارش] + ([اقدامات]. [مقدار سفارش] * 0.10)",
             "customFormat": "رشته فرمت دلخواه را وارد کنید",
             "Measure": "اندازه گرفتن",
             "Dimension": "بعد، ابعاد، اندازه",
@@ -1084,7 +1084,7 @@
             "Header-Upload": "بارگذاری پرونده ها",
             "Error": "خطا",
             "Validation-Empty": "نام پرونده یا پوشه نمی تواند خالی باشد.",
-            "Validation-Invalid": "نام پرونده یا پوشه {0} حاوی نویسه های نامعتبر است. لطفاً از نام دیگری استفاده کنید نام فایل یا پوشه معتبر نمی تواند با یک نقطه یا فضای خاتمه یابد ، و هیچ یک از شخصیت های زیر را نمی تواند شامل باشد: \\ /: *؟ \"\" <> |",
+            "Validation-Invalid": "نام پرونده یا پوشه {0} حاوی نویسه های نامعتبر است. لطفاً از نام دیگری استفاده کنید نام فایل یا پوشه معتبر نمی تواند با یک نقطه یا فاصله خاتمه یابد ، و هیچ یک از شخصیت های زیر را نمی تواند شامل باشد: \\ /: *؟ \"\" <> |",
             "Validation-NewFolder-Exists": "پرونده یا پوشه ای با نام {0} در حال حاضر وجود دارد.",
             "Validation-Rename-Exists": "ren 0} به 1 {نمی توان تغییر نام داد: مقصد از قبل وجود دارد.",
             "Folder-Empty": "این پوشه خالی است",
@@ -1109,10 +1109,10 @@
             "False": "نادرست",
             "InvalidFilterMessage": "داده فیلتر نامعتبر است",
             "GroupDropArea": "یک هدر ستون را اینجا بکشید تا ستون آن گروه بندی شود",
-            "UnGroup": "برای گروه‌بندی اینجا کلیک کنید",
+            "UnGroup": "برای گروه‌بندی اینجا را کلیک کنید",
             "GroupDisable": "گروه بندی برای این ستون غیرفعال است",
             "FilterbarTitle": "فیلتر نوار سلول",
-            "EmptyDataSourceError": "منبع داده نباید در بار اولیه خالی باشد زیرا ستون ها از منبع داده در منبع خودکار ستون تولید می شوند",
+            "EmptyDataSourceError": "منبع داده نباید در بار اولیه خالی باشد زیرا ستون ها از منبع داده ها در AutoGenerate Column Grid تولید می شوند",
             "Add": "اضافه کردن",
             "Edit": "ویرایش کنید",
             "Cancel": "لغو",
@@ -2188,7 +2188,7 @@
             "No Border": "بدون مرز",
             "Create a new document": "یک سند جدید ایجاد کنید.",
             "Open a document": "باز کردن یک سند.",
-            "Undo Tooltip": "آخرین عملیات (Ctrl + Z) را خنثیسازی کنید.",
+            "Undo Tooltip": "آخرین عملیات (Ctrl + Z) را خنثی کنید.",
             "Redo Tooltip": "آخرین عملیات (Ctrl + Y) را دوباره انجام دهید.",
             "Insert inline picture from a file": "درج تصویر درون پرونده.",
             "Insert a table into the document": "یک جدول را درون سند وارد کنید",
@@ -2200,23 +2200,23 @@
             "Open the page setup dialog": "گفتگوی تنظیم صفحه را باز کنید.",
             "Add page numbers": "شماره صفحه را اضافه کنید.",
             "Find Text": "متن را در سند (Ctrl + F) پیدا کنید.",
-            "Toggle between the internal clipboard and system clipboard": "Toggle between the internal clipboard and system clipboard.</br>Access to system clipboard through script is denied due to browsers security policy. Instead, </br> 1. You can enable internal clipboard to cut, copy and paste within the component.</br> 2. You can use the keyboard shortcuts (Ctrl+X, Ctrl+C and Ctrl+V) to cut, copy and paste with system clipboard.",
-            "Current Page Number": "The current page number in the document. Click or tap to navigate specific page.",
-            "Read only": "Read only",
-            "Protections": "Protections",
-            "Error in establishing connection with web server": "Error in establishing connection with web server",
-            "Single": "Single",
-            "Double": "Double",
-            "New comment": "New comment",
+            "Toggle between the internal clipboard and system clipboard": "تغییر وضعیت بین کلیپ بورد داخلی و کلیپ بورد سیستم. </ br> دسترسی به کلیپ بورد سیستم از طریق اسکریپت به دلیل خط مشی امنیتی مرورگر رد شده است. در عوض ، </br> 1. شما می توانید کلیپ بورد داخلی را برای برش ، کپی و چسباندن درون مؤلفه فعال کنید. </br> 2. می توانید از میانبرهای صفحه کلید (Ctrl + X ، Ctrl + C و Ctrl + V) برای برش استفاده کنید. کپی و چسباندن با کلیپ بورد سیستم.",
+            "Current Page Number": "شماره صفحه فعلی در سند. برای حرکت در صفحه خاص ، روی آن ضربه بزنید یا به آن ضربه بزنید.",
+            "Read only": "فقط خواندنی",
+            "Protections": "محافظت",
+            "Error in establishing connection with web server": "خطا در برقراری ارتباط با سرور وب",
+            "Single": "تنها",
+            "Double": "دو برابر",
+            "New comment": "نظر جدید",
             "Comments": "نظرات"
         },
         "toast": {
-            "close": "Close"
+            "close": "نزدیک"
         },
         "kanban": {
-            "items": "items",
-            "min": "Min",
-            "max": "Max"
+            "items": "موارد",
+            "min": "حداقل",
+            "max": "حداکثر"
         }
     }
 }

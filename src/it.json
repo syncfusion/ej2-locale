@@ -1,7 +1,7 @@
 {
     "it": {
         "pdfviewer": {
-            "PdfViewer": "﻿Visualizzatore PDF",
+            "PdfViewer": "Visualizzatore PDF",
             "Cancel": "Annulla",
             "Download file": "Download file",
             "Download": "Scarica",
@@ -1325,7 +1325,7 @@
             "IFS": "Restituisce un valore basato sulle espressioni multiple fornite.",
             "CalculateAND": "Restituisce VERO se tutti gli argomenti sono Veri, altrimenti restituisce FALSO.",
             "CalculateOR": "Restituisce VERO se uno qualsiasi degli argomenti è VERO, altrimenti restituisce FALSO.",
-            "IFERROR": "Restituisce valore se non viene trovato nessun errore, restituirà il valore specificato.",
+            "IFERROR": "Restituisce valore se non viene trovato nessun errore, verrà restituito il valore specificato.",
             "CHOOSE": "Restituisce un valore dall'elenco di valori, in base al numero di indice.",
             "INDEX": "Restituisce un valore della cella in un determinato intervallo in base al numero di riga e colonna.",
             "FIND": "Restituisce la posizione di una stringa all'interno di un'altra stringa, che distingue tra maiuscole e minuscole",
