@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "沒有找到記錄",
             "actionFailureTemplate": "請求失敗",
-            "overflowCountTemplate": "+ $ {count}更多..",
+            "overflowCountTemplate": "+${count}更多..",
             "selectAllText": "全選",
             "unSelectAllText": "全部取消選擇",
-            "totalCountTemplate": "已選擇$ {count}個"
+            "totalCountTemplate": "已選擇${count}個"
         },
         "drop-down-list": {
             "noRecordsTemplate": "沒有找到記錄",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "沒有找到記錄",
             "actionFailureTemplate": "請求失敗",
-            "overflowCountTemplate": "+ $ {count}更多..",
+            "overflowCountTemplate": "+${count}更多..",
             "selectAllText": "全選",
             "unSelectAllText": "全部取消選擇",
-            "totalCountTemplate": "已選擇$ {count}個"
+            "totalCountTemplate": "已選擇${count}個"
         },
         "listbox": {
             "noRecordsTemplate": "沒有找到記錄",

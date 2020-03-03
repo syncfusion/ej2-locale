@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "ไม่พบบันทึก",
             "actionFailureTemplate": "การร้องขอล้มเหลว",
-            "overflowCountTemplate": "+ $ {จำนวน} อีกมาก ..",
+            "overflowCountTemplate": "+${จำนวน} อีกมาก ..",
             "selectAllText": "เลือกทั้งหมด",
             "unSelectAllText": "ไม่เลือกทั้งหมด",
-            "totalCountTemplate": "เลือก $ {count}"
+            "totalCountTemplate": "เลือก ${count}"
         },
         "drop-down-list": {
             "noRecordsTemplate": "ไม่พบบันทึก",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "ไม่พบบันทึก",
             "actionFailureTemplate": "การร้องขอล้มเหลว",
-            "overflowCountTemplate": "+ $ {จำนวน} อีกมาก ..",
+            "overflowCountTemplate": "+${จำนวน} อีกมาก ..",
             "selectAllText": "เลือกทั้งหมด",
             "unSelectAllText": "ไม่เลือกทั้งหมด",
-            "totalCountTemplate": "เลือก $ {count}"
+            "totalCountTemplate": "เลือก ${count}"
         },
         "listbox": {
             "noRecordsTemplate": "ไม่พบบันทึก",

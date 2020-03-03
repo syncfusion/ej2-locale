@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Nic nie znaleziono",
             "actionFailureTemplate": "Żądanie nie powiodło się",
-            "overflowCountTemplate": "+ $ {count} więcej ..",
+            "overflowCountTemplate": "+${count} więcej ..",
             "selectAllText": "Zaznacz wszystko",
             "unSelectAllText": "Odznacz wszystko",
-            "totalCountTemplate": "Wybrano $ {count}"
+            "totalCountTemplate": "Wybrano ${count}"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Nic nie znaleziono",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Nic nie znaleziono",
             "actionFailureTemplate": "Żądanie nie powiodło się",
-            "overflowCountTemplate": "+ $ {count} więcej ..",
+            "overflowCountTemplate": "+${count} więcej ..",
             "selectAllText": "Zaznacz wszystko",
             "unSelectAllText": "Odznacz wszystko",
-            "totalCountTemplate": "Wybrano $ {count}"
+            "totalCountTemplate": "Wybrano ${count}"
         },
         "listbox": {
             "noRecordsTemplate": "Nic nie znaleziono",

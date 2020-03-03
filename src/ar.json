@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "لا توجد سجلات",
             "actionFailureTemplate": "فشل الطلب",
-            "overflowCountTemplate": "+ $ {count} المزيد ..",
+            "overflowCountTemplate": "+${count} المزيد ..",
             "selectAllText": "اختر الكل",
             "unSelectAllText": "إلغاء تحديد الكل",
-            "totalCountTemplate": "تم تحديد $ {count}"
+            "totalCountTemplate": "تم تحديد ${count}"
         },
         "drop-down-list": {
             "noRecordsTemplate": "لا توجد سجلات",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "لا توجد سجلات",
             "actionFailureTemplate": "فشل الطلب",
-            "overflowCountTemplate": "+ $ {count} المزيد ..",
+            "overflowCountTemplate": "+${count} المزيد ..",
             "selectAllText": "اختر الكل",
             "unSelectAllText": "إلغاء تحديد الكل",
-            "totalCountTemplate": "تم تحديد $ {count}"
+            "totalCountTemplate": "تم تحديد ${count}"
         },
         "listbox": {
             "noRecordsTemplate": "لا توجد سجلات",

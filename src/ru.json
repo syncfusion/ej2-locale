@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Записей не найдено",
             "actionFailureTemplate": "Ошибка запроса",
-            "overflowCountTemplate": "+ $ {count} больше ..",
+            "overflowCountTemplate": "+${count} больше ..",
             "selectAllText": "Выбрать все",
             "unSelectAllText": "Снять все",
-            "totalCountTemplate": "$ {count} выбран"
+            "totalCountTemplate": "${count} выбран"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Записей не найдено",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Записей не найдено",
             "actionFailureTemplate": "Ошибка запроса",
-            "overflowCountTemplate": "+ $ {count} больше ..",
+            "overflowCountTemplate": "+${count} больше ..",
             "selectAllText": "Выбрать все",
             "unSelectAllText": "Снять все",
-            "totalCountTemplate": "$ {count} выбран"
+            "totalCountTemplate": "${count} выбран"
         },
         "listbox": {
             "noRecordsTemplate": "Записей не найдено",

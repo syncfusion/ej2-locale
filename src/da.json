@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Ingen poster fundet",
             "actionFailureTemplate": "Anmodningen mislykkedes",
-            "overflowCountTemplate": "+ $ {count} mere ..",
+            "overflowCountTemplate": "+${count} mere ..",
             "selectAllText": "Vælg alle",
             "unSelectAllText": "Fjern markering af alle",
-            "totalCountTemplate": "$ {count} valgt"
+            "totalCountTemplate": "${count} valgt"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Ingen poster fundet",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Ingen poster fundet",
             "actionFailureTemplate": "Anmodningen mislykkedes",
-            "overflowCountTemplate": "+ $ {count} mere ..",
+            "overflowCountTemplate": "+${count} mere ..",
             "selectAllText": "Vælg alle",
             "unSelectAllText": "Fjern markering af alle",
-            "totalCountTemplate": "$ {count} valgt"
+            "totalCountTemplate": "${count} valgt"
         },
         "listbox": {
             "noRecordsTemplate": "Ingen poster fundet",

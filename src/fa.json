@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "هیچ سابقه ای یافت نشد",
             "actionFailureTemplate": "درخواست انجام نشد",
-            "overflowCountTemplate": "+ $ {تعداد} موارد دیگر ..",
+            "overflowCountTemplate": "+${تعداد} موارد دیگر ..",
             "selectAllText": "انتخاب همه",
             "unSelectAllText": "همه را انتخاب کنید",
-            "totalCountTemplate": "$ {count} انتخاب شد"
+            "totalCountTemplate": "${count} انتخاب شد"
         },
         "drop-down-list": {
             "noRecordsTemplate": "هیچ سابقه ای یافت نشد",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "هیچ سابقه ای یافت نشد",
             "actionFailureTemplate": "درخواست انجام نشد",
-            "overflowCountTemplate": "+ $ {تعداد} موارد دیگر ..",
+            "overflowCountTemplate": "+${تعداد} موارد دیگر ..",
             "selectAllText": "انتخاب همه",
             "unSelectAllText": "همه را انتخاب کنید",
-            "totalCountTemplate": "$ {count} انتخاب شد"
+            "totalCountTemplate": "${count} انتخاب شد"
         },
         "listbox": {
             "noRecordsTemplate": "هیچ سابقه ای یافت نشد",

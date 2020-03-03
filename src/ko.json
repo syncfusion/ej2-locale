@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "기록 없음",
             "actionFailureTemplate": "요청 실패",
-            "overflowCountTemplate": "+ $ {count} 개 더 ..",
+            "overflowCountTemplate": "+${count} 개 더 ..",
             "selectAllText": "모두 선택",
             "unSelectAllText": "모두 선택 해제",
-            "totalCountTemplate": "선택된 $ {count}"
+            "totalCountTemplate": "선택된 ${count}"
         },
         "drop-down-list": {
             "noRecordsTemplate": "기록 없음",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "기록 없음",
             "actionFailureTemplate": "요청 실패",
-            "overflowCountTemplate": "+ $ {count} 개 더 ..",
+            "overflowCountTemplate": "+${count} 개 더 ..",
             "selectAllText": "모두 선택",
             "unSelectAllText": "모두 선택 해제",
-            "totalCountTemplate": "선택된 $ {count}"
+            "totalCountTemplate": "선택된 ${count}"
         },
         "listbox": {
             "noRecordsTemplate": "기록 없음",
