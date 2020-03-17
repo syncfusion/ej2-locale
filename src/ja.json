@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "レコードが見つかりません",
             "actionFailureTemplate": "リクエストに失敗しました",
-            "overflowCountTemplate": "+ $ {count}以上..",
+            "overflowCountTemplate": "+${count}以上..",
             "selectAllText": "すべて選択",
             "unSelectAllText": "すべて選択解除",
-            "totalCountTemplate": "$ {count}を選択しました"
+            "totalCountTemplate": "${count}を選択しました"
         },
         "drop-down-list": {
             "noRecordsTemplate": "レコードが見つかりません",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "レコードが見つかりません",
             "actionFailureTemplate": "リクエストに失敗しました",
-            "overflowCountTemplate": "+ $ {count}以上..",
+            "overflowCountTemplate": "+${count}以上..",
             "selectAllText": "すべて選択",
             "unSelectAllText": "すべて選択解除",
-            "totalCountTemplate": "$ {count}を選択しました"
+            "totalCountTemplate": "${count}を選択しました"
         },
         "listbox": {
             "noRecordsTemplate": "レコードが見つかりません",

@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Nije pronađen niti jedan zapis",
             "actionFailureTemplate": "Zahtjev nije uspio",
-            "overflowCountTemplate": "+ $ {count} više ..",
+            "overflowCountTemplate": "+${count} više ..",
             "selectAllText": "Odaberi sve",
             "unSelectAllText": "Poništi odabir svih",
-            "totalCountTemplate": "Odabran je $ {count}"
+            "totalCountTemplate": "Odabran je ${count}"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Nije pronađen niti jedan zapis",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Nije pronađen niti jedan zapis",
             "actionFailureTemplate": "Zahtjev nije uspio",
-            "overflowCountTemplate": "+ $ {count} više ..",
+            "overflowCountTemplate": "+${count} više ..",
             "selectAllText": "Odaberi sve",
             "unSelectAllText": "Poništi odabir svih",
-            "totalCountTemplate": "Odabran je $ {count}"
+            "totalCountTemplate": "Odabran je ${count}"
         },
         "listbox": {
             "noRecordsTemplate": "Nije pronađen niti jedan zapis",

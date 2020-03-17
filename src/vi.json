@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Không có dữ liệu được tìm thấy",
             "actionFailureTemplate": "Yêu cầu thất bại",
-            "overflowCountTemplate": "+ $ {tính} thêm ..",
+            "overflowCountTemplate": "+${tính} thêm ..",
             "selectAllText": "Chọn tất cả",
             "unSelectAllText": "Bỏ chọn tất cả",
-            "totalCountTemplate": "$ {tính} đã chọn"
+            "totalCountTemplate": "${tính} đã chọn"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Không có dữ liệu được tìm thấy",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Không có dữ liệu được tìm thấy",
             "actionFailureTemplate": "Yêu cầu thất bại",
-            "overflowCountTemplate": "+ $ {tính} thêm ..",
+            "overflowCountTemplate": "+${tính} thêm ..",
             "selectAllText": "Chọn tất cả",
             "unSelectAllText": "Bỏ chọn tất cả",
-            "totalCountTemplate": "$ {tính} đã chọn"
+            "totalCountTemplate": "${tính} đã chọn"
         },
         "listbox": {
             "noRecordsTemplate": "Không có dữ liệu được tìm thấy",

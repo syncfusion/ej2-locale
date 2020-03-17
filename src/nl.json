@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Geen verslagen gevonden",
             "actionFailureTemplate": "Het verzoek is mislukt",
-            "overflowCountTemplate": "+ $ {count} meer ..",
+            "overflowCountTemplate": "+${count} meer ..",
             "selectAllText": "Selecteer alles",
             "unSelectAllText": "Deselecteer alles",
-            "totalCountTemplate": "$ {count} geselecteerd"
+            "totalCountTemplate": "${count} geselecteerd"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Geen verslagen gevonden",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Geen verslagen gevonden",
             "actionFailureTemplate": "Het verzoek is mislukt",
-            "overflowCountTemplate": "+ $ {count} meer ..",
+            "overflowCountTemplate": "+${count} meer ..",
             "selectAllText": "Selecteer alles",
             "unSelectAllText": "Deselecteer alles",
-            "totalCountTemplate": "$ {count} geselecteerd"
+            "totalCountTemplate": "${count} geselecteerd"
         },
         "listbox": {
             "noRecordsTemplate": "Geen verslagen gevonden",

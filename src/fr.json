@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Aucun enregistrement trouvé",
             "actionFailureTemplate": "La demande a échoué",
-            "overflowCountTemplate": "+ $ {count} de plus ..",
+            "overflowCountTemplate": "+${count} de plus ..",
             "selectAllText": "Tout sélectionner",
             "unSelectAllText": "Tout déselectionner",
-            "totalCountTemplate": "$ {count} sélectionné"
+            "totalCountTemplate": "${count} sélectionné"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Aucun enregistrement trouvé",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Aucun enregistrement trouvé",
             "actionFailureTemplate": "La demande a échoué",
-            "overflowCountTemplate": "+ $ {count} de plus ..",
+            "overflowCountTemplate": "+${count} de plus ..",
             "selectAllText": "Tout sélectionner",
             "unSelectAllText": "Tout déselectionner",
-            "totalCountTemplate": "$ {count} sélectionné"
+            "totalCountTemplate": "${count} sélectionné"
         },
         "listbox": {
             "noRecordsTemplate": "Aucun enregistrement trouvé",

@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "לא נמצאו שיאים",
             "actionFailureTemplate": "הבקשה נכשלה",
-            "overflowCountTemplate": "+ $ {count} יותר ..",
+            "overflowCountTemplate": "+${count} יותר ..",
             "selectAllText": "בחר הכל",
             "unSelectAllText": "בטל את הבחירה בכולם",
-            "totalCountTemplate": "נבחרו $ {count}"
+            "totalCountTemplate": "נבחרו ${count}"
         },
         "drop-down-list": {
             "noRecordsTemplate": "לא נמצאו שיאים",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "לא נמצאו שיאים",
             "actionFailureTemplate": "הבקשה נכשלה",
-            "overflowCountTemplate": "+ $ {count} יותר ..",
+            "overflowCountTemplate": "+${count} יותר ..",
             "selectAllText": "בחר הכל",
             "unSelectAllText": "בטל את הבחירה בכולם",
-            "totalCountTemplate": "נבחרו $ {count}"
+            "totalCountTemplate": "נבחרו ${count}"
         },
         "listbox": {
             "noRecordsTemplate": "לא נמצאו שיאים",

@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Tidak Ditemukan Catatan",
             "actionFailureTemplate": "Permintaan Gagal",
-            "overflowCountTemplate": "+ $ {count} lagi ..",
+            "overflowCountTemplate": "+${count} lagi ..",
             "selectAllText": "Pilih Semua",
             "unSelectAllText": "Batalkan Semua Pilihan",
-            "totalCountTemplate": "$ {count} dipilih"
+            "totalCountTemplate": "${count} dipilih"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Tidak Ditemukan Catatan",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Tidak Ditemukan Catatan",
             "actionFailureTemplate": "Permintaan Gagal",
-            "overflowCountTemplate": "+ $ {count} lagi ..",
+            "overflowCountTemplate": "+${count} lagi ..",
             "selectAllText": "Pilih Semua",
             "unSelectAllText": "Batalkan Semua Pilihan",
-            "totalCountTemplate": "$ {count} dipilih"
+            "totalCountTemplate": "${count} dipilih"
         },
         "listbox": {
             "noRecordsTemplate": "Tidak Ditemukan Catatan",

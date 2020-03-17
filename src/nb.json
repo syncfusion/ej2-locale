@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Ingen opptak funnet",
             "actionFailureTemplate": "Forespørselen mislyktes",
-            "overflowCountTemplate": "+ $ {count} mer ..",
+            "overflowCountTemplate": "+${count} mer ..",
             "selectAllText": "Velg alle",
             "unSelectAllText": "Avmarker alt",
-            "totalCountTemplate": "$ {count} valgt"
+            "totalCountTemplate": "${count} valgt"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Ingen opptak funnet",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Ingen opptak funnet",
             "actionFailureTemplate": "Forespørselen mislyktes",
-            "overflowCountTemplate": "+ $ {count} mer ..",
+            "overflowCountTemplate": "+${count} mer ..",
             "selectAllText": "Velg alle",
             "unSelectAllText": "Avmarker alt",
-            "totalCountTemplate": "$ {count} valgt"
+            "totalCountTemplate": "${count} valgt"
         },
         "listbox": {
             "noRecordsTemplate": "Ingen opptak funnet",

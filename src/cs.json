@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Nenalezeny žádné záznamy",
             "actionFailureTemplate": "Žádost selhala",
-            "overflowCountTemplate": "+ $ {count} další ..",
+            "overflowCountTemplate": "+${count} další ..",
             "selectAllText": "Vybrat vše",
             "unSelectAllText": "Odznačit vše",
-            "totalCountTemplate": "Vybráno $ {count}"
+            "totalCountTemplate": "Vybráno ${count}"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Nenalezeny žádné záznamy",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Nenalezeny žádné záznamy",
             "actionFailureTemplate": "Žádost selhala",
-            "overflowCountTemplate": "+ $ {count} další ..",
+            "overflowCountTemplate": "+${count} další ..",
             "selectAllText": "Vybrat vše",
             "unSelectAllText": "Odznačit vše",
-            "totalCountTemplate": "Vybráno $ {count}"
+            "totalCountTemplate": "Vybráno ${count}"
         },
         "listbox": {
             "noRecordsTemplate": "Nenalezeny žádné záznamy",

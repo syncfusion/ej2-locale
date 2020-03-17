@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Merkintöjä ei löydy",
             "actionFailureTemplate": "Pyyntö epäonnistui",
-            "overflowCountTemplate": "+ $ {count} lisää ..",
+            "overflowCountTemplate": "+${count} lisää ..",
             "selectAllText": "Valitse kaikki",
             "unSelectAllText": "Poista kaikki valinnat",
-            "totalCountTemplate": "$ {count} valittu"
+            "totalCountTemplate": "${count} valittu"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Merkintöjä ei löydy",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Merkintöjä ei löydy",
             "actionFailureTemplate": "Pyyntö epäonnistui",
-            "overflowCountTemplate": "+ $ {count} lisää ..",
+            "overflowCountTemplate": "+${count} lisää ..",
             "selectAllText": "Valitse kaikki",
             "unSelectAllText": "Poista kaikki valinnat",
-            "totalCountTemplate": "$ {count} valittu"
+            "totalCountTemplate": "${count} valittu"
         },
         "listbox": {
             "noRecordsTemplate": "Merkintöjä ei löydy",

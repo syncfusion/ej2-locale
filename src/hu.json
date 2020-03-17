@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Nincs találat",
             "actionFailureTemplate": "A kérés sikertelen",
-            "overflowCountTemplate": "+ $ {count} további ..",
+            "overflowCountTemplate": "+${count} további ..",
             "selectAllText": "Mindet kiválaszt",
             "unSelectAllText": "Minden kijelölés megszüntetése",
-            "totalCountTemplate": "$ {count} kiválasztva"
+            "totalCountTemplate": "${count} kiválasztva"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Nincs találat",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Nincs találat",
             "actionFailureTemplate": "A kérés sikertelen",
-            "overflowCountTemplate": "+ $ {count} további ..",
+            "overflowCountTemplate": "+${count} további ..",
             "selectAllText": "Mindet kiválaszt",
             "unSelectAllText": "Minden kijelölés megszüntetése",
-            "totalCountTemplate": "$ {count} kiválasztva"
+            "totalCountTemplate": "${count} kiválasztva"
         },
         "listbox": {
             "noRecordsTemplate": "Nincs találat",

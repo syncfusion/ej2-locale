@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Inga uppgifter funna",
             "actionFailureTemplate": "Begäran misslyckades",
-            "overflowCountTemplate": "+ $ {count} mer ..",
+            "overflowCountTemplate": "+${count} mer ..",
             "selectAllText": "Välj alla",
             "unSelectAllText": "Avmarkera alla",
-            "totalCountTemplate": "$ {count} vald"
+            "totalCountTemplate": "${count} vald"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Inga uppgifter funna",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Inga uppgifter funna",
             "actionFailureTemplate": "Begäran misslyckades",
-            "overflowCountTemplate": "+ $ {count} mer ..",
+            "overflowCountTemplate": "+${count} mer ..",
             "selectAllText": "Välj alla",
             "unSelectAllText": "Avmarkera alla",
-            "totalCountTemplate": "$ {count} vald"
+            "totalCountTemplate": "${count} vald"
         },
         "listbox": {
             "noRecordsTemplate": "Inga uppgifter funna",

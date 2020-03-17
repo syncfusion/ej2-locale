@@ -923,10 +923,10 @@
         "dropdowns": {
             "noRecordsTemplate": "Nenašli sa žiadne záznamy",
             "actionFailureTemplate": "Žiadosť zlyhala",
-            "overflowCountTemplate": "+ $ {count} viac ..",
+            "overflowCountTemplate": "+${count} viac ..",
             "selectAllText": "Vybrať všetko",
             "unSelectAllText": "Odznačiť všetko",
-            "totalCountTemplate": "Bol vybratý $ {count}"
+            "totalCountTemplate": "Bol vybratý ${count}"
         },
         "drop-down-list": {
             "noRecordsTemplate": "Nenašli sa žiadne záznamy",
@@ -943,10 +943,10 @@
         "multi-select": {
             "noRecordsTemplate": "Nenašli sa žiadne záznamy",
             "actionFailureTemplate": "Žiadosť zlyhala",
-            "overflowCountTemplate": "+ $ {count} viac ..",
+            "overflowCountTemplate": "+${count} viac ..",
             "selectAllText": "Vybrať všetko",
             "unSelectAllText": "Odznačiť všetko",
-            "totalCountTemplate": "Bol vybratý $ {count}"
+            "totalCountTemplate": "Bol vybratý ${count}"
         },
         "listbox": {
             "noRecordsTemplate": "Nenašli sa žiadne záznamy",
