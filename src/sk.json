@@ -116,6 +116,14 @@
             "notes": "Poznámky",
             "baselineStartDate": "Dátum začatia základnej línie",
             "baselineEndDate": "Dátum ukončenia základnej línie",
+            "taskMode": "Režim úloh",
+            "changeScheduleMode": "Zmena režimu plánovania",
+            "subTasksStartDate": "Dátum začatia čiastkových tónov",
+            "subTasksEndDate": "Dátum ukončenia podtried",
+            "scheduleStartDate": "Dátum začiatku plánovania",
+            "scheduleEndDate": "Dátum ukončenia rozvrhu",
+            "auto": "auto",
+            "manual": "Manuálny",
             "type": "typ",
             "offset": "ofset",
             "resourceName": "zdroje",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Ľavý štítok úlohy",
             "rightTaskLabel": "Správny štítok úlohy",
             "timelineCell": "Bunka časovej osi",
-            "confirmPredecessorDelete": "Naozaj chcete odstrániť odkaz závislosti?"
+            "confirmPredecessorDelete": "Naozaj chcete odstrániť odkaz závislosti?",
+            "unit": "jednotka",
+            "work": "Práca",
+            "taskType": "Typ úlohy",
+            "unassignedTask": "Nepriradená úloha",
+            "group": "skupina"
         },
         "tab": {
             "closeButtonTitle": "Zavrieť"
@@ -246,6 +259,7 @@
             "Orientation": "orientácia",
             "Landscape": "krajina",
             "Portrait": "portrét",
+            "Table Of Contents": "Obsah",
             "Show page numbers": "Zobraziť čísla stránok",
             "Right align page numbers": "Zarovnajte čísla strán doprava",
             "Nothing": "nič",
@@ -661,7 +675,33 @@
             "startAt": "Začína sa o",
             "endAt": "Končí sa o",
             "groupBy": "Interval do",
-            "selectGroup": "Vyberte skupiny"
+            "selectGroup": "Vyberte skupiny",
+            "numberFormatString": "Príklad: C, P, 0000%, ### 0. ## 0 # atď.",
+            "stackingcolumn": "Skladaný stĺpec",
+            "stackingbar": "Skladaný pruh",
+            "stackingarea": "Skladaný priestor",
+            "stepline": "Kroková čiara",
+            "steparea": "Kroková oblasť",
+            "splinearea": "Spline Area",
+            "spline": "spline",
+            "stackingcolumn100": "100% stohovaný stĺpec",
+            "stackingbar100": "100% stohovaný pruh",
+            "stackingarea100": "100% skladaná plocha",
+            "bubble": "bublina",
+            "pareto": "Pareto",
+            "radar": "radar",
+            "chartTypeSettings": "Nastavenia typu grafu",
+            "multipleAxes": "Viac osí",
+            "sortAscending": "Zoradiť vzostupne",
+            "sortDescending": "Zoradiť zostupne",
+            "sortNone": "Zoradiť poradie údajov",
+            "clearCalculatedField": "Vymazať informácie o upravenom poli",
+            "editCalculatedField": "Upraviť vypočítané pole",
+            "ChartType": "Typ grafu",
+            "yes": "Áno",
+            "no": "žiadny",
+            "numberFormatMenu": "Formátovanie čísla ...",
+            "conditionalFormatingMenu": "Podmienené formátovanie..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Zoznam kontingenčných polí",
@@ -801,7 +841,15 @@
             "QuarterYear": "Štvrťrok",
             "caption": "Pole titulku",
             "copy": "kópie",
-            "group": "skupina"
+            "group": "skupina",
+            "numberFormatString": "Príklad: C, P, 0000%, ### 0. ## 0 # atď.",
+            "sortAscending": "Zoradiť vzostupne",
+            "sortDescending": "Zoradiť zostupne",
+            "sortNone": "Zoradiť poradie údajov",
+            "clearCalculatedField": "Vymazať informácie o upravenom poli",
+            "editCalculatedField": "Upraviť vypočítané pole",
+            "selectGroup": "Vyberte skupiny",
+            "of": "z"
         },
         "schedule": {
             "day": "deň",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Nechať si oboje",
             "Button-Replace": "vymeniť",
             "Button-Skip": "skip",
-            "ApplyAll-Label": "Urobte to pre všetky aktuálne položky"
+            "ApplyAll-Label": "Urobte to pre všetky aktuálne položky",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "žiadne záznamy na zobrazenie",
@@ -2208,7 +2257,9 @@
             "Single": "jednoposteľová",
             "Double": "dvojitý",
             "New comment": "Nový komentár",
-            "Comments": "Komentáre"
+            "Comments": "Komentáre",
+            "Print layout": "Rozloženie tlače",
+            "Web layout": "Webové rozloženie"
         },
         "toast": {
             "close": "Zavrieť"

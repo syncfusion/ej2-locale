@@ -116,6 +116,14 @@
             "notes": "Poznámky",
             "baselineStartDate": "Základní datum zahájení",
             "baselineEndDate": "Základní datum ukončení",
+            "taskMode": "Režim úloh",
+            "changeScheduleMode": "Změnit režim plánování",
+            "subTasksStartDate": "Datum zahájení dílčího úkolu",
+            "subTasksEndDate": "Datum ukončení dílčích titulů",
+            "scheduleStartDate": "Datum zahájení plánu",
+            "scheduleEndDate": "Datum ukončení plánu",
+            "auto": "Auto",
+            "manual": "Manuál",
             "type": "Typ",
             "offset": "Offset",
             "resourceName": "Zdroje",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Štítek levého úkolu",
             "rightTaskLabel": "Správný štítek úlohy",
             "timelineCell": "Buňka časové osy",
-            "confirmPredecessorDelete": "Opravdu chcete odstranit odkaz závislosti?"
+            "confirmPredecessorDelete": "Are you sure you want to remove dependency link?",
+            "unit": "Unit",
+            "work": "Work",
+            "taskType": "Task Type",
+            "unassignedTask": "Unassigned Task",
+            "group": "Group"
         },
         "tab": {
             "closeButtonTitle": "Zavřít"
@@ -246,6 +259,7 @@
             "Orientation": "Orientace",
             "Landscape": "Krajina",
             "Portrait": "Portrét",
+            "Table Of Contents": "Obsah",
             "Show page numbers": "Zobrazit čísla stránek",
             "Right align page numbers": "Zarovnat čísla stránek vpravo",
             "Nothing": "Nic",
@@ -661,7 +675,33 @@
             "startAt": "Počínaje",
             "endAt": "Končí v",
             "groupBy": "Interval do",
-            "selectGroup": "Vyberte skupiny"
+            "selectGroup": "Vyberte skupiny",
+            "numberFormatString": "Příklad: C, P, 0000%, ### 0.. ## 0 # atd.",
+            "stackingcolumn": "Skládaný sloupec",
+            "stackingbar": "Skládaný pruh",
+            "stackingarea": "Skládaný prostor",
+            "stepline": "Kroková čára",
+            "steparea": "Kroková oblast",
+            "splinearea": "Spline Area",
+            "spline": "Spline",
+            "stackingcolumn100": "100% skládaný sloupec",
+            "stackingbar100": "100% skládaný pruh",
+            "stackingarea100": "100% skládaná plocha",
+            "bubble": "bublina",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Nastavení typu grafu",
+            "multipleAxes": "Více os",
+            "sortAscending": "Seřadit vzestupně",
+            "sortDescending": "Seřadit sestupně",
+            "sortNone": "Řadit údaje",
+            "clearCalculatedField": "Vymazat upravené informace o poli",
+            "editCalculatedField": "Upravit vypočtené pole",
+            "ChartType": "Typ grafu",
+            "yes": "Ano",
+            "no": "Ne",
+            "numberFormatMenu": "Formátování čísla ...",
+            "conditionalFormatingMenu": "Podmíněné formátování..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Seznam kontingenčních polí",
@@ -801,7 +841,15 @@
             "QuarterYear": "Čtvrtletní rok",
             "caption": "Polní titulek",
             "copy": "kopírovat",
-            "group": "Skupina"
+            "group": "Skupina",
+            "numberFormatString": "Příklad: C, P, 0000%, ### 0.. ## 0 # atd.",
+            "sortAscending": "Seřadit vzestupně",
+            "sortDescending": "Seřadit sestupně",
+            "sortNone": "Řadit datové pořadí",
+            "clearCalculatedField": "Vymazat upravené informace o poli",
+            "editCalculatedField": "Upravit vypočtené pole",
+            "selectGroup": "Vyberte skupiny",
+            "of": "z"
         },
         "schedule": {
             "day": "Den",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Nechat si oba",
             "Button-Replace": "Nahradit",
             "Button-Skip": "Přeskočit",
-            "ApplyAll-Label": "Udělejte to pro všechny aktuální položky"
+            "ApplyAll-Label": "Udělejte to pro všechny aktuální položky",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "žádné záznamy k nahlédnutí",

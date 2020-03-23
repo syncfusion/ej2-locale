@@ -116,6 +116,14 @@
             "notes": "筆記",
             "baselineStartDate": "基准開始日期",
             "baselineEndDate": "基準結束日期",
+            "taskMode": "任務模式",
+            "changeScheduleMode": "更改時間表模式",
+            "subTasksStartDate": "子任務開始日期",
+            "subTasksEndDate": "子任務結束日期",
+            "scheduleStartDate": "計劃開始日期",
+            "scheduleEndDate": "計劃結束日期",
+            "auto": "汽車",
+            "manual": "手冊",
             "type": "類型",
             "offset": "偏移量",
             "resourceName": "資源資源",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "左任務標籤",
             "rightTaskLabel": "正確的任務標籤",
             "timelineCell": "時間軸單元",
-            "confirmPredecessorDelete": "您確定要刪除依賴關係鏈接嗎？"
+            "confirmPredecessorDelete": "您確定要刪除依賴關係鏈接嗎？",
+            "unit": "單元",
+            "work": "工作",
+            "taskType": "任務類型",
+            "unassignedTask": "未分配任務",
+            "group": "組"
         },
         "tab": {
             "closeButtonTitle": "關"
@@ -246,6 +259,7 @@
             "Orientation": "取向",
             "Landscape": "景觀",
             "Portrait": "肖像",
+            "Table Of Contents": "目錄",
             "Show page numbers": "顯示頁碼",
             "Right align page numbers": "右對齊頁碼",
             "Nothing": "沒有",
@@ -661,7 +675,33 @@
             "startAt": "開始於",
             "endAt": "結束於",
             "groupBy": "間隔時間",
-            "selectGroup": "選擇組"
+            "selectGroup": "選擇組",
+            "numberFormatString": "示例：C，P，0000％，### 0。## 0＃等",
+            "stackingcolumn": "堆積柱",
+            "stackingbar": "疊桿",
+            "stackingarea": "堆積面積",
+            "stepline": "階梯線",
+            "steparea": "台階面積",
+            "splinearea": "花鍵面積",
+            "spline": "花鍵",
+            "stackingcolumn100": "100％堆積柱",
+            "stackingbar100": "100％堆積酒吧",
+            "stackingarea100": "100％堆積面積",
+            "bubble": "氣泡",
+            "pareto": "帕累托",
+            "radar": "雷達",
+            "chartTypeSettings": "圖表類型設置",
+            "multipleAxes": "多軸",
+            "sortAscending": "升序排序",
+            "sortDescending": "降序排列",
+            "sortNone": "排序數據順序",
+            "clearCalculatedField": "清除編輯的字段信息",
+            "editCalculatedField": "編輯計算字段",
+            "ChartType": "圖表類型",
+            "yes": "是",
+            "no": "沒有",
+            "numberFormatMenu": "數字格式...",
+            "conditionalFormatingMenu": "條件格式..."
         },
         "pivotfieldlist": {
             "staticFieldList": "樞軸字段列表",
@@ -801,7 +841,15 @@
             "QuarterYear": "季度年",
             "caption": "現場字幕",
             "copy": "複製",
-            "group": "組"
+            "group": "組",
+            "numberFormatString": "示例：C，P，0000％，### 0。## 0＃等",
+            "sortAscending": "升序排序",
+            "sortDescending": "降序排列",
+            "sortNone": "排序數據順序",
+            "clearCalculatedField": "清除編輯的字段信息",
+            "editCalculatedField": "編輯計算字段",
+            "selectGroup": "選擇組",
+            "of": "的"
         },
         "schedule": {
             "day": "天",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "保留兩個",
             "Button-Replace": "更換",
             "Button-Skip": "跳躍",
-            "ApplyAll-Label": "對所有當前項目執行此操作"
+            "ApplyAll-Label": "對所有當前項目執行此操作",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "無記錄可顯示",
@@ -2208,7 +2257,9 @@
             "Single": "單",
             "Double": "雙",
             "New comment": "新評論",
-            "Comments": "註釋"
+            "Comments": "註釋",
+            "Print layout": "打印佈局",
+            "Web layout": "網站佈局"
         },
         "toast": {
             "close": "關"

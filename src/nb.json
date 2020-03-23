@@ -116,6 +116,14 @@
             "notes": "Merknader",
             "baselineStartDate": "Grunnlags startdato",
             "baselineEndDate": "Grunnlags sluttdato",
+            "taskMode": "Oppgavemodus",
+            "changeScheduleMode": "Endre tidsplanmodus",
+            "subTasksStartDate": "Deloppgaver startdato",
+            "subTasksEndDate": "Sluttdato for deloppgaver",
+            "scheduleStartDate": "Planlegg startdato",
+            "scheduleEndDate": "Planlegg sluttdato",
+            "auto": "Auto",
+            "manual": "Håndbok",
             "type": "Type",
             "offset": "offset",
             "resourceName": "ressurser",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Venstre oppgavelabel",
             "rightTaskLabel": "Riktig oppgavelabel",
             "timelineCell": "Tidslinje celle",
-            "confirmPredecessorDelete": "Er du sikker på at du vil fjerne avhengighetslinket?"
+            "confirmPredecessorDelete": "Er du sikker på at du vil fjerne avhengighetslinket?",
+            "unit": "Enhet",
+            "work": "Arbeid",
+            "taskType": "Oppgavetype",
+            "unassignedTask": "Ikke tilordnet oppgave",
+            "group": "Gruppe"
         },
         "tab": {
             "closeButtonTitle": "Lukk"
@@ -246,6 +259,7 @@
             "Orientation": "orientering",
             "Landscape": "Landskap",
             "Portrait": "Portrett",
+            "Table Of Contents": "Innholdsfortegnelse",
             "Show page numbers": "Vis sidetall",
             "Right align page numbers": "Høyre juster sidetall",
             "Nothing": "Ingenting",
@@ -661,7 +675,33 @@
             "startAt": "Starter på",
             "endAt": "Slutter kl",
             "groupBy": "Intervall av",
-            "selectGroup": "Velg grupper"
+            "selectGroup": "Velg grupper",
+            "numberFormatString": "Eksempel: C, P, 0000%, ### 0. ## 0 #, etc.",
+            "stackingcolumn": "Stablet søyle",
+            "stackingbar": "Stablet bar",
+            "stackingarea": "Stablet område",
+            "stepline": "Trinnlinje",
+            "steparea": "Trinnområde",
+            "splinearea": "Splineområdet",
+            "spline": "spline",
+            "stackingcolumn100": "100% stablet kolonne",
+            "stackingbar100": "100% stablet stang",
+            "stackingarea100": "100% stablet område",
+            "bubble": "boble",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Innstillinger for diagramtype",
+            "multipleAxes": "Flere akser",
+            "sortAscending": "Sorter stigende rekkefølge",
+            "sortDescending": "Sorter synkende rekkefølge",
+            "sortNone": "Sorter datarekkefølge",
+            "clearCalculatedField": "Tøm redigert feltinfo",
+            "editCalculatedField": "Rediger beregnet felt",
+            "ChartType": "Karttype",
+            "yes": "Ja",
+            "no": "Nei",
+            "numberFormatMenu": "Nummerformatering ...",
+            "conditionalFormatingMenu": "Betinget formatering..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot feltliste",
@@ -801,7 +841,15 @@
             "QuarterYear": "Kvart år",
             "caption": "Felttekst",
             "copy": "Kopiere",
-            "group": "Gruppe"
+            "group": "Gruppe",
+            "numberFormatString": "Eksempel: C, P, 0000%, ### 0. ## 0 #, etc.",
+            "sortAscending": "Sorter stigende rekkefølge",
+            "sortDescending": "Sorter synkende rekkefølge",
+            "sortNone": "Sorter datarekkefølge",
+            "clearCalculatedField": "Tøm redigert feltinfo",
+            "editCalculatedField": "Rediger beregnet felt",
+            "selectGroup": "Velg grupper",
+            "of": "av"
         },
         "schedule": {
             "day": "Dag",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Behold begge",
             "Button-Replace": "Erstatte",
             "Button-Skip": "Skip",
-            "ApplyAll-Label": "Gjør dette for alle gjeldende gjenstander"
+            "ApplyAll-Label": "Gjør dette for alle gjeldende gjenstander",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Ingen oppføringer å vise",
@@ -2208,7 +2257,9 @@
             "Single": "Enkelt",
             "Double": "Dobbelt",
             "New comment": "Ny kommentar",
-            "Comments": "kommentarer"
+            "Comments": "kommentarer",
+            "Print layout": "Utskriftslayout",
+            "Web layout": "Nettoppsett"
         },
         "toast": {
             "close": "Lukk"

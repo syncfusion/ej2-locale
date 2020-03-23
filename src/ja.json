@@ -116,6 +116,14 @@
             "notes": "ノート",
             "baselineStartDate": "ベースライン開始日",
             "baselineEndDate": "ベースライン終了日",
+            "taskMode": "タスクモード",
+            "changeScheduleMode": "スケジュールモードの変更",
+            "subTasksStartDate": "サブタスクの開始日",
+            "subTasksEndDate": "サブタスクの終了日",
+            "scheduleStartDate": "スケジュール開始日",
+            "scheduleEndDate": "スケジュールの終了日",
+            "auto": "自動",
+            "manual": "マニュアル",
             "type": "タイプ",
             "offset": "オフセット",
             "resourceName": "資源",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "左タスクラベル",
             "rightTaskLabel": "正しいタスクラベル",
             "timelineCell": "タイムラインセル",
-            "confirmPredecessorDelete": "依存関係リンクを削除してもよろしいですか？"
+            "confirmPredecessorDelete": "依存関係リンクを削除してもよろしいですか？",
+            "unit": "単位",
+            "work": "作業",
+            "taskType": "タスクの種類",
+            "unassignedTask": "割り当てられていないタスク",
+            "group": "グループ"
         },
         "tab": {
             "closeButtonTitle": "閉じる"
@@ -246,6 +259,7 @@
             "Orientation": "オリエンテーション",
             "Landscape": "風景",
             "Portrait": "肖像画",
+            "Table Of Contents": "目次",
             "Show page numbers": "ページ番号を表示する",
             "Right align page numbers": "ページ番号を右揃え",
             "Nothing": "なし",
@@ -661,7 +675,33 @@
             "startAt": "で始まる",
             "endAt": "で終わる",
             "groupBy": "間隔",
-            "selectGroup": "グループを選択"
+            "selectGroup": "グループを選択",
+            "numberFormatString": "例：C、P、0000％、### 0。## 0＃など",
+            "stackingcolumn": "積み上げコラム",
+            "stackingbar": "積み上げ棒",
+            "stackingarea": "積み上げ面",
+            "stepline": "ステップライン",
+            "steparea": "ステップエリア",
+            "splinearea": "スプライン領域",
+            "spline": "スプライン",
+            "stackingcolumn100": "100％積み上げカラム",
+            "stackingbar100": "100％積み上げバー",
+            "stackingarea100": "100％積み上げ面",
+            "bubble": "バブル",
+            "pareto": "パレート",
+            "radar": "レーダー",
+            "chartTypeSettings": "チャートタイプの設定",
+            "multipleAxes": "複数の軸",
+            "sortAscending": "昇順で並べ替え",
+            "sortDescending": "降順で並べ替え",
+            "sortNone": "データの並べ替え",
+            "clearCalculatedField": "編集したフィールド情報をクリア",
+            "editCalculatedField": "計算フィールドを編集する",
+            "ChartType": "チャートタイプ",
+            "yes": "はい",
+            "no": "番号",
+            "numberFormatMenu": "数値のフォーマット...",
+            "conditionalFormatingMenu": "条件付き書式..."
         },
         "pivotfieldlist": {
             "staticFieldList": "ピボットフィールドリスト",
@@ -1101,7 +1141,8 @@
             "Button-Keep-Both": "両方とも",
             "Button-Replace": "交換",
             "Button-Skip": "スキップ",
-            "ApplyAll-Label": "現在のすべてのアイテムのためにこれを行います"
+            "ApplyAll-Label": "現在のすべてのアイテムのためにこれを行います",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "表示するレコードはありません",
@@ -2208,7 +2249,9 @@
             "Single": "シングル",
             "Double": "ダブル",
             "New comment": "新しいコメント",
-            "Comments": "コメント"
+            "Comments": "コメント",
+            "Print layout": "印刷レイアウト",
+            "Web layout": "Webレイアウト"
         },
         "toast": {
             "close": "閉じる"

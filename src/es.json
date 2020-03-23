@@ -116,6 +116,14 @@
             "notes": "Notas",
             "baselineStartDate": "Fecha de inicio de línea de base",
             "baselineEndDate": "Fecha de finalización de línea de base",
+            "taskMode": "Modo de Tarea",
+            "changeScheduleMode": "Cambiar modo de programación",
+            "subTasksStartDate": "Fecha de inicio de subtareas",
+            "subTasksEndDate": "Fecha de finalización de subtareas",
+            "scheduleStartDate": "Fecha de inicio del horario",
+            "scheduleEndDate": "Fecha de finalización del horario",
+            "auto": "Auto",
+            "manual": "Manual",
             "type": "Tipo",
             "offset": "Compensar",
             "resourceName": "Recursos",
@@ -246,6 +254,7 @@
             "Orientation": "Orientación",
             "Landscape": "Paisaje",
             "Portrait": "Retrato",
+            "Table Of Contents": "Tabla de contenido",
             "Show page numbers": "Mostrar números de página",
             "Right align page numbers": "Alinear a la derecha los números de página",
             "Nothing": "Nada",
@@ -661,7 +670,33 @@
             "startAt": "A partir de",
             "endAt": "Terminando a las",
             "groupBy": "Intervalo por",
-            "selectGroup": "Seleccionar grupos"
+            "selectGroup": "Seleccionar grupos",
+            "numberFormatString": "Ejemplo: C, P, 0000%, ### 0. ## 0 #, etc.",
+            "stackingcolumn": "Columna apilada",
+            "stackingbar": "Barra apilada",
+            "stackingarea": "Área apilada",
+            "stepline": "Línea de paso",
+            "steparea": "Área de paso",
+            "splinearea": "Área de spline",
+            "spline": "Ranura",
+            "stackingcolumn100": "Columna 100% apilada",
+            "stackingbar100": "Barra 100% apilada",
+            "stackingarea100": "Área 100% apilada",
+            "bubble": "burbuja",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Configuración de tipo de gráfico",
+            "multipleAxes": "Ejes múltiples",
+            "sortAscending": "Ordenar orden ascendente",
+            "sortDescending": "Ordenar orden descendente",
+            "sortNone": "Ordenar orden de datos",
+            "clearCalculatedField": "Borrar información de campo editado",
+            "editCalculatedField": "Editar campo calculado",
+            "ChartType": "Tipo de carta",
+            "yes": "si",
+            "no": "No",
+            "numberFormatMenu": "Formato de número ...",
+            "conditionalFormatingMenu": "Formato condicional..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista de campos dinámicos",
@@ -801,7 +836,15 @@
             "QuarterYear": "Cuarto año",
             "caption": "Título de campo",
             "copy": "Copiar",
-            "group": "Grupo"
+            "group": "Grupo",
+            "numberFormatString": "Ejemplo: C, P, 0000%, ### 0. ## 0 #, etc.",
+            "sortAscending": "Ordenar orden ascendente",
+            "sortDescending": "Ordenar orden descendente",
+            "sortNone": "Ordenar orden de datos",
+            "clearCalculatedField": "Borrar información de campo editado",
+            "editCalculatedField": "Editar campo calculado",
+            "selectGroup": "Seleccionar grupos",
+            "of": "de"
         },
         "schedule": {
             "day": "Día",
@@ -1101,7 +1144,8 @@
             "Button-Keep-Both": "Mantén ambos",
             "Button-Replace": "Reemplazar",
             "Button-Skip": "Omitir",
-            "ApplyAll-Label": "Haz esto para todos los artículos actuales"
+            "ApplyAll-Label": "Haz esto para todos los artículos actuales",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "No hay registros que mostrar",
@@ -2208,7 +2252,9 @@
             "Single": "Soltero",
             "Double": "Doble",
             "New comment": "Nuevo comentario",
-            "Comments": "Comentarios"
+            "Comments": "Comentarios",
+            "Print layout": "Diseño de impresión",
+            "Web layout": "diseño web"
         },
         "toast": {
             "close": "Cerca"

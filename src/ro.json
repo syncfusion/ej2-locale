@@ -116,6 +116,14 @@
             "notes": "notițe",
             "baselineStartDate": "Data inițială de început",
             "baselineEndDate": "Data de încheiere de bază",
+            "taskMode": "Mod de activități",
+            "changeScheduleMode": "Schimbați modul de programare",
+            "subTasksStartDate": "Data de început a subTasks-urilor",
+            "subTasksEndDate": "Data de încheiere a subTasks-urilor",
+            "scheduleStartDate": "Planificați data de început",
+            "scheduleEndDate": "Data de încheiere a programului",
+            "auto": "Auto",
+            "manual": "Manual",
             "type": "Tip",
             "offset": "Decalaj",
             "resourceName": "Resurse",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Eticheta sarcinii din stânga",
             "rightTaskLabel": "Eticheta corectă a sarcinii",
             "timelineCell": "Celula cronologică",
-            "confirmPredecessorDelete": "Sigur doriți să eliminați linkul de dependență?"
+            "confirmPredecessorDelete": "Sigur doriți să eliminați linkul de dependență?",
+            "unit": "Unitate",
+            "work": "Muncă",
+            "taskType": "Tipul sarcinii",
+            "unassignedTask": "Sarcina neatribuită",
+            "group": "grup"
         },
         "tab": {
             "closeButtonTitle": "Închide"
@@ -246,6 +259,7 @@
             "Orientation": "Orientare",
             "Landscape": "Peisaj",
             "Portrait": "Portret",
+            "Table Of Contents": "Cuprins",
             "Show page numbers": "Afișează numerele paginii",
             "Right align page numbers": "Alegeți numerele drepte ale paginii",
             "Nothing": "Nimic",
@@ -661,7 +675,33 @@
             "startAt": "Începând de la",
             "endAt": "Se încheie la",
             "groupBy": "Interval de",
-            "selectGroup": "Selectați grupuri"
+            "selectGroup": "Selectați grupuri",
+            "numberFormatString": "Exemplu: C, P, 0000%, ### 0. ## 0 # etc.",
+            "stackingcolumn": "Coloana stivuită",
+            "stackingbar": "Barul stivuit",
+            "stackingarea": "Zona stivuită",
+            "stepline": "Pas de linie",
+            "steparea": "Zona pasului",
+            "splinearea": "Zona Spline",
+            "spline": "Splina",
+            "stackingcolumn100": "Coloana stivuită 100%",
+            "stackingbar100": "Bară stivuită 100%",
+            "stackingarea100": "Suprafață 100% stivuită",
+            "bubble": "balon",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Setări tip grafic",
+            "multipleAxes": "Axe multiple",
+            "sortAscending": "Sortează ordinea ascendentă",
+            "sortDescending": "Sortează ordinea descendentă",
+            "sortNone": "Sortare ordine de date",
+            "clearCalculatedField": "Ștergeți informațiile câmpului editate",
+            "editCalculatedField": "Editați câmpul calculat",
+            "ChartType": "Tipul graficului",
+            "yes": "da",
+            "no": "Nu",
+            "numberFormatMenu": "Formatarea numărului ...",
+            "conditionalFormatingMenu": "Formatarea condițională..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista câmpurilor pivot",
@@ -801,7 +841,15 @@
             "QuarterYear": "Anul trimestrial",
             "caption": "Subtitrare câmp",
             "copy": "Copie",
-            "group": "grup"
+            "group": "grup",
+            "numberFormatString": "Exemplu: C, P, 0000%, ### 0. ## 0 # etc.",
+            "sortAscending": "Sortează ordinea ascendentă",
+            "sortDescending": "Sortează ordinea descendentă",
+            "sortNone": "Sortare ordine de date",
+            "clearCalculatedField": "Ștergeți informațiile câmpului editate",
+            "editCalculatedField": "Editați câmpul calculat",
+            "selectGroup": "Selectați grupuri",
+            "of": "de"
         },
         "schedule": {
             "day": "Zi",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Păstrați ambele",
             "Button-Replace": "A inlocui",
             "Button-Skip": "Ocolire",
-            "ApplyAll-Label": "Faceți acest lucru pentru toate articolele curente"
+            "ApplyAll-Label": "Faceți acest lucru pentru toate articolele curente",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Nu există înregistrări de afișat",
@@ -2208,7 +2257,9 @@
             "Single": "Singur",
             "Double": "Dubla",
             "New comment": "Comentariu nou",
-            "Comments": "Comentarii"
+            "Comments": "Comentarii",
+            "Print layout": "Aspect imprimat",
+            "Web layout": "Aspect web"
         },
         "toast": {
             "close": "Închide"

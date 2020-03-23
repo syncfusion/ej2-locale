@@ -116,6 +116,14 @@
             "notes": "Huomautuksia",
             "baselineStartDate": "Perustilan alkamispäivä",
             "baselineEndDate": "Perustilan päättymispäivä",
+            "taskMode": "Tehtävätila",
+            "changeScheduleMode": "Vaihda aikataulutilaa",
+            "subTasksStartDate": "Alitehtävät alkamispäivä",
+            "subTasksEndDate": "Alatehtävät päättymispäivä",
+            "scheduleStartDate": "Aikataulun alkamispäivä",
+            "scheduleEndDate": "Aikataulun päättymispäivä",
+            "auto": "Auto",
+            "manual": "manuaalinen",
             "type": "Tyyppi",
             "offset": "Offset",
             "resourceName": "voimavarat",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Vasemman tehtävän etiketti",
             "rightTaskLabel": "Oikea tehtävämerkki",
             "timelineCell": "Aikajanan solu",
-            "confirmPredecessorDelete": "Haluatko varmasti poistaa riippuvuuslinkin?"
+            "confirmPredecessorDelete": "Haluatko varmasti poistaa riippuvuuslinkin?",
+            "unit": "yksikkö",
+            "work": "Työ",
+            "taskType": "Tehtävän tyyppi",
+            "unassignedTask": "Määrittämätön tehtävä",
+            "group": "Ryhmä"
         },
         "tab": {
             "closeButtonTitle": "kiinni"
@@ -246,6 +259,7 @@
             "Orientation": "Suuntautuminen",
             "Landscape": "Maisema",
             "Portrait": "Muotokuva",
+            "Table Of Contents": "Sisällysluettelo",
             "Show page numbers": "Näytä sivunumerot",
             "Right align page numbers": "Kohdista sivunumerot oikealle",
             "Nothing": "Ei mitään",
@@ -661,7 +675,33 @@
             "startAt": "Alkaen",
             "endAt": "Päättyy klo",
             "groupBy": "Väli:",
-            "selectGroup": "Valitse ryhmät"
+            "selectGroup": "Valitse ryhmät",
+            "numberFormatString": "Esimerkki: C, P, 0000%, ### 0. ## 0 # jne.",
+            "stackingcolumn": "Pinottu sarake",
+            "stackingbar": "Pinottu baari",
+            "stackingarea": "Pinottu alue",
+            "stepline": "Askellinja",
+            "steparea": "Vaihealue",
+            "splinearea": "Spline-alue",
+            "spline": "Spline",
+            "stackingcolumn100": "100% pinottu sarake",
+            "stackingbar100": "100% pinottu baari",
+            "stackingarea100": "100% pinottu alue",
+            "bubble": "kupla",
+            "pareto": "Pareto",
+            "radar": "Tutka",
+            "chartTypeSettings": "Karttatyypin asetukset",
+            "multipleAxes": "Useita akseleita",
+            "sortAscending": "Lajittele nousevaan järjestykseen",
+            "sortDescending": "Lajittele laskevaan järjestykseen",
+            "sortNone": "Lajittele tietojen järjestys",
+            "clearCalculatedField": "Tyhjennä muokatut kentätiedot",
+            "editCalculatedField": "Muokkaa laskettua kenttää",
+            "ChartType": "Kaavion tyyppi",
+            "yes": "Joo",
+            "no": "Ei",
+            "numberFormatMenu": "Numeron muotoilu ...",
+            "conditionalFormatingMenu": "Ehdollinen muotoilu ..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot-kenttäluettelo",
@@ -801,7 +841,15 @@
             "QuarterYear": "Neljännesvuosi",
             "caption": "Kenttäkuvateksti",
             "copy": "Kopio",
-            "group": "Ryhmä"
+            "group": "Ryhmä",
+            "numberFormatString": "Esimerkki: C, P, 0000%, ### 0. ## 0 # jne.",
+            "sortAscending": "Lajittele nousevaan järjestykseen",
+            "sortDescending": "Lajittele laskevaan järjestykseen",
+            "sortNone": "Lajittele tietojen järjestys",
+            "clearCalculatedField": "Tyhjennä muokatut kentätiedot",
+            "editCalculatedField": "Muokkaa laskettua kenttää",
+            "selectGroup": "Valitse ryhmät",
+            "of": "of"
         },
         "schedule": {
             "day": "Päivä",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Pidä molemmat",
             "Button-Replace": "Korvata",
             "Button-Skip": "Ohita",
-            "ApplyAll-Label": "Tee tämä kaikille nykyisille esineille"
+            "ApplyAll-Label": "Tee tämä kaikille nykyisille esineille",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Ei näytettäviä tietueita",
@@ -2208,7 +2257,9 @@
             "Single": "Yksittäinen",
             "Double": "Kaksinkertainen",
             "New comment": "Uusi kommentti",
-            "Comments": "Kommentit"
+            "Comments": "Kommentit",
+            "Print layout": "Tulosteen asettelu",
+            "Web layout": "Verkkosuunnittelu"
         },
         "toast": {
             "close": "kiinni"

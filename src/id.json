@@ -116,6 +116,14 @@
             "notes": "Catatan",
             "baselineStartDate": "Tanggal Mulai Baseline",
             "baselineEndDate": "Tanggal Akhir Baseline",
+            "taskMode": "Mode Tugas",
+            "changeScheduleMode": "Ubah Mode Jadwal",
+            "subTasksStartDate": "Tanggal Mulai Subtugas",
+            "subTasksEndDate": "Tanggal Akhir SubTugas",
+            "scheduleStartDate": "Jadwal Tanggal Mulai",
+            "scheduleEndDate": "Jadwal Tanggal Berakhir",
+            "auto": "Mobil",
+            "manual": "Manual",
             "type": "Tipe",
             "offset": "Mengimbangi",
             "resourceName": "Sumber daya",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Label tugas kiri",
             "rightTaskLabel": "Label tugas yang tepat",
             "timelineCell": "Sel garis waktu",
-            "confirmPredecessorDelete": "Anda yakin ingin menghapus tautan ketergantungan?"
+            "confirmPredecessorDelete": "Anda yakin ingin menghapus tautan ketergantungan?",
+            "unit": "Satuan",
+            "work": "Kerja",
+            "taskType": "Jenis Tugas",
+            "unassignedTask": "Tugas yang Tidak Ditugaskan",
+            "group": "Kelompok"
         },
         "tab": {
             "closeButtonTitle": "Menutup"
@@ -246,6 +259,7 @@
             "Orientation": "Orientasi",
             "Landscape": "Pemandangan",
             "Portrait": "Potret",
+            "Table Of Contents": "Daftar Isi",
             "Show page numbers": "Tampilkan nomor halaman",
             "Right align page numbers": "Rata kanan nomor halaman",
             "Nothing": "Tidak ada",
@@ -661,7 +675,33 @@
             "startAt": "Mulai dari",
             "endAt": "Berakhir pada",
             "groupBy": "Interval oleh",
-            "selectGroup": "Pilih grup"
+            "selectGroup": "Pilih grup",
+            "numberFormatString": "Contoh: C, P, 0000%, ### 0. ## 0 #, dll.",
+            "stackingcolumn": "Kolom bertumpuk",
+            "stackingbar": "Stacked Bar",
+            "stackingarea": "Area yang ditumpuk",
+            "stepline": "Garis langkah",
+            "steparea": "Area Langkah",
+            "splinearea": "Area Spline",
+            "spline": "Spline",
+            "stackingcolumn100": "100% Tumpukan Kolom",
+            "stackingbar100": "100% Stacked Bar",
+            "stackingarea100": "100% Area Tertumpuk",
+            "bubble": "gelembung",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Pengaturan tipe bagan",
+            "multipleAxes": "Beberapa Sumbu",
+            "sortAscending": "Sortir urutan naik",
+            "sortDescending": "Urutkan urutan menurun",
+            "sortNone": "Urutkan urutan data",
+            "clearCalculatedField": "Hapus info bidang yang diedit",
+            "editCalculatedField": "Edit bidang terhitung",
+            "ChartType": "Jenis Bagan",
+            "yes": "Iya",
+            "no": "Tidak",
+            "numberFormatMenu": "Pemformatan Angka ...",
+            "conditionalFormatingMenu": "Pemformatan Bersyarat ..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Daftar Bidang Pivot",
@@ -801,7 +841,15 @@
             "QuarterYear": "Tahun Triwulan",
             "caption": "Keterangan Bidang",
             "copy": "Salinan",
-            "group": "Kelompok"
+            "group": "Kelompok",
+            "numberFormatString": "Contoh: C, P, 0000%, ### 0. ## 0 #, dll.",
+            "sortAscending": "Sortir urutan naik",
+            "sortDescending": "Urutkan urutan menurun",
+            "sortNone": "Urutkan urutan data",
+            "clearCalculatedField": "Hapus info bidang yang diedit",
+            "editCalculatedField": "Edit bidang terhitung",
+            "selectGroup": "Pilih grup",
+            "of": "dari"
         },
         "schedule": {
             "day": "Hari",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Simpan keduanya",
             "Button-Replace": "Menggantikan",
             "Button-Skip": "Melewatkan",
-            "ApplyAll-Label": "Lakukan ini untuk semua item saat ini"
+            "ApplyAll-Label": "Lakukan ini untuk semua item saat ini",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Tidak ada catatan untuk ditampilkan",
@@ -2208,7 +2257,9 @@
             "Single": "Tunggal",
             "Double": "Dua kali lipat",
             "New comment": "Komentar baru",
-            "Comments": "Komentar"
+            "Comments": "Komentar",
+            "Print layout": "Tata letak cetak",
+            "Web layout": "tata letak web"
         },
         "toast": {
             "close": "Menutup"

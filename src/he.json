@@ -116,6 +116,14 @@
             "notes": "הערות",
             "baselineStartDate": "תאריך התחלה בסיסי",
             "baselineEndDate": "תאריך סיום בסיסי",
+            "taskMode": "מצב משימה",
+            "changeScheduleMode": "שנה מצב לוח זמנים",
+            "subTasksStartDate": "תאריך התחלה של משימות המשנה",
+            "subTasksEndDate": "תאריך סיום של משימות המשנה",
+            "scheduleStartDate": "קבע תאריך התחלה",
+            "scheduleEndDate": "תאריך סיום של לוח הזמנים",
+            "auto": "אוטומטי",
+            "manual": "מדריך ל",
             "type": "סוג",
             "offset": "קיזוז",
             "resourceName": "משאבים",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "תווית משימה שמאלית",
             "rightTaskLabel": "תווית משימה נכונה",
             "timelineCell": "תא ציר זמן",
-            "confirmPredecessorDelete": "האם אתה בטוח שברצונך להסיר את קישור התלות?"
+            "confirmPredecessorDelete": "האם אתה בטוח שברצונך להסיר את קישור התלות?",
+            "unit": "יחידה",
+            "work": "עבודה",
+            "taskType": "סוג משימה",
+            "unassignedTask": "משימה שלא הוקצתה",
+            "group": "קבוצה"
         },
         "tab": {
             "closeButtonTitle": "סגור"
@@ -246,6 +259,7 @@
             "Orientation": "נטייה",
             "Landscape": "נוף",
             "Portrait": "דיוקן",
+            "Table Of Contents": "תוכן העניינים",
             "Show page numbers": "הצג מספרי עמודים",
             "Right align page numbers": "יישור מספרי עמודים ימני",
             "Nothing": "שום דבר",
@@ -661,7 +675,33 @@
             "startAt": "מתחיל ב",
             "endAt": "מסתיים בשעה",
             "groupBy": "מרווח עד",
-            "selectGroup": "בחר קבוצות"
+            "selectGroup": "בחר קבוצות",
+            "numberFormatString": "דוגמה: C, P, 0000%, ### 0. ## 0 # וכו '.",
+            "stackingcolumn": "עמוד מוערם",
+            "stackingbar": "בר מוערם",
+            "stackingarea": "שטח מוערם",
+            "stepline": "קו צעד",
+            "steparea": "אזור צעד",
+            "splinearea": "אזור שקע",
+            "spline": "שקע",
+            "stackingcolumn100": "עמודה מוערמת 100%",
+            "stackingbar100": "100% סרגל מוערם",
+            "stackingarea100": "100% שטח מוערם",
+            "bubble": "בועה",
+            "pareto": "פרטו",
+            "radar": "מכ\"ם",
+            "chartTypeSettings": "הגדרות סוג תרשים",
+            "multipleAxes": "צירים מרובים",
+            "sortAscending": "מיין סדר עולה",
+            "sortDescending": "מיין סדר יורד",
+            "sortNone": "מיין סדר נתונים",
+            "clearCalculatedField": "נקה את פרטי השדה הערוכים",
+            "editCalculatedField": "ערוך שדה מחושב",
+            "ChartType": "סוג התרשים",
+            "yes": "כן",
+            "no": "לא",
+            "numberFormatMenu": "עיצוב מספרים ...",
+            "conditionalFormatingMenu": "עיצוב מותנה ..."
         },
         "pivotfieldlist": {
             "staticFieldList": "רשימת שדות ציר",
@@ -801,7 +841,15 @@
             "QuarterYear": "שנה רבעונית",
             "caption": "כיתוב שדה",
             "copy": "עותק",
-            "group": "קבוצה"
+            "group": "קבוצה",
+            "numberFormatString": "דוגמה: C, P, 0000%, ### 0. ## 0 # וכו '.",
+            "sortAscending": "מיין סדר עולה",
+            "sortDescending": "מיין סדר יורד",
+            "sortNone": "מיין סדר נתונים",
+            "clearCalculatedField": "נקה את פרטי השדה הערוכים",
+            "editCalculatedField": "ערוך שדה מחושב",
+            "selectGroup": "בחר קבוצות",
+            "of": "של"
         },
         "schedule": {
             "day": "יום",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "שמור את שניהם",
             "Button-Replace": "החלף",
             "Button-Skip": "לדלג",
-            "ApplyAll-Label": "עשה זאת עבור כל הפריטים הנוכחיים"
+            "ApplyAll-Label": "עשה זאת עבור כל הפריטים הנוכחיים",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "אין רשומות להצגה",
@@ -2208,7 +2257,9 @@
             "Single": "יחיד",
             "Double": "כפול",
             "New comment": "תגובה חדשה",
-            "Comments": "הערות"
+            "Comments": "הערות",
+            "Print layout": "פריסת הדפסה",
+            "Web layout": "פריסת רשת"
         },
         "toast": {
             "close": "סגור"

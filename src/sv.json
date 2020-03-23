@@ -116,6 +116,14 @@
             "notes": "anteckningar",
             "baselineStartDate": "Startdatum för baslinjen",
             "baselineEndDate": "Slutdatum för baslinjen",
+            "taskMode": "Uppgiftsläge",
+            "changeScheduleMode": "Ändra schemaläge",
+            "subTasksStartDate": "Underuppgifter startdatum",
+            "subTasksEndDate": "Subtasks slutdatum",
+            "scheduleStartDate": "Schemalägg startdatum",
+            "scheduleEndDate": "Schema slutdatum",
+            "auto": "Bil",
+            "manual": "Manuell",
             "type": "Typ",
             "offset": "Offset",
             "resourceName": "Resurser",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Vänster uppgift etikett",
             "rightTaskLabel": "Rätt uppgiftsetikett",
             "timelineCell": "Tidslinjecell",
-            "confirmPredecessorDelete": "Är du säker på att du vill ta bort beroende-länk?"
+            "confirmPredecessorDelete": "Är du säker på att du vill ta bort beroende-länk?",
+            "unit": "Enhet",
+            "work": "Arbete",
+            "taskType": "Uppgiftstyp",
+            "unassignedTask": "Otilldelad uppgift",
+            "group": "Grupp"
         },
         "tab": {
             "closeButtonTitle": "Stänga"
@@ -246,6 +259,7 @@
             "Orientation": "Orientering",
             "Landscape": "Landskap",
             "Portrait": "Porträtt",
+            "Table Of Contents": "Innehållsförteckning",
             "Show page numbers": "Visa sidnummer",
             "Right align page numbers": "Högerjustera sidnummer",
             "Nothing": "Ingenting",
@@ -661,7 +675,33 @@
             "startAt": "Börjar vid",
             "endAt": "Slutar kl",
             "groupBy": "Intervall med",
-            "selectGroup": "Välj grupper"
+            "selectGroup": "Välj grupper",
+            "numberFormatString": "Exempel: C, P, 0000%, ### 0. ## 0 #, etc.",
+            "stackingcolumn": "Staplad kolumn",
+            "stackingbar": "Staplad stapel",
+            "stackingarea": "Staplat område",
+            "stepline": "Steglinje",
+            "steparea": "Stegområde",
+            "splinearea": "Splineområdet",
+            "spline": "spline",
+            "stackingcolumn100": "100% staplad kolumn",
+            "stackingbar100": "100% staplad stapel",
+            "stackingarea100": "100% staplat område",
+            "bubble": "bubbla",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Inställningar för diagramtyp",
+            "multipleAxes": "Flera axlar",
+            "sortAscending": "Sortera stigande ordning",
+            "sortDescending": "Sortera fallande ordning",
+            "sortNone": "Sortera dataordning",
+            "clearCalculatedField": "Rensa redigerad fältinfo",
+            "editCalculatedField": "Redigera beräknat fält",
+            "ChartType": "Diagramtyp",
+            "yes": "Ja",
+            "no": "Nej",
+            "numberFormatMenu": "Nummerformatering ...",
+            "conditionalFormatingMenu": "Villkorlig formatering..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Field List",
@@ -801,7 +841,15 @@
             "QuarterYear": "Kvartår",
             "caption": "Fälttexten",
             "copy": "Kopia",
-            "group": "Grupp"
+            "group": "Grupp",
+            "numberFormatString": "Exempel: C, P, 0000%, ### 0. ## 0 #, etc.",
+            "sortAscending": "Sortera stigande ordning",
+            "sortDescending": "Sortera fallande ordning",
+            "sortNone": "Sortera dataordning",
+            "clearCalculatedField": "Rensa redigerad fältinfo",
+            "editCalculatedField": "Redigera beräknat fält",
+            "selectGroup": "Välj grupper",
+            "of": "av"
         },
         "schedule": {
             "day": "Dag",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Behåll båda",
             "Button-Replace": "Byta ut",
             "Button-Skip": "Hoppa",
-            "ApplyAll-Label": "Gör detta för alla aktuella objekt"
+            "ApplyAll-Label": "Gör detta för alla aktuella objekt",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Inga poster att visa",
@@ -2208,7 +2257,9 @@
             "Single": "Enda",
             "Double": "Dubbel",
             "New comment": "Ny kommentar",
-            "Comments": "kommentarer"
+            "Comments": "kommentarer",
+            "Print layout": "Utskriftslayout",
+            "Web layout": "Webblayout"
         },
         "toast": {
             "close": "Stänga"

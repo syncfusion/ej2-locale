@@ -116,6 +116,14 @@
             "notes": "Примечания",
             "baselineStartDate": "Базовая дата начала",
             "baselineEndDate": "Базовая дата окончания",
+            "taskMode": "Режим задачи",
+            "changeScheduleMode": "Изменить режим расписания",
+            "subTasksStartDate": "Дата начала подзадач",
+            "subTasksEndDate": "Дата окончания подзадач",
+            "scheduleStartDate": "Дата начала расписания",
+            "scheduleEndDate": "Дата окончания расписания",
+            "auto": "Авто",
+            "manual": "Руководство",
             "type": "Тип",
             "offset": "офсет",
             "resourceName": "Ресурсы",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Левая метка задачи",
             "rightTaskLabel": "Правильный ярлык задачи",
             "timelineCell": "Временная ячейка",
-            "confirmPredecessorDelete": "Вы уверены, что хотите удалить ссылку зависимости?"
+            "confirmPredecessorDelete": "Вы уверены, что хотите удалить ссылку зависимости?",
+            "unit": "Единица измерения",
+            "work": "Работа",
+            "taskType": "Тип задачи",
+            "unassignedTask": "Неназначенная задача",
+            "group": "группа"
         },
         "tab": {
             "closeButtonTitle": "близко"
@@ -246,6 +259,7 @@
             "Orientation": "ориентация",
             "Landscape": "Пейзаж",
             "Portrait": "Портрет",
+            "Table Of Contents": "Содержание",
             "Show page numbers": "Показать номера страниц",
             "Right align page numbers": "Выровняйте номера страниц по правому краю",
             "Nothing": "Ничего",
@@ -661,7 +675,33 @@
             "startAt": "Начинается с",
             "endAt": "Окончание в",
             "groupBy": "Интервал по",
-            "selectGroup": "Выберите группы"
+            "selectGroup": "Выберите группы",
+            "numberFormatString": "Пример: C, P, 0000%, ### 0. ## 0 # и т. Д.",
+            "stackingcolumn": "Колонка с накоплением",
+            "stackingbar": "С накоплением бар",
+            "stackingarea": "Сложенная область",
+            "stepline": "Step Line",
+            "steparea": "Ступенька",
+            "splinearea": "Сплайн Площадь",
+            "spline": "Сплайн",
+            "stackingcolumn100": "100% столбец с накоплением",
+            "stackingbar100": "100% с накоплением",
+            "stackingarea100": "100% накопленная площадь",
+            "bubble": "пузырь",
+            "pareto": "Парето",
+            "radar": "радиолокационный",
+            "chartTypeSettings": "Настройки типа диаграммы",
+            "multipleAxes": "Несколько осей",
+            "sortAscending": "Сортировать по возрастанию",
+            "sortDescending": "Сортировать по убыванию",
+            "sortNone": "Порядок сортировки данных",
+            "clearCalculatedField": "Очистить отредактированную информацию поля",
+            "editCalculatedField": "Редактировать рассчитанное поле",
+            "ChartType": "Тип диаграммы",
+            "yes": "да",
+            "no": "нет",
+            "numberFormatMenu": "Форматирование чисел ...",
+            "conditionalFormatingMenu": "Условное форматирование ..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Список полей Pivot",
@@ -801,7 +841,15 @@
             "QuarterYear": "Квартальный год",
             "caption": "Заголовок поля",
             "copy": "копия",
-            "group": "группа"
+            "group": "группа",
+            "numberFormatString": "Пример: C, P, 0000%, ### 0. ## 0 # и т. Д.",
+            "sortAscending": "Сортировать по возрастанию",
+            "sortDescending": "Сортировать по убыванию",
+            "sortNone": "Порядок сортировки данных",
+            "clearCalculatedField": "Очистить отредактированную информацию поля",
+            "editCalculatedField": "Редактировать рассчитанное поле",
+            "selectGroup": "Выберите группы",
+            "of": "из"
         },
         "schedule": {
             "day": "День",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Оставить оба",
             "Button-Replace": "замещать",
             "Button-Skip": "Пропускать",
-            "ApplyAll-Label": "Сделайте это для всех текущих предметов"
+            "ApplyAll-Label": "Сделайте это для всех текущих предметов",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Нет записей для отображения",
@@ -2208,7 +2257,9 @@
             "Single": "не замужем",
             "Double": "двойной",
             "New comment": "Новый комментарий",
-            "Comments": "Комментарии"
+            "Comments": "Комментарии",
+            "Print layout": "Компоновка страницы",
+            "Web layout": "Веб-макет"
         },
         "toast": {
             "close": "близко"
