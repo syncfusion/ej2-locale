@@ -116,6 +116,14 @@
             "notes": "Appunti",
             "baselineStartDate": "Data di inizio base",
             "baselineEndDate": "Data di fine base",
+            "taskMode": "Modalità attività",
+            "changeScheduleMode": "Cambia modalità programma",
+            "subTasksStartDate": "Data inizio attività secondarie",
+            "subTasksEndDate": "Data fine attività secondarie",
+            "scheduleStartDate": "Data inizio programma",
+            "scheduleEndDate": "Data fine programma",
+            "auto": "Auto",
+            "manual": "Manuale",
             "type": "genere",
             "offset": "Compensare",
             "resourceName": "risorse",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Etichetta attività sinistra",
             "rightTaskLabel": "Etichetta attività corretta",
             "timelineCell": "Cella della linea temporale",
-            "confirmPredecessorDelete": "Sei sicuro di voler rimuovere il link di dipendenza?"
+            "confirmPredecessorDelete": "Sei sicuro di voler rimuovere il link di dipendenza?",
+            "unit": "Unità",
+            "work": "Opera",
+            "taskType": "Tipo di attività",
+            "unassignedTask": "Attività non assegnata",
+            "group": "Gruppo"
         },
         "tab": {
             "closeButtonTitle": "Vicino"
@@ -246,6 +259,7 @@
             "Orientation": "Orientamento",
             "Landscape": "Paesaggio",
             "Portrait": "Ritratto",
+            "Table Of Contents": "Sommario",
             "Show page numbers": "Mostra i numeri di pagina",
             "Right align page numbers": "Allinea a destra i numeri di pagina",
             "Nothing": "Niente",
@@ -661,7 +675,33 @@
             "startAt": "A partire da",
             "endAt": "Finendo a",
             "groupBy": "Intervallo di",
-            "selectGroup": "Seleziona gruppi"
+            "selectGroup": "Seleziona gruppi",
+            "numberFormatString": "Esempio: C, P, 0000%, ### 0. ## 0 #, ecc.",
+            "stackingcolumn": "Colonna impilata",
+            "stackingbar": "Barra impilata",
+            "stackingarea": "Area sovrapposta",
+            "stepline": "Step Line",
+            "steparea": "Area del passaggio",
+            "splinearea": "Area spline",
+            "spline": "linguetta",
+            "stackingcolumn100": "Colonna impilata al 100%",
+            "stackingbar100": "Barra in pila 100%",
+            "stackingarea100": "Area in pila 100%",
+            "bubble": "bolla",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Impostazioni del tipo di grafico",
+            "multipleAxes": "Assi multipli",
+            "sortAscending": "Ordina in ordine crescente",
+            "sortDescending": "Ordina in ordine decrescente",
+            "sortNone": "Ordina l'ordine dei dati",
+            "clearCalculatedField": "Cancella le informazioni sul campo modificate",
+            "editCalculatedField": "Modifica campo calcolato",
+            "ChartType": "Tipo di grafico",
+            "yes": "sì",
+            "no": "No",
+            "numberFormatMenu": "Formattazione numerica ...",
+            "conditionalFormatingMenu": "Formattazione condizionale..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Elenco campi pivot",
@@ -801,7 +841,15 @@
             "QuarterYear": "Quarto di anno",
             "caption": "Didascalia",
             "copy": "copia",
-            "group": "Gruppo"
+            "group": "Gruppo",
+            "numberFormatString": "Esempio: C, P, 0000%, ### 0. ## 0 #, ecc.",
+            "sortAscending": "Ordina in ordine crescente",
+            "sortDescending": "Ordina in ordine decrescente",
+            "sortNone": "Ordina l'ordine dei dati",
+            "clearCalculatedField": "Cancella le informazioni sul campo modificate",
+            "editCalculatedField": "Modifica campo calcolato",
+            "selectGroup": "Seleziona gruppi",
+            "of": "di"
         },
         "schedule": {
             "day": "Giorno",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Tieni entrambi",
             "Button-Replace": "Sostituire",
             "Button-Skip": "Salta",
-            "ApplyAll-Label": "Fallo per tutti gli oggetti attuali"
+            "ApplyAll-Label": "Fallo per tutti gli oggetti attuali",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "nessun dato da visualizzare",
@@ -2208,7 +2257,9 @@
             "Single": "singolo",
             "Double": "Doppio",
             "New comment": "Nuovo commento",
-            "Comments": "Commenti"
+            "Comments": "Commenti",
+            "Print layout": "Stampa il layout",
+            "Web layout": "Layout web"
         },
         "toast": {
             "close": "Vicino"

@@ -116,6 +116,14 @@
             "notes": "Noter",
             "baselineStartDate": "Baseline startdato",
             "baselineEndDate": "Baseline slutdato",
+            "taskMode": "Opgavetilstand",
+            "changeScheduleMode": "Skift tidsplantilstand",
+            "subTasksStartDate": "Underopgaver startdato",
+            "subTasksEndDate": "Subtasks slutdato",
+            "scheduleStartDate": "Planlæg startdato",
+            "scheduleEndDate": "Planlægge slutdato",
+            "auto": "Auto",
+            "manual": "brugervejledning",
             "type": "Type",
             "offset": "Offset",
             "resourceName": "Ressourcer",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Venstre opgavemærkning",
             "rightTaskLabel": "Højre opgavemærkning",
             "timelineCell": "Tidslinje celle",
-            "confirmPredecessorDelete": "Er du sikker på, at du vil fjerne afhængighedslink?"
+            "confirmPredecessorDelete": "Er du sikker på, at du vil fjerne afhængighedslink?",
+            "unit": "Enhed",
+            "work": "Arbejde",
+            "taskType": "Opgavetype",
+            "unassignedTask": "Opdrag, der ikke er tildelt",
+            "group": "Gruppe"
         },
         "tab": {
             "closeButtonTitle": "Tæt"
@@ -661,7 +674,33 @@
             "startAt": "Starter ved",
             "endAt": "Slutter kl",
             "groupBy": "Interval efter",
-            "selectGroup": "Vælg grupper"
+            "selectGroup": "Vælg grupper",
+            "numberFormatString": "Eksempel: C, P, 0000%, ### 0. ## 0 # osv.",
+            "stackingcolumn": "Stakket søjle",
+            "stackingbar": "Stablet bjælke",
+            "stackingarea": "Stakket område",
+            "stepline": "Trin linje",
+            "steparea": "Trin Område",
+            "splinearea": "Splineområde",
+            "spline": "spline",
+            "stackingcolumn100": "100% stablet kolonne",
+            "stackingbar100": "100% stablet bjælke",
+            "stackingarea100": "100% stablet område",
+            "bubble": "boble",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Indstillinger for korttype",
+            "multipleAxes": "Flere akser",
+            "sortAscending": "Sorter stigende rækkefølge",
+            "sortDescending": "Sorter faldende rækkefølge",
+            "sortNone": "Sorter datarækkefølge",
+            "clearCalculatedField": "Ryd redigerede feltinfo",
+            "editCalculatedField": "Rediger beregnet felt",
+            "ChartType": "Diagramtype",
+            "yes": "Ja",
+            "no": "Ingen",
+            "numberFormatMenu": "Nummerformatering ...",
+            "conditionalFormatingMenu": "Betinget formatering ..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot feltliste",
@@ -801,7 +840,15 @@
             "QuarterYear": "Kvartår",
             "caption": "Felttekst",
             "copy": "Kopi",
-            "group": "Gruppe"
+            "group": "Gruppe",
+            "numberFormatString": "Eksempel: C, P, 0000%, ### 0. ## 0 # osv.",
+            "sortAscending": "Sorter stigende rækkefølge",
+            "sortDescending": "Sorter faldende rækkefølge",
+            "sortNone": "Sorter datarækkefølge",
+            "clearCalculatedField": "Ryd redigerede feltinfo",
+            "editCalculatedField": "Rediger beregnet felt",
+            "selectGroup": "Vælg grupper",
+            "of": "af"
         },
         "schedule": {
             "day": "Dag",
@@ -1101,7 +1148,8 @@
             "Button-Keep-Both": "Behold begge",
             "Button-Replace": "Erstatte",
             "Button-Skip": "Springe",
-            "ApplyAll-Label": "Gør dette for alle aktuelle poster"
+            "ApplyAll-Label": "Gør dette for alle aktuelle poster",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Ingen poster at vise",
@@ -1833,6 +1881,7 @@
             "Landscape": "Landskab",
             "Portrait": "Portræt",
             "Show page numbers": "Vis sidenumre",
+            "Show page numbers": "Vis sidenumre",
             "Right align page numbers": "Juster sidetal",
             "Nothing": "Ikke noget",
             "Tab leader": "Fanen leder",
@@ -2208,7 +2257,9 @@
             "Single": "Enkelt",
             "Double": "Dobbelt",
             "New comment": "Ny kommentar",
-            "Comments": "Kommentarer"
+            "Comments": "Kommentarer",
+            "Print layout": "Print layout",
+            "Web layout": "Weblayout"
         },
         "toast": {
             "close": "Tæt"

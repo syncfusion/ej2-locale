@@ -116,6 +116,14 @@
             "notes": "Notes",
             "baselineStartDate": "Startdatum baseline",
             "baselineEndDate": "Einddatum baseline",
+            "taskMode": "Taakmodus",
+            "changeScheduleMode": "Wijzig de planningsmodus",
+            "subTasksStartDate": "SubTasks startdatum",
+            "subTasksEndDate": "Einddatum van SubTasks",
+            "scheduleStartDate": "Startdatum plannen",
+            "scheduleEndDate": "Einddatum van schema",
+            "auto": "Auto",
+            "manual": "Handleiding",
             "type": "Type",
             "offset": "compenseren",
             "resourceName": "Middelen",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Linker taaklabel",
             "rightTaskLabel": "Juist taaklabel",
             "timelineCell": "Tijdlijn cel",
-            "confirmPredecessorDelete": "Weet u zeker dat u de afhankelijkheidskoppeling wilt verwijderen?"
+            "confirmPredecessorDelete": "Weet u zeker dat u de afhankelijkheidslink wilt verwijderen?",
+            "unit": "Eenheid",
+            "work": "Werk",
+            "taskType": "Taaktype",
+            "unassignedTask": "Niet-toegewezen taak",
+            "group": "Groep"
         },
         "tab": {
             "closeButtonTitle": "Dichtbij"
@@ -246,6 +259,7 @@
             "Orientation": "oriëntering",
             "Landscape": "Landschap",
             "Portrait": "Portret",
+            "Table Of Contents": "Inhoudsopgave",
             "Show page numbers": "Toon paginanummers",
             "Right align page numbers": "Paginanummers rechts uitlijnen",
             "Nothing": "Niets",
@@ -661,7 +675,33 @@
             "startAt": "Vanaf",
             "endAt": "Eindigend op",
             "groupBy": "Interval door",
-            "selectGroup": "Selecteer groepen"
+            "selectGroup": "Selecteer groepen",
+            "numberFormatString": "Voorbeeld: C, P, 0000%, ### 0. ## 0 #, etc.",
+            "stackingcolumn": "Gestapelde kolom",
+            "stackingbar": "Gestapelde staaf",
+            "stackingarea": "Gestapeld gebied",
+            "stepline": "Stap lijn",
+            "steparea": "Stapgebied",
+            "splinearea": "Spline-gebied",
+            "spline": "Spline",
+            "stackingcolumn100": "100% gestapelde kolom",
+            "stackingbar100": "100% gestapelde staaf",
+            "stackingarea100": "100% gestapeld gebied",
+            "bubble": "bubbel",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Instellingen voor diagramtypen",
+            "multipleAxes": "Meerdere assen",
+            "sortAscending": "Sorteer oplopend",
+            "sortDescending": "Aflopende volgorde sorteren",
+            "sortNone": "Gegevensvolgorde sorteren",
+            "clearCalculatedField": "Bewerk bewerkte veldinformatie",
+            "editCalculatedField": "Bewerk berekend veld",
+            "ChartType": "Diagramtype",
+            "yes": "Ja",
+            "no": "Nee",
+            "numberFormatMenu": "Nummeropmaak ...",
+            "conditionalFormatingMenu": "Conditionele opmaak..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Lijst met draaivelden",
@@ -801,7 +841,15 @@
             "QuarterYear": "Kwartaaljaar",
             "caption": "Bijschrift",
             "copy": "Kopiëren",
-            "group": "Groep"
+            "group": "Groep",
+            "numberFormatString": "Voorbeeld: C, P, 0000%, ### 0. ## 0 #, etc.",
+            "sortAscending": "Sorteer oplopend",
+            "sortDescending": "Aflopende volgorde sorteren",
+            "sortNone": "Gegevensvolgorde sorteren",
+            "clearCalculatedField": "Bewerk bewerkte veldinformatie",
+            "editCalculatedField": "Bewerk berekend veld",
+            "selectGroup": "Selecteer groepen",
+            "of": "van"
         },
         "schedule": {
             "day": "Dag",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Hou beide",
             "Button-Replace": "Vervangen",
             "Button-Skip": "Overspringen",
-            "ApplyAll-Label": "Doe dit voor alle huidige items"
+            "ApplyAll-Label": "Doe dit voor alle huidige items",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Geen records om weer te geven",
@@ -2208,7 +2257,9 @@
             "Single": "single",
             "Double": "Dubbele",
             "New comment": "Nieuwe reactie",
-            "Comments": "Comments"
+            "Comments": "Opmerkingen",
+            "Print layout": "Afdrukopmaak",
+            "Web layout": "web layout"
         },
         "toast": {
             "close": "Dichtbij"

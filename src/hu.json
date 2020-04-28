@@ -116,6 +116,14 @@
             "notes": "Megjegyzések",
             "baselineStartDate": "Alapvonal kezdő dátuma",
             "baselineEndDate": "Alapvonal befejezési dátuma",
+            "taskMode": "Način rada",
+            "changeScheduleMode": "Promjena načina rasporeda",
+            "subTasksStartDate": "Datum početka podzadataka",
+            "subTasksEndDate": "Datum završetka podzadataka",
+            "scheduleStartDate": "Datum početka rasporeda",
+            "scheduleEndDate": "Datum završetka rasporeda",
+            "auto": "Auto",
+            "manual": "Priručnik",
             "type": "típus",
             "offset": "Eltolt",
             "resourceName": "Erőforrások",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Bal oldali feladatcímke",
             "rightTaskLabel": "Helyes feladatcímke",
             "timelineCell": "Idővonal cella",
-            "confirmPredecessorDelete": "Biztosan eltávolítja a függőségi linket?"
+            "confirmPredecessorDelete": "Jeste li sigurni da želite ukloniti vezu ovisnosti?",
+            "unit": "Jedinica",
+            "work": "Raditi",
+            "taskType": "Vrsta zadatka",
+            "unassignedTask": "Neodređeni zadatak",
+            "group": "Skupina"
         },
         "tab": {
             "closeButtonTitle": "Bezárás"
@@ -246,6 +259,7 @@
             "Orientation": "Orientáció",
             "Landscape": "Tájkép",
             "Portrait": "portré",
+            "Table Of Contents": "Tartalomjegyzék",
             "Show page numbers": "Mutassa az oldalszámokat",
             "Right align page numbers": "Jobbra igazítsa az oldalszámokat",
             "Nothing": "Semmi",
@@ -661,7 +675,33 @@
             "startAt": "Kezdve",
             "endAt": "-Ig ér véget",
             "groupBy": "Intervallum:",
-            "selectGroup": "Válasszon csoportokat"
+            "selectGroup": "Válasszon csoportokat",
+            "numberFormatString": "Példa: C, P, 0000%, ### 0. ## 0 # stb.",
+            "stackingcolumn": "Halmozott oszlop",
+            "stackingbar": "Halmozott bár",
+            "stackingarea": "Halmozott terület",
+            "stepline": "Lépés sor",
+            "steparea": "Lépési terület",
+            "splinearea": "Spline terület",
+            "spline": "Spline",
+            "stackingcolumn100": "100% -ban halmozott oszlop",
+            "stackingbar100": "100% -ban egymásra helyezett bár",
+            "stackingarea100": "100% halmozott terület",
+            "bubble": "buborék",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Diagram típus beállításai",
+            "multipleAxes": "Több tengely",
+            "sortAscending": "Rendezés növekvő sorrendben",
+            "sortDescending": "Rendezés csökkenő sorrendben",
+            "sortNone": "Rendezési adatok sorrendje",
+            "clearCalculatedField": "Törölje a szerkesztett mezőinformációkat",
+            "editCalculatedField": "Szerkessze a kiszámított mezőt",
+            "ChartType": "Diagram típusa",
+            "yes": "Igen",
+            "no": "Nem",
+            "numberFormatMenu": "Szám formázása ...",
+            "conditionalFormatingMenu": "Feltételes formázás..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot mezőlista",
@@ -801,7 +841,15 @@
             "QuarterYear": "Negyedév",
             "caption": "Field Caption",
             "copy": "Másolat",
-            "group": "Csoport"
+            "group": "Csoport",
+            "numberFormatString": "Példa: C, P, 0000%, ### 0. ## 0 # stb.",
+            "sortAscending": "Rendezés növekvő sorrendben",
+            "sortDescending": "Rendezés csökkenő sorrendben",
+            "sortNone": "Rendezési adatok sorrendje",
+            "clearCalculatedField": "Törölje a szerkesztett mezőinformációkat",
+            "editCalculatedField": "Szerkessze a kiszámított mezőt",
+            "selectGroup": "Válasszon csoportokat",
+            "of": "nak,-nek"
         },
         "schedule": {
             "day": "Nap",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Megtartani mindkettőt",
             "Button-Replace": "Cserélje",
             "Button-Skip": "Skip",
-            "ApplyAll-Label": "Tegye ezt az összes aktuális elemre"
+            "ApplyAll-Label": "Tegye ezt az összes aktuális elemre",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Nincs bejegyzés megjelenítéséhez",
@@ -2208,7 +2257,9 @@
             "Single": "Egyetlen",
             "Double": "Kettős",
             "New comment": "Új megjegyzés",
-            "Comments": "Hozzászólások"
+            "Comments": "komentari",
+            "Print layout": "Izgled ispisa",
+            "Web layout": "Web izgled"
         },
         "toast": {
             "close": "Bezárás"

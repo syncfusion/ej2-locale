@@ -116,6 +116,14 @@
             "notes": "Notes",
             "baselineStartDate": "Baseline Start Date",
             "baselineEndDate": "Baseline End Date",
+            "taskMode": "Task Mode",
+            "changeScheduleMode": "Change Schedule Mode",
+            "subTasksStartDate": "SubTasks Start Date",
+            "subTasksEndDate": "SubTasks End Date",
+            "scheduleStartDate": "Schedule Start Date",
+            "scheduleEndDate": "Schedule End Date",
+            "auto": "Auto",
+            "manual": "Manual",
             "type": "Type",
             "offset": "Offset",
             "resourceName": "Resources",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Left task label",
             "rightTaskLabel": "Right task label",
             "timelineCell": "Timeline cell",
-            "confirmPredecessorDelete": "Are you sure you want to remove dependency link?"
+            "confirmPredecessorDelete": "Are you sure you want to remove dependency link?",
+            "unit": "Unit",
+            "work": "Work",
+            "taskType": "Task Type",
+            "unassignedTask": "Unassigned Task",
+            "group": "Group"
         },
         "tab": {
             "closeButtonTitle": "Close"
@@ -246,6 +259,7 @@
             "Orientation": "Orientation",
             "Landscape": "Landscape",
             "Portrait": "Portrait",
+            "Table Of Contents": "Table Of Contents",
             "Show page numbers": "Show page numbers",
             "Right align page numbers": "Right align page numbers",
             "Nothing": "Nothing",
@@ -661,7 +675,33 @@
             "startAt": "Starting at",
             "endAt": "Ending at",
             "groupBy": "Interval by",
-            "selectGroup": "Select groups"
+            "selectGroup": "Select groups",
+            "numberFormatString": "Example: C, P, 0000 %, ###0.##0#, etc.",
+            "stackingcolumn": "Stacked Column",
+            "stackingbar": "Stacked Bar",
+            "stackingarea": "Stacked Area",
+            "stepline": "Step Line",
+            "steparea": "Step Area",
+            "splinearea": "Spline Area",
+            "spline": "Spline",
+            "stackingcolumn100": "100% Stacked Column",
+            "stackingbar100": "100% Stacked Bar",
+            "stackingarea100": "100% Stacked Area",
+            "bubble": "bubble",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Chart type settings",
+            "multipleAxes": "Multiple Axes",
+            "sortAscending": "Sort ascending order",
+            "sortDescending": "Sort descending order",
+            "sortNone": "Sort data order",
+            "clearCalculatedField": "Clear edited field info",
+            "editCalculatedField": "Edit calculated field",
+            "ChartType": "Chart Type",
+            "yes": "Yes",
+            "no": "No",
+            "numberFormatMenu": "Number Formatting...",
+            "conditionalFormatingMenu": "Conditional Formatting..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Field List",
@@ -801,7 +841,15 @@
             "QuarterYear": "Quarter Year",
             "caption": "Field Caption",
             "copy": "Copy",
-            "group": "Group"
+            "group": "Group",
+            "numberFormatString": "Example: C, P, 0000 %, ###0.##0#, etc.",
+            "sortAscending": "Sort ascending order",
+            "sortDescending": "Sort descending order",
+            "sortNone": "Sort data order",
+            "clearCalculatedField": "Clear edited field info",
+            "editCalculatedField": "Edit calculated field",
+            "selectGroup": "Select groups",
+            "of": "of"
         },
         "schedule": {
             "day": "Day",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Keep both",
             "Button-Replace": "Replace",
             "Button-Skip": "Skip",
-            "ApplyAll-Label": "Do this for all current items"
+            "ApplyAll-Label": "Do this for all current items",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "No records to display",
@@ -2208,7 +2257,9 @@
             "Single": "Single",
             "Double": "Double",
             "New comment": "New comment",
-            "Comments": "Comments"
+            "Comments": "Comments",
+            "Print layout": "Print layout",
+            "Web layout": "Web layout"
         },
         "toast": {
             "close": "Close"

@@ -116,6 +116,14 @@
             "notes": "หมายเหตุ",
             "baselineStartDate": "วันที่เริ่มต้นพื้นฐาน",
             "baselineEndDate": "วันที่สิ้นสุดที่พื้นฐาน",
+            "taskMode": "โหมดงาน",
+            "changeScheduleMode": "เปลี่ยนโหมดกำหนดการ",
+            "subTasksStartDate": "วันที่เริ่มต้นของงานย่อย",
+            "subTasksEndDate": "SubTasks วันที่สิ้นสุด",
+            "scheduleStartDate": "กำหนดการเริ่มวันที่",
+            "scheduleEndDate": "วันที่สิ้นสุดกำหนดการ",
+            "auto": "รถยนต์",
+            "manual": "คู่มือ",
             "type": "ชนิด",
             "offset": "สาขา",
             "resourceName": "ทรัพยากร",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "ป้ายกำกับงานด้านซ้าย",
             "rightTaskLabel": "ป้ายกำกับงานที่ถูกต้อง",
             "timelineCell": "เซลล์ไทม์ไลน์",
-            "confirmPredecessorDelete": "คุณแน่ใจหรือว่าต้องการลบลิงค์อ้างอิง"
+            "confirmPredecessorDelete": "คุณแน่ใจหรือว่าต้องการลบลิงค์อ้างอิง",
+            "unit": "หน่วย",
+            "work": "งาน",
+            "taskType": "ประเภทงาน",
+            "unassignedTask": "ภารกิจที่ไม่ได้มอบหมาย",
+            "group": "กลุ่ม"
         },
         "tab": {
             "closeButtonTitle": "ปิด"
@@ -246,6 +259,7 @@
             "Orientation": "ปฐมนิเทศ",
             "Landscape": "ภูมิประเทศ",
             "Portrait": "ภาพเหมือน",
+            "Table Of Contents": "สารบัญ",
             "Show page numbers": "แสดงหมายเลขหน้า",
             "Right align page numbers": "จัดเรียงหมายเลขหน้าขวา",
             "Nothing": "ไม่มีอะไร",
@@ -661,7 +675,33 @@
             "startAt": "เริ่มต้นที่",
             "endAt": "สิ้นสุดที่",
             "groupBy": "ช่วงเวลาโดย",
-            "selectGroup": "เลือกกลุ่ม"
+            "selectGroup": "เลือกกลุ่ม",
+            "numberFormatString": "ตัวอย่าง: C, P, 0000%, ### 0. ## 0 #, เป็นต้น",
+            "stackingcolumn": "คอลัมน์แบบเรียงซ้อน",
+            "stackingbar": "บาร์ซ้อน",
+            "stackingarea": "พื้นที่ซ้อน",
+            "stepline": "ขั้นตอนที่",
+            "steparea": "ขั้นตอนที่",
+            "splinearea": "พื้นที่ Spline",
+            "spline": "Spline",
+            "stackingcolumn100": "คอลัมน์แบบเรียงซ้อน 100%",
+            "stackingbar100": "บาร์ซ้อนกัน 100%",
+            "stackingarea100": "พื้นที่ซ้อนกัน 100%",
+            "bubble": "ฟอง",
+            "pareto": "Pareto",
+            "radar": "เรดาร์",
+            "chartTypeSettings": "การตั้งค่าประเภทแผนภูมิ",
+            "multipleAxes": "หลายแกน",
+            "sortAscending": "เรียงลำดับจากน้อยไปมาก",
+            "sortDescending": "เรียงลำดับจากมากไปน้อย",
+            "sortNone": "เรียงลำดับข้อมูล",
+            "clearCalculatedField": "ล้างข้อมูลฟิลด์ที่แก้ไข",
+            "editCalculatedField": "แก้ไขฟิลด์จากการคำนวณ",
+            "ChartType": "ประเภทแผนภูมิ",
+            "yes": "ใช่",
+            "no": "ไม่",
+            "numberFormatMenu": "การจัดรูปแบบตัวเลข ...",
+            "conditionalFormatingMenu": "การจัดรูปแบบตามเงื่อนไข ..."
         },
         "pivotfieldlist": {
             "staticFieldList": "รายการเขตข้อมูล Pivot",
@@ -801,7 +841,15 @@
             "QuarterYear": "ไตรมาสปี",
             "caption": "คำบรรยายภาพสนาม",
             "copy": "สำเนา",
-            "group": "กลุ่ม"
+            "group": "กลุ่ม",
+            "numberFormatString": "ตัวอย่าง: C, P, 0000%, ### 0. ## 0 #, เป็นต้น",
+            "sortAscending": "เรียงลำดับจากน้อยไปมาก",
+            "sortDescending": "เรียงลำดับจากมากไปน้อย",
+            "sortNone": "เรียงลำดับข้อมูล",
+            "clearCalculatedField": "ล้างข้อมูลฟิลด์ที่แก้ไข",
+            "editCalculatedField": "แก้ไขฟิลด์จากการคำนวณ",
+            "selectGroup": "เลือกกลุ่ม",
+            "of": "ของ"
         },
         "schedule": {
             "day": "วัน",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "เก็บไว้ทั้งคู่",
             "Button-Replace": "แทนที่",
             "Button-Skip": "ข้าม",
-            "ApplyAll-Label": "ทำเช่นนี้สำหรับรายการปัจจุบันทั้งหมด"
+            "ApplyAll-Label": "ทำเช่นนี้สำหรับรายการปัจจุบันทั้งหมด",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "ไม่มีบันทึกที่จะแสดง",
@@ -2208,7 +2257,9 @@
             "Single": "เดียว",
             "Double": "สอง",
             "New comment": "ความคิดเห็นใหม่",
-            "Comments": "ความคิดเห็น"
+            "Comments": "ความคิดเห็น",
+            "Print layout": "รูปแบบการพิมพ์",
+            "Web layout": "รูปแบบเว็บ"
         },
         "toast": {
             "close": "ปิด"

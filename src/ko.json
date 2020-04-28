@@ -116,6 +116,14 @@
             "notes": "노트",
             "baselineStartDate": "기준 시작 날짜",
             "baselineEndDate": "기준 종료일",
+            "taskMode": "작업 모드",
+            "changeScheduleMode": "스케줄 모드 변경",
+            "subTasksStartDate": "하위 작업 시작 날짜",
+            "subTasksEndDate": "하위 작업 종료 날짜",
+            "scheduleStartDate": "스케줄 시작일",
+            "scheduleEndDate": "일정 종료일",
+            "auto": "자동",
+            "manual": "설명서",
             "type": "유형",
             "offset": "오프셋",
             "resourceName": "자원",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "왼쪽 작업 라벨",
             "rightTaskLabel": "올바른 작업 라벨",
             "timelineCell": "타임 라인 셀",
-            "confirmPredecessorDelete": "종속성 링크를 제거 하시겠습니까?"
+            "confirmPredecessorDelete": "종속성 링크를 제거 하시겠습니까?",
+            "unit": "단위",
+            "work": "작업",
+            "taskType": "작업 유형",
+            "unassignedTask": "할당되지 않은 작업",
+            "group": "그룹"
         },
         "tab": {
             "closeButtonTitle": "닫기"
@@ -246,6 +259,7 @@
             "Orientation": "정위",
             "Landscape": "경치",
             "Portrait": "초상화",
+            "Table Of Contents": "목차",
             "Show page numbers": "페이지 번호 표시",
             "Right align page numbers": "페이지 번호를 오른쪽 정렬",
             "Nothing": "아무것도",
@@ -661,7 +675,33 @@
             "startAt": "에서 시작",
             "endAt": "에 끝나는",
             "groupBy": "간격",
-            "selectGroup": "그룹 선택"
+            "selectGroup": "그룹 선택",
+            "numberFormatString": "예 : C, P, 0000 %, ### 0. ## 0 # 등",
+            "stackingcolumn": "누적 열",
+            "stackingbar": "누적 막대",
+            "stackingarea": "누적 영역",
+            "stepline": "스텝 라인",
+            "steparea": "단계 영역",
+            "splinearea": "스플라인 영역",
+            "spline": "운형자",
+            "stackingcolumn100": "100 % 누적 컬럼",
+            "stackingbar100": "100 % 누적 막대",
+            "stackingarea100": "100 % 누적 영역",
+            "bubble": "거품",
+            "pareto": "파레토",
+            "radar": "레이더",
+            "chartTypeSettings": "차트 유형 설정",
+            "multipleAxes": "여러 도끼",
+            "sortAscending": "오름차순 정렬",
+            "sortDescending": "내림차순 정렬",
+            "sortNone": "데이터 순서 정렬",
+            "clearCalculatedField": "편집 된 필드 정보 지우기",
+            "editCalculatedField": "계산 된 필드 편집",
+            "ChartType": "차트 종류",
+            "yes": "예",
+            "no": "아니",
+            "numberFormatMenu": "숫자 서식 ...",
+            "conditionalFormatingMenu": "조건부 서식..."
         },
         "pivotfieldlist": {
             "staticFieldList": "피벗 필드 목록",
@@ -801,7 +841,15 @@
             "QuarterYear": "분기 년",
             "caption": "필드 캡션",
             "copy": "부",
-            "group": "그룹"
+            "group": "그룹",
+            "numberFormatString": "예 : C, P, 0000 %, ### 0. ## 0 # 등",
+            "sortAscending": "오름차순 정렬",
+            "sortDescending": "내림차순 정렬",
+            "sortNone": "데이터 순서 정렬",
+            "clearCalculatedField": "편집 된 필드 정보 지우기",
+            "editCalculatedField": "계산 된 필드 편집",
+            "selectGroup": "그룹 선택",
+            "of": "의"
         },
         "schedule": {
             "day": "일",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "둘 다 유지",
             "Button-Replace": "바꾸다",
             "Button-Skip": "건너 뛰기",
-            "ApplyAll-Label": "모든 현재 항목에 대해"
+            "ApplyAll-Label": "모든 현재 항목에 대해이 작업을 수행하십시오.",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "표시 할 레코드가 없습니다",
@@ -2208,7 +2257,9 @@
             "Single": "단일",
             "Double": "더블",
             "New comment": "새로운 의견",
-            "Comments": "코멘트"
+            "Comments": "코멘트",
+            "Print layout": "인쇄 레이아웃",
+            "Web layout": "웹 레이아웃"
         },
         "toast": {
             "close": "닫기"

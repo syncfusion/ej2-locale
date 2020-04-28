@@ -116,6 +116,14 @@
             "notes": "notlar",
             "baselineStartDate": "Temel Başlangıç ​​Tarihi",
             "baselineEndDate": "Temel Bitiş Tarihi",
+            "taskMode": "Görev Modu",
+            "changeScheduleMode": "Program Modunu Değiştir",
+            "subTasksStartDate": "Alt Görevler Başlangıç ​​Tarihi",
+            "subTasksEndDate": "Alt Görevler Bitiş Tarihi",
+            "scheduleStartDate": "Başlangıç ​​Tarihini Planla",
+            "scheduleEndDate": "Bitiş Tarihini Planla",
+            "auto": "Oto",
+            "manual": "Manuel",
             "type": "tip",
             "offset": "dengelemek",
             "resourceName": "kaynaklar",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Sol görev etiketi",
             "rightTaskLabel": "Doğru görev etiketi",
             "timelineCell": "Zaman çizelgesi hücresi",
-            "confirmPredecessorDelete": "Bağımlılık bağlantısını kaldırmak istediğinizden emin misiniz?"
+            "confirmPredecessorDelete": "Bağımlılık bağlantısını kaldırmak istediğinizden emin misiniz?",
+            "unit": "birim",
+            "work": "İş",
+            "taskType": "Görev Türü",
+            "unassignedTask": "Atanmamış Görev",
+            "group": "grup"
         },
         "tab": {
             "closeButtonTitle": "Kapat"
@@ -246,6 +259,7 @@
             "Orientation": "Oryantasyon",
             "Landscape": "peyzaj",
             "Portrait": "Vesika",
+            "Table Of Contents": "İçindekiler",
             "Show page numbers": "Sayfa numaralarını göster",
             "Right align page numbers": "Sayfa numaralarını sağa hizala",
             "Nothing": "Hiçbir şey değil",
@@ -661,7 +675,33 @@
             "startAt": "Buradan başlayarak",
             "endAt": "Bitiş tarihi:",
             "groupBy": "Aralık",
-            "selectGroup": "Grupları seçin"
+            "selectGroup": "Grupları seçin",
+            "numberFormatString": "Örnek: C, P,% 0000, ### 0. ## 0 # vb.",
+            "stackingcolumn": "Yığılmış sütun",
+            "stackingbar": "Yığılmış Çubuk",
+            "stackingarea": "Yığılmış Alan",
+            "stepline": "Adım Hattı",
+            "steparea": "Adım Alanı",
+            "splinearea": "Spline Alanı",
+            "spline": "kama",
+            "stackingcolumn100": "% 100 Yığılmış Sütun",
+            "stackingbar100": "% 100 Yığılmış Çubuk",
+            "stackingarea100": "% 100 Yığılmış Alan",
+            "bubble": "kabarcık",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Grafik türü ayarları",
+            "multipleAxes": "Birden Fazla Eksen",
+            "sortAscending": "Artan düzende sırala",
+            "sortDescending": "Azalan düzeni sırala",
+            "sortNone": "Veri sırasını sırala",
+            "clearCalculatedField": "Düzenlenmiş alan bilgilerini temizle",
+            "editCalculatedField": "Hesaplanan alanı düzenle",
+            "ChartType": "Grafik tipi",
+            "yes": "Evet",
+            "no": "Hayır",
+            "numberFormatMenu": "Sayı Biçimlendirme ...",
+            "conditionalFormatingMenu": "Koşullu biçimlendirme..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Alan Listesi",
@@ -801,7 +841,15 @@
             "QuarterYear": "Çeyrek Yıl",
             "caption": "Alan Başlığı",
             "copy": "kopya",
-            "group": "grup"
+            "group": "grup",
+            "numberFormatString": "Örnek: C, P,% 0000, ### 0. ## 0 # vb.",
+            "sortAscending": "Artan düzende sırala",
+            "sortDescending": "Azalan düzeni sırala",
+            "sortNone": "Veri sırasını sırala",
+            "clearCalculatedField": "Düzenlenmiş alan bilgilerini temizle",
+            "editCalculatedField": "Hesaplanan alanı düzenle",
+            "selectGroup": "Grupları seçin",
+            "of": "nın-nin"
         },
         "schedule": {
             "day": "Gün",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Her ikisini de sakla",
             "Button-Replace": "değiştirmek",
             "Button-Skip": "Atla",
-            "ApplyAll-Label": "Bunu mevcut tüm öğeler için yapın"
+            "ApplyAll-Label": "Bunu mevcut tüm öğeler için yapın",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Gösterilecek kayıt yok",
@@ -2208,7 +2257,9 @@
             "Single": "Tek",
             "Double": "Çift",
             "New comment": "Yeni yorum",
-            "Comments": "Yorumlar"
+            "Comments": "Yorumlar",
+            "Print layout": "Baskı düzeni",
+            "Web layout": "internet sayfası düzeni"
         },
         "toast": {
             "close": "Kapat"

@@ -116,6 +116,14 @@
             "notes": "ملاحظات",
             "baselineStartDate": "تاريخ البدء الأساسي",
             "baselineEndDate": "تاريخ نهاية خط الأساس",
+            "taskMode": "وضع المهام",
+            "changeScheduleMode": "تغيير وضع الجدول",
+            "subTasksStartDate": "تاريخ بدء المهام الفرعية",
+            "subTasksEndDate": "تاريخ انتهاء المهام الفرعية",
+            "scheduleStartDate": "جدولة تاريخ البدء",
+            "scheduleEndDate": "تاريخ انتهاء الجدول الزمني",
+            "auto": "تلقاءي",
+            "manual": "كتيب",
             "type": "اكتب",
             "offset": "عوض",
             "resourceName": "مصادر",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "تسمية المهمة اليسرى",
             "rightTaskLabel": "تسمية المهمة الصحيحة",
             "timelineCell": "خلية الجدول الزمني",
-            "confirmPredecessorDelete": "هل أنت متأكد من أنك تريد إزالة رابط التبعية؟"
+            "confirmPredecessorDelete": "هل أنت متأكد أنك تريد إزالة رابط التبعية؟",
+            "unit": "وحدة",
+            "work": "عمل",
+            "taskType": "نوع المهمة",
+            "unassignedTask": "مهمة غير محددة",
+            "group": "مجموعة"
         },
         "tab": {
             "closeButtonTitle": "قريب"
@@ -246,6 +259,7 @@
             "Orientation": "اتجاه",
             "Landscape": "المناظر الطبيعيه",
             "Portrait": "صورة",
+            "Table Of Contents": "جدول المحتويات",
             "Show page numbers": "عرض أرقام الصفحات",
             "Right align page numbers": "محاذاة أرقام الصفحات الصحيحة",
             "Nothing": "لا شيئ",
@@ -661,7 +675,33 @@
             "startAt": "يبدأ من",
             "endAt": "إنهاء في",
             "groupBy": "الفاصل الزمني من قبل",
-            "selectGroup": "اختر مجموعات"
+            "selectGroup": "حدد المجموعات",
+            "numberFormatString": "مثال: C ، P ، 0000٪ ، ### 0. ## 0 # ، إلخ.",
+            "stackingcolumn": "عمود مكدس",
+            "stackingbar": "شريط مكدس",
+            "stackingarea": "منطقة مكدسة",
+            "stepline": "خطوة خط",
+            "steparea": "منطقة الخطوة",
+            "splinearea": "منطقة المفتاح",
+            "spline": "خدد",
+            "stackingcolumn100": "عمود مكدس بنسبة 100٪",
+            "stackingbar100": "شريط مكدس بنسبة 100٪",
+            "stackingarea100": "مساحة مكدسة 100٪",
+            "bubble": "فقاعة",
+            "pareto": "باريتو",
+            "radar": "رادار",
+            "chartTypeSettings": "إعدادات نوع التخطيط",
+            "multipleAxes": "محاور متعددة",
+            "sortAscending": "ترتيب تصاعدي",
+            "sortDescending": "ترتيب تنازلي",
+            "sortNone": "ترتيب ترتيب البيانات",
+            "clearCalculatedField": "مسح معلومات الحقل المعدلة",
+            "editCalculatedField": "تحرير الحقل المحسوب",
+            "ChartType": "نوع التخطيط",
+            "yes": "نعم",
+            "no": "لا",
+            "numberFormatMenu": "تنسيق الأرقام ...",
+            "conditionalFormatingMenu": "تنسيق مشروط..."
         },
         "pivotfieldlist": {
             "staticFieldList": "قائمة الحقول المحورية",
@@ -801,7 +841,15 @@
             "QuarterYear": "ربع السنة",
             "caption": "حقل التسمية التوضيحية",
             "copy": "نسخ",
-            "group": "مجموعة"
+            "group": "مجموعة",
+            "numberFormatString": "مثال: C ، P ، 0000٪ ، ### 0. ## 0 # ، إلخ.",
+            "sortAscending": "ترتيب تصاعدي",
+            "sortDescending": "ترتيب تنازلي",
+            "sortNone": "ترتيب ترتيب البيانات",
+            "clearCalculatedField": "مسح معلومات الحقل المعدلة",
+            "editCalculatedField": "تحرير الحقل المحسوب",
+            "selectGroup": "حدد المجموعات",
+            "of": "من"
         },
         "schedule": {
             "day": "يوم",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "احتفظ بكليهما",
             "Button-Replace": "يحل محل",
             "Button-Skip": "تخطى",
-            "ApplyAll-Label": "القيام بذلك لجميع العناصر الحالية"
+            "ApplyAll-Label": "القيام بذلك لجميع العناصر الحالية",
+            "KB": "كيلوبايت"
         },
         "grid": {
             "EmptyRecord": "لا سجلات لعرضها",

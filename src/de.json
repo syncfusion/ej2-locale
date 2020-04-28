@@ -116,6 +116,14 @@
             "notes": "Anmerkungen",
             "baselineStartDate": "Basisstartdatum",
             "baselineEndDate": "Baseline-Enddatum",
+            "taskMode": "Aufgabenmodus",
+            "changeScheduleMode": "Ändern Sie den Zeitplanmodus",
+            "subTasksStartDate": "Startdatum der Unteraufgaben",
+            "subTasksEndDate": "Unteraufgaben Enddatum",
+            "scheduleStartDate": "Startdatum planen",
+            "scheduleEndDate": "Planen Sie das Enddatum",
+            "auto": "Auto",
+            "manual": "Handbuch",
             "type": "Art",
             "offset": "Offset",
             "resourceName": "Ressourcen",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Linke Aufgabenbezeichnung",
             "rightTaskLabel": "Richtige Aufgabenbezeichnung",
             "timelineCell": "Timeline-Zelle",
-            "confirmPredecessorDelete": "Möchten Sie den Abhängigkeitslink wirklich entfernen?"
+            "confirmPredecessorDelete": "Möchten Sie den Abhängigkeitslink wirklich entfernen?",
+            "unit": "Einheit",
+            "work": "Arbeit",
+            "taskType": "Aufgabentyp",
+            "unassignedTask": "Nicht zugewiesene Aufgabe",
+            "group": "Gruppe"
         },
         "tab": {
             "closeButtonTitle": "Schließen"
@@ -661,7 +674,33 @@
             "startAt": "Beginnt um",
             "endAt": "Endet am",
             "groupBy": "Intervall von",
-            "selectGroup": "Gruppen auswählen"
+            "selectGroup": "Wählen Sie Gruppen aus",
+            "numberFormatString": "Beispiel: C, P, 0000%, ### 0. ## 0 # usw.",
+            "stackingcolumn": "Gestapelte Säule",
+            "stackingbar": "Gestapelte Bar",
+            "stackingarea": "Gestapelter Bereich",
+            "stepline": "Schrittlinie",
+            "steparea": "Schrittbereich",
+            "splinearea": "Spline-Bereich",
+            "spline": "Spline",
+            "stackingcolumn100": "100% gestapelte Säule",
+            "stackingbar100": "100% gestapelte Stange",
+            "stackingarea100": "100% gestapelte Fläche",
+            "bubble": "Blase",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Diagrammtypeinstellungen",
+            "multipleAxes": "Mehrere Achsen",
+            "sortAscending": "Aufsteigende Reihenfolge sortieren",
+            "sortDescending": "Absteigende Reihenfolge sortieren",
+            "sortNone": "Datenreihenfolge sortieren",
+            "clearCalculatedField": "Bearbeiten Sie die bearbeiteten Feldinformationen",
+            "editCalculatedField": "Berechnetes Feld bearbeiten",
+            "ChartType": "Diagramm Typ",
+            "yes": "Ja",
+            "no": "Nein",
+            "numberFormatMenu": "Zahlenformatierung ...",
+            "conditionalFormatingMenu": "Bedingte Formatierung..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot-Feldliste",
@@ -801,7 +840,15 @@
             "QuarterYear": "Vierteljahr",
             "caption": "Feldbeschriftung",
             "copy": "Kopieren",
-            "group": "Gruppe"
+            "group": "Gruppe",
+            "numberFormatString": "Beispiel: C, P, 0000%, ### 0. ## 0 # usw.",
+            "sortAscending": "Aufsteigende Reihenfolge sortieren",
+            "sortDescending": "Absteigende Reihenfolge sortieren",
+            "sortNone": "Datenreihenfolge sortieren",
+            "clearCalculatedField": "Bearbeiten Sie die bearbeiteten Feldinformationen",
+            "editCalculatedField": "Berechnetes Feld bearbeiten",
+            "selectGroup": "Wählen Sie Gruppen aus",
+            "of": "von"
         },
         "schedule": {
             "day": "Tag",
@@ -1101,7 +1148,8 @@
             "Button-Keep-Both": "Behalte beides",
             "Button-Replace": "Ersetzen",
             "Button-Skip": "Überspringen",
-            "ApplyAll-Label": "Mache das für alle aktuellen Artikel"
+            "ApplyAll-Label": "Mache das für alle aktuellen Artikel",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Keine Datensätze zum Anzeigen",
@@ -1832,6 +1880,7 @@
             "Orientation": "Orientierung",
             "Landscape": "Landschaft",
             "Portrait": "Porträt",
+            "Table Of Contents": "Inhaltsverzeichnis",
             "Show page numbers": "Seitenzahlen anzeigen",
             "Right align page numbers": "Seitenzahlen nach rechts ausrichten",
             "Nothing": "Nichts",
@@ -2208,7 +2257,9 @@
             "Single": "Single",
             "Double": "Doppelt",
             "New comment": "Neuer Kommentar",
-            "Comments": "Bemerkungen"
+            "Comments": "Bemerkungen",
+            "Print layout": "Drucklayout",
+            "Web layout": "Web-Layout"
         },
         "toast": {
             "close": "Schließen"

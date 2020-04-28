@@ -116,6 +116,14 @@
             "notes": "Bilješke",
             "baselineStartDate": "Početni datum početka",
             "baselineEndDate": "Datum završetka osnovne linije",
+            "taskMode": "Način rada",
+            "changeScheduleMode": "Promjena načina rasporeda",
+            "subTasksStartDate": "Datum početka podzadataka",
+            "subTasksEndDate": "Datum završetka podzadataka",
+            "scheduleStartDate": "Datum početka rasporeda",
+            "scheduleEndDate": "Datum završetka rasporeda",
+            "auto": "Auto",
+            "manual": "Priručnik",
             "type": "Tip",
             "offset": "ofset",
             "resourceName": "Resursi",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Lijeva oznaka zadatka",
             "rightTaskLabel": "Ispravna oznaka zadatka",
             "timelineCell": "Ćelija vremenske trake",
-            "confirmPredecessorDelete": "Jeste li sigurni da želite ukloniti vezu ovisnosti?"
+            "confirmPredecessorDelete": "Jeste li sigurni da želite ukloniti vezu ovisnosti?",
+            "unit": "Jedinica",
+            "work": "Raditi",
+            "taskType": "Vrsta zadatka",
+            "unassignedTask": "Neodređeni zadatak",
+            "group": "Skupina"
         },
         "tab": {
             "closeButtonTitle": "Zatvoriti"
@@ -246,6 +259,7 @@
             "Orientation": "Orijentacija",
             "Landscape": "pejzaž",
             "Portrait": "Portret",
+            "Table Of Contents": "Sadržaj",
             "Show page numbers": "Pokažite brojeve stranica",
             "Right align page numbers": "Desno poravnajte brojeve stranica",
             "Nothing": "Ništa",
@@ -661,7 +675,33 @@
             "startAt": "S početkom u",
             "endAt": "Završava u",
             "groupBy": "Interval by",
-            "selectGroup": "Odaberite skupine"
+            "selectGroup": "Odaberite skupine",
+            "numberFormatString": "Primjer: C, P, 0000%, ### 0. ## 0 #, itd.",
+            "stackingcolumn": "Složeni stupac",
+            "stackingbar": "Bar sa slaganjem",
+            "stackingarea": "Podložno područje",
+            "stepline": "Korak linija",
+            "steparea": "Područje koraka",
+            "splinearea": "Spline područje",
+            "spline": "dugačka",
+            "stackingcolumn100": "100% naslonjeni stupac",
+            "stackingbar100": "100% složen bar",
+            "stackingarea100": "100% složeno područje",
+            "bubble": "mjehurić",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Postavke vrste grafikona",
+            "multipleAxes": "Višestruke sjekire",
+            "sortAscending": "Poredaj uzlazni poredak",
+            "sortDescending": "Poredaj silazni redoslijed",
+            "sortNone": "Poredaj redoslijed podataka",
+            "clearCalculatedField": "Očisti uređene informacije o polju",
+            "editCalculatedField": "Uredite izračunato polje",
+            "ChartType": "Vrsta grafikona",
+            "yes": "Da",
+            "no": "Ne",
+            "numberFormatMenu": "Formatiranje broja ...",
+            "conditionalFormatingMenu": "Uvjetno oblikovanje ..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Popis okretnih polja",
@@ -801,7 +841,15 @@
             "QuarterYear": "Četvrta godina",
             "caption": "Naslov polja",
             "copy": "Kopirati",
-            "group": "Skupina"
+            "group": "Skupina",
+            "numberFormatString": "Primjer: C, P, 0000%, ### 0. ## 0 #, itd.",
+            "sortAscending": "Poredaj uzlazni poredak",
+            "sortDescending": "Poredaj silazni redoslijed",
+            "sortNone": "Poredaj redoslijed podataka",
+            "clearCalculatedField": "Očisti uređene informacije o polju",
+            "editCalculatedField": "Uredite izračunato polje",
+            "selectGroup": "Odaberite skupine",
+            "of": "od"
         },
         "schedule": {
             "day": "Dan",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Zadrzi oboje",
             "Button-Replace": "Zamijeniti",
             "Button-Skip": "Preskočiti",
-            "ApplyAll-Label": "Učinite to za sve trenutne stavke"
+            "ApplyAll-Label": "Učinite to za sve trenutne stavke",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Nema zapisa za prikaz",
@@ -2208,7 +2257,9 @@
             "Single": "Singl",
             "Double": "Dvostruko",
             "New comment": "Novi komentar",
-            "Comments": "komentari"
+            "Comments": "komentari",
+            "Print layout": "Izgled ispisa",
+            "Web layout": "Web izgled"
         },
         "toast": {
             "close": "Zatvoriti"

@@ -116,6 +116,14 @@
             "notes": "Ghi chú",
             "baselineStartDate": "Ngày bắt đầu cơ bản",
             "baselineEndDate": "Ngày kết thúc cơ bản",
+            "taskMode": "Chế độ tác vụ",
+            "changeScheduleMode": "Thay đổi chế độ lịch trình",
+            "subTasksStartDate": "Nhiệm vụ ngày bắt đầu",
+            "subTasksEndDate": "Nhiệm vụ phụ Ngày kết thúc",
+            "scheduleStartDate": "Lịch trình ngày bắt đầu",
+            "scheduleEndDate": "Lịch kết thúc ngày",
+            "auto": "Tự động",
+            "manual": "Hướng dẫn sử dụng",
             "type": "Kiểu",
             "offset": "Bù lại",
             "resourceName": "Tài nguyên",
@@ -181,7 +189,12 @@
             "leftTaskLabel": "Nhãn nhiệm vụ còn lại",
             "rightTaskLabel": "Đúng nhiệm vụ nhãn",
             "timelineCell": "Tế bào dòng thời gian",
-            "confirmPredecessorDelete": "Bạn có chắc chắn muốn xóa liên kết phụ thuộc?"
+            "confirmPredecessorDelete": "Bạn có chắc chắn muốn xóa liên kết phụ thuộc?",
+            "unit": "Đơn vị",
+            "work": "Công việc",
+            "taskType": "Loại nhiệm vụ",
+            "unassignedTask": "Nhiệm vụ chưa được giao",
+            "group": "Nhóm"
         },
         "tab": {
             "closeButtonTitle": "Đóng"
@@ -246,6 +259,7 @@
             "Orientation": "Sự định hướng",
             "Landscape": "Phong cảnh",
             "Portrait": "Chân dung",
+            "Table Of Contents": "Mục lục",
             "Show page numbers": "Hiển thị số trang",
             "Right align page numbers": "Căn chỉnh số trang",
             "Nothing": "Không có gì",
@@ -661,7 +675,33 @@
             "startAt": "Bắt đầu tại",
             "endAt": "Kết thúc tại",
             "groupBy": "Khoảng thời gian bởi",
-            "selectGroup": "Chọn nhóm"
+            "selectGroup": "Chọn nhóm",
+            "numberFormatString": "Ví dụ: C, P, 0000%, ### 0. ## 0 #, v.v.",
+            "stackingcolumn": "Cột xếp chồng",
+            "stackingbar": "Thanh xếp chồng",
+            "stackingarea": "Khu vực xếp chồng",
+            "stepline": "Dòng bước",
+            "steparea": "Khu vực bước",
+            "splinearea": "Khu vực Spline",
+            "spline": "Spline",
+            "stackingcolumn100": "Cột xếp chồng 100%",
+            "stackingbar100": "Thanh xếp chồng 100%",
+            "stackingarea100": "Khu vực xếp chồng 100%",
+            "bubble": "bong bóng",
+            "pareto": "Pareto",
+            "radar": "Radar",
+            "chartTypeSettings": "Cài đặt loại biểu đồ",
+            "multipleAxes": "Nhiều trục",
+            "sortAscending": "Sắp xếp thứ tự tăng dần",
+            "sortDescending": "Sắp xếp thứ tự giảm dần",
+            "sortNone": "Sắp xếp thứ tự dữ liệu",
+            "clearCalculatedField": "Xóa thông tin trường đã chỉnh sửa",
+            "editCalculatedField": "Chỉnh sửa trường tính toán",
+            "ChartType": "Loại biểu đồ",
+            "yes": "Đúng",
+            "no": "Không",
+            "numberFormatMenu": "Định dạng số ...",
+            "conditionalFormatingMenu": "Định dạng có điều kiện ..."
         },
         "pivotfieldlist": {
             "staticFieldList": "Danh sách trường Pivot",
@@ -801,7 +841,15 @@
             "QuarterYear": "Quý",
             "caption": "Chú thích trường",
             "copy": "Sao chép",
-            "group": "Nhóm"
+            "group": "Nhóm",
+            "numberFormatString": "Ví dụ: C, P, 0000%, ### 0. ## 0 #, v.v.",
+            "sortAscending": "Sắp xếp thứ tự tăng dần",
+            "sortDescending": "Sắp xếp thứ tự giảm dần",
+            "sortNone": "Sắp xếp thứ tự dữ liệu",
+            "clearCalculatedField": "Xóa thông tin trường đã chỉnh sửa",
+            "editCalculatedField": "Chỉnh sửa trường tính toán",
+            "selectGroup": "Chọn nhóm",
+            "of": "của"
         },
         "schedule": {
             "day": "ngày",
@@ -1101,7 +1149,8 @@
             "Button-Keep-Both": "Giữ cả hai",
             "Button-Replace": "Thay thế",
             "Button-Skip": "Nhảy",
-            "ApplyAll-Label": "Làm điều này cho tất cả các mục hiện tại"
+            "ApplyAll-Label": "Làm điều này cho tất cả các mục hiện tại",
+            "KB": "KB"
         },
         "grid": {
             "EmptyRecord": "Không có hồ sơ để hiển thị",
@@ -2208,7 +2257,9 @@
             "Single": "Độc thân",
             "Double": "Gấp đôi",
             "New comment": "Bình luận mới",
-            "Comments": "Bình luận"
+            "Comments": "Bình luận",
+            "Print layout": "Bố trí in",
+            "Web layout": "bố trí trang web"
         },
         "toast": {
             "close": "Đóng"
