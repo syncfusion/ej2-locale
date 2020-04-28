@@ -1150,7 +1150,9 @@
             "Button-Replace": "แทนที่",
             "Button-Skip": "ข้าม",
             "ApplyAll-Label": "ทำเช่นนี้สำหรับรายการปัจจุบันทั้งหมด",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "ไม่สามารถส่งใน XMLHTTPRequest: โหลดไม่สำเร็จ",
+			"Server-Error": "เซิร์ฟเวอร์ผิดพลาด: การตอบสนองไม่ถูกต้องจาก"
         },
         "grid": {
             "EmptyRecord": "ไม่มีบันทึกที่จะแสดง",

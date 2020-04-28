@@ -1150,7 +1150,9 @@
             "Button-Replace": "Cserélje",
             "Button-Skip": "Skip",
             "ApplyAll-Label": "Tegye ezt az összes aktuális elemre",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Az XMLHTTPRequest küldése nem sikerült: betöltése nem sikerült",
+			"Server-Error": "ServerError: Érvénytelen válasz a következőtől:"
         },
         "grid": {
             "EmptyRecord": "Nincs bejegyzés megjelenítéséhez",

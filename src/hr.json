@@ -1150,7 +1150,9 @@
             "Button-Replace": "Zamijeniti",
             "Button-Skip": "Preskočiti",
             "ApplyAll-Label": "Učinite to za sve trenutne stavke",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Nije uspjelo slanje na XMLHTTPRequest: Učitavanje nije uspjelo",
+			"Server-Error": "ServerError: Nevažeći odgovor od"
         },
         "grid": {
             "EmptyRecord": "Nema zapisa za prikaz",

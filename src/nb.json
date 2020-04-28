@@ -1150,7 +1150,9 @@
             "Button-Replace": "Erstatte",
             "Button-Skip": "Skip",
             "ApplyAll-Label": "Gjør dette for alle gjeldende gjenstander",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Kunne ikke sende XMLHTTPRequest: Kunne ikke lastes",
+			"Server-Error": "Serverfeil: Ugyldig svar fra"
         },
         "grid": {
             "EmptyRecord": "Ingen oppføringer å vise",

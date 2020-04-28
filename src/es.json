@@ -1145,7 +1145,9 @@
             "Button-Replace": "Reemplazar",
             "Button-Skip": "Omitir",
             "ApplyAll-Label": "Haz esto para todos los artículos actuales",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "NetworkError: error al enviar en XMLHTTPRequest: error al cargar",
+			"Server-Error": "ServerError: respuesta no válida de"
         },
         "grid": {
             "EmptyRecord": "No hay registros que mostrar",

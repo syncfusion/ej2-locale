@@ -1150,7 +1150,9 @@
             "Button-Replace": "جایگزین کردن",
             "Button-Skip": "پرش",
             "ApplyAll-Label": "این کار را برای همه موارد در حال حاضر",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "ارسال در XMLHTTPRequest: بارگیری نشد",
+			"Server-Error": "خطای سرور: پاسخ نامعتبر از"
         },
         "grid": {
             "EmptyRecord": "هیچ پرونده برای نمایش نیست",

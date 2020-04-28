@@ -1150,7 +1150,9 @@
             "Button-Replace": "바꾸다",
             "Button-Skip": "건너 뛰기",
             "ApplyAll-Label": "모든 현재 항목에 대해이 작업을 수행하십시오.",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "XMLHTTPRequest를 보내지 못했습니다 :로드하지 못했습니다",
+			"Server-Error": "서버 오류 : 잘못된 응답"
         },
         "grid": {
             "EmptyRecord": "표시 할 레코드가 없습니다",

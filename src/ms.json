@@ -489,7 +489,9 @@
             "Button-Replace": "Gantikan",
             "Button-Skip": "Langkau",
             "ApplyAll-Label": "Lakukan ini untuk semua item semasa",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Ralat Rangkaian: Gagal mengirim pada XMLHTTPReses: Gagal dimuat",
+			"Server-Error": "Kesalahan Server: Respons tidak sah dari"
         },
         "inplaceeditor": {
             "save": "Simpan",

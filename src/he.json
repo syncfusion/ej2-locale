@@ -1150,7 +1150,9 @@
             "Button-Replace": "החלף",
             "Button-Skip": "לדלג",
             "ApplyAll-Label": "עשה זאת עבור כל הפריטים הנוכחיים",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "נכשל בהעברת XMLHTTP בקשה: טעינה נכשלה",
+			"Server-Error": "ServerError: תגובה לא חוקית מ-"
         },
         "grid": {
             "EmptyRecord": "אין רשומות להצגה",

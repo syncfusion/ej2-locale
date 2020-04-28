@@ -1150,7 +1150,9 @@
             "Button-Replace": "更換",
             "Button-Skip": "跳躍",
             "ApplyAll-Label": "對所有當前項目執行此操作",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "NetworkError：无法在XMLHTTP上发送请求：无法加载",
+			"Server-Error": "ServerError：来自的无效响应"
         },
         "grid": {
             "EmptyRecord": "無記錄可顯示",

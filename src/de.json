@@ -1149,7 +1149,9 @@
             "Button-Replace": "Ersetzen",
             "Button-Skip": "Überspringen",
             "ApplyAll-Label": "Mache das für alle aktuellen Artikel",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "NetworkError: Fehler beim Senden auf XMLHTTPRequest: Fehler beim Laden",
+			"Server-Error": "ServerError: Ungültige Antwort von"
         },
         "grid": {
             "EmptyRecord": "Keine Datensätze zum Anzeigen",
