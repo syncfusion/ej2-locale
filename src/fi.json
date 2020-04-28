@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Pidä molemmat",
             "Button-Replace": "Korvata",
             "Button-Skip": "Ohita",
-            "ApplyAll-Label": "Tee tämä kaikille nykyisille esineille"
+            "ApplyAll-Label": "Tee tämä kaikille nykyisille esineille",
+            "Network-Error": "NetworkError: XMLHTTPRequest-lähetys epäonnistui: Lataus epäonnistui",
+			"Server-Error": "ServerError: virheellinen vastaus käyttäjältä"
         },
         "grid": {
             "EmptyRecord": "Ei näytettäviä tietueita",

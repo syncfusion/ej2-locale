@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Manter os dois",
             "Button-Replace": "Substituir",
             "Button-Skip": "Pular",
-            "ApplyAll-Label": "Faça isso para todos os itens atuais"
+            "ApplyAll-Label": "Faça isso para todos os itens atuais",
+            "Network-Error": "Falha ao enviar XMLHTTPRequest: falha ao carregar",
+			"Server-Error": "Erro de servidor: resposta inválida de"
         },
         "grid": {
             "EmptyRecord": "Não há registros a serem exibidos",

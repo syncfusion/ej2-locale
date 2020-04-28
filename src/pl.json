@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Zatrzymaj oba",
             "Button-Replace": "Zastąpić",
             "Button-Skip": "Pominąć",
-            "ApplyAll-Label": "Zrób to dla wszystkich bieżących przedmiotów"
+            "ApplyAll-Label": "Zrób to dla wszystkich bieżących przedmiotów",
+            "Network-Error": "Nie można wysłać XMLHTTPRequest: Nie udało się załadować",
+			"Server-Error": "Błąd serwera: Niepoprawna odpowiedź od"
         },
         "grid": {
             "EmptyRecord": "brak nagrań do odtworzenia",

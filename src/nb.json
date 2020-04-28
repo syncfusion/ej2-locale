@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Behold begge",
             "Button-Replace": "Erstatte",
             "Button-Skip": "Skip",
-            "ApplyAll-Label": "Gjør dette for alle gjeldende gjenstander"
+            "ApplyAll-Label": "Gjør dette for alle gjeldende gjenstander",
+            "Network-Error": "Kunne ikke sende XMLHTTPRequest: Kunne ikke lastes",
+			"Server-Error": "Serverfeil: Ugyldig svar fra"
         },
         "grid": {
             "EmptyRecord": "Ingen oppføringer å vise",

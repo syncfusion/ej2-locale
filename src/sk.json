@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Nechať si oboje",
             "Button-Replace": "vymeniť",
             "Button-Skip": "skip",
-            "ApplyAll-Label": "Urobte to pre všetky aktuálne položky"
+            "ApplyAll-Label": "Urobte to pre všetky aktuálne položky",
+            "Network-Error": "Nepodarilo sa odoslať na XMLHTTPRequest: Nepodarilo sa načítať",
+			"Server-Error": "Chyba servera: Neplatná odpoveď od používateľa"
         },
         "grid": {
             "EmptyRecord": "žiadne záznamy na zobrazenie",

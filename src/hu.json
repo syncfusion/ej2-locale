@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Megtartani mindkettőt",
             "Button-Replace": "Cserélje",
             "Button-Skip": "Skip",
-            "ApplyAll-Label": "Tegye ezt az összes aktuális elemre"
+            "ApplyAll-Label": "Tegye ezt az összes aktuális elemre",
+            "Network-Error": "Az XMLHTTPRequest küldése nem sikerült: betöltése nem sikerült",
+			"Server-Error": "ServerError: Érvénytelen válasz a következőtől:"
         },
         "grid": {
             "EmptyRecord": "Nincs bejegyzés megjelenítéséhez",

@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Her ikisini de sakla",
             "Button-Replace": "değiştirmek",
             "Button-Skip": "Atla",
-            "ApplyAll-Label": "Bunu mevcut tüm öğeler için yapın"
+            "ApplyAll-Label": "Bunu mevcut tüm öğeler için yapın",
+            "Network-Error": "XMLHTTP'de gönderilemediRequest: Yüklenemedi",
+			"Server-Error": "ServerError: Geçersiz yanıt"
         },
         "grid": {
             "EmptyRecord": "Gösterilecek kayıt yok",

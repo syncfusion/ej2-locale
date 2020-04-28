@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Giữ cả hai",
             "Button-Replace": "Thay thế",
             "Button-Skip": "Nhảy",
-            "ApplyAll-Label": "Làm điều này cho tất cả các mục hiện tại"
+            "ApplyAll-Label": "Làm điều này cho tất cả các mục hiện tại",
+            "Network-Error": "Không thể gửi trên XMLHTTPRequest: Không thể tải",
+			"Server-Error": "ServerError: Phản hồi không hợp lệ từ"
         },
         "grid": {
             "EmptyRecord": "Không có hồ sơ để hiển thị",

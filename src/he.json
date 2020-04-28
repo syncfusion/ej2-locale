@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "שמור את שניהם",
             "Button-Replace": "החלף",
             "Button-Skip": "לדלג",
-            "ApplyAll-Label": "עשה זאת עבור כל הפריטים הנוכחיים"
+            "ApplyAll-Label": "עשה זאת עבור כל הפריטים הנוכחיים",
+            "Network-Error": "נכשל בהעברת XMLHTTP בקשה: טעינה נכשלה",
+			"Server-Error": "ServerError: תגובה לא חוקית מ-"
         },
         "grid": {
             "EmptyRecord": "אין רשומות להצגה",

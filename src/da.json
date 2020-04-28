@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Behold begge",
             "Button-Replace": "Erstatte",
             "Button-Skip": "Springe",
-            "ApplyAll-Label": "Gør dette for alle aktuelle poster"
+            "ApplyAll-Label": "Gør dette for alle aktuelle poster",
+            "Network-Error": "NetworkError: Kunne ikke sende XMLHTTPRequest: Kunne ikke indlæses",
+			"Server-Error": "ServerError: Ugyldigt svar fra"
         },
         "grid": {
             "EmptyRecord": "Ingen poster at vise",

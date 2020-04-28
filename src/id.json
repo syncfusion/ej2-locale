@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Simpan keduanya",
             "Button-Replace": "Menggantikan",
             "Button-Skip": "Melewatkan",
-            "ApplyAll-Label": "Lakukan ini untuk semua item saat ini"
+            "ApplyAll-Label": "Lakukan ini untuk semua item saat ini",
+            "Network-Error": "Kesalahan Jaringan: Gagal mengirim pada XMLHTTPRequest: Gagal memuat",
+			"Server-Error": "ServerError: Tanggapan dari"
         },
         "grid": {
             "EmptyRecord": "Tidak ada catatan untuk ditampilkan",

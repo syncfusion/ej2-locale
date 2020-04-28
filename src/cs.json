@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Nechat si oba",
             "Button-Replace": "Nahradit",
             "Button-Skip": "Přeskočit",
-            "ApplyAll-Label": "Udělejte to pro všechny aktuální položky"
+            "ApplyAll-Label": "Udělejte to pro všechny aktuální položky",
+            "Network-Error": "NetworkError: Nepodařilo se odeslat na XMLHTTPRequest: Nepodařilo se načíst",
+			"Server-Error": "ServerError: Neplatná odpověď od"
         },
         "grid": {
             "EmptyRecord": "žádné záznamy k nahlédnutí",

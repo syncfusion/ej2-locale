@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Behåll båda",
             "Button-Replace": "Byta ut",
             "Button-Skip": "Hoppa",
-            "ApplyAll-Label": "Gör detta för alla aktuella objekt"
+            "ApplyAll-Label": "Gör detta för alla aktuella objekt",
+            "Network-Error": "Det gick inte att skicka XMLHTTPRequest: Det gick inte att ladda",
+			"Server-Error": "Serverfel: Ogiltigt svar från"
         },
         "grid": {
             "EmptyRecord": "Inga poster att visa",

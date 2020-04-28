@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Zadrzi oboje",
             "Button-Replace": "Zamijeniti",
             "Button-Skip": "Preskočiti",
-            "ApplyAll-Label": "Učinite to za sve trenutne stavke"
+            "ApplyAll-Label": "Učinite to za sve trenutne stavke",
+            "Network-Error": "Nije uspjelo slanje na XMLHTTPRequest: Učitavanje nije uspjelo",
+			"Server-Error": "ServerError: Nevažeći odgovor od"
         },
         "grid": {
             "EmptyRecord": "Nema zapisa za prikaz",
