@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "احتفظ بكليهما",
             "Button-Replace": "يحل محل",
             "Button-Skip": "تخطى",
-            "ApplyAll-Label": "القيام بذلك لجميع العناصر الحالية"
+            "ApplyAll-Label": "القيام بذلك لجميع العناصر الحالية",
+            "Network-Error": "NetworkError: فشل الإرسال على XMLHTTPRequest: فشل التحميل",
+			"Server-Error": "ServerError: استجابة غير صالحة من"
         },
         "grid": {
             "EmptyRecord": "لا سجلات لعرضها",
