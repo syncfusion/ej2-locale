@@ -1101,7 +1101,9 @@
             "Button-Keep-Both": "Keep both",
             "Button-Replace": "Replace",
             "Button-Skip": "Skip",
-            "ApplyAll-Label": "Do this for all current items"
+            "ApplyAll-Label": "Do this for all current items",
+            "Network-Error": "NetworkError: Fehler beim Senden auf XMLHTTPRequest: Fehler beim Laden",
+			"Server-Error": "ServerError: Ungültige Antwort von"
         },
         "grid": {
             "EmptyRecord": "No records to display",
