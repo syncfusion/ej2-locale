@@ -1150,7 +1150,9 @@
             "Button-Replace": "Substituir",
             "Button-Skip": "Pular",
             "ApplyAll-Label": "Faça isso para todos os itens atuais",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Falha ao enviar XMLHTTPRequest: falha ao carregar",
+			"Server-Error": "Erro de servidor: resposta inválida de"
         },
         "grid": {
             "EmptyRecord": "Não há registros a serem exibidos",

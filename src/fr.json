@@ -1150,7 +1150,9 @@
             "Button-Replace": "Remplacer",
             "Button-Skip": "Sauter",
             "ApplyAll-Label": "Faites ceci pour tous les articles actuels",
-            "KB": "Ko"
+            "KB": "Ko",
+            "Network-Error": "NetworkError: échec d'envoi sur XMLHTTPRequest: échec de chargement",
+			"Server-Error": "ServerError: réponse non valide de"
         },
         "grid": {
             "EmptyRecord": "Aucun enregistrement à afficher",

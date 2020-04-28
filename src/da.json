@@ -1149,7 +1149,9 @@
             "Button-Replace": "Erstatte",
             "Button-Skip": "Springe",
             "ApplyAll-Label": "Gør dette for alle aktuelle poster",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "NetworkError: Kunne ikke sende XMLHTTPRequest: Kunne ikke indlæses",
+			"Server-Error": "ServerError: Ugyldigt svar fra"
         },
         "grid": {
             "EmptyRecord": "Ingen poster at vise",

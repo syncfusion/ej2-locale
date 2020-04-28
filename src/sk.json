@@ -1150,7 +1150,9 @@
             "Button-Replace": "vymeniť",
             "Button-Skip": "skip",
             "ApplyAll-Label": "Urobte to pre všetky aktuálne položky",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Nepodarilo sa odoslať na XMLHTTPRequest: Nepodarilo sa načítať",
+			"Server-Error": "Chyba servera: Neplatná odpoveď od používateľa"
         },
         "grid": {
             "EmptyRecord": "žiadne záznamy na zobrazenie",

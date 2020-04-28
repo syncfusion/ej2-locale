@@ -1150,7 +1150,9 @@
             "Button-Replace": "Thay thế",
             "Button-Skip": "Nhảy",
             "ApplyAll-Label": "Làm điều này cho tất cả các mục hiện tại",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Không thể gửi trên XMLHTTPRequest: Không thể tải",
+			"Server-Error": "ServerError: Phản hồi không hợp lệ từ"
         },
         "grid": {
             "EmptyRecord": "Không có hồ sơ để hiển thị",

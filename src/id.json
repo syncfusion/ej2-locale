@@ -1150,7 +1150,9 @@
             "Button-Replace": "Menggantikan",
             "Button-Skip": "Melewatkan",
             "ApplyAll-Label": "Lakukan ini untuk semua item saat ini",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Kesalahan Jaringan: Gagal mengirim pada XMLHTTPRequest: Gagal memuat",
+			"Server-Error": "ServerError: Tanggapan dari"
         },
         "grid": {
             "EmptyRecord": "Tidak ada catatan untuk ditampilkan",

@@ -1150,7 +1150,9 @@
             "Button-Replace": "Korvata",
             "Button-Skip": "Ohita",
             "ApplyAll-Label": "Tee tämä kaikille nykyisille esineille",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "NetworkError: XMLHTTPRequest-lähetys epäonnistui: Lataus epäonnistui",
+			"Server-Error": "ServerError: virheellinen vastaus käyttäjältä"
         },
         "grid": {
             "EmptyRecord": "Ei näytettäviä tietueita",

@@ -1150,7 +1150,9 @@
             "Button-Replace": "Byta ut",
             "Button-Skip": "Hoppa",
             "ApplyAll-Label": "Gör detta för alla aktuella objekt",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Det gick inte att skicka XMLHTTPRequest: Det gick inte att ladda",
+			"Server-Error": "Serverfel: Ogiltigt svar från"
         },
         "grid": {
             "EmptyRecord": "Inga poster att visa",

@@ -1150,7 +1150,9 @@
             "Button-Replace": "A inlocui",
             "Button-Skip": "Ocolire",
             "ApplyAll-Label": "Faceți acest lucru pentru toate articolele curente",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Eroare la trimiterea pe XMLHTTPRequest: Nu a putut fi încărcat",
+			"Server-Error": "Eroare de server: răspuns nevalid din"
         },
         "grid": {
             "EmptyRecord": "Nu există înregistrări de afișat",

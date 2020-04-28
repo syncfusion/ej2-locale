@@ -1150,7 +1150,9 @@
             "Button-Replace": "Sostituire",
             "Button-Skip": "Salta",
             "ApplyAll-Label": "Fallo per tutti gli oggetti attuali",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Impossibile inviare su XMLHTTPRequest: caricamento non riuscito",
+			"Server-Error": "ServerError: risposta non valida da"
         },
         "grid": {
             "EmptyRecord": "nessun dato da visualizzare",

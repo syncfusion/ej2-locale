@@ -1142,7 +1142,9 @@
             "Button-Replace": "交換",
             "Button-Skip": "スキップ",
             "ApplyAll-Label": "現在のすべてのアイテムのためにこれを行います",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "XMLHTTPRequestでの送信に失敗しました：ロードに失敗しました",
+			"Server-Error": "サーバーエラー：からの無効な応答"
         },
         "grid": {
             "EmptyRecord": "表示するレコードはありません",

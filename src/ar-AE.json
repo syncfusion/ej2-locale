@@ -1150,7 +1150,9 @@
             "Button-Replace": "يحل محل",
             "Button-Skip": "تخطى",
             "ApplyAll-Label": "القيام بذلك لجميع العناصر الحالية",
-            "KB": "كيلوبايت"
+            "KB": "كيلوبايت",
+            "Network-Error": "NetworkError: فشل الإرسال على XMLHTTPRequest: فشل التحميل",
+			"Server-Error": "ServerError: استجابة غير صالحة من"
         },
         "grid": {
             "EmptyRecord": "لا سجلات لعرضها",

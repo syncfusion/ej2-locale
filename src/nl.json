@@ -1150,7 +1150,9 @@
             "Button-Replace": "Vervangen",
             "Button-Skip": "Overspringen",
             "ApplyAll-Label": "Doe dit voor alle huidige items",
-            "KB": "KB"
+            "KB": "KB",
+            "Network-Error": "Verzenden op XMLHTTPRequest mislukt: kan niet worden geladen",
+			"Server-Error": "Serverfout: ongeldige reactie van"
         },
         "grid": {
             "EmptyRecord": "Geen records om weer te geven",
