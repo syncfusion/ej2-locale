@@ -254,7 +254,10 @@
             "yes": "Ya",
             "no": "Tidak",
             "numberFormatMenu": "Pemformatan Nombor ...",
-            "conditionalFormatingMenu": "Pemformatan Bersyarat ..."
+            "conditionalFormatingMenu": "Pemformatan Bersyarat ...",
+            "removeCalculatedField": "Adakah anda pasti mahu memadamkan medan yang dikira ini?",
+            "replaceConfirmBefore": "Laporan yang dinamakan",
+            "replaceConfirmAfter": " sudah wujud. Adakah anda ingin menggantikannya?"
         },
         "pivotfieldlist": {
             "staticFieldList": "Senarai Medan Pivot",
@@ -402,7 +405,8 @@
             "clearCalculatedField": "Kosongkan maklumat medan yang diedit",
             "editCalculatedField": "Edit medan terhitung",
             "selectGroup": "Pilih kumpulan",
-            "of": "daripada"
+            "of": "daripada",
+            "removeCalculatedField": "Adakah anda pasti mahu memadamkan medan yang dikira ini?"
         },
         "filemanager": {
             "NewFolder": "Fail baharu",
@@ -490,8 +494,9 @@
             "Button-Skip": "Langkau",
             "ApplyAll-Label": "Lakukan ini untuk semua item semasa",
             "KB": "KB",
+            "Access-Message": "{0} tidak dapat diakses. Anda memerlukan kebenaran untuk melakukan tindakan {1}.",
             "Network-Error": "Ralat Rangkaian: Gagal mengirim pada XMLHTTPReses: Gagal dimuat",
-			"Server-Error": "Kesalahan Server: Respons tidak sah dari"
+            "Server-Error": "Kesalahan Server: Respons tidak sah dari"
         },
         "inplaceeditor": {
             "save": "Simpan",
@@ -1086,7 +1091,17 @@
             "AlignTop": "Align Top",
             "AlignMiddle": "Align Middle",
             "AlignBottom": "Align Bottom",
+            "MergeCells": "Mencantumkan sel",
+            "MergeAll": "Gabungkan Semua",
+            "MergeHorizontally": "Bergabung secara Mendatar",
+            "MergeVertically": "Gabung secara menegak",
+            "Unmerge": "Lepas",
+            "UnmergeCells": "Bebaskan Sel",
+            "SelectMergeType": "Pilih Jenis Gabungan",
+            "MergeCellsAlert": "Penggabungan sel hanya akan mengekalkan nilai paling kiri-atas (Paling Atas). Bergabung pula?",
+            "PasteMergeAlert": "Kami tidak boleh melakukannya ke gabungan sel.",
             "Borders": "Sempadan",
+            "SelectBorderOption": "Pilih Pilihan Sempadan",
             "TopBorders": "Sempadan Teratas",
             "LeftBorders": "Sempadan Kiri",
             "RightBorders": "Sempadan kanan",
@@ -1149,8 +1164,12 @@
             "UnHideColumns": "Lajur UnHide",
             "InsertRow": "Masukkan Row",
             "InsertRows": "Masukkan Baris",
+            "Above": "Di atas",
+            "Below": "Di bawah ini",
             "InsertColumn": "Masukkan Lajur",
             "InsertColumns": "Masukkan lajur",
+            "Before": "Sebelum",
+            "After": "Selepas",
             "DeleteRow": "Padamkan Row",
             "DeleteRows": "Padamkan Baris",
             "DeleteColumn": "Padamkan Lajur",
@@ -1294,7 +1313,8 @@
             "InsertLinks": "Masukkan pautan",
             "ProtectContent": "Lindungi kandungan sel terkunci",
             "ProtectAllowUser": "Benarkan semua pengguna lembaran kerja ini:",
-            "EditAlert": "Sel yang cuba anda ubah dilindungi. Untuk membuat perubahan, tidak melindungi kunci."
+            "EditAlert": "Sel yang cuba anda ubah dilindungi. Untuk membuat perubahan, tidak melindungi kunci.",
+            "ClearValidation": "Pengesahan yang jelas"
         },
         "pdfviewer": {
             "PdfViewer": "PDF Viewer",
@@ -2213,7 +2233,31 @@
             "No Headings": "Tiada Tajuk Ditemui!",
             "Add Headings": "Dokumen ini tidak mempunyai tajuk. Sila tambahkan tajuk dan cuba lagi.",
             "More Options": "Lebih banyak Pilihan",
-            "Click to see this comment": "Klik untuk melihat komen ini"
+            "Click to see this comment": "Klik untuk melihat komen ini",
+            "Drop Down Form Field": "Medan Bawah Bawah",
+            "Drop-down items": "Item drop-down",
+            "Items in drop-down list": "Item dalam senarai juntai bawah",
+            "ADD": "TAMBAH",
+            "REMOVE": "HAPUSKAN",
+            "Field settings": "Tetapan medan",
+            "Tooltip": "Petua alat",
+            "Drop-down enabled": "Lungsur turun diaktifkan",
+            "Check Box Form Field": "Medan Borang Kotak Centang",
+            "Check box size": "Tandakan saiz kotak",
+            "Auto": "Auto",
+            "Default value": "Nilai asal",
+            "Not checked": "Tidak diperiksa",
+            "Checked": "Diperiksa",
+            "Check box enabled": "Kotak semak diaktifkan",
+            "Text Form Field": "Medan Bentuk Teks",
+            "Type": "Jenis",
+            "Default text": "Teks lalai",
+            "Maximum length": "Panjang maksimum",
+            "Text format": "Format teks",
+            "Fill-in enabled": "Isi diaktifkan",
+            "Default number": "Nombor lalai",
+            "Default date": "Tarikh lalai",
+            "Date format": "Format tarikh"
         },
         "documenteditorcontainer": {
             "New": "Baru",
@@ -2354,7 +2398,12 @@
             "New comment": "Komen baru",
             "Comments": "Komen",
             "Print layout": "Susun atur cetak",
-            "Web layout": "Susunatur web"
+            "Web layout": "Susunatur web",
+            "Text Form": "Bentuk Teks",
+            "Check Box": "Kotak Centang",
+            "DropDown": "Drop-Down",
+            "Update Fields": "Kemas kini Medan",
+            "Update cross reference fields": "Kemas kini bidang rujukan silang"
         },
         "toast": {
             "close": "Tutup"
@@ -2362,7 +2411,17 @@
         "kanban": {
             "items": "barangan",
             "min": "Min",
-            "max": "Maks"
+            "max": "Maks",
+            "cardsSelected": "Kad Terpilih",
+            "addTitle": "Tambah Kad Baru",
+            "editTitle": "Edit Butiran Kad",
+            "deleteTitle": "Padamkan Kad",
+            "deleteContent": "Adakah anda pasti mahu memadamkan kad ini?",
+            "save": "Jimat",
+            "delete": "Padam",
+            "cancel": "Batal",
+            "yes": "Ya",
+            "no": "Tidak"
         }
     }
 }
