@@ -1566,7 +1566,7 @@
             "cancelText": "Annuler",
             "selectedDays": "Jours sélectionnés",
             "days": "Journées",
-            "customRange": "Gamme personnalisée"
+            "customRange": "Période personnalisée"
         },
         "timepicker": {
             "placeholder": "Choisissez une heure"
