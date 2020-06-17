@@ -36,7 +36,7 @@ Locale translations for Essential JS 2 components in multiple languages.
 | vi     | Vietnamese - Vietnam           |
 | zh       | Chinese - China                |
 
-## How To load locale text for Essential JS 2 components
+## How to load locale text for Essential JS 2 components
 
 To load translation object in Essential JS 2 components, you can load locale object in L10.load function from ej.base. For example, In the below code snippet we have loaded the locale file for Arabic culture.
 
@@ -49,4 +49,15 @@ ajax.onSuccess = function (value) {
     };
 ajax.send();
 
+```
+
+### How to load locale globally in typescript
+
+Importing from json files with typescript you first need to enable the `resolveJsonModule` flag. Either by adding it to your tsconfig.json or directly as argument to the compiler.  
+It is important to use a plain object! Passing EJ2_LOCALE directly will not work for the `L10n.load()` method.
+
+```typescript
+import * as EJ2_LOCALE from "../../node_modules/@syncfusion/ej2-locale/src/de.json";
+L10n.load({ de: EJ2_LOCALE.de });
+setCulture("de");
 ```
