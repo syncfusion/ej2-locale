@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Podmienené formátovanie...",
             "removeCalculatedField": "Naozaj chcete odstrániť toto vypočítané pole?",
             "replaceConfirmBefore": "Správa s názvom",
-            "replaceConfirmAfter": " už existuje. Chcete ho vymeniť?"
+            "replaceConfirmAfter": " už existuje. Chcete ho vymeniť?",
+            "pie": "koláč",
+            "funnel": "lievik",
+            "doughnut": "Šiška",
+            "pyramid": "pyramída",
+            "showLegend": "Zobraziť legendu",
+            "exit": "Východ"
         },
         "pivotfieldlist": {
             "staticFieldList": "Zoznam kontingenčných polí",
@@ -451,6 +457,7 @@
             "Permission": "dovolenia",
             "Ascending": "stúpajúca",
             "Descending": "zostupne",
+            "None": "nikto",
             "View-LargeIcons": "Veľké ikony",
             "View-Details": "podrobnosti",
             "Search": "Vyhľadávanie",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Zlúčenie buniek zachová iba hornú ľavú (najvyššiu) hodnotu. Chcete sa zlúčiť?",
             "PasteMergeAlert": "To nemôžeme urobiť pre zlúčenie bunky.",
             "Borders": "hranice",
-            "SelectBorderOption": "Vyberte možnosť Ohraničenie",
             "TopBorders": "Najlepšie hranice",
             "LeftBorders": "Ľavé okraje",
             "RightBorders": "Pravá hranica",
@@ -1304,6 +1310,7 @@
             "Retry": "Skúsiť znova",
             "DialogError": "Zdroj zoznamu musí byť odkazom na jeden riadok alebo stĺpec.",
             "ValidationError": "Táto hodnota sa nezhoduje s obmedzeniami validácie údajov definovanými pre bunku.",
+            "ListLengthError": "Hodnoty zoznamu umožňujú iba 256 znakov",
             "ProtectSheet": "Chráňte hárok",
             "UnprotectSheet": "Nechráňte hárok",
             "SelectCells": "Vyberte bunky",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Chráňte obsah uzamknutých buniek",
             "ProtectAllowUser": "Povoliť všetkým používateľom tohto pracovného listu:",
             "EditAlert": "Bunka, ktorú sa snažíte zmeniť, je chránená. Ak chcete vykonať zmenu, nechráňte hárok.",
-            "ClearValidation": "Vymazať overenie"
+            "ClearValidation": "Vymazať overenie",
+            "ISNUMBER": "Vráti true, keď sa hodnota analyzuje ako číselná hodnota.",
+            "Round": "Zaokrúhli číslo na zadaný počet číslic.",
+            "GEOMEAN": "Vráti geometrický priemer poľa alebo rozsahu pozitívnych údajov.",
+            "POWER": "Vráti výsledok čísla zvýšeného na výkon",
+            "LOG": "Vracia logaritmus čísla na základňu, ktorú zadáte.",
+            "TRUNC": "Vráti skrátenú hodnotu čísla na zadaný počet desatinných miest.",
+            "EXP": "Vráti e zvýšené na silu daného čísla.",
+            "SelectBorderOption": "Vyberte možnosť Ohraničenie"
         },
         "pdfviewer": {
             "PdfViewer": "﻿Prehliadač PDF",
@@ -1665,7 +1680,9 @@
             "work": "Práca",
             "taskType": "Typ úlohy",
             "unassignedTask": "Nepriradená úloha",
-            "group": "skupina"
+            "group": "skupina",
+            "indent": "zarážka",
+            "outdent": "predsadiť"
         },
         "dropdowns": {
             "noRecordsTemplate": "Nenašli sa žiadne záznamy",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Potvrďte zadaním nového hesla",
             "Your permissions": "Vaše povolenia",
             "Protected Document": "Tento dokument je chránený proti neúmyselným úpravám. V tejto oblasti môžete upravovať.",
+            "FormFieldsOnly": "Tento dokument je chránený pred neúmyselnými úpravami. V tejto oblasti môžete vyplniť iba formuláre.",
             "You may format text only with certain styles": "Text môžete formátovať iba s určitými štýlmi.",
             "Stop Protection": "Zastavte ochranu",
             "Password": "heslo",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Vyplnenie povolené",
             "Default number": "Predvolené číslo",
             "Default date": "Predvolený dátum",
-            "Date format": "Formát dátumu"
+            "Date format": "Formát dátumu",
+            "Merge Track": "Táto akcia nebude označená ako zmena. Chceš pokračovať?",
+            "UnTrack": "Nedá sa sledovať",
+            "Accept": "súhlasiť",
+            "Reject": "Odmietnuť",
+            "Previous Changes": "Predchádzajúce zmeny",
+            "Next Changes": "Ďalšie zmeny",
+            "Inserted": "vložené",
+            "Deleted": "vypúšťa",
+            "Changes": "zmeny",
+            "Accept all": "Prijať všetko",
+            "Reject all": "Odmietnuť všetky",
+            "No changes": "Bez zmien",
+            "Accept Changes": "Prijať zmeny",
+            "Reject Changes": "Odmietnuť zmeny",
+            "User": "užívateľ",
+            "View": "vyhliadka"
         },
         "documenteditorcontainer": {
             "New": "Nový",
@@ -2421,7 +2455,8 @@
             "delete": "delete",
             "cancel": "Zrušiť",
             "yes": "Áno",
-            "no": "žiadny"
+            "no": "žiadny",
+            "close": "Zavrieť"
         }
     }
 }

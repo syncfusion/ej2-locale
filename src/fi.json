@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Ehdollinen muotoilu ...",
             "removeCalculatedField": "Haluatko varmasti poistaa tämän lasketun kentän?",
             "replaceConfirmBefore": "Raportti nimeltään",
-            "replaceConfirmAfter": " on jo olemassa. Haluatko korvata sen?"
+            "replaceConfirmAfter": " on jo olemassa. Haluatko korvata sen?",
+            "pie": "پای",
+            "funnel": "قیف",
+            "doughnut": "دونات",
+            "pyramid": "هرم",
+            "showLegend": "نمایش افسانه",
+            "exit": "خروج"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot-kenttäluettelo",
@@ -451,6 +457,7 @@
             "Permission": "Lupa",
             "Ascending": "nouseva",
             "Descending": "Laskeva",
+            "None": "هیچ یک",
             "View-LargeIcons": "Suuret kuvakkeet",
             "View-Details": "Yksityiskohdat",
             "Search": "Hae",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Solujen yhdistäminen säilyttää vain vasemman yläreunan (ylin) arvon. Yhdistätkö joka tapauksessa?",
             "PasteMergeAlert": "Emme voi tehdä sitä sulautumiskennoon.",
             "Borders": "Reunukset",
-            "SelectBorderOption": "Valitse Reunavaihtoehto",
             "TopBorders": "Ylärajat",
             "LeftBorders": "Vasemmat rajat",
             "RightBorders": "Oikeat rajat",
@@ -1304,6 +1310,7 @@
             "Retry": "Retry",
             "DialogError": "Luettelolähteen on oltava viittaus yhteen riviin tai sarakkeeseen.",
             "ValidationError": "Tämä arvo ei vastaa solulle määritettyjä tietojen validointirajoituksia.",
+            "ListLengthError": "مقادیر لیست فقط تا 256 نویسه امکان پذیر است",
             "ProtectSheet": "Suojaa arkki",
             "UnprotectSheet": "Poista suojausarkki",
             "SelectCells": "Valitse solut",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Suojaa lukittujen solujen sisältö",
             "ProtectAllowUser": "Salli kaikkien tämän taulukon käyttäjien:",
             "EditAlert": "Solu, jota yrität muuttaa, on suojattu. Poista muutos arkin suojauksesta.",
-            "ClearValidation": "Tyhjennä validointi"
+            "ClearValidation": "Tyhjennä validointi",
+            "ISNUMBER": "وقتی مقدار به عنوان یک مقدار عددی تجزیه می شود ، درست می شود.",
+            "Round": "یک عدد را به تعداد مشخصی از رقم ها می چرخانیم.",
+            "GEOMEAN": "میانگین هندسی یک آرایه یا دامنه داده های مثبت را برمی گرداند.",
+            "POWER": "نتیجه یک عدد مطرح شده به قدرت را برمی گرداند",
+            "LOG": "لگاریتم یک عدد را به پایه ای که مشخص کرده اید برمی گرداند.",
+            "TRUNC": "مقدار کوتاه شده یک عدد را به تعداد مشخصی از مکانهای اعشار برمی گرداند.",
+            "EXP": "برمی گرداند به قدرت عدد داده شده.",
+            "SelectBorderOption": "Valitse Reunavaihtoehto"
         },
         "pdfviewer": {
             "PdfViewer": "PDF Viewer",
@@ -1665,7 +1680,9 @@
             "work": "Työ",
             "taskType": "Tehtävän tyyppi",
             "unassignedTask": "Määrittämätön tehtävä",
-            "group": "Ryhmä"
+            "group": "Ryhmä",
+            "indent": "تورفتگی",
+            "outdent": "قدیمی"
         },
         "dropdowns": {
             "noRecordsTemplate": "Merkintöjä ei löydy",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Anna uusi salasana vahvistaaksesi",
             "Your permissions": "Oikeutesi",
             "Protected Document": "Tämä asiakirja on suojattu tahattomalta muokkaamiselta.Voit muokata tätä aluetta.",
+            "FormFieldsOnly": "این سند از ویرایش غیر عمدی محافظت می شود. فقط در این منطقه می توانید فرم را پر کنید.",
             "You may format text only with certain styles": "Voit muotoilla tekstiä vain tietyillä tyyleillä.",
             "Stop Protection": "Pysäytä suojaus",
             "Password": "Salasana",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Täyttö käytössä",
             "Default number": "Oletusnumero",
             "Default date": "Oletuspäivämäärä",
-            "Date format": "Päivämäärämuoto"
+            "Date format": "Päivämäärämuoto",
+            "Merge Track": "این عمل به عنوان تغییر علامت گذاری نمی شود. می خواهید ادامه دهید؟",
+            "UnTrack": "نمی توان ردیابی کرد",
+            "Accept": "تایید کنید",
+            "Reject": "رد کردن",
+            "Previous Changes": "تغییرات قبلی",
+            "Next Changes": "تغییرات بعدی",
+            "Inserted": "درج شده",
+            "Deleted": "حذف شده",
+            "Changes": "تغییر می کند",
+            "Accept all": "پذیرفتن تمامی موارد",
+            "Reject all": "همه را رد کنید",
+            "No changes": "بدون تغییرات",
+            "Accept Changes": "تغییرات را بپذیرید",
+            "Reject Changes": "تغییرات را رد کنید",
+            "User": "کاربر",
+            "View": "چشم انداز"
         },
         "documenteditorcontainer": {
             "New": "Uusi",
@@ -2421,7 +2455,8 @@
             "delete": "Poistaa",
             "cancel": "Peruuttaa",
             "yes": "Joo",
-            "no": "Ei"
+            "no": "Ei",
+            "close": "نزدیک"
         }
     }
 }

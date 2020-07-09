@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "עיצוב מותנה ...",
             "removeCalculatedField": "האם אתה בטוח שברצונך למחוק שדה מחושב זה?",
             "replaceConfirmBefore": "דוח בשם",
-            "replaceConfirmAfter": " כבר קיים. אתה רוצה להחליף את זה?"
+            "replaceConfirmAfter": " כבר קיים. אתה רוצה להחליף את זה?",
+            "pie": "פַּאִי",
+            "funnel": "מַשׁפֵּך",
+            "doughnut": "סופגניה",
+            "pyramid": "פִּירָמִידָה",
+            "showLegend": "הצג אגדה",
+            "exit": "יְצִיאָה"
         },
         "pivotfieldlist": {
             "staticFieldList": "רשימת שדות ציר",
@@ -451,6 +457,7 @@
             "Permission": "הרשאה",
             "Ascending": "עולה",
             "Descending": "יורד",
+            "None": "אף אחד",
             "View-LargeIcons": "אייקונים גדולים",
             "View-Details": "פרטים",
             "Search": "לחפש",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "מיזוג תאים ישמור רק על הערך העליון-שמאלי (למעלה). להתמזג בכל מקרה?",
             "PasteMergeAlert": "איננו יכולים לעשות זאת לתא מיזוג.",
             "Borders": "גבולות",
-            "SelectBorderOption": "בחר אפשרות גבול",
             "TopBorders": "גבולות עליונים",
             "LeftBorders": "גבולות שמאליים",
             "RightBorders": "גבולות ימניים",
@@ -1304,6 +1310,7 @@
             "Retry": "נסה שוב",
             "DialogError": "מקור הרשימה חייב להיות הפניה לשורה או עמודה בודדת.",
             "ValidationError": "ערך זה אינו תואם את מגבלות אימות הנתונים שהוגדרו עבור התא.",
+            "ListLengthError": "ערכי הרשימה מאפשרים רק עד 256 תווים",
             "ProtectSheet": "הגנה על גיליון",
             "UnprotectSheet": "הגנת גיליון לא מוגנת",
             "SelectCells": "בחר תאים",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "הגן על תוכן התאים הנעולים",
             "ProtectAllowUser": "אפשר לכל המשתמשים בגיליון עבודה זה:",
             "EditAlert": "התא שאתה מנסה לשנות מוגן. כדי לבצע שינוי, בטל את הגנת הגיליון.",
-            "ClearValidation": "אימות ברור"
+            "ClearValidation": "אימות ברור",
+            "ISNUMBER": "חוזר נכון כאשר הערך מנתח כערך מספרי.",
+            "Round": "מעגל מספר למספר מסוים של ספרות.",
+            "GEOMEAN": "מחזירה את הממוצע הגיאומטרי של מערך או טווח של נתונים חיוביים.",
+            "POWER": "מחזירה את התוצאה של מספר שהועלה לשלטון",
+            "LOG": "מחזירה את הלוגריתם של מספר לבסיס שאתה מציין.",
+            "TRUNC": "מחזירה את הערך הקטום של מספר למספר מוגדר של מקומות עשרוניים.",
+            "EXP": "מחזירה את הועלה לכוח המספר הנתון.",
+            "SelectBorderOption": "בחר אפשרות גבול"
         },
         "pdfviewer": {
             "PdfViewer": "מציג PDF",
@@ -1665,7 +1680,9 @@
             "work": "עבודה",
             "taskType": "סוג משימה",
             "unassignedTask": "משימה שלא הוקצתה",
-            "group": "קבוצה"
+            "group": "קבוצה",
+            "indent": "לְשַׁנֵן",
+            "outdent": "נלהב"
         },
         "dropdowns": {
             "noRecordsTemplate": "לא נמצאו שיאים",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "הזן סיסמה חדשה כדי לאשר",
             "Your permissions": "ההרשאות שלך",
             "Protected Document": "מסמך זה מוגן מפני עריכה לא מכוונת. אתה רשאי לערוך באזור זה.",
+            "FormFieldsOnly": "מסמך זה מוגן מפני עריכה שלא בכוונה. אתה רשאי למלא טפסים באזור זה בלבד.",
             "You may format text only with certain styles": "ניתן לעצב טקסט רק עם סגנונות מסוימים.",
             "Stop Protection": "הפסק את ההגנה",
             "Password": "סיסמה",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "מילוי מופעל",
             "Default number": "מספר ברירת מחדל",
             "Default date": "תאריך ברירת מחדל",
-            "Date format": "פורמט תאריך"
+            "Date format": "פורמט תאריך",
+            "Merge Track": "פעולה זו לא תסומן כשינוי. האם אתה רוצה להמשיך?",
+            "UnTrack": "לא ניתן לאתר מעקב",
+            "Accept": "לְקַבֵּל",
+            "Reject": "לִדחוֹת",
+            "Previous Changes": "שינויים קודמים",
+            "Next Changes": "השינויים הבאים",
+            "Inserted": "מוּכנָס",
+            "Deleted": "נמחק",
+            "Changes": "שינויים",
+            "Accept all": "קבל הכל",
+            "Reject all": "דחה את הכל",
+            "No changes": "אין שינויים",
+            "Accept Changes": "קבל שינויים",
+            "Reject Changes": "דחה שינויים",
+            "User": "מִשׁתַמֵשׁ",
+            "View": "נוף"
         },
         "documenteditorcontainer": {
             "New": "חדש",
@@ -2421,7 +2455,8 @@
             "delete": "מחק",
             "cancel": "בטל",
             "yes": "כן",
-            "no": "לא"
+            "no": "לא",
+            "close": "סגור"
         }
     }
 }

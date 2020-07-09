@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Pemformatan Bersyarat ...",
             "removeCalculatedField": "Adakah anda pasti mahu memadamkan medan yang dikira ini?",
             "replaceConfirmBefore": "Laporan yang dinamakan",
-            "replaceConfirmAfter": " sudah wujud. Adakah anda ingin menggantikannya?"
+            "replaceConfirmAfter": " sudah wujud. Adakah anda ingin menggantikannya?",
+            "pie": "Pai",
+            "funnel": "Corong",
+            "doughnut": "Donut",
+            "pyramid": "Piramid",
+            "showLegend": "Tunjukkan Lagenda",
+            "exit": "Keluar"
         },
         "pivotfieldlist": {
             "staticFieldList": "Senarai Medan Pivot",
@@ -451,6 +457,7 @@
             "Permission": "Kebenaran",
             "Ascending": "Menaik",
             "Descending": "Menurun",
+            "None": "Tiada",
             "View-LargeIcons": "Ikon besar",
             "View-Details": "Butiran",
             "Search": "Carian",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Penggabungan sel hanya akan mengekalkan nilai paling kiri-atas (Paling Atas). Bergabung pula?",
             "PasteMergeAlert": "Kami tidak boleh melakukannya ke gabungan sel.",
             "Borders": "Sempadan",
-            "SelectBorderOption": "Pilih Pilihan Sempadan",
             "TopBorders": "Sempadan Teratas",
             "LeftBorders": "Sempadan Kiri",
             "RightBorders": "Sempadan kanan",
@@ -1304,6 +1310,7 @@
             "Retry": "Cuba semula",
             "DialogError": "Sumber senarai mestilah rujukan kepada baris atau lajur tunggal.",
             "ValidationError": "Nilai ini tidak sepadan dengan sekatan pengesahan data yang ditakrifkan untuk sel.",
+            "ListLengthError": "Nilai senarai hanya membenarkan sehingga 256 aksara",
             "ProtectSheet": "Lindungi Helaian",
             "UnprotectSheet": "Helaian Tidak Perlindungan",
             "SelectCells": "Pilih sel",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Lindungi kandungan sel terkunci",
             "ProtectAllowUser": "Benarkan semua pengguna lembaran kerja ini:",
             "EditAlert": "Sel yang cuba anda ubah dilindungi. Untuk membuat perubahan, tidak melindungi kunci.",
-            "ClearValidation": "Pengesahan yang jelas"
+            "ClearValidation": "Pengesahan yang jelas",
+            "ISNUMBER": "Mengembalikan true apabila nilai dihuraikan sebagai nilai berangka.",
+            "Round": "Membundarkan nombor ke bilangan digit yang ditentukan.",
+            "GEOMEAN": "Mengembalikan min geometri bagi array atau julat data positif.",
+            "POWER": "Mengembalikan hasil nombor yang dinaikkan",
+            "LOG": "Mengembalikan logaritma nombor ke pangkalan yang anda tentukan.",
+            "TRUNC": "Mengembalikan nilai terpotong nombor ke bilangan tempat perpuluhan yang ditentukan.",
+            "EXP": "Mengembalikan e dinaikkan ke kekuatan nombor yang diberikan.",
+            "SelectBorderOption": "Pilih Pilihan Sempadan"
         },
         "pdfviewer": {
             "PdfViewer": "PDF Viewer",
@@ -1665,7 +1680,9 @@
             "work": "Kerja",
             "taskType": "Jenis Petugas",
             "unassignedTask": "Tugas yang belum ditetapkan",
-            "group": "Kumpulan"
+            "group": "Kumpulan",
+            "indent": "Inden",
+            "outdent": "Keluar"
         },
         "dropdowns": {
             "noRecordsTemplate": "Tiada rekod dijumpai",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Masukkan semula kata laluan baru untuk mengesahkan",
             "Your permissions": "Kebenaran anda",
             "Protected Document": "Dokumen ini dilindungi daripada penyuntingan yang tidak disengajakan.Anda boleh mengedit di rantau ini.",
+            "FormFieldsOnly": "Dokumen ini dilindungi daripada penyuntingan yang tidak disengajakan. Anda hanya boleh mengisi borang di wilayah ini.",
             "You may format text only with certain styles": "Anda boleh memformat teks hanya dengan gaya tertentu.",
             "Stop Protection": "Hentikan Perlindungan",
             "Password": "Kata laluan",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Isi diaktifkan",
             "Default number": "Nombor lalai",
             "Default date": "Tarikh lalai",
-            "Date format": "Format tarikh"
+            "Date format": "Format tarikh",
+            "Merge Track": "Tindakan ini tidak akan ditandakan sebagai perubahan. Adakah anda mahu meneruskan?",
+            "UnTrack": "Tidak dapat dijejaki",
+            "Accept": "Terima",
+            "Reject": "Tolak",
+            "Previous Changes": "Perubahan Sebelumnya",
+            "Next Changes": "Perubahan Seterusnya",
+            "Inserted": "Dimasukkan",
+            "Deleted": "Dipadamkan",
+            "Changes": "Perubahan",
+            "Accept all": "Terima semua",
+            "Reject all": "Tolak semua",
+            "No changes": "Tiada perubahan",
+            "Accept Changes": "Terima Perubahan",
+            "Reject Changes": "Tolak Perubahan",
+            "User": "Pengguna",
+            "View": "Pandangan"
         },
         "documenteditorcontainer": {
             "New": "Baru",
@@ -2421,7 +2455,8 @@
             "delete": "Padam",
             "cancel": "Batal",
             "yes": "Ya",
-            "no": "Tidak"
+            "no": "Tidak",
+            "close": "Tutup"
         }
     }
 }

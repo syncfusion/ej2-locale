@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Conditional Formatting...",
             "removeCalculatedField": "Are you sure you want to delete this calculated field?",
             "replaceConfirmBefore": "A report named ",
-            "replaceConfirmAfter": " already exists. Do you want to replace it?"
+            "replaceConfirmAfter": " already exists. Do you want to replace it?",
+            "pie": "Pie",
+            "funnel": "Funnel",
+            "doughnut": "Doughnut",
+            "pyramid": "Pyramid",
+            "showLegend": "Show Legend",
+            "exit": "Exit"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Field List",
@@ -451,6 +457,7 @@
             "Permission": "Permission",
             "Ascending": "Ascending",
             "Descending": "Descending",
+            "None": "None",
             "View-LargeIcons": "Large icons",
             "View-Details": "Details",
             "Search": "Search",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Merging cells will only preserve the top-leftmost(Uppermost) value. Merge anyway?",
             "PasteMergeAlert": "We can't do that to a merge cell.",
             "Borders": "Borders",
-            "SelectBorderOption": "Select Border Option",
             "TopBorders": "Top Borders",
             "LeftBorders": "Left Borders",
             "RightBorders": "Right Borders",
@@ -1304,6 +1310,7 @@
             "Retry": "Retry",
             "DialogError": "The list source must be a reference to single row or column.",
             "ValidationError": "This value doesn't match the data validation restrictions defined for the cell.",
+            "ListLengthError": "The list values allows only upto 256 characters",
             "ProtectSheet": "Protect Sheet",
             "UnprotectSheet": "Unprotect Sheet",
             "SelectCells": "Select cells",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Protect the contents of locked cells",
             "ProtectAllowUser": "Allow all users of this worksheet to:",
             "EditAlert": "The cell you're trying to change is protected. To make change, unprotect the sheet.",
-            "ClearValidation": "Clear Validation"
+            "ClearValidation": "Clear Validation",
+            "ISNUMBER": "Returns true when the value parses as a numeric value.",
+            "Round": "Rounds a number to a specified number of digits.",
+            "GEOMEAN": "Returns the geometric mean of an array or range of positive data.",
+            "POWER": "Returns the result of a number raised to power",
+            "LOG": "Returns the logarithm of a number to the base that you specify.",
+            "TRUNC": "Returns the truncated value of a number to a specified number of decimal places.",
+            "EXP": "Returns e raised to the power of the given number.",
+            "SelectBorderOption": "Select Border Option"
         },
         "pdfviewer": {
             "PdfViewer": "PDF Viewer",
@@ -1665,7 +1680,9 @@
             "work": "Work",
             "taskType": "Task Type",
             "unassignedTask": "Unassigned Task",
-            "group": "Group"
+            "group": "Group",
+            "indent": "Indent",
+            "outdent": "Outdent"
         },
         "dropdowns": {
             "noRecordsTemplate": "No Records Found",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Reenter new password to confirm",
             "Your permissions": "Your permissions",
             "Protected Document": "This document is protected from unintentional editing.You may edit in this region.",
+            "FormFieldsOnly": "This document is protected from unintentional editing. You may only fill in forms in this region.",
             "You may format text only with certain styles": "You may format text only with certain styles.",
             "Stop Protection": "Stop Protection",
             "Password": "Password",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Fill-in enabled",
             "Default number": "Default number",
             "Default date": "Default date",
-            "Date format": "Date format"
+            "Date format": "Date format",
+            "Merge Track": "This action wont be marked as change. Do you want to continue?",
+            "UnTrack": "Cannot be tracked",
+            "Accept": "Accept",
+            "Reject": "Reject",
+            "Previous Changes": "Previous Changes",
+            "Next Changes": "Next Changes",
+            "Inserted": "Inserted",
+            "Deleted": "Deleted",
+            "Changes": "Changes",
+            "Accept all": "Accept all",
+            "Reject all": "Reject all",
+            "No changes": "No changes",
+            "Accept Changes": "Accept Changes",
+            "Reject Changes": "Reject Changes",
+            "User": "User",
+            "View": "View"
         },
         "documenteditorcontainer": {
             "New": "New",
@@ -2421,7 +2455,8 @@
             "delete": "Delete",
             "cancel": "Cancel",
             "yes": "Yes",
-            "no": "No"
+            "no": "No",
+            "close": "Close"
         }
     }
 }

@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "条件付き書式...",
             "removeCalculatedField": "この計算フィールドを削除してもよろしいですか？",
             "replaceConfirmBefore": "というレポート",
-            "replaceConfirmAfter": " もう存在している。取り替えたいですか？"
+            "replaceConfirmAfter": " もう存在している。取り替えたいですか？",
+            "pie": "パイ",
+            "funnel": "漏斗",
+            "doughnut": "ドーナツ",
+            "pyramid": "ピラミッド",
+            "showLegend": "凡例を表示",
+            "exit": "出口"
         },
         "pivotfieldlist": {
             "staticFieldList": "ピボットフィールドリスト",
@@ -451,6 +457,7 @@
             "Permission": "許可",
             "Ascending": "上昇",
             "Descending": "降順",
+            "None": "なし",
             "View-LargeIcons": "大きなアイコン",
             "View-Details": "詳細",
             "Search": "探す",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "セルを結合すると、左上（最も上）の値のみが保持されます。とにかくマージしますか？",
             "PasteMergeAlert": "マージセルに対してそれを行うことはできません。",
             "Borders": "国境",
-            "SelectBorderOption": "ボーダーオプションを選択",
             "TopBorders": "トップボーダー",
             "LeftBorders": "左ボーダー",
             "RightBorders": "右ボーダー",
@@ -1304,6 +1310,7 @@
             "Retry": "リトライ",
             "DialogError": "リストソースは、単一の行または列への参照である必要があります。",
             "ValidationError": "この値は、セルに定義されているデータ検証制限と一致しません。",
+            "ListLengthError": "リストの値には、最大256文字まで入力できます",
             "ProtectSheet": "保護シート",
             "UnprotectSheet": "シートの保護を解除",
             "SelectCells": "セルを選択",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "ロックされたセルの内容を保護する",
             "ProtectAllowUser": "このワークシートのすべてのユーザーに次のことを許可します。",
             "EditAlert": "変更しようとしているセルは保護されています。変更するには、シートの保護を解除します。",
-            "ClearValidation": "検証をクリア"
+            "ClearValidation": "検証をクリア",
+            "ISNUMBER": "値が数値として解析される場合はtrueを返します。",
+            "Round": "数値を指定された桁数に丸めます。",
+            "GEOMEAN": "正のデータの配列または範囲の相乗平均を返します。",
+            "POWER": "数値を累乗した結果を返します",
+            "LOG": "数値の対数を、指定した底に戻します。",
+            "TRUNC": "数値の切り捨てられた値を、指定された小数点以下の桁数に戻します。",
+            "EXP": "eを指定された数値で累乗して返します。",
+            "SelectBorderOption": "ボーダーオプションを選択"
         },
         "pdfviewer": {
             "PdfViewer": "PDFビューアー",
@@ -1665,7 +1680,9 @@
             "work": "作業",
             "taskType": "タスクの種類",
             "unassignedTask": "割り当てられていないタスク",
-            "group": "グループ"
+            "group": "グループ",
+            "indent": "インデント",
+            "outdent": "アウトデント"
         },
         "dropdowns": {
             "noRecordsTemplate": "レコードが見つかりません",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "確認のために新しいパスワードを再入力してください",
             "Your permissions": "あなたの許可",
             "Protected Document": "このドキュメントは意図しない編集から保護されています。この地域で編集できます。",
+            "FormFieldsOnly": "このドキュメントは、意図しない編集から保護されています。この地域のフォームにのみ入力できます。",
             "You may format text only with certain styles": "特定のスタイルでのみテキストをフォーマットできます。",
             "Stop Protection": "保護を停止",
             "Password": "パスワード",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "フィルインが有効",
             "Default number": "デフォルト番号",
             "Default date": "デフォルトの日付",
-            "Date format": "日付形式"
+            "Date format": "日付形式",
+            "Merge Track": "このアクションは変更としてマークされません。続けたいですか？",
+            "UnTrack": "追跡できません",
+            "Accept": "受け入れる",
+            "Reject": "拒否する",
+            "Previous Changes": "以前の変更",
+            "Next Changes": "次の変更",
+            "Inserted": "挿入",
+            "Deleted": "削除しました",
+            "Changes": "変化",
+            "Accept all": "すべてを受け入れる",
+            "Reject all": "すべて拒否",
+            "No changes": "変更なし",
+            "Accept Changes": "変更を受け入れる",
+            "Reject Changes": "変更を拒否",
+            "User": "ユーザー",
+            "View": "見る"
         },
         "documenteditorcontainer": {
             "New": "新着",
@@ -2421,7 +2455,8 @@
             "delete": "削除する",
             "cancel": "キャンセル",
             "yes": "はい",
-            "no": "番号"
+            "no": "番号",
+            "close": "閉じる"
         }
     }
 }

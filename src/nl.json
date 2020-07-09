@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Conditionele opmaak...",
             "removeCalculatedField": "Weet u zeker dat u dit berekende veld wilt verwijderen?",
             "replaceConfirmBefore": "Een rapport met de naam",
-            "replaceConfirmAfter": " bestaat al. Wil je het vervangen?"
+            "replaceConfirmAfter": " bestaat al. Wil je het vervangen?",
+            "pie": "Taart",
+            "funnel": "Trechter",
+            "doughnut": "Donut",
+            "pyramid": "Piramide",
+            "showLegend": "Legenda tonen",
+            "exit": "Uitgang"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lijst met draaivelden",
@@ -451,6 +457,7 @@
             "Permission": "Toestemming",
             "Ascending": "Oplopend",
             "Descending": "Aflopend",
+            "None": "Geen",
             "View-LargeIcons": "Grote iconen",
             "View-Details": "Details",
             "Search": "Zoeken",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Door cellen samen te voegen, wordt alleen de waarde linksboven (bovenste) behouden. Toch samenvoegen?",
             "PasteMergeAlert": "We kunnen dat niet doen bij een samenvoegcel.",
             "Borders": "Grenzen",
-            "SelectBorderOption": "Selecteer Randoptie",
             "TopBorders": "Bovengrenzen",
             "LeftBorders": "Linker grenzen",
             "RightBorders": "Rechtergrenzen",
@@ -1304,6 +1310,7 @@
             "Retry": "Opnieuw proberen",
             "DialogError": "De lijstbron moet een verwijzing zijn naar een enkele rij of kolom.",
             "ValidationError": "Deze waarde komt niet overeen met de gegevensvalidatiebeperkingen die voor de cel zijn gedefinieerd.",
+            "ListLengthError": "De lijstwaarden staan ​​maximaal 256 tekens toe",
             "ProtectSheet": "Bescherm blad",
             "UnprotectSheet": "Maak de beveiliging van het blad ongedaan",
             "SelectCells": "Selecteer cellen",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Bescherm de inhoud van vergrendelde cellen",
             "ProtectAllowUser": "Sta alle gebruikers van dit werkblad toe om:",
             "EditAlert": "De cel die u probeert te wijzigen, is beveiligd. Maak de beveiliging van het blad ongedaan om wijzigingen aan te brengen.",
-            "ClearValidation": "Duidelijke validatie"
+            "ClearValidation": "Duidelijke validatie",
+            "ISNUMBER": "Retourneert true wanneer de waarde wordt geparseerd als een numerieke waarde.",
+            "Round": "Rondt een getal af op een opgegeven aantal cijfers.",
+            "GEOMEAN": "Retourneert het geometrische gemiddelde van een matrix of bereik van positieve gegevens.",
+            "POWER": "Retourneert het resultaat van een aan de macht verhoogd getal",
+            "LOG": "Retourneert de logaritme van een getal naar de basis die u opgeeft.",
+            "TRUNC": "Retourneert de afgekapte waarde van een getal tot een opgegeven aantal decimalen.",
+            "EXP": "Geeft e terug tot de macht van het gegeven getal.",
+            "SelectBorderOption": "Selecteer Randoptie"
         },
         "pdfviewer": {
             "PdfViewer": "PDF-viewer",
@@ -1665,7 +1680,9 @@
             "work": "Werk",
             "taskType": "Taaktype",
             "unassignedTask": "Niet-toegewezen taak",
-            "group": "Groep"
+            "group": "Groep",
+            "indent": "Inspringen",
+            "outdent": "Outdent"
         },
         "dropdowns": {
             "noRecordsTemplate": "Geen verslagen gevonden",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Voer het nieuwe wachtwoord opnieuw in om te bevestigen",
             "Your permissions": "Uw rechten",
             "Protected Document": "Dit document is beschermd tegen onbedoelde bewerking. U kunt bewerken in deze regio.",
+            "FormFieldsOnly": "Dit document is beschermd tegen onbedoelde bewerking. Alleen in deze regio mag u formulieren invullen.",
             "You may format text only with certain styles": "U kunt tekst alleen met bepaalde stijlen opmaken.",
             "Stop Protection": "Stop bescherming",
             "Password": "Wachtwoord",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Invullen ingeschakeld",
             "Default number": "Standaard nummer",
             "Default date": "Standaarddatum",
-            "Date format": "Datumnotatie"
+            "Date format": "Datumnotatie",
+            "Merge Track": "Deze actie wordt niet gemarkeerd als wijziging. Wil je doorgaan?",
+            "UnTrack": "Kan niet worden gevolgd",
+            "Accept": "Aanvaarden",
+            "Reject": "Weigeren",
+            "Previous Changes": "Eerdere wijzigingen",
+            "Next Changes": "Volgende wijzigingen",
+            "Inserted": "Ingevoegd",
+            "Deleted": "Verwijderd",
+            "Changes": "Veranderingen",
+            "Accept all": "Accepteer alles",
+            "Reject all": "Alles afwijzen",
+            "No changes": "Geen veranderingen",
+            "Accept Changes": "Accepteer wijzigingen",
+            "Reject Changes": "Wijzigingen afwijzen",
+            "User": "Gebruiker",
+            "View": "Visie"
         },
         "documenteditorcontainer": {
             "New": "Nieuw",
@@ -2421,7 +2455,8 @@
             "delete": "Verwijderen",
             "cancel": "Annuleren",
             "yes": "Ja",
-            "no": "Nee"
+            "no": "Nee",
+            "close": "Dichtbij"
         }
     }
 }

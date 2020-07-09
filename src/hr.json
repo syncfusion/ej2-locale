@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Uvjetno oblikovanje ...",
             "removeCalculatedField": "Jeste li sigurni da želite izbrisati ovo izračunato polje?",
             "replaceConfirmBefore": "Izvješće pod nazivom",
-            "replaceConfirmAfter": " već postoji. Želiš li to zamijeniti?"
+            "replaceConfirmAfter": " već postoji. Želiš li to zamijeniti?",
+            "pie": "Pita",
+            "funnel": "Dimnjak",
+            "doughnut": "Krafna",
+            "pyramid": "Piramida",
+            "showLegend": "Prikaži legendu",
+            "exit": "Izlaz"
         },
         "pivotfieldlist": {
             "staticFieldList": "Popis okretnih polja",
@@ -451,6 +457,7 @@
             "Permission": "Dopuštenje",
             "Ascending": "Uzlazni",
             "Descending": "Silazni",
+            "None": "nijedan",
             "View-LargeIcons": "Velike ikone",
             "View-Details": "Detalji",
             "Search": "traži",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Spajanje ćelija sačuvat će samo gornju lijevu (gornju) vrijednost. Spajanje uopće?",
             "PasteMergeAlert": "To ne možemo učiniti sa stanicom za spajanje.",
             "Borders": "granice",
-            "SelectBorderOption": "Odaberite Ograničena opcija",
             "TopBorders": "Vrhunske granice",
             "LeftBorders": "Lijeva granica",
             "RightBorders": "Prave granice",
@@ -1304,6 +1310,7 @@
             "Retry": "Ponoviti",
             "DialogError": "Izvor popisa mora biti referenca na jedan red ili stupac.",
             "ValidationError": "Ova vrijednost ne odgovara ograničenjima provjere valjanosti podataka definiranim za ćeliju.",
+            "ListLengthError": "Popisne vrijednosti dopuštaju samo do 256 znakova",
             "ProtectSheet": "Zaštitni list",
             "UnprotectSheet": "Nezaštićeni list",
             "SelectCells": "Odaberite ćelije",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Zaštitite sadržaj zaključanih ćelija",
             "ProtectAllowUser": "Dopustite svim korisnicima ovog radnog lista da:",
             "EditAlert": "Ćelija koju pokušavate promijeniti je zaštićena. Da biste napravili promjene, uklonite zaštitu lista.",
-            "ClearValidation": "Jasna provjera valjanosti"
+            "ClearValidation": "Jasna provjera valjanosti",
+            "ISNUMBER": "Vraća true kad se vrijednost parira kao brojčana vrijednost.",
+            "Round": "Zaokružuje broj na zadani broj znamenki.",
+            "GEOMEAN": "Vraća geometrijsku sredinu matrice ili raspona pozitivnih podataka.",
+            "POWER": "Vraća rezultat broja podignutog na snagu",
+            "LOG": "Vraća logaritam broja na bazu koju ste odredili.",
+            "TRUNC": "Vraća skraćenu vrijednost broja na određeni broj decimalnih mjesta.",
+            "EXP": "Vraća e podignute na snagu zadanog broja.",
+            "SelectBorderOption": "Odaberite Ograničena opcija"
         },
         "pdfviewer": {
             "PdfViewer": "Preglednik PDF-a",
@@ -1665,7 +1680,9 @@
             "work": "Raditi",
             "taskType": "Vrsta zadatka",
             "unassignedTask": "Neodređeni zadatak",
-            "group": "Skupina"
+            "group": "Skupina",
+            "indent": "uvući",
+            "outdent": "Izvuci"
         },
         "dropdowns": {
             "noRecordsTemplate": "Nije pronađen niti jedan zapis",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Ponovno unesite novu lozinku za potvrdu",
             "Your permissions": "Vaša dopuštenja",
             "Protected Document": "Ovaj je dokument zaštićen od nenamjernog uređivanja. Možete uređivati ​​u ovoj regiji.",
+            "FormFieldsOnly": "Ovaj je dokument zaštićen od nenamjernog uređivanja. U ovoj regiji možete ispuniti samo obrasce.",
             "You may format text only with certain styles": "Tekst možete oblikovati samo s određenim stilovima.",
             "Stop Protection": "Zaustavljanje zaštite",
             "Password": "Zaporka",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Dopuna je omogućena",
             "Default number": "Zadani broj",
             "Default date": "Zadani datum",
-            "Date format": "Oblik datuma"
+            "Date format": "Oblik datuma",
+            "Merge Track": "Ova akcija neće biti označena kao promjena. Želite li nastaviti?",
+            "UnTrack": "Nije moguće pratiti",
+            "Accept": "Prihvatiti",
+            "Reject": "Odbiti",
+            "Previous Changes": "Prethodne promjene",
+            "Next Changes": "Sljedeće promjene",
+            "Inserted": "umetnuta",
+            "Deleted": "Izbrisani",
+            "Changes": "promjene",
+            "Accept all": "Prihvatiti sve",
+            "Reject all": "Odbacite sve",
+            "No changes": "Nema promjena",
+            "Accept Changes": "Prihvatite promjene",
+            "Reject Changes": "Odbaci promjene",
+            "User": "Korisnik",
+            "View": "Pogled"
         },
         "documenteditorcontainer": {
             "New": "Novi",
@@ -2421,7 +2455,8 @@
             "delete": "Izbrisati",
             "cancel": "Otkazati",
             "yes": "Da",
-            "no": "Ne"
+            "no": "Ne",
+            "close": "Zatvoriti"
         }
     }
 }
