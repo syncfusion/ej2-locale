@@ -19,6 +19,7 @@ Locale translations for Essential JS 2 components in multiple languages.
 | hr      | Croatian - Croatia             |
 | hu     | Hungarian - Hungary    
 | id           | Indonesian
+| is     |Icelandic - Iceland             |
 | it     | Italian - Italy                |
 | ja     | Japanese - Japan               |
 | ko     | Korean - Korea                 |
