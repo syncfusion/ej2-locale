@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Betinget formatering...",
             "removeCalculatedField": "Er du sikker på at du vil slette dette kalkulerte feltet?",
             "replaceConfirmBefore": "En rapport kalt",
-            "replaceConfirmAfter": " eksisterer allerede. Vil du erstatte den?"
+            "replaceConfirmAfter": " eksisterer allerede. Vil du erstatte den?",
+            "pie": "Pai",
+            "funnel": "Trakt",
+            "doughnut": "smultring",
+            "pyramid": "Pyramide",
+            "showLegend": "Vis legende",
+            "exit": "Exit"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot feltliste",
@@ -451,6 +457,7 @@
             "Permission": "Tillatelse",
             "Ascending": "stigende",
             "Descending": "synkende",
+            "None": "Ingen",
             "View-LargeIcons": "Store ikoner",
             "View-Details": "detaljer",
             "Search": "Søk",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Sammenslåing av celler vil bare bevare verdien øverst til venstre (Uppermost). Slå sammen?",
             "PasteMergeAlert": "Vi kan ikke gjøre det til en sammenslåingscelle.",
             "Borders": "Borders",
-            "SelectBorderOption": "Velg grensealternativ",
             "TopBorders": "Topp grenser",
             "LeftBorders": "Venstre grenser",
             "RightBorders": "Høyre grenser",
@@ -1304,6 +1310,7 @@
             "Retry": "Prøv på nytt",
             "DialogError": "Listekilden må være en referanse til enkel rad eller kolonne.",
             "ValidationError": "Denne verdien samsvarer ikke med datavalideringsbegrensningene som er definert for cellen.",
+            "ListLengthError": "Listeverdiene tillater bare opptil 256 tegn",
             "ProtectSheet": "Beskytt ark",
             "UnprotectSheet": "Fjern beskyttelsesark",
             "SelectCells": "Velg celler",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Beskytt innholdet i låste celler",
             "ProtectAllowUser": "Tillat alle brukere av dette regnearket å:",
             "EditAlert": "Cellen du prøver å endre er beskyttet. For å gjøre endringer, fjern beskyttelsen av arket.",
-            "ClearValidation": "Tydelig validering"
+            "ClearValidation": "Tydelig validering",
+            "ISNUMBER": "Returnerer true når verdien parses som en numerisk verdi.",
+            "Round": "Runder et tall til et spesifisert antall sifre.",
+            "GEOMEAN": "Returnerer det geometriske gjennomsnittet av en gruppe eller positive positive data.",
+            "POWER": "Returnerer resultatet av et antall hevet til makten",
+            "LOG": "Returnerer logaritmen til et nummer til basen du angir.",
+            "TRUNC": "Returnerer den avkortede verdien til et tall til et spesifisert antall desimaler.",
+            "EXP": "Returnerer e hevet til kraften til det gitte tallet.",
+            "SelectBorderOption": "Velg grensealternativ"
         },
         "pdfviewer": {
             "PdfViewer": "PDF-visning",
@@ -1665,7 +1680,9 @@
             "work": "Arbeid",
             "taskType": "Oppgavetype",
             "unassignedTask": "Ikke tilordnet oppgave",
-            "group": "Gruppe"
+            "group": "Gruppe",
+            "indent": "innrykk",
+            "outdent": "Reduser innrykk"
         },
         "dropdowns": {
             "noRecordsTemplate": "Ingen opptak funnet",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Legg inn nytt passord for å bekrefte",
             "Your permissions": "Tillatelsene dine",
             "Protected Document": "Dette dokumentet er beskyttet mot utilsiktet redigering. Du kan redigere i denne regionen.",
+            "FormFieldsOnly": "Dette dokumentet er beskyttet mot utilsiktet redigering. Du kan bare fylle ut skjemaer i denne regionen.",
             "You may format text only with certain styles": "Du kan bare formatere tekst med bestemte stiler.",
             "Stop Protection": "Stopp beskyttelse",
             "Password": "Passord",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Fyll ut aktivert",
             "Default number": "Standardnummer",
             "Default date": "Standard dato",
-            "Date format": "Datoformat"
+            "Date format": "Datoformat",
+            "Merge Track": "Denne handlingen vil ikke bli markert som endring. Vil du fortsette?",
+            "UnTrack": "Kan ikke spores",
+            "Accept": "Aksepterer",
+            "Reject": "Avvis",
+            "Previous Changes": "Tidligere endringer",
+            "Next Changes": "Neste endringer",
+            "Inserted": "innsatt",
+            "Deleted": "Slettet",
+            "Changes": "Endringer",
+            "Accept all": "Aksepter alt",
+            "Reject all": "Avvis alle",
+            "No changes": "Ingen forandringer",
+            "Accept Changes": "Godta endringer",
+            "Reject Changes": "Avvis endringer",
+            "User": "Bruker",
+            "View": "Utsikt"
         },
         "documenteditorcontainer": {
             "New": "Ny",
@@ -2421,7 +2455,8 @@
             "delete": "Slett",
             "cancel": "Avbryt",
             "yes": "Ja",
-            "no": "Nei"
+            "no": "Nei",
+            "close": "Lukk"
         }
     }
 }

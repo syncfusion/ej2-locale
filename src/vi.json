@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Định dạng có điều kiện ...",
             "removeCalculatedField": "Bạn có chắc chắn muốn xóa trường được tính toán này?",
             "replaceConfirmBefore": "Một báo cáo có tên",
-            "replaceConfirmAfter": " đã tồn tại. Bạn có muốn thay thế nó?"
+            "replaceConfirmAfter": " đã tồn tại. Bạn có muốn thay thế nó?",
+            "pie": "Bánh",
+            "funnel": "Ống khói",
+            "doughnut": "Bánh vòng",
+            "pyramid": "Kim tự tháp",
+            "showLegend": "Hiện huyền thoại",
+            "exit": "Lối ra"
         },
         "pivotfieldlist": {
             "staticFieldList": "Danh sách trường Pivot",
@@ -451,6 +457,7 @@
             "Permission": "Giấy phép",
             "Ascending": "Tăng dần",
             "Descending": "Giảm dần",
+            "None": "không ai",
             "View-LargeIcons": "Các biểu tượng lớn",
             "View-Details": "Chi tiết",
             "Search": "Tìm kiếm",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Các ô được hợp nhất sẽ chỉ bảo toàn giá trị trên cùng bên trái (Uppermost). Hợp nhất nào?",
             "PasteMergeAlert": "Chúng ta không thể làm điều đó với một ô hợp nhất.",
             "Borders": "Biên giới",
-            "SelectBorderOption": "Chọn tùy chọn viền",
             "TopBorders": "Biên giới hàng đầu",
             "LeftBorders": "Biên giới trái",
             "RightBorders": "Biên giới phải",
@@ -1304,6 +1310,7 @@
             "Retry": "Thử lại",
             "DialogError": "Nguồn danh sách phải là một tham chiếu đến một hàng hoặc cột đơn.",
             "ValidationError": "Giá trị này không khớp với các hạn chế xác thực dữ liệu được xác định cho ô.",
+            "ListLengthError": "Các giá trị danh sách chỉ cho phép tối đa 256 ký tự",
             "ProtectSheet": "Tấm bảo vệ",
             "UnprotectSheet": "Tấm không bảo vệ",
             "SelectCells": "Chọn các ô",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Bảo vệ nội dung của các tế bào bị khóa",
             "ProtectAllowUser": "Cho phép tất cả người dùng của bảng tính này:",
             "EditAlert": "Các tế bào bạn đang cố gắng thay đổi được bảo vệ. Để thực hiện thay đổi, bỏ bảo vệ trang tính.",
-            "ClearValidation": "Xác thực rõ ràng"
+            "ClearValidation": "Xác thực rõ ràng",
+            "ISNUMBER": "Trả về true khi giá trị phân tích dưới dạng giá trị số.",
+            "Round": "Làm tròn một số đến một số chữ số xác định.",
+            "GEOMEAN": "Trả về giá trị trung bình hình học của một mảng hoặc phạm vi dữ liệu dương.",
+            "POWER": "Trả về kết quả của một số được tăng sức mạnh",
+            "LOG": "Trả về logarit của một số cho cơ sở mà bạn chỉ định.",
+            "TRUNC": "Trả về giá trị rút gọn của một số cho một số vị trí thập phân được chỉ định.",
+            "EXP": "Trả về e tăng lên sức mạnh của số đã cho.",
+            "SelectBorderOption": "Chọn tùy chọn viền"
         },
         "pdfviewer": {
             "PdfViewer": "﻿Trình xem PDF",
@@ -1665,7 +1680,9 @@
             "work": "Công việc",
             "taskType": "Loại nhiệm vụ",
             "unassignedTask": "Nhiệm vụ chưa được giao",
-            "group": "Nhóm"
+            "group": "Nhóm",
+            "indent": "Thụt lề",
+            "outdent": "Hết hạn"
         },
         "dropdowns": {
             "noRecordsTemplate": "Không có dữ liệu được tìm thấy",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Nhập lại mật khẩu mới để xác nhận",
             "Your permissions": "Quyền của bạn",
             "Protected Document": "Tài liệu này được bảo vệ khỏi chỉnh sửa không chủ ý. Bạn có thể chỉnh sửa trong khu vực này.",
+            "FormFieldsOnly": "Tài liệu này được bảo vệ khỏi chỉnh sửa không chủ ý. Bạn chỉ có thể điền vào các hình thức trong khu vực này.",
             "You may format text only with certain styles": "Bạn chỉ có thể định dạng văn bản với các kiểu nhất định.",
             "Stop Protection": "Ngừng bảo vệ",
             "Password": "Mật khẩu",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Kích hoạt điền",
             "Default number": "Số mặc định",
             "Default date": "Ngày mặc định",
-            "Date format": "Định dạng ngày tháng"
+            "Date format": "Định dạng ngày tháng",
+            "Merge Track": "Hành động này sẽ không được đánh dấu là thay đổi. Bạn có muốn tiếp tục?",
+            "UnTrack": "Không thể theo dõi",
+            "Accept": "Chấp nhận",
+            "Reject": "Từ chối",
+            "Previous Changes": "Thay đổi trước đó",
+            "Next Changes": "Thay đổi tiếp theo",
+            "Inserted": "Đã chèn",
+            "Deleted": "Đã xóa",
+            "Changes": "Thay đổi",
+            "Accept all": "Chấp nhận tất cả",
+            "Reject all": "Từ chối tất cả",
+            "No changes": "Không thay đổi",
+            "Accept Changes": "Chấp nhận thay đổi",
+            "Reject Changes": "Từ chối thay đổi",
+            "User": "Người sử dụng",
+            "View": "Lượt xem"
         },
         "documenteditorcontainer": {
             "New": "Mới",
@@ -2421,7 +2455,8 @@
             "delete": "Xóa bỏ",
             "cancel": "Hủy bỏ",
             "yes": "Đúng",
-            "no": "Không"
+            "no": "Không",
+            "close": "Đóng"
         }
     }
 }

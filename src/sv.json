@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Villkorlig formatering...",
             "removeCalculatedField": "Är du säker på att du vill ta bort det beräknade fältet?",
             "replaceConfirmBefore": "En rapport med namnet",
-            "replaceConfirmAfter": " existerar redan. Vill du byta ut det?"
+            "replaceConfirmAfter": " existerar redan. Vill du byta ut det?",
+            "pie": "Paj",
+            "funnel": "Tratt",
+            "doughnut": "Munk",
+            "pyramid": "Pyramid",
+            "showLegend": "Visa legenden",
+            "exit": "Utgång"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Field List",
@@ -451,6 +457,7 @@
             "Permission": "Lov",
             "Ascending": "Stigande",
             "Descending": "Nedåtgående",
+            "None": "Ingen",
             "View-LargeIcons": "Stora ikoner",
             "View-Details": "detaljer",
             "Search": "Sök",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Sammanfogning av celler bevarar endast värdet uppe till vänster (Uppermost). Slå ihop ändå?",
             "PasteMergeAlert": "Vi kan inte göra det till en sammanslagningscell.",
             "Borders": "Gränser",
-            "SelectBorderOption": "Välj gränsalternativ",
             "TopBorders": "Övre gränser",
             "LeftBorders": "Vänster gränser",
             "RightBorders": "Höger gränser",
@@ -1304,6 +1310,7 @@
             "Retry": "Försök igen",
             "DialogError": "Listkällan måste vara en referens till en rad eller kolumn.",
             "ValidationError": "Detta värde stämmer inte med de datavalideringsbegränsningar som har definierats för cellen.",
+            "ListLengthError": "Listvärdena möjliggör endast upp till 256 tecken",
             "ProtectSheet": "Skydda blad",
             "UnprotectSheet": "Ta bort skyddet",
             "SelectCells": "Välj celler",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Skydda innehållet i låsta celler",
             "ProtectAllowUser": "Låt alla användare av det här kalkylbladet:",
             "EditAlert": "Cellen du försöker byta är skyddad. För att göra ändringar, avskydda arket.",
-            "ClearValidation": "Tydlig validering"
+            "ClearValidation": "Tydlig validering",
+            "ISNUMBER": "Returnerar sant när värdet parsar som ett numeriskt värde.",
+            "Round": "Rundar ett nummer till ett specificerat antal siffror.",
+            "GEOMEAN": "Returnerar det geometriska medelvärdet för en grupp eller positiva data.",
+            "POWER": "Returnerar resultatet av ett nummer som höjs till makten",
+            "LOG": "Returnerar logaritmen för ett nummer till basen som du anger.",
+            "TRUNC": "Returnerar det avkortade värdet för ett nummer till ett specificerat antal decimaler.",
+            "EXP": "Återgår till höjt till kraften i det givna numret.",
+            "SelectBorderOption": "Välj gränsalternativ"
         },
         "pdfviewer": {
             "PdfViewer": "﻿PDF-visare",
@@ -1665,7 +1680,9 @@
             "work": "Arbete",
             "taskType": "Uppgiftstyp",
             "unassignedTask": "Otilldelad uppgift",
-            "group": "Grupp"
+            "group": "Grupp",
+            "indent": "Indrag",
+            "outdent": "Minska indrag"
         },
         "dropdowns": {
             "noRecordsTemplate": "Inga uppgifter funna",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Ange nytt lösenord för att bekräfta",
             "Your permissions": "Dina behörigheter",
             "Protected Document": "Detta dokument är skyddat från oavsiktlig redigering. Du kan redigera i den här regionen.",
+            "FormFieldsOnly": "Detta dokument är skyddat från oavsiktlig redigering. Du får bara fylla i formulär i den här regionen.",
             "You may format text only with certain styles": "Du kan bara formatera text med vissa stilar.",
             "Stop Protection": "Stoppa skyddet",
             "Password": "Lösenord",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Fyll i aktiverat",
             "Default number": "Standardnummer",
             "Default date": "Standarddatum",
-            "Date format": "Datumformat"
+            "Date format": "Datumformat",
+            "Merge Track": "Denna åtgärd kommer inte att markeras som förändring. Vill du fortsätta?",
+            "UnTrack": "Det går inte att spåra",
+            "Accept": "Acceptera",
+            "Reject": "Avvisa",
+            "Previous Changes": "Tidigare ändringar",
+            "Next Changes": "Nästa ändringar",
+            "Inserted": "insatt",
+            "Deleted": "raderade",
+            "Changes": "Ändringar",
+            "Accept all": "Acceptera alla",
+            "Reject all": "Avvisa allt",
+            "No changes": "Inga förändringar",
+            "Accept Changes": "Acceptera ändringar",
+            "Reject Changes": "Avvisa ändringar",
+            "User": "Användare",
+            "View": "Se"
         },
         "documenteditorcontainer": {
             "New": "Ny",
@@ -2421,7 +2455,8 @@
             "delete": "Radera",
             "cancel": "Avbryt",
             "yes": "Ja",
-            "no": "Nej"
+            "no": "Nej",
+            "close": "Stänga"
         }
     }
 }

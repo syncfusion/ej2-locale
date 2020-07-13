@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Mise en forme conditionnelle...",
             "removeCalculatedField": "Voulez-vous vraiment supprimer ce champ calculé ?",
             "replaceConfirmBefore": "Un rapport nommé",
-            "replaceConfirmAfter": " existe déjà. Voulez-vous le remplacer ?"
+            "replaceConfirmAfter": " existe déjà. Voulez-vous le remplacer ?",
+            "pie": "Tarte",
+            "funnel": "Entonnoir",
+            "doughnut": "Donut",
+            "pyramid": "Pyramide",
+            "showLegend": "Afficher la légende",
+            "exit": "Sortie"
         },
         "pivotfieldlist": {
             "staticFieldList": "Liste des champs de pivot",
@@ -451,6 +457,7 @@
             "Permission": "Autorisation",
             "Ascending": "Ascendant",
             "Descending": "Descendant",
+            "None": "Aucun",
             "View-LargeIcons": "Grandes icônes",
             "View-Details": "Détails",
             "Search": "Chercher",
@@ -719,7 +726,7 @@
             "Table": "Table",
             "Row": "Rangée",
             "Cell": "Cellule",
-            "ok": "Valider",
+            "Ok": "D'accord",
             "Cancel": "Annuler",
             "Size": "Taille",
             "Preferred Width": "Largeur préférée",
@@ -922,7 +929,8 @@
             "New": "Nouveau",
             "Bullets": "Balles",
             "Use bookmarks": "Utiliser des signets",
-            "Table of Contents": "Table des matières"
+            "Table of Contents": "Table des matières",
+            "ok": "Valider"
         },
         "barcode": {},
         "datamatrix": {},
@@ -1101,7 +1109,6 @@
             "MergeCellsAlert": "La fusion de cellules ne conservera que la valeur en haut à gauche (la plus haute). Fusionner quand même ?",
             "PasteMergeAlert": "Nous ne pouvons pas faire cela à une cellule de fusion.",
             "Borders": "Les frontières",
-            "SelectBorderOption": "Sélectionnez l'option de bordure",
             "TopBorders": "Frontières supérieures",
             "LeftBorders": "Frontières gauches",
             "RightBorders": "Frontières droites",
@@ -1174,7 +1181,7 @@
             "DeleteRows": "Supprimer des lignes",
             "DeleteColumn": "Supprimer la colonne",
             "DeleteColumns": "Supprimer les colonnes",
-            "ok": "Valider",
+            "Ok": "D'accord",
             "Close": "Fermer",
             "Cancel": "Annuler",
             "Apply": "Appliquer",
@@ -1304,6 +1311,7 @@
             "Retry": "Réessayez",
             "DialogError": "La source de la liste doit être une référence à une seule ligne ou colonne.",
             "ValidationError": "Cette valeur ne correspond pas aux restrictions de validation des données définies pour la cellule.",
+            "ListLengthError": "Les valeurs de la liste ne permettent que jusqu'à 256 caractères",
             "ProtectSheet": "Feuille de protection",
             "UnprotectSheet": "Déprotéger la feuille",
             "SelectCells": "Sélectionnez les cellules",
@@ -1314,7 +1322,16 @@
             "ProtectContent": "Protéger le contenu des cellules verrouillées",
             "ProtectAllowUser": "Autorisez tous les utilisateurs de cette feuille de calcul à:",
             "EditAlert": "La cellule que vous essayez de changer est protégée. Pour apporter des modifications, déprotégez la feuille.",
-            "ClearValidation": "Validation claire"
+            "ClearValidation": "Validation claire",
+            "ISNUMBER": "Renvoie true lorsque la valeur est analysée en tant que valeur numérique.",
+            "Round": "Arrondit un nombre à un nombre spécifié de chiffres.",
+            "GEOMEAN": "Renvoie la moyenne géométrique d'un tableau ou d'une plage de données positives.",
+            "POWER": "Renvoie le résultat d'un nombre élevé à la puissance",
+            "LOG": "Renvoie le logarithme d'un nombre à la base que vous spécifiez.",
+            "TRUNC": "Renvoie la valeur tronquée d'un nombre à un nombre spécifié de décimales.",
+            "EXP": "Renvoie e élevé à la puissance du nombre donné.",
+            "SelectBorderOption": "Sélectionnez l'option de bordure",
+            "ok": "Valider"
         },
         "pdfviewer": {
             "PdfViewer": "Visionneuse PDF",
@@ -1330,7 +1347,7 @@
             "Go To First Page": "Afficher la première page",
             "Invalid Password": "Mot de passe incorrect. Veuillez réessayer.",
             "Next Page": "Afficher la page suivante",
-            "ok": "Valider",
+            "OK": "D'accord",
             "Open": "Fichier ouvert",
             "Page Number": "Numéro de page actuel",
             "Previous Page": "Afficher la page précédente",
@@ -1418,7 +1435,8 @@
             "Calibrate Perimeter": "Calibrer le périmètre",
             "Calibrate Area": "Étalonner la zone",
             "Calibrate Radius": "Calibrer le rayon",
-            "Calibrate Volume": "Calibrer le volume"
+            "Calibrate Volume": "Calibrer le volume",
+            "ok": "Valider"
         },
         "querybuilder": {
             "StartsWith": "Commence avec",
@@ -1660,12 +1678,14 @@
             "leftTaskLabel": "Étiquette de tâche gauche",
             "rightTaskLabel": "Étiquette de tâche droite",
             "timelineCell": "Cellule de chronologie",
-             "confirmPredecessorDelete": "Voulez-vous vraiment supprimer le lien de dépendance ?",
+            "confirmPredecessorDelete": "Voulez-vous vraiment supprimer le lien de dépendance ?",
             "unit": "Unité",
             "work": "Travail",
             "taskType": "Type de tâche",
             "unassignedTask": "Tâche non affectée",
-            "group": "Groupe"
+            "group": "Groupe",
+            "indent": "Retrait",
+            "outdent": "Outdent"
         },
         "dropdowns": {
             "noRecordsTemplate": "Aucun enregistrement trouvé",
@@ -1844,7 +1864,7 @@
             "Go To First Page": "Afficher la première page",
             "Invalid Password": "Mot de passe incorrect. Veuillez réessayer.",
             "Next Page": "Afficher la page suivante",
-            "ok": "Valider",
+            "OK": "D'accord",
             "Open": "Fichier ouvert",
             "Page Number": "Numéro de page actuel",
             "Previous Page": "Afficher la page précédente",
@@ -1932,13 +1952,14 @@
             "Calibrate Perimeter": "Calibrer le périmètre",
             "Calibrate Area": "Étalonner la zone",
             "Calibrate Radius": "Calibrer le rayon",
-            "Calibrate Volume": "Calibrer le volume"
+            "Calibrate Volume": "Calibrer le volume",
+            "ok": "Valider"
         },
         "documenteditor": {
             "Table": "Table",
             "Row": "Rangée",
             "Cell": "Cellule",
-            "ok": "Valider",
+            "Ok": "D'accord",
             "Cancel": "Annuler",
             "Size": "Taille",
             "Preferred Width": "Largeur préférée",
@@ -2194,6 +2215,7 @@
             "Reenter new password to confirm": "Entrez à nouveau le nouveau mot de passe pour confirmer",
             "Your permissions": "Vos autorisations",
             "Protected Document": "Ce document est protégé contre toute modification involontaire. Vous pouvez le modifier dans cette région.",
+            "FormFieldsOnly": "Ce document est protégé contre toute modification involontaire. Vous ne pouvez remplir des formulaires que dans cette région.",
             "You may format text only with certain styles": "Vous ne pouvez formater le texte qu'avec certains styles.",
             "Stop Protection": "Arrêter la protection",
             "Password": "Mot de passe",
@@ -2257,7 +2279,24 @@
             "Fill-in enabled": "Remplissage activé",
             "Default number": "Numéro par défaut",
             "Default date": "Date par défaut",
-            "Date format": "Format de date"
+            "Date format": "Format de date",
+            "Merge Track": "This action wont be marked as change. Do you want to continue?",
+            "UnTrack": "Cannot be tracked",
+            "Accept": "Accept",
+            "Reject": "Reject",
+            "Previous Changes": "Previous Changes",
+            "Next Changes": "Next Changes",
+            "Inserted": "Inserted",
+            "Deleted": "Deleted",
+            "Changes": "Changes",
+            "Accept all": "Accept all",
+            "Reject all": "Reject all",
+            "No changes": "No changes",
+            "Accept Changes": "Accept Changes",
+            "Reject Changes": "Reject Changes",
+            "User": "Utilisateur",
+            "View": "Vue",
+            "ok": "Valider"
         },
         "documenteditorcontainer": {
             "New": "Nouveau",
@@ -2421,7 +2460,8 @@
             "delete": "Supprimer",
             "cancel": "Annuler",
             "yes": "Oui",
-            "no": "Non"
+            "no": "Non",
+            "close": "Fermer"
         }
     }
 }

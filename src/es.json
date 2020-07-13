@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Formato condicional...",
             "removeCalculatedField": "¿Está seguro de que desea eliminar este campo calculado?",
             "replaceConfirmBefore": "Un informe llamado",
-            "replaceConfirmAfter": " ya existe. ¿Quieres cambiarlo?"
+            "replaceConfirmAfter": " ya existe. ¿Quieres cambiarlo?",
+            "pie": "Tarta",
+            "funnel": "Embudo",
+            "doughnut": "Rosquilla",
+            "pyramid": "Pirámide",
+            "showLegend": "Mostrar leyenda",
+            "exit": "Salida"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista de campos dinámicos",
@@ -451,6 +457,7 @@
             "Permission": "Permiso",
             "Ascending": "Ascendente",
             "Descending": "Descendente",
+            "None": "Ninguna",
             "View-LargeIcons": "Iconos grandes",
             "View-Details": "Detalles",
             "Search": "Buscar",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "La combinación de celdas solo conservará el valor superior izquierdo (superior). Fusionar de todos modos?",
             "PasteMergeAlert": "No podemos hacer eso en una celda de fusión.",
             "Borders": "Fronteras",
-            "SelectBorderOption": "Seleccionar opción de borde",
             "TopBorders": "Fronteras superiores",
             "LeftBorders": "Fronteras izquierdas",
             "RightBorders": "Fronteras derechas",
@@ -1304,6 +1310,7 @@
             "Retry": "Procesar de nuevo",
             "DialogError": "El origen de la lista debe ser una referencia a una sola fila o columna.",
             "ValidationError": "Este valor no coincide con las restricciones de validación de datos definidas para la celda.",
+            "ListLengthError": "Los valores de la lista solo permiten hasta 256 caracteres",
             "ProtectSheet": "Hoja de protección",
             "UnprotectSheet": "Desproteger hoja",
             "SelectCells": "Seleccionar celdas",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Protege el contenido de las celdas bloqueadas",
             "ProtectAllowUser": "Permita que todos los usuarios de esta hoja de trabajo:",
             "EditAlert": "La celda que intenta cambiar está protegida. Para hacer el cambio, desproteja la hoja.",
-            "ClearValidation": "Validación clara"
+            "ClearValidation": "Validación clara",
+            "ISNUMBER": "Devuelve verdadero cuando el valor se analiza como un valor numérico.",
+            "Round": "Redondea un número a un número específico de dígitos.",
+            "GEOMEAN": "Devuelve la media geométrica de una matriz o rango de datos positivos.",
+            "POWER": "Devuelve el resultado de un número elevado al poder",
+            "LOG": "Devuelve el logaritmo de un número a la base que especifique.",
+            "TRUNC": "Devuelve el valor truncado de un número a un número específico de lugares decimales.",
+            "EXP": "Devuelve e elevado a la potencia del número dado.",
+            "SelectBorderOption": "Seleccionar opción de borde"
         },
         "pdfviewer": {
             "PdfViewer": "Visor de PDF",
@@ -1665,7 +1680,9 @@
             "work": "Trabajo",
             "taskType": "Tipo de tarea",
             "unassignedTask": "Tarea no asignada",
-            "group": "Grupo"
+            "group": "Grupo",
+            "indent": "Sangrar",
+            "outdent": "Outdent"
         },
         "dropdowns": {
             "noRecordsTemplate": "No se encontraron registros",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Vuelva a ingresar la nueva contraseña para confirmar",
             "Your permissions": "Sus permisos",
             "Protected Document": "Este documento está protegido contra la edición no intencional. Puede editar en esta región.",
+            "FormFieldsOnly": "Este documento está protegido contra la edición involuntaria. Solo puede completar formularios en esta región.",
             "You may format text only with certain styles": "Puede formatear texto solo con ciertos estilos.",
             "Stop Protection": "Detener la protección",
             "Password": "Contraseña",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Relleno habilitado",
             "Default number": "Número predeterminado",
             "Default date": "Fecha predeterminada",
-            "Date format": "Formato de fecha"
+            "Date format": "Formato de fecha",
+            "Merge Track": "Esta acción no se marcará como cambio. ¿Quieres continuar?",
+            "UnTrack": "No se puede rastrear",
+            "Accept": "Aceptar",
+            "Reject": "Rechazar",
+            "Previous Changes": "Cambios previos",
+            "Next Changes": "Próximos cambios",
+            "Inserted": "Insertado",
+            "Deleted": "Eliminado",
+            "Changes": "Cambios",
+            "Accept all": "Aceptar todo",
+            "Reject all": "Rechazar todo",
+            "No changes": "Sin cambios",
+            "Accept Changes": "Aceptar cambios",
+            "Reject Changes": "Rechazar cambios",
+            "User": "Usuario",
+            "View": "Ver"
         },
         "documenteditorcontainer": {
             "New": "Nuevo",
@@ -2421,7 +2455,8 @@
             "delete": "Eliminar",
             "cancel": "Cancelar",
             "yes": "si",
-            "no": "No"
+            "no": "No",
+            "close": "Cerca"
         }
     }
 }

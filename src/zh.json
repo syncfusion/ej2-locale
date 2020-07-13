@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "條件格式...",
             "removeCalculatedField": "您確定要刪除此計算字段嗎？",
             "replaceConfirmBefore": "一份名為",
-            "replaceConfirmAfter": " 已經存在。您要更換嗎？"
+            "replaceConfirmAfter": " 已經存在。您要更換嗎？",
+            "pie": "馅饼",
+            "funnel": "漏斗",
+            "doughnut": "甜甜圈",
+            "pyramid": "金字塔",
+            "showLegend": "显示图例",
+            "exit": "出口"
         },
         "pivotfieldlist": {
             "staticFieldList": "樞軸字段列表",
@@ -451,6 +457,7 @@
             "Permission": "允許",
             "Ascending": "上升",
             "Descending": "降序",
+            "None": "没有",
             "View-LargeIcons": "大圖標",
             "View-Details": "細節",
             "Search": "搜索",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "合併單元格將僅保留左上（最上）值。仍然合併嗎？",
             "PasteMergeAlert": "我們無法對合併單元格執行此操作。",
             "Borders": "邊框",
-            "SelectBorderOption": "選擇邊框選項",
             "TopBorders": "上邊界",
             "LeftBorders": "左邊界",
             "RightBorders": "右邊界",
@@ -1304,6 +1310,7 @@
             "Retry": "重試",
             "DialogError": "列表源必須是對單行或單列的引用。",
             "ValidationError": "此值與為單元定義的數據驗證限制不匹配。",
+            "ListLengthError": "列表值最多只能包含256个字符",
             "ProtectSheet": "保護表",
             "UnprotectSheet": "取消保護工作表",
             "SelectCells": "選擇單元格",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "保護鎖定單元格的內容",
             "ProtectAllowUser": "允許該工作表的所有用戶執行以下操作：",
             "EditAlert": "您要更改的單元格受到保護。要進行更改，請取消保護工作表。",
-            "ClearValidation": "清除驗證"
+            "ClearValidation": "清除驗證",
+            "ISNUMBER": "当值解析为数字值时返回true。",
+            "Round": "将数字四舍五入到指定的位数。",
+            "GEOMEAN": "返回正数据数组或范围的几何平均值。",
+            "POWER": "返回加幂的数字的结果",
+            "LOG": "将数字的对数返回到您指定的底数。",
+            "TRUNC": "将数字的截断值返回指定的小数位数。",
+            "EXP": "返回e升到给定数字的幂。",
+            "SelectBorderOption": "選擇邊框選項"
         },
         "pdfviewer": {
             "PdfViewer": "PDF查看器",
@@ -1665,7 +1680,9 @@
             "work": "工作",
             "taskType": "任務類型",
             "unassignedTask": "未分配任務",
-            "group": "組"
+            "group": "組",
+            "indent": "缩进",
+            "outdent": "突出"
         },
         "dropdowns": {
             "noRecordsTemplate": "沒有找到記錄",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "重新輸入新密碼以確認",
             "Your permissions": "您的權限",
             "Protected Document": "本文檔不受意外編輯的保護。您可以在此區域中進行編輯。",
+            "FormFieldsOnly": "本文档不受意外编辑的保护。您只能在该区域填写表格。",
             "You may format text only with certain styles": "您只能使用某些樣式設置文本格式。",
             "Stop Protection": "停止保護",
             "Password": "密碼",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "啟用填寫",
             "Default number": "默認號碼",
             "Default date": "預設日期",
-            "Date format": "日期格式"
+            "Date format": "日期格式",
+            "Merge Track": "此操作不会被标记为更改。你想继续吗？",
+            "UnTrack": "无法追踪",
+            "Accept": "接受",
+            "Reject": "拒绝",
+            "Previous Changes": "以前的变化",
+            "Next Changes": "下一个变化",
+            "Inserted": "已插入",
+            "Deleted": "已删除",
+            "Changes": "变化",
+            "Accept all": "全都接受",
+            "Reject all": "全部拒绝",
+            "No changes": "没有变化",
+            "Accept Changes": "接受变更",
+            "Reject Changes": "拒绝更改",
+            "User": "用户",
+            "View": "视图"
         },
         "documenteditorcontainer": {
             "New": "新",
@@ -2421,7 +2455,8 @@
             "delete": "刪除",
             "cancel": "取消",
             "yes": "是",
-            "no": "沒有"
+            "no": "沒有",
+            "close": "关"
         }
     }
 }

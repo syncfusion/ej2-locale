@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "تنسيق مشروط...",
             "removeCalculatedField": "هل أنت متأكد أنك تريد حذف هذا الحقل المحسوب؟",
             "replaceConfirmBefore": "تقرير مسمى",
-            "replaceConfirmAfter": " موجود مسبقا. هل تريد استبدالها؟"
+            "replaceConfirmAfter": " موجود مسبقا. هل تريد استبدالها؟",
+            "pie": "فطيرة",
+            "funnel": "قمع",
+            "doughnut": "الدونات",
+            "pyramid": "هرم",
+            "showLegend": "إظهار الأسطورة",
+            "exit": "خروج"
         },
         "pivotfieldlist": {
             "staticFieldList": "قائمة الحقول المحورية",
@@ -451,6 +457,7 @@
             "Permission": "الإذن",
             "Ascending": "تصاعدي",
             "Descending": "تنازلي",
+            "None": "لا يوجد",
             "View-LargeIcons": "أيقونات كبيرة",
             "View-Details": "تفاصيل",
             "Search": "بحث",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "يؤدي دمج الخلايا إلى الاحتفاظ بالقيمة العلوية على اليسار (أعلى الصفحة). دمج على أي حال؟",
             "PasteMergeAlert": "لا يمكننا القيام بذلك لخلية دمج.",
             "Borders": "الحدود",
-            "SelectBorderOption": "حدد خيار الحدود",
             "TopBorders": "أهم الحدود",
             "LeftBorders": "الحدود اليسرى",
             "RightBorders": "الحدود اليمنى",
@@ -1304,6 +1310,7 @@
             "Retry": "أعد المحاولة",
             "DialogError": "يجب أن يكون مصدر القائمة مرجعًا لصف أو عمود واحد.",
             "ValidationError": "لا تتطابق هذه القيمة مع قيود التحقق من صحة البيانات المحددة للخلية.",
+            "ListLengthError": "تسمح قيم القائمة حتى 256 حرفًا فقط",
             "ProtectSheet": "حماية الورقة",
             "UnprotectSheet": "ورقة غير محمية",
             "SelectCells": "حدد الخلايا",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "حماية محتويات الخلايا المقفلة",
             "ProtectAllowUser": "السماح لجميع مستخدمي ورقة العمل هذه بما يلي:",
             "EditAlert": "الخلية التي تحاول تغييرها محمية. لإجراء تغيير ، قم بإلغاء حماية الورقة.",
-            "ClearValidation": "تحقق واضح"
+            "ClearValidation": "تحقق واضح",
+            "ISNUMBER": "إرجاع صحيح عندما يتم تحليل القيمة كقيمة رقمية.",
+            "Round": "لتقريب رقم إلى عدد محدد من الأرقام.",
+            "GEOMEAN": "إرجاع الوسط الهندسي لصفيف أو نطاق من البيانات الإيجابية.",
+            "POWER": "إرجاع نتيجة رقم مرفوع إلى السلطة",
+            "LOG": "إرجاع لوغاريتم رقم إلى الأساس الذي تحدده.",
+            "TRUNC": "إرجاع القيمة المقطوعة لرقم إلى عدد محدد من المنازل العشرية.",
+            "EXP": "إرجاع e مرفوع إلى قوة الرقم المعطى.",
+            "SelectBorderOption": "حدد خيار الحدود"
         },
         "pdfviewer": {
             "PdfViewer": "قوات الدفاع الشعبي المشاهد",
@@ -1665,7 +1680,9 @@
             "work": "عمل",
             "taskType": "نوع المهمة",
             "unassignedTask": "مهمة غير محددة",
-            "group": "مجموعة"
+            "group": "مجموعة",
+            "indent": "مسافة بادئة",
+            "outdent": "عفا عليها الزمن"
         },
         "dropdowns": {
             "noRecordsTemplate": "لا توجد سجلات",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "أعد إدخال كلمة مرور جديدة للتأكيد",
             "Your permissions": "أذوناتك",
             "Protected Document": "هذا المستند محمي من التحرير غير المقصود. يمكنك التعديل في هذه المنطقة.",
+            "FormFieldsOnly": "هذا المستند محمي من التحرير غير المقصود. يمكنك فقط تعبئة النماذج في هذه المنطقة.",
             "You may format text only with certain styles": "يمكنك تنسيق النص فقط مع أنماط معينة.",
             "Stop Protection": "وقف الحماية",
             "Password": "كلمه السر",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "تم تمكين التعبئة",
             "Default number": "الرقم الافتراضي",
             "Default date": "التاريخ الافتراضي",
-            "Date format": "صيغة التاريخ"
+            "Date format": "صيغة التاريخ",
+            "Merge Track": "لن يتم وضع علامة على هذا الإجراء على أنه تغيير. هل تريد الاستمرار؟",
+            "UnTrack": "لا يمكن تعقبها",
+            "Accept": "قبول",
+            "Reject": "رفض",
+            "Previous Changes": "التغييرات السابقة",
+            "Next Changes": "التغييرات القادمة",
+            "Inserted": "تم إدراجها",
+            "Deleted": "تم الحذف",
+            "Changes": "التغييرات",
+            "Accept all": "قبول الكل",
+            "Reject all": "رفض الكل",
+            "No changes": "لا تغيرات",
+            "Accept Changes": "قبول التغييرات",
+            "Reject Changes": "رفض التغييرات",
+            "User": "المستعمل",
+            "View": "رأي"
         },
         "documenteditorcontainer": {
             "New": "جديد",
@@ -2421,7 +2455,8 @@
             "delete": "حذف",
             "cancel": "إلغاء",
             "yes": "نعم",
-            "no": "لا"
+            "no": "لا",
+            "close": "قريب"
         }
     }
 }

@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Koşullu biçimlendirme...",
             "removeCalculatedField": "Bu hesaplanan alanı silmek istediğinizden emin misiniz?",
             "replaceConfirmBefore": "Adlı bir rapor",
-            "replaceConfirmAfter": " zaten var. Değiştirmek istiyor musun?"
+            "replaceConfirmAfter": " zaten var. Değiştirmek istiyor musun?",
+            "pie": "Turta",
+            "funnel": "Huni",
+            "doughnut": "Tatlı çörek",
+            "pyramid": "Piramit",
+            "showLegend": "Göstergeyi Göster",
+            "exit": "çıkış"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Alan Listesi",
@@ -451,6 +457,7 @@
             "Permission": "izin",
             "Ascending": "yükselen",
             "Descending": "Azalan",
+            "None": "Yok",
             "View-LargeIcons": "Büyük ikonlar",
             "View-Details": "ayrıntılar",
             "Search": "Arama",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Hücreler birleştirildiğinde yalnızca en soldaki (En Üstteki) değer korunur. Yine de birleştirilsin mi?",
             "PasteMergeAlert": "Bunu bir birleştirme hücresine yapamayız.",
             "Borders": "Sınırlar",
-            "SelectBorderOption": "Kenarlık Seçeneğini Seçin",
             "TopBorders": "Üst Sınırlar",
             "LeftBorders": "Sol Kenarlıklar",
             "RightBorders": "Sağ Sınırlar",
@@ -1304,6 +1310,7 @@
             "Retry": "Yeniden Dene",
             "DialogError": "Liste kaynağı tek bir satıra veya sütuna başvuru olmalıdır.",
             "ValidationError": "Bu değer, hücre için tanımlanan veri doğrulama kısıtlamalarıyla eşleşmiyor.",
+            "ListLengthError": "Liste değerleri yalnızca 256 karaktere kadar izin verir",
             "ProtectSheet": "Sayfayı Koru",
             "UnprotectSheet": "Sayfayı Korumayı Kaldır",
             "SelectCells": "Hücreleri seçin",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Kilitli hücrelerin içeriğini koruyun",
             "ProtectAllowUser": "Bu çalışma sayfasının tüm kullanıcılarının aşağıdakilere izin ver:",
             "EditAlert": "Değiştirmeye çalıştığınız hücre korunuyor. Değişiklik yapmak için sayfanın korumasını kaldırın.",
-            "ClearValidation": "Doğrulamayı Temizle"
+            "ClearValidation": "Doğrulamayı Temizle",
+            "ISNUMBER": "Değer sayısal bir değer olarak ayrıştırıldığında true değerini döndürür.",
+            "Round": "Bir sayıyı belirtilen sayıda basamağa yuvarlar.",
+            "GEOMEAN": "Bir dizi veya pozitif veri aralığının geometrik ortalamasını döndürür.",
+            "POWER": "Güce yükseltilen bir sayının sonucunu döndürür",
+            "LOG": "Bir sayının logaritmasını belirttiğiniz tabana döndürür.",
+            "TRUNC": "Sayının kesilmiş değerini belirtilen ondalık basamağa döndürür.",
+            "EXP": "Verilen sayının gücüne yükseltilmiş e değerini döndürür.",
+            "SelectBorderOption": "Kenarlık Seçeneğini Seçin"
         },
         "pdfviewer": {
             "PdfViewer": "﻿PDF Görüntüleyici",
@@ -1665,7 +1680,9 @@
             "work": "İş",
             "taskType": "Görev Türü",
             "unassignedTask": "Atanmamış Görev",
-            "group": "grup"
+            "group": "grup",
+            "indent": "çentik",
+            "outdent": "Çıkıntı"
         },
         "dropdowns": {
             "noRecordsTemplate": "Kayıt bulunamadı",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Onaylamak için yeni şifreyi tekrar girin",
             "Your permissions": "İzinleriniz",
             "Protected Document": "Bu belge istemeden düzenlenmeye karşı korunuyor. Bu bölgede düzenleme yapabilirsiniz.",
+            "FormFieldsOnly": "Bu belge istemeden düzenlenmeye karşı korumalıdır. Yalnızca bu bölgedeki formları doldurabilirsiniz.",
             "You may format text only with certain styles": "Metni yalnızca belirli stillerle biçimlendirebilirsiniz.",
             "Stop Protection": "Korumayı Durdur",
             "Password": "Parola",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Doldurma etkin",
             "Default number": "Varsayılan numara",
             "Default date": "Varsayılan tarih",
-            "Date format": "Tarih formatı"
+            "Date format": "Tarih formatı",
+            "Merge Track": "Bu işlem değişiklik olarak işaretlenmeyecek. Devam etmek istiyor musun?",
+            "UnTrack": "İzlenemez",
+            "Accept": "Kabul etmek",
+            "Reject": "reddetmek",
+            "Previous Changes": "Önceki Değişiklikler",
+            "Next Changes": "Sonraki Değişiklikler",
+            "Inserted": "Eklenen",
+            "Deleted": "silindi",
+            "Changes": "değişiklikler",
+            "Accept all": "Hepsini kabul et",
+            "Reject all": "Tümünü reddet",
+            "No changes": "Değişiklik yok",
+            "Accept Changes": "Değişiklikleri Kabul Et",
+            "Reject Changes": "Değişiklikleri Reddet",
+            "User": "kullanıcı",
+            "View": "Görünüm"
         },
         "documenteditorcontainer": {
             "New": "Yeni",
@@ -2421,7 +2455,8 @@
             "delete": "Sil",
             "cancel": "İptal etmek",
             "yes": "Evet",
-            "no": "Hayır"
+            "no": "Hayır",
+            "close": "Kapat"
         }
     }
 }

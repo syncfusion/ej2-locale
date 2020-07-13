@@ -257,7 +257,13 @@
             "conditionalFormatingMenu": "Betinget formatering ...",
             "removeCalculatedField": "Er du sikker på, at du vil slette dette beregnede felt?",
             "replaceConfirmBefore": "En rapport med navnet",
-            "replaceConfirmAfter": " eksisterer allerede. Vil du erstatte det?"
+            "replaceConfirmAfter": " eksisterer allerede. Vil du erstatte det?",
+            "pie": "Pie",
+            "funnel": "Tragt",
+            "doughnut": "Donut",
+            "pyramid": "Pyramide",
+            "showLegend": "Vis legende",
+            "exit": "Afslut"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot feltliste",
@@ -451,6 +457,7 @@
             "Permission": "Tilladelse",
             "Ascending": "stigende",
             "Descending": "Aftagende",
+            "None": "Ingen",
             "View-LargeIcons": "Store ikoner",
             "View-Details": "detaljer",
             "Search": "Søg",
@@ -1101,7 +1108,6 @@
             "MergeCellsAlert": "Sammenfletning af celler bevarer kun værdien øverst til venstre (øverste). Flet alligevel?",
             "PasteMergeAlert": "Vi kan ikke gøre det til en fusioncelle.",
             "Borders": "Grænser",
-            "SelectBorderOption": "Vælg Border Option",
             "TopBorders": "Topgrænser",
             "LeftBorders": "Venstre grænser",
             "RightBorders": "Højre grænser",
@@ -1304,6 +1310,7 @@
             "Retry": "Prøve igen",
             "DialogError": "Listekilden skal være en henvisning til en enkelt række eller kolonne.",
             "ValidationError": "Denne værdi stemmer ikke overens med datavalideringsbegrænsningerne, der er defineret for cellen.",
+            "ListLengthError": "Listeværdierne tillader kun op til 256 tegn",
             "ProtectSheet": "Beskyt ark",
             "UnprotectSheet": "Fjern beskyttelse af ark",
             "SelectCells": "Vælg celler",
@@ -1314,7 +1321,15 @@
             "ProtectContent": "Beskyt indholdet af låste celler",
             "ProtectAllowUser": "Tillad alle brugere af dette regneark at:",
             "EditAlert": "Den celle, du prøver at ændre, er beskyttet. For at foretage ændringer skal du fjerne beskyttelsen af ​​arket.",
-            "ClearValidation": "Klar validering"
+            "ClearValidation": "Klar validering",
+            "ISNUMBER": "Returnerer sandt, når værdien parses som en numerisk værdi.",
+            "Round": "Runder et tal til et specificeret antal cifre.",
+            "GEOMEAN": "Returnerer det geometriske middelværdi af en matrix eller et interval af positive data.",
+            "POWER": "Returnerer resultatet af et tal hævet til magten",
+            "LOG": "Returnerer logaritmen for et nummer til den base, du angiver.",
+            "TRUNC": "Returnerer den trunkerede værdi af et tal til et specificeret antal decimaler.",
+            "EXP": "Returnerer e hævet til magten i det givne nummer.",
+            "SelectBorderOption": "Vælg Border Option"
         },
         "pdfviewer": {
             "PdfViewer": "PDF-fremviser",
@@ -1665,7 +1680,9 @@
             "work": "Arbejde",
             "taskType": "Opgavetype",
             "unassignedTask": "Opdrag, der ikke er tildelt",
-            "group": "Gruppe"
+            "group": "Gruppe",
+            "indent": "indrykning",
+            "outdent": "Ryk"
         },
         "dropdowns": {
             "noRecordsTemplate": "Ingen poster fundet",
@@ -2194,6 +2211,7 @@
             "Reenter new password to confirm": "Indtast den nye adgangskode igen for at bekræfte",
             "Your permissions": "Dine tilladelser",
             "Protected Document": "Dette dokument er beskyttet mod utilsigtet redigering. Du kan redigere i denne region.",
+            "FormFieldsOnly": "Dette dokument er beskyttet mod utilsigtet redigering. Du må kun udfylde formularer i denne region.",
             "You may format text only with certain styles": "Du kan kun formatere tekst med bestemte stilarter.",
             "Stop Protection": "Stop beskyttelse",
             "Password": "Adgangskode",
@@ -2257,7 +2275,23 @@
             "Fill-in enabled": "Udfyldning aktiveret",
             "Default number": "Standardnummer",
             "Default date": "Standarddato",
-            "Date format": "Datoformat"
+            "Date format": "Datoformat",
+            "Merge Track": "Denne handling markeres ikke som ændring. Vil du fortsætte?",
+            "UnTrack": "Kan ikke spores",
+            "Accept": "Acceptere",
+            "Reject": "Afvise",
+            "Previous Changes": "Tidligere ændringer",
+            "Next Changes": "Næste ændringer",
+            "Inserted": "indsat",
+            "Deleted": "Slettet",
+            "Changes": "Ændringer",
+            "Accept all": "Accepter alle",
+            "Reject all": "Afvis alle",
+            "No changes": "Ingen ændringer",
+            "Accept Changes": "Accepter ændringer",
+            "Reject Changes": "Afvis ændringer",
+            "User": "Bruger",
+            "View": "Udsigt"
         },
         "documenteditorcontainer": {
             "New": "Ny",
@@ -2421,7 +2455,8 @@
             "delete": "Slet",
             "cancel": "Afbestille",
             "yes": "Ja",
-            "no": "Ingen"
+            "no": "Ingen",
+            "close": "Tæt"
         }
     }
 }
