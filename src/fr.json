@@ -526,10 +526,10 @@
             "ModeSwitcher": "Mode de commutation"
         },
         "uploader": {
-            "Browse": "Feuilleter...",
-            "Clear": "Clair",
+            "Browse": "Parcourir...",
+            "Clear": "Effacer",
             "Upload": "Télécharger",
-            "dropFilesHint": "Ou déposez des fichiers ici",
+            "dropFilesHint": "Ou déposer des fichiers ici",
             "invalidMaxFileSize": "La taille du fichier est trop grande",
             "invalidMinFileSize": "La taille du fichier est trop petite",
             "invalidFileType": "Le type de fichier n'est pas autorisé",
@@ -539,14 +539,14 @@
             "removedFailedMessage": "Impossible de supprimer le fichier",
             "inProgress": "Téléchargement",
             "readyToUploadMessage": "Prêt à télécharger",
-            "abort": "Avorter",
+            "abort": "Interrompre",
             "remove": "Retirer",
             "cancel": "Annuler",
             "delete": "Supprimer le fichier",
             "pauseUpload": "Téléchargement du fichier interrompu",
             "pause": "Pause",
             "resume": "Reprendre",
-            "retry": "Retenter",
+            "retry": "Réessayer",
             "fileUploadCancel": "Téléchargement du fichier annulé"
         },
         "numerictextbox": {
