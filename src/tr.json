@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{1} sayfanın {0}",
             "totalItemsInfo": "({0} öğe)",
+            "totalItemInfo": "({0} öğe)",
             "firstPageTooltip": "İlk sayfaya git",
             "lastPageTooltip": "Son sayfaya git",
             "nextPageTooltip": "Sonraki sayfaya git",

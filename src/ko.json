@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{1} 페이지 중 {0}",
             "totalItemsInfo": "({0} 항목)",
+            "totalItemInfo": "({0} 항목)",
             "firstPageTooltip": "첫 페이지로 이동",
             "lastPageTooltip": "마지막 페이지로 이동",
             "nextPageTooltip": "다음 페이지로 이동",

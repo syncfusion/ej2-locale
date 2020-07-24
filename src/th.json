@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "หน้า {0} จาก {1} หน้า",
             "totalItemsInfo": "({0} รายการ)",
+            "totalItemInfo": "({0} รายการ)",
             "firstPageTooltip": "ไปที่หน้าแรก",
             "lastPageTooltip": "ไปที่หน้าสุดท้าย",
             "nextPageTooltip": "ไปที่หน้าถัดไป",

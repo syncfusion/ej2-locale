@@ -1555,6 +1555,7 @@
         "pager": {
             "currentPageInfo": "{0} af {1} síðum",
             "totalItemsInfo": "({0} atriði)",
+            "totalItemInfo": "({0} hlut)",
             "firstPageTooltip": "Farðu á fyrstu síðu",
             "lastPageTooltip": "Farðu á síðustu síðu",
             "nextPageTooltip": "Farðu á næstu síðu",

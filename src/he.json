@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0} מתוך {1} עמודים",
             "totalItemsInfo": "({0} פריטים)",
+            "totalItemInfo": "({0} פריט)",
             "firstPageTooltip": "עבור לדף הראשון",
             "lastPageTooltip": "עבור לדף האחרון",
             "nextPageTooltip": "עבור לדף הבא",

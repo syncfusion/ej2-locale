@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0} из {1} страниц",
             "totalItemsInfo": "({0} наименований)",
+            "totalItemInfo": "({0} заглавие)",
             "firstPageTooltip": "Перейти на первую страницу",
             "lastPageTooltip": "Перейти на последнюю страницу",
             "nextPageTooltip": "Перейти на следующую страницу",

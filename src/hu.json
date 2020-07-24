@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{1} oldal {0}",
             "totalItemsInfo": "({0} elem)",
+            "totalItemInfo": "({0} elem)",
             "firstPageTooltip": "Ugrás az első oldalra",
             "lastPageTooltip": "Ugrás az utolsó oldalra",
             "nextPageTooltip": "Ugrás a következő oldalra",

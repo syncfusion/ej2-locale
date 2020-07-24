@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0} trong số {1} trang",
             "totalItemsInfo": "({0} mục)",
+            "totalItemInfo": "({0} mục)",
             "firstPageTooltip": "Đến trang đầu tiên",
             "lastPageTooltip": "Đến trang cuối",
             "nextPageTooltip": "Chuyển đến trang tiếp theo",

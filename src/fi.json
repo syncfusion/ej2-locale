@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0} {1} sivusta",
             "totalItemsInfo": "({0} tuotetta)",
+            "totalItemInfo": "({0} tuotetta)",
             "firstPageTooltip": "Siirry ensimmäiselle sivulle",
             "lastPageTooltip": "Siirry viimeiselle sivulle",
             "nextPageTooltip": "Siirry seuraavalle sivulle",

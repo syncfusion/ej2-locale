@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0} من {1} صفحة",
             "totalItemsInfo": "({0} عناصر)",
+            "totalItemInfo": "({0} بند)",
             "firstPageTooltip": "الذهاب إلى الصفحة الأولى",
             "lastPageTooltip": "الذهاب إلى الصفحة الأخيرة",
             "nextPageTooltip": "انتقل إلى الصفحة التالية",

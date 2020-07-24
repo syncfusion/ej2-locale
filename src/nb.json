@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0} av {1} sider",
             "totalItemsInfo": "({0} elementer)",
+            "totalItemInfo": "({0} punkt)",
             "firstPageTooltip": "Gå til første side",
             "lastPageTooltip": "Gå til siste side",
             "nextPageTooltip": "Gå til neste side",
