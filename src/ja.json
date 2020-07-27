@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0}ページのうち{1}ページ",
             "totalItemsInfo": "（{0}アイテム）",
+            "totalItemInfo": "（{0}アイテム）",
             "firstPageTooltip": "最初のページに移動",
             "lastPageTooltip": "最後のページに移動",
             "nextPageTooltip": "次のページに進む",

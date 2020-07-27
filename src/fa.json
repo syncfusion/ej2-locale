@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0} از 1 {صفحه",
             "totalItemsInfo": "({0} مورد)",
+            "totalItemInfo": "({0} مورد)",
             "firstPageTooltip": "به صفحه اول بروید",
             "lastPageTooltip": "به صفحه آخر بروید",
             "nextPageTooltip": "به صفحه بعد بروید",

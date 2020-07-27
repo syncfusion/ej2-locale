@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0} od {1} stranica",
             "totalItemsInfo": "({0} predmeta)",
+            "totalItemInfo": "({0} predmeta)",
             "firstPageTooltip": "Idite na prvu stranicu",
             "lastPageTooltip": "Idite na zadnju stranicu",
             "nextPageTooltip": "Prijeđite na sljedeću stranicu",

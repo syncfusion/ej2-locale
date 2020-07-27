@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0} z {1} stránek",
             "totalItemsInfo": "({0} položek)",
+            "totalItemInfo": "({0} položka)",
             "firstPageTooltip": "Přejít na první stránku",
             "lastPageTooltip": "Přejít na poslední stránku",
             "nextPageTooltip": "Přejít na další stránku",

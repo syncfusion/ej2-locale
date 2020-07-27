@@ -1556,6 +1556,7 @@
         "pager": {
             "currentPageInfo": "{0}頁中的{0}頁",
             "totalItemsInfo": "（{0}個項目）",
+            "totalItemInfo": "（{0}项目）",
             "firstPageTooltip": "轉到第一頁",
             "lastPageTooltip": "轉到最後一頁",
             "nextPageTooltip": "轉到下一頁",

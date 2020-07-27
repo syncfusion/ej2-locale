@@ -1559,6 +1559,7 @@
         "pager": {
             "currentPageInfo": "{0} de {1} pages",
             "totalItemsInfo": "({0} éléments)",
+            "totalItemInfo": "({0} élément)",
             "firstPageTooltip": "Aller à la première page",
             "lastPageTooltip": "Aller à la dernière page",
             "nextPageTooltip": "Aller à la page suivante",
