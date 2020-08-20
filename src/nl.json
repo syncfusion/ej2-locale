@@ -1243,7 +1243,7 @@
             "CONCATENATE": "Combineert twee of meer tekenreeksen samen.",
             "CONCAT": "Hiermee wordt een lijst of een reeks tekenreeksen samengevoegd.",
             "SUBTOTAL": "Retourneert subtotaal voor een bereik met behulp van het gegeven functienummer.",
-             RADIANS": "Converteert graden naar radialen.",
+            "RADIANS": "Converteert graden naar radialen.",
             "MATCH": "Retourneert de relatieve positie van een opgegeven waarde in een bepaald bereik.",
             "SLOPE": "Geeft de helling van de lijn als resultaat van lineaire regressie van de gegevenspunten.",
             "INTERCEPT": "Berekent het punt van de Y-snijlijn via lineaire regressie.",
