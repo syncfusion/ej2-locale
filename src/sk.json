@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Ak zmeníte príponu názvu súboru, súbor môže byť nestabilný. Naozaj to chcete zmeniť?",
             "Header-Delete": "Zmazať súbor",
             "Content-Delete": "Naozaj chcete odstrániť tento súbor?",
+            "Header-Folder-Delete": "Odstrániť priečinok",
+            "Content-Folder-Delete": "Naozaj chcete odstrániť tento priečinok?",
             "Header-Multiple-Delete": "Odstrániť viac súborov",
             "Content-Multiple-Delete": "Naozaj chcete odstrániť tieto {0} súbory?",
             "Header-Duplicate": "Súbor / priečinok existuje",
@@ -704,7 +706,9 @@
             "cleanFormat": "čistý",
             "keepFormat": "zachovať",
             "pasteDialogOk": "OK",
-            "pasteDialogCancel": "Zrušiť"
+            "pasteDialogCancel": "Zrušiť",
+            "fileManager": "Správca súborov",
+            "fileDialogHeader": "Prehliadač súborov"
         },
         "diagram": {
             "Copy": "kópie",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "Filtre dátumu a času",
             "Undo": "Vrátenie späť",
             "Redo": "redo",
+            "ClearAllFilter": "jasný",
+            "ReapplyFilter": "Opätovne podať žiadosť",
             "DateFilter": "Filtre dátumu",
             "TextFilter": "Textové filtre",
             "NumberFilter": "Filtre čísel",
@@ -1329,6 +1335,56 @@
             "LOG": "Vracia logaritmus čísla na základňu, ktorú zadáte.",
             "TRUNC": "Vráti skrátenú hodnotu čísla na zadaný počet desatinných miest.",
             "EXP": "Vráti e zvýšené na silu daného čísla.",
+            "HighlightCellsRules": "Zvýraznite pravidlá pre bunky",
+            "CFEqualTo": "Rovná",
+            "TextThatContains": "Text, ktorý obsahuje",
+            "ADateOccuring": "Dátum sa vyskytuje",
+            "DuplicateValues": "Duplicitné hodnoty",
+            "TopBottomRules": "Pravidlá hore / dole",
+            "Top10Items": "Top 10 položiek",
+            "Top10": "Najlepších 10",
+            "Bottom10Items": "Spodných 10 položiek",
+            "Bottom10": "Dolná 10",
+            "AboveAverage": "Nad priemer",
+            "BelowAverage": "Podpriemerný",
+            "FormatCellsGreaterThan": "Naformátujte bunky, KTORÉ VEĽKÉ AKO",
+            "FormatCellsLessThan": "Naformátujte bunky, ktoré sú Menej ako:",
+            "FormatCellsBetween": "Naformátujte bunky, ktoré sú MEDZI:",
+            "FormatCellsEqualTo": "Naformátujte bunky, ktoré sú ROVNÉ:",
+            "FormatCellsThatContainTheText": "Naformátujte bunky, ktoré obsahujú text:",
+            "FormatCellsThatContainADateOccurring": "Naformátujte bunky, ktoré obsahujú dátum:",
+            "FormatCellsDuplicate": "Naformátujte bunky, ktoré obsahujú:",
+            "FormatCellsTop": "Naformátujte bunky, ktoré sa umiestnia v TOP:",
+            "FormatCellsBottom": "Naformátujte bunky, ktoré sú zoradené v spodnej časti:",
+            "FormatCellsAbove": "Naformátujte bunky NAD PRIEMERNÝM:",
+            "FormatCellsBelow": "Naformátujte bunky, ktoré sú NIŽŠIE PRIEMERNÉ:",
+            "With": "s",
+            "DataBars": "Dátové pruhy",
+            "ColorScales": "Farebné škály",
+            "IconSets": "Sady ikon",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Vymazať pravidlá z vybratých buniek",
+            "EntireSheet": "Vymazať pravidlá z celého hárka",
+            "LightRedFillWithDarkRedText": "Svetlo červená výplň s tmavočerveným textom",
+            "YellowFillWithDarkYellowText": "Žltá výplň s tmavožltým textom",
+            "GreenFillWithDarkGreenText": "Zelená výplň s tmavozeleným textom",
+            "RedFill": "Červená výplň",
+            "RedText": "Červený text",
+            "Duplicate": "Duplikát",
+            "Unique": "Jedinečné",
+            "And": "a",
+            "WebPage": "WEBSTRÁNKA",
+            "ThisDocument": "TENTO DOKUMENT",
+            "DisplayText": "Zobraziť text",
+            "Url": "URL",
+            "CellReference": "Bunková referencia",
+            "DefinedNames": "Definované mená",
+            "EnterTheTextToDisplay": "Zadajte text, ktorý sa má zobraziť",
+            "EnterTheUrl": "Zadajte URL",
+            "INT": "Vráti číslo na najbližšie celé číslo.",
+            "SUMPRODUCT": "Vráti súčet súčinov daných rozsahov polí.",
+            "TODAY": "Vráti aktuálny dátum ako hodnotu dátumu.",
+            "ROUNDUP": "Zaokrúhli číslo od nuly.",
             "SelectBorderOption": "Vyberte možnosť Ohraničenie"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Iné polia",
             "AND": "A",
             "OR": "OR",
-            "SelectValue": "Zadajte hodnotu"
+            "SelectValue": "Zadajte hodnotu",
+            "IsEmpty": "Je prázdny",
+            "IsNotEmpty": "Nie je prázdny",
+            "IsNull": "Je Null",
+            "IsNotNull": "Nie je null",
+            "True": "pravda",
+            "False": "nepravdivé"
         },
         "grid": {
             "EmptyRecord": "žiadne záznamy na zobrazenie",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} z {1} stránok",
             "totalItemsInfo": "({0} položiek)",
-            "totalItemInfo": "({0} položka)",
             "firstPageTooltip": "Prejdite na prvú stránku",
             "lastPageTooltip": "Prejdite na poslednú stránku",
             "nextPageTooltip": "Prejdite na ďalšiu stránku",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Prejdite na predchádzajúci pager",
             "pagerDropDown": "Počet položiek na stránku",
             "pagerAllDropDown": "predmety",
-            "All": "všetko"
+            "All": "všetko",
+            "totalItemInfo": "({0} položka)"
         },
         "calendar": {
             "today": "dnes"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Nepriradená úloha",
             "group": "skupina",
             "indent": "zarážka",
-            "outdent": "predsadiť"
+            "outdent": "predsadiť",
+            "segments": "Segmenty",
+            "splitTask": "Rozdeliť úlohu",
+            "mergeTask": "Zlúčiť úlohu",
+            "left": "Vľavo",
+            "right": "Správny"
         },
         "dropdowns": {
             "noRecordsTemplate": "Nenašli sa žiadne záznamy",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Okrúhly",
             "Square Arrow": "Námestie",
             "Diamond Arrow": "diamant",
+            "Butt": "Zadok",
             "Cut": "rez",
             "Paste": "vložiť",
             "Delete Context": "delete",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Prijať zmeny",
             "Reject Changes": "Odmietnuť zmeny",
             "User": "užívateľ",
-            "View": "vyhliadka"
+            "View": "vyhliadka",
+            "Insertion": "Vloženie",
+            "Deletion": "Vymazanie",
+            "All caps": "Všetky čiapky",
+            "This region is locked by": "Tento región je uzamknutý",
+            "Lock": "Zamknúť",
+            "Unlock": "Odomknúť",
+            "Already locked": "Vybraný región alebo jeho časť je už uzamknutý iným používateľom",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Textová forma",
+            "Check Box": "Začiarkavacie políčko",
+            "DropDown": "Rozbaľovacia ponuka",
+            "Form Fields": "Polia formulára",
+            "Fillin enabled": "Vyplnenie je povolené"
         },
         "documenteditorcontainer": {
             "New": "Nový",
@@ -2438,7 +2523,13 @@
             "Check Box": "Začiarknite políčko",
             "DropDown": "Drop-Down",
             "Update Fields": "Aktualizujte polia",
-            "Update cross reference fields": "Aktualizujte polia krížových odkazov"
+            "Update cross reference fields": "Aktualizujte polia krížových odkazov",
+            "Hide properties pane": "Skryť tablu vlastností",
+            "Show properties pane": "Zobraziť panel vlastností",
+            "Form Fields": "Polia formulára",
+            "Track Changes": "Sledujte zmeny vykonané v dokumente",
+            "TrackChanges": "Sledovanie zmien",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "Zavrieť"
@@ -2458,6 +2549,12 @@
             "yes": "Áno",
             "no": "žiadny",
             "close": "Zavrieť"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Nenašli sa žiadne záznamy",
+            "actionFailureTemplate": "Žiadosť zlyhala",
+            "overflowCountTemplate": "+ ďalšie {$}",
+            "totalCountTemplate": "Je vybratých $ {count}"
         }
     }
 }

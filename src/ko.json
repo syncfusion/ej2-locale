@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "파일 이름 확장자를 변경하면 파일이 불안정해질 수 있습니다. 변경 하시겠습니까?",
             "Header-Delete": "파일 삭제",
             "Content-Delete": "이 파일을 삭제 하시겠습니까?",
+            "Header-Folder-Delete": "폴더 삭제",
+            "Content-Folder-Delete": "이 폴더를 삭제 하시겠습니까?",
             "Header-Multiple-Delete": "여러 파일 삭제",
             "Content-Multiple-Delete": "이 {0} 파일을 삭제 하시겠습니까?",
             "Header-Duplicate": "파일 / 폴더가 존재합니다",
@@ -704,7 +706,9 @@
             "cleanFormat": "깨끗한",
             "keepFormat": "유지",
             "pasteDialogOk": "확인",
-            "pasteDialogCancel": "취소"
+            "pasteDialogCancel": "취소",
+            "fileManager": "파일 관리자",
+            "fileDialogHeader": "파일 탐색기"
         },
         "diagram": {
             "Copy": "부",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "날짜 / 시간 필터",
             "Undo": "실행 취소",
             "Redo": "다시 하다",
+            "ClearAllFilter": "맑은",
+            "ReapplyFilter": "재 적용",
             "DateFilter": "날짜 필터",
             "TextFilter": "텍스트 필터",
             "NumberFilter": "숫자 필터",
@@ -1329,6 +1335,56 @@
             "LOG": "지정한 밑수에 대한 숫자의 로그를 반환합니다.",
             "TRUNC": "숫자의 잘린 값을 지정된 소수 자릿수로 반환합니다.",
             "EXP": "주어진 수만큼 거듭 제곱 한 e를 반환합니다.",
+            "HighlightCellsRules": "셀 규칙 강조",
+            "CFEqualTo": "동일",
+            "TextThatContains": "포함하는 텍스트",
+            "ADateOccuring": "데이트",
+            "DuplicateValues": "중복 값",
+            "TopBottomRules": "상위 / 하위 규칙",
+            "Top10Items": "상위 10 개 항목",
+            "Top10": "상위 10 개",
+            "Bottom10Items": "하위 10 개 항목",
+            "Bottom10": "하위 10",
+            "AboveAverage": "평균 이상",
+            "BelowAverage": "평균 이하",
+            "FormatCellsGreaterThan": "다음보다 큰 셀 서식 :",
+            "FormatCellsLessThan": "다음보다 작은 셀 서식 :",
+            "FormatCellsBetween": "사이에있는 셀 서식 :",
+            "FormatCellsEqualTo": "다음과 같은 셀 서식 지정 :",
+            "FormatCellsThatContainTheText": "텍스트가 포함 된 셀 서식 :",
+            "FormatCellsThatContainADateOccurring": "발생 날짜가 포함 된 셀의 형식을 지정하십시오.",
+            "FormatCellsDuplicate": "다음을 포함하는 셀 서식 지정 :",
+            "FormatCellsTop": "TOP에있는 셀의 서식을 지정합니다.",
+            "FormatCellsBottom": "BOTTOM에 순위가있는 셀 서식 :",
+            "FormatCellsAbove": "평균 이상인 셀 서식 :",
+            "FormatCellsBelow": "평균 미만인 셀 서식 :",
+            "With": "와",
+            "DataBars": "데이터 바",
+            "ColorScales": "컬러 스케일",
+            "IconSets": "아이콘 세트",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "선택한 셀에서 규칙 지우기",
+            "EntireSheet": "전체 시트에서 규칙 지우기",
+            "LightRedFillWithDarkRedText": "진한 빨간색 텍스트로 밝은 빨간색 채우기",
+            "YellowFillWithDarkYellowText": "진한 노란색 텍스트로 노란색 채우기",
+            "GreenFillWithDarkGreenText": "진한 녹색 텍스트로 녹색 채우기",
+            "RedFill": "빨간색 채우기",
+            "RedText": "빨간색 텍스트",
+            "Duplicate": "복제",
+            "Unique": "독특한",
+            "And": "과",
+            "WebPage": "웹 페이지",
+            "ThisDocument": "이 문서",
+            "DisplayText": "텍스트 표시",
+            "Url": "URL",
+            "CellReference": "셀 참조",
+            "DefinedNames": "정의 된 이름",
+            "EnterTheTextToDisplay": "표시 할 텍스트를 입력하십시오.",
+            "EnterTheUrl": "URL을 입력하세요",
+            "INT": "가장 가까운 정수에 숫자를 반환합니다.",
+            "SUMPRODUCT": "주어진 배열 범위의 곱의 합계를 반환합니다.",
+            "TODAY": "현재 날짜를 날짜 값으로 반환합니다.",
+            "ROUNDUP": "0에서 멀어 지도록 숫자를 반올림합니다.",
             "SelectBorderOption": "테두리 옵션 선택"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "다른 분야",
             "AND": "과",
             "OR": "또는",
-            "SelectValue": "값을 입력하십시오"
+            "SelectValue": "값을 입력하십시오",
+            "IsEmpty": "비었다",
+            "IsNotEmpty": "비어 있지 않음",
+            "IsNull": "Null",
+            "IsNotNull": "Null이 아님",
+            "True": "진실",
+            "False": "그릇된"
         },
         "grid": {
             "EmptyRecord": "표시 할 레코드가 없습니다",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{1} 페이지 중 {0}",
             "totalItemsInfo": "({0} 항목)",
-            "totalItemInfo": "({0} 항목)",
             "firstPageTooltip": "첫 페이지로 이동",
             "lastPageTooltip": "마지막 페이지로 이동",
             "nextPageTooltip": "다음 페이지로 이동",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "이전 호출기로 이동",
             "pagerDropDown": "페이지 당 항목",
             "pagerAllDropDown": "아이템",
-            "All": "모두"
+            "All": "모두",
+            "totalItemInfo": "({0} 항목)"
         },
         "calendar": {
             "today": "오늘"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "할당되지 않은 작업",
             "group": "그룹",
             "indent": "톱니 모양",
-            "outdent": "Outdent"
+            "outdent": "Outdent",
+            "segments": "세그먼트",
+            "splitTask": "작업 분할",
+            "mergeTask": "작업 병합",
+            "left": "왼쪽",
+            "right": "권리"
         },
         "dropdowns": {
             "noRecordsTemplate": "기록 없음",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "일주",
             "Square Arrow": "광장",
             "Diamond Arrow": "다이아몬드",
+            "Butt": "대상",
             "Cut": "절단",
             "Paste": "풀",
             "Delete Context": "지우다",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "변경 수락",
             "Reject Changes": "변경 사항 거부",
             "User": "사용자",
-            "View": "전망"
+            "View": "전망",
+            "Insertion": "삽입",
+            "Deletion": "삭제",
+            "All caps": "모든 대문자",
+            "This region is locked by": "이 지역은",
+            "Lock": "자물쇠",
+            "Unlock": "터놓다",
+            "Already locked": "선택되었거나 지역의 일부가 이미 다른 사용자에 의해 잠겼습니다.",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "나, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "텍스트 양식",
+            "Check Box": "체크 박스",
+            "DropDown": "쓰러지 다",
+            "Form Fields": "양식 필드",
+            "Fillin enabled": "채우기 사용"
         },
         "documenteditorcontainer": {
             "New": "새로운",
@@ -2438,7 +2523,13 @@
             "Check Box": "확인란",
             "DropDown": "쓰러지 다",
             "Update Fields": "업데이트 필드",
-            "Update cross reference fields": "상호 참조 필드 업데이트"
+            "Update cross reference fields": "상호 참조 필드 업데이트",
+            "Hide properties pane": "속성 창 숨기기",
+            "Show properties pane": "속성 창 표시",
+            "Form Fields": "양식 필드",
+            "Track Changes": "문서의 변경 사항을 추적합니다.",
+            "TrackChanges": "변경 사항 추적",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "닫기"
@@ -2458,6 +2549,12 @@
             "yes": "예",
             "no": "아니",
             "close": "닫기"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "기록 없음",
+            "actionFailureTemplate": "요청 실패",
+            "overflowCountTemplate": "+ $ {count} 개 더 ..",
+            "totalCountTemplate": "$ {count} 선택됨"
         }
     }
 }

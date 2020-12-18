@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Om du ändrar filnamnstillägg kan filen bli instabil. Är du säker på att du vill ändra det?",
             "Header-Delete": "Radera fil",
             "Content-Delete": "Är du säker på att du vill ta bort den här filen?",
+            "Header-Folder-Delete": "Ta bort mapp",
+            "Content-Folder-Delete": "Är du säker på att du vill ta bort den här mappen?",
             "Header-Multiple-Delete": "Radera flera filer",
             "Content-Multiple-Delete": "Är du säker på att du vill ta bort dessa {0} filer?",
             "Header-Duplicate": "Fil / mapp finns",
@@ -704,7 +706,9 @@
             "cleanFormat": "Rena",
             "keepFormat": "Ha kvar",
             "pasteDialogOk": "OK",
-            "pasteDialogCancel": "Annullera"
+            "pasteDialogCancel": "Annullera",
+            "fileManager": "Filhanterare",
+            "fileDialogHeader": "Filhanterare"
         },
         "diagram": {
             "Copy": "Kopia",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "DateTime-filter",
             "Undo": "Ångra",
             "Redo": "Göra om",
+            "ClearAllFilter": "Klar",
+            "ReapplyFilter": "Ansök om igen",
             "DateFilter": "Datumfilter",
             "TextFilter": "Textfilter",
             "NumberFilter": "Antal filter",
@@ -1329,6 +1335,56 @@
             "LOG": "Returnerar logaritmen för ett nummer till basen som du anger.",
             "TRUNC": "Returnerar det avkortade värdet för ett nummer till ett specificerat antal decimaler.",
             "EXP": "Återgår till höjt till kraften i det givna numret.",
+            "HighlightCellsRules": "Markera celleregler",
+            "CFEqualTo": "Lika med",
+            "TextThatContains": "Text som innehåller",
+            "ADateOccuring": "Ett datum inträffar",
+            "DuplicateValues": "Duplicera värden",
+            "TopBottomRules": "Topp- / bottenregler",
+            "Top10Items": "Topp 10 artiklar",
+            "Top10": "Topp 10",
+            "Bottom10Items": "Botten 10 artiklar",
+            "Bottom10": "Botten 10",
+            "AboveAverage": "Över medel",
+            "BelowAverage": "Under medel",
+            "FormatCellsGreaterThan": "Formatera celler som är STÖRRE ÄN:",
+            "FormatCellsLessThan": "Formatera celler som är MINDRE ÄN:",
+            "FormatCellsBetween": "Formatera celler som är MELLAN:",
+            "FormatCellsEqualTo": "Formatera celler som är lika med:",
+            "FormatCellsThatContainTheText": "Formatera celler som innehåller texten:",
+            "FormatCellsThatContainADateOccurring": "Formatera celler som innehåller ett datum som förekommer:",
+            "FormatCellsDuplicate": "Formatera celler som innehåller:",
+            "FormatCellsTop": "Formatera celler som rankas i TOPPEN:",
+            "FormatCellsBottom": "Formatera celler som rankas i BOTTOM:",
+            "FormatCellsAbove": "Formatera celler som ÄR ÖVER GENOMSNITT:",
+            "FormatCellsBelow": "Formatera celler som är UNDER GENOMSNITT:",
+            "With": "med",
+            "DataBars": "Datafält",
+            "ColorScales": "Färgskalor",
+            "IconSets": "Ikonuppsättningar",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Rensa regler från valda celler",
+            "EntireSheet": "Rensa regler från hela arket",
+            "LightRedFillWithDarkRedText": "Ljusröd fyllning med mörkröd text",
+            "YellowFillWithDarkYellowText": "Gul fyllning med mörkgul text",
+            "GreenFillWithDarkGreenText": "Grön fyllning med mörkgrön text",
+            "RedFill": "Röd fyllning",
+            "RedText": "Röd text",
+            "Duplicate": "Duplicera",
+            "Unique": "Unik",
+            "And": "och",
+            "WebPage": "WEBBSIDA",
+            "ThisDocument": "DET HÄR DOKUMENTET",
+            "DisplayText": "Visa text",
+            "Url": "URL",
+            "CellReference": "Cellreferens",
+            "DefinedNames": "Definierade namn",
+            "EnterTheTextToDisplay": "Ange texten som ska visas",
+            "EnterTheUrl": "Ange webbadressen",
+            "INT": "Returnerar ett tal till närmaste heltal.",
+            "SUMPRODUCT": "Returnerar summan av produkten för givna intervall av matriser.",
+            "TODAY": "Returnerar det aktuella datumet som datumvärde.",
+            "ROUNDUP": "Avrundar ett tal från noll.",
             "SelectBorderOption": "Välj gränsalternativ"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Andra fält",
             "AND": "OCH",
             "OR": "ELLER",
-            "SelectValue": "Ange värde"
+            "SelectValue": "Ange värde",
+            "IsEmpty": "Är tom",
+            "IsNotEmpty": "Är inte tom",
+            "IsNull": "Är inget",
+            "IsNotNull": "Är inte noll",
+            "True": "Sann",
+            "False": "falsk"
         },
         "grid": {
             "EmptyRecord": "Inga poster att visa",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} av {1} sidor",
             "totalItemsInfo": "({0} artiklar)",
-            "totalItemInfo": "({0} artiklar)",
             "firstPageTooltip": "Gå till första sidan",
             "lastPageTooltip": "Gå till sista sidan",
             "nextPageTooltip": "Gå till nästa sida",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Gå till föregående personsökare",
             "pagerDropDown": "Objekt per sida",
             "pagerAllDropDown": "artiklar",
-            "All": "Allt"
+            "All": "Allt",
+            "totalItemInfo": "({0} artiklar)"
         },
         "calendar": {
             "today": "I dag"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Otilldelad uppgift",
             "group": "Grupp",
             "indent": "Indrag",
-            "outdent": "Minska indrag"
+            "outdent": "Minska indrag",
+            "segments": "Segment",
+            "splitTask": "Dela uppgift",
+            "mergeTask": "Sammanfoga uppgift",
+            "left": "Vänster",
+            "right": "Rätt"
         },
         "dropdowns": {
             "noRecordsTemplate": "Inga uppgifter funna",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Runda",
             "Square Arrow": "Fyrkant",
             "Diamond Arrow": "Diamant",
+            "Butt": "Stånga",
             "Cut": "Skära",
             "Paste": "Klistra",
             "Delete Context": "Radera",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Acceptera ändringar",
             "Reject Changes": "Avvisa ändringar",
             "User": "Användare",
-            "View": "Se"
+            "View": "Se",
+            "Insertion": "Införande",
+            "Deletion": "Radering",
+            "All caps": "Alla mössor",
+            "This region is locked by": "Denna region är låst av",
+            "Lock": "Låsa",
+            "Unlock": "Låsa upp",
+            "Already locked": "Vald eller del av region är redan låst av en annan användare",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Textformulär",
+            "Check Box": "Kryssruta",
+            "DropDown": "Falla ner",
+            "Form Fields": "Formfält",
+            "Fillin enabled": "Fyllning aktiverad"
         },
         "documenteditorcontainer": {
             "New": "Ny",
@@ -2438,7 +2523,13 @@
             "Check Box": "Kryssruta",
             "DropDown": "Falla ner",
             "Update Fields": "Uppdatera fält",
-            "Update cross reference fields": "Uppdatera korsreferensfält"
+            "Update cross reference fields": "Uppdatera korsreferensfält",
+            "Hide properties pane": "Dölj egenskaper-rutan",
+            "Show properties pane": "Visa fönstret",
+            "Form Fields": "Formfält",
+            "Track Changes": "Håll reda på de ändringar som gjorts i dokumentet",
+            "TrackChanges": "Spåra ändringar",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "Stänga"
@@ -2458,6 +2549,12 @@
             "yes": "Ja",
             "no": "Nej",
             "close": "Stänga"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Inga uppgifter funna",
+            "actionFailureTemplate": "Begäran misslyckades",
+            "overflowCountTemplate": "+ $ {count} till ..",
+            "totalCountTemplate": "$ {count} har valts"
         }
     }
 }

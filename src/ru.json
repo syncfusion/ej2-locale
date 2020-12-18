@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Если вы измените расширение имени файла, файл может стать нестабильным. Вы уверены, что хотите изменить это?",
             "Header-Delete": "Удалить файл",
             "Content-Delete": "Вы уверены, что хотите удалить этот файл?",
+            "Header-Folder-Delete": "Удалить папку",
+            "Content-Folder-Delete": "Вы уверены, что хотите удалить эту папку?",
             "Header-Multiple-Delete": "Удалить несколько файлов",
             "Content-Multiple-Delete": "Вы уверены, что хотите удалить эти {0} файлы?",
             "Header-Duplicate": "Файл / папка существует",
@@ -704,7 +706,9 @@
             "cleanFormat": "чистый",
             "keepFormat": "Держать",
             "pasteDialogOk": "Ok",
-            "pasteDialogCancel": "Отмена"
+            "pasteDialogCancel": "Отмена",
+            "fileManager": "Файловый менеджер",
+            "fileDialogHeader": "Файловый браузер"
         },
         "diagram": {
             "Copy": "копия",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "Фильтры DateTime",
             "Undo": "Отменить",
             "Redo": "Redo",
+            "ClearAllFilter": "Очистить",
+            "ReapplyFilter": "Повторно подать заявку",
             "DateFilter": "Фильтры даты",
             "TextFilter": "Текстовые фильтры",
             "NumberFilter": "Числовые фильтры",
@@ -1329,6 +1335,56 @@
             "LOG": "Возвращает логарифм числа к указанной вами базе.",
             "TRUNC": "Возвращает усеченное значение числа с указанным количеством десятичных знаков.",
             "EXP": "Возвращает e, возведенное в степень заданного числа.",
+            "HighlightCellsRules": "Выделите правила ячеек",
+            "CFEqualTo": "Равно",
+            "TextThatContains": "Текст, содержащий",
+            "ADateOccuring": "Свидание происходит",
+            "DuplicateValues": "Повторяющиеся значения",
+            "TopBottomRules": "Верхние / нижние правила",
+            "Top10Items": "10 лучших товаров",
+            "Top10": "Топ 10",
+            "Bottom10Items": "Последние 10 элементов",
+            "Bottom10": "Внизу 10",
+            "AboveAverage": "Выше среднего",
+            "BelowAverage": "Ниже среднего",
+            "FormatCellsGreaterThan": "Отформатируйте ячейки, которые БОЛЬШЕ, ЧЕМ:",
+            "FormatCellsLessThan": "Форматировать ячейки МЕНЬШЕ, ЧЕМ:",
+            "FormatCellsBetween": "Форматировать ячейки МЕЖДУ:",
+            "FormatCellsEqualTo": "Отформатируйте ячейки, РАВНЫЕ:",
+            "FormatCellsThatContainTheText": "Отформатируйте ячейки, содержащие текст:",
+            "FormatCellsThatContainADateOccurring": "Отформатируйте ячейки, содержащие дату:",
+            "FormatCellsDuplicate": "Отформатируйте ячейки, содержащие:",
+            "FormatCellsTop": "Отформатируйте ячейки, занимающие ТОП:",
+            "FormatCellsBottom": "Отформатируйте ячейки, занимающие ВНИЗУ:",
+            "FormatCellsAbove": "Форматировать ячейки ВЫШЕ СРЕДНЕГО:",
+            "FormatCellsBelow": "Форматировать ячейки НИЖЕ СРЕДНЕГО:",
+            "With": "с участием",
+            "DataBars": "Панели данных",
+            "ColorScales": "Цветовые шкалы",
+            "IconSets": "Наборы иконок",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Очистить правила из выбранных ячеек",
+            "EntireSheet": "Очистить правила со всего листа",
+            "LightRedFillWithDarkRedText": "Светло-красная заливка с темно-красным текстом",
+            "YellowFillWithDarkYellowText": "Желтая заливка с темно-желтым текстом",
+            "GreenFillWithDarkGreenText": "Зеленая заливка с темно-зеленым текстом",
+            "RedFill": "Красная заливка",
+            "RedText": "Красный текст",
+            "Duplicate": "Дубликат",
+            "Unique": "Уникальный",
+            "And": "и",
+            "WebPage": "СТРАНИЦА В ИНТЕРНЕТЕ",
+            "ThisDocument": "ЭТОТ ДОКУМЕНТ",
+            "DisplayText": "Показать текст",
+            "Url": "URL",
+            "CellReference": "Ссылка на ячейку",
+            "DefinedNames": "Определенные имена",
+            "EnterTheTextToDisplay": "Введите текст для отображения",
+            "EnterTheUrl": "Введите URL",
+            "INT": "Возвращает число до ближайшего целого.",
+            "SUMPRODUCT": "Возвращает сумму произведений заданных диапазонов массивов.",
+            "TODAY": "Возвращает текущую дату как значение даты.",
+            "ROUNDUP": "Округляет число от нуля.",
             "SelectBorderOption": "Выберите опцию границы"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Другие поля",
             "AND": "И",
             "OR": "ИЛИ",
-            "SelectValue": "Введите значение"
+            "SelectValue": "Введите значение",
+            "IsEmpty": "Пусто",
+            "IsNotEmpty": "Не пусто",
+            "IsNull": "Нулевой",
+            "IsNotNull": "Не является нулем",
+            "True": "правда",
+            "False": "ложный"
         },
         "grid": {
             "EmptyRecord": "Нет записей для отображения",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} из {1} страниц",
             "totalItemsInfo": "({0} наименований)",
-            "totalItemInfo": "({0} заглавие)",
             "firstPageTooltip": "Перейти на первую страницу",
             "lastPageTooltip": "Перейти на последнюю страницу",
             "nextPageTooltip": "Перейти на следующую страницу",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Перейти к предыдущему пейджеру",
             "pagerDropDown": "пункты на странице",
             "pagerAllDropDown": "Предметы",
-            "All": "Все"
+            "All": "Все",
+            "totalItemInfo": "({0} заглавие)"
         },
         "calendar": {
             "today": "сегодня"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Неназначенная задача",
             "group": "группа",
             "indent": "индент",
-            "outdent": "Выступ"
+            "outdent": "Выступ",
+            "segments": "Сегменты",
+            "splitTask": "Разделить задачу",
+            "mergeTask": "Задача слияния",
+            "left": "Слева",
+            "right": "Правильно"
         },
         "dropdowns": {
             "noRecordsTemplate": "Записей не найдено",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Круглый",
             "Square Arrow": "Площадь",
             "Diamond Arrow": "ромб",
+            "Butt": "Задница",
             "Cut": "Порез",
             "Paste": "Вставить",
             "Delete Context": "удалять",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Принять изменения",
             "Reject Changes": "Отклонить изменения",
             "User": "пользователь",
-            "View": "Посмотреть"
+            "View": "Посмотреть",
+            "Insertion": "Вставка",
+            "Deletion": "Удаление",
+            "All caps": "Все заглавные буквы",
+            "This region is locked by": "Этот регион заблокирован",
+            "Lock": "Замок",
+            "Unlock": "Разблокировать",
+            "Already locked": "Выбранный регион или его часть уже заблокированы другим пользователем",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "а, б, в, ...",
+            "A, B, C, ...": "А, Б, В, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "я, ii, iii, ...",
+            "Text Form": "Текстовая форма",
+            "Check Box": "Флажок",
+            "DropDown": "Падать",
+            "Form Fields": "Поля формы",
+            "Fillin enabled": "Заполнение включено"
         },
         "documenteditorcontainer": {
             "New": "новый",
@@ -2438,7 +2523,13 @@
             "Check Box": "Флажок",
             "DropDown": "Падать",
             "Update Fields": "Обновить поля",
-            "Update cross reference fields": "Обновить поля перекрестных ссылок"
+            "Update cross reference fields": "Обновить поля перекрестных ссылок",
+            "Hide properties pane": "Скрыть панель свойств",
+            "Show properties pane": "Показать панель свойств",
+            "Form Fields": "Поля формы",
+            "Track Changes": "Следите за изменениями, внесенными в документ",
+            "TrackChanges": "Отслеживать изменения",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "близко"
@@ -2458,6 +2549,12 @@
             "yes": "да",
             "no": "нет",
             "close": "близко"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "записей не найдено",
+            "actionFailureTemplate": "Запрос не выполнен",
+            "overflowCountTemplate": "+ еще $ {count} ..",
+            "totalCountTemplate": "Выбрано $ {count}"
         }
     }
 }

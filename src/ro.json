@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Dacă schimbați o extensie de nume de fișier, fișierul ar putea deveni instabil. Ești sigur că vrei să o schimbi?",
             "Header-Delete": "Sterge fisierul",
             "Content-Delete": "Sigur doriți să ștergeți acest fișier?",
+            "Header-Folder-Delete": "Ștergeți folderul",
+            "Content-Folder-Delete": "Sigur doriți să ștergeți acest folder?",
             "Header-Multiple-Delete": "Ștergeți mai multe fișiere",
             "Content-Multiple-Delete": "Sigur doriți să ștergeți aceste fișiere {0}?",
             "Header-Duplicate": "Există fișier / dosar",
@@ -704,7 +706,9 @@
             "cleanFormat": "Curat",
             "keepFormat": "A pastra",
             "pasteDialogOk": "O.K",
-            "pasteDialogCancel": "Anulare"
+            "pasteDialogCancel": "Anulare",
+            "fileManager": "Manager de fișiere",
+            "fileDialogHeader": "Browser de fișiere"
         },
         "diagram": {
             "Copy": "Copie",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "Filtre DateTime",
             "Undo": "Anula",
             "Redo": "A reface",
+            "ClearAllFilter": "clar",
+            "ReapplyFilter": "Reaplicați",
             "DateFilter": "Filtre de date",
             "TextFilter": "Filtre de text",
             "NumberFilter": "Filtre cu număr",
@@ -1329,6 +1335,56 @@
             "LOG": "Returnează logaritmul unui număr la baza specificată.",
             "TRUNC": "Returnează valoarea trunchiată a unui număr la un număr specificat de zecimale.",
             "EXP": "Se întoarce e crescut la puterea numărului dat.",
+            "HighlightCellsRules": "Evidențiați regulile celulelor",
+            "CFEqualTo": "Egal cu",
+            "TextThatContains": "Text care conține",
+            "ADateOccuring": "O întâlnire care se întâmplă",
+            "DuplicateValues": "Valori duplicate",
+            "TopBottomRules": "Reguli de sus / jos",
+            "Top10Items": "Top 10 articole",
+            "Top10": "Top 10",
+            "Bottom10Items": "Partea de jos a 10 articole",
+            "Bottom10": "Fundul 10",
+            "AboveAverage": "Peste medie",
+            "BelowAverage": "Sub medie",
+            "FormatCellsGreaterThan": "Formatați celulele mai mari decât:",
+            "FormatCellsLessThan": "Formatați celulele mai mici decât:",
+            "FormatCellsBetween": "Formatați celulele care sunt ÎNTRE:",
+            "FormatCellsEqualTo": "Formatați celule care sunt EGALE PENTRU:",
+            "FormatCellsThatContainTheText": "Formatați celulele care conțin textul:",
+            "FormatCellsThatContainADateOccurring": "Formatați celulele care conțin o dată care apare:",
+            "FormatCellsDuplicate": "Formatați celulele care conțin:",
+            "FormatCellsTop": "Formatați celulele care se clasează în TOP:",
+            "FormatCellsBottom": "Formatați celulele care se clasează în partea de jos:",
+            "FormatCellsAbove": "Formatați celulele care sunt MAI MULTE:",
+            "FormatCellsBelow": "Formatați celulele care SUNT MEDIU:",
+            "With": "cu",
+            "DataBars": "Bare de date",
+            "ColorScales": "Scale de culoare",
+            "IconSets": "Seturi de pictograme",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Ștergeți regulile din celulele selectate",
+            "EntireSheet": "Ștergeți regulile din întreaga foaie",
+            "LightRedFillWithDarkRedText": "Umpleți roșu deschis cu text roșu închis",
+            "YellowFillWithDarkYellowText": "Umplere galbenă cu text galben închis",
+            "GreenFillWithDarkGreenText": "Completați verde cu text verde închis",
+            "RedFill": "Umplere roșie",
+            "RedText": "Text roșu",
+            "Duplicate": "Duplicat",
+            "Unique": "Unic",
+            "And": "și",
+            "WebPage": "PAGINĂ WEB",
+            "ThisDocument": "ACEST DOCUMENT",
+            "DisplayText": "Afișare text",
+            "Url": "URL",
+            "CellReference": "Referință celulară",
+            "DefinedNames": "Nume definite",
+            "EnterTheTextToDisplay": "Introduceți textul de afișat",
+            "EnterTheUrl": "Introduceți adresa URL",
+            "INT": "Returnează un număr la cel mai apropiat număr întreg.",
+            "SUMPRODUCT": "Returnează suma produsului gamelor date de matrice.",
+            "TODAY": "Returnează data curentă ca valoare a datei.",
+            "ROUNDUP": "Rotunjește un număr de la zero.",
             "SelectBorderOption": "Selectați opțiunea de frontieră"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Alte domenii",
             "AND": "ȘI",
             "OR": "SAU",
-            "SelectValue": "Introduceți valoare"
+            "SelectValue": "Introduceți valoare",
+            "IsEmpty": "Este gol",
+            "IsNotEmpty": "Nu este gol",
+            "IsNull": "Este nul",
+            "IsNotNull": "Nu este nul",
+            "True": "Adevărat",
+            "False": "fals"
         },
         "grid": {
             "EmptyRecord": "Nu există înregistrări de afișat",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} din {1} pagini",
             "totalItemsInfo": "({0} articole)",
-            "totalItemInfo": "({0} articol)",
             "firstPageTooltip": "Accesați prima pagină",
             "lastPageTooltip": "Accesați ultima pagină",
             "nextPageTooltip": "Accesați pagina următoare",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Accesați pagina anterioară",
             "pagerDropDown": "articole pe pagină",
             "pagerAllDropDown": "Articole",
-            "All": "Toate"
+            "All": "Toate",
+            "totalItemInfo": "({0} articol)"
         },
         "calendar": {
             "today": "Astăzi"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Sarcina neatribuită",
             "group": "grup",
             "indent": "Indentați",
-            "outdent": "fără indentare"
+            "outdent": "fără indentare",
+            "segments": "Segmente",
+            "splitTask": "Sarcină împărțită",
+            "mergeTask": "Îmbinați sarcina",
+            "left": "Stânga",
+            "right": "Dreapta"
         },
         "dropdowns": {
             "noRecordsTemplate": "Nu au fost găsite",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Rundă",
             "Square Arrow": "Pătrat",
             "Diamond Arrow": "Diamant",
+            "Butt": "Fund",
             "Cut": "A tăia",
             "Paste": "Pastă",
             "Delete Context": "Șterge",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Acceptați modificările",
             "Reject Changes": "Respingeți modificările",
             "User": "Utilizator",
-            "View": "Vedere"
+            "View": "Vedere",
+            "Insertion": "Inserare",
+            "Deletion": "Ștergere",
+            "All caps": "Toate capacele",
+            "This region is locked by": "Această regiune este blocată de",
+            "Lock": "Lacăt",
+            "Unlock": "Deblocați",
+            "Already locked": "Selectat sau o parte a regiunii este deja blocată de un alt utilizator",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Formular text",
+            "Check Box": "Caseta de bifat",
+            "DropDown": "Scapă jos",
+            "Form Fields": "Câmpuri formular",
+            "Fillin enabled": "Completarea este activată"
         },
         "documenteditorcontainer": {
             "New": "Nou",
@@ -2438,7 +2523,13 @@
             "Check Box": "Caseta de bifat",
             "DropDown": "Scapă jos",
             "Update Fields": "Câmpuri de actualizare",
-            "Update cross reference fields": "Actualizați câmpurile de referință încrucișate"
+            "Update cross reference fields": "Actualizați câmpurile de referință încrucișate",
+            "Hide properties pane": "Ascundeți panoul de proprietăți",
+            "Show properties pane": "Afișați panoul de proprietăți",
+            "Form Fields": "Câmpuri formular",
+            "Track Changes": "Țineți evidența modificărilor făcute în document",
+            "TrackChanges": "Urmareste schimbarile",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "Închide"
@@ -2458,6 +2549,12 @@
             "yes": "da",
             "no": "Nu",
             "close": "Închide"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Nu au fost găsite",
+            "actionFailureTemplate": "Cerere nereusita",
+            "overflowCountTemplate": "+ $ {count} mai mult ..",
+            "totalCountTemplate": "$ {count} selectat"
         }
     }
 }

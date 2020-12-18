@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "اگر پسوند نام پرونده را تغییر دهید ، ممکن است پرونده ناپایدار شود. آیا مطمئن هستید که می خواهید آن را تغییر دهید؟",
             "Header-Delete": "حذف پرونده",
             "Content-Delete": "مطمئن هستید که می خواهید این پرونده را حذف کنید؟",
+            "Header-Folder-Delete": "حذف پوشه",
+            "Content-Folder-Delete": "آیا مطمئن هستید که می خواهید این پوشه را حذف کنید؟",
             "Header-Multiple-Delete": "چندین فایل را حذف کنید",
             "Content-Multiple-Delete": "آیا مطمئن هستید که می خواهید این پرونده های {0 delete را حذف کنید؟",
             "Header-Duplicate": "پرونده / پوشه وجود دارد",
@@ -704,7 +706,9 @@
             "cleanFormat": "تمیز",
             "keepFormat": "نگاه داشتن",
             "pasteDialogOk": "خوب",
-            "pasteDialogCancel": "لغو"
+            "pasteDialogCancel": "لغو",
+            "fileManager": "مدیر پرونده",
+            "fileDialogHeader": "مرورگر فایل"
         },
         "diagram": {
             "Copy": "کپی 🀄",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "فیلترهای DateTime",
             "Undo": "واگرد",
             "Redo": "مجدداً",
+            "ClearAllFilter": "پاک کردن",
+            "ReapplyFilter": "دوباره درخواست کنید",
             "DateFilter": "فیلترهای تاریخ",
             "TextFilter": "فیلترهای متن",
             "NumberFilter": "شماره فیلترها",
@@ -1329,6 +1335,56 @@
             "LOG": "لگاریتم یک عدد را به پایه ای که مشخص کرده اید برمی گرداند.",
             "TRUNC": "مقدار کوتاه شده یک عدد را به تعداد مشخصی از مکانهای اعشار برمی گرداند.",
             "EXP": "برمی گرداند به قدرت عدد داده شده.",
+            "HighlightCellsRules": "قوانین سلول را برجسته کنید",
+            "CFEqualTo": "مساوی با",
+            "TextThatContains": "متن حاوی",
+            "ADateOccuring": "تاریخ وقوع",
+            "DuplicateValues": "مقادیر تکراری",
+            "TopBottomRules": "قوانین بالا / پایین",
+            "Top10Items": "10 مورد برتر",
+            "Top10": "10 برتر",
+            "Bottom10Items": "پایین 10 مورد",
+            "Bottom10": "پایین 10",
+            "AboveAverage": "بالاتر از میانگین",
+            "BelowAverage": "زیر میانگین",
+            "FormatCellsGreaterThan": "سلول های بزرگتر از این را فرمت کنید:",
+            "FormatCellsLessThan": "سلول هایی را که کمتر از آن هستند فرمت کنید:",
+            "FormatCellsBetween": "سلول هایی را که در میان هستند فرمت کنید:",
+            "FormatCellsEqualTo": "سلول هایی را که برابر هستند فرمت کنید:",
+            "FormatCellsThatContainTheText": "سلول هایی را که حاوی متن هستند قالب بندی کنید:",
+            "FormatCellsThatContainADateOccurring": "سلول هایی را که حاوی تاریخ وقوع هستند قالب بندی کنید:",
+            "FormatCellsDuplicate": "سلول هایی را که شامل موارد زیر است را قالب بندی کنید:",
+            "FormatCellsTop": "سلول هایی را که در TOP رتبه بندی می شوند قالب بندی کنید:",
+            "FormatCellsBottom": "سلول هایی را که در پایین قرار می گیرند قالب بندی کنید:",
+            "FormatCellsAbove": "سلولهایی را که بالای AVERAGE هستند فرمت کنید:",
+            "FormatCellsBelow": "سلولهایی را که در زیر میانگین هستند فرمت کنید:",
+            "With": "با",
+            "DataBars": "نوارهای داده",
+            "ColorScales": "مقیاس های رنگی",
+            "IconSets": "مجموعه نمادها",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "قوانین را از سلولهای انتخاب شده پاک کنید",
+            "EntireSheet": "قوانین را از صفحه کامل پاک کنید",
+            "LightRedFillWithDarkRedText": "قرمز روشن پر از متن قرمز تیره",
+            "YellowFillWithDarkYellowText": "زرد را با متن زرد تیره پر کنید",
+            "GreenFillWithDarkGreenText": "سبز را با متن سبز تیره پر کنید",
+            "RedFill": "پر کردن قرمز",
+            "RedText": "متن قرمز",
+            "Duplicate": "کپی کردن",
+            "Unique": "منحصر بفرد",
+            "And": "و",
+            "WebPage": "صفحه وب",
+            "ThisDocument": "این سند",
+            "DisplayText": "نمایش متن",
+            "Url": "آدرس اینترنتی",
+            "CellReference": "مرجع سلول",
+            "DefinedNames": "نامهای تعریف شده",
+            "EnterTheTextToDisplay": "متن را برای نمایش وارد کنید",
+            "EnterTheUrl": "URL را وارد کنید",
+            "INT": "یک عدد را به نزدیکترین عدد صحیح برمی گرداند.",
+            "SUMPRODUCT": "مجموع حاصل از بازه های داده شده از آرایه ها را برمی گرداند.",
+            "TODAY": "تاریخ فعلی را به عنوان مقدار تاریخ برمی گرداند.",
+            "ROUNDUP": "دور از صفر عددی را جمع می کند.",
             "SelectBorderOption": "گزینه Border را انتخاب کنید"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "زمینه های دیگر",
             "AND": "و",
             "OR": "یا",
-            "SelectValue": "مقدار را وارد کنید"
+            "SelectValue": "مقدار را وارد کنید",
+            "IsEmpty": "خالی است",
+            "IsNotEmpty": "خالی نیست",
+            "IsNull": "پوچ است",
+            "IsNotNull": "پوچ نیست",
+            "True": "درست است، واقعی",
+            "False": "نادرست"
         },
         "grid": {
             "EmptyRecord": "هیچ پرونده برای نمایش نیست",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} از 1 {صفحه",
             "totalItemsInfo": "({0} مورد)",
-            "totalItemInfo": "({0} مورد)",
             "firstPageTooltip": "به صفحه اول بروید",
             "lastPageTooltip": "به صفحه آخر بروید",
             "nextPageTooltip": "به صفحه بعد بروید",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "به صفحه پیج قبلی بروید",
             "pagerDropDown": "موارد در هر صفحه",
             "pagerAllDropDown": "موارد",
-            "All": "همه"
+            "All": "همه",
+            "totalItemInfo": "({0} مورد)"
         },
         "calendar": {
             "today": "امروز"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "وظیفه منصوب نشده",
             "group": "گروه",
             "indent": "تورفتگی",
-            "outdent": "قدیمی"
+            "outdent": "قدیمی",
+            "segments": "بخشها",
+            "splitTask": "تقسیم وظیفه",
+            "mergeTask": "ادغام وظیفه",
+            "left": "ترک کرد",
+            "right": "درست"
         },
         "dropdowns": {
             "noRecordsTemplate": "هیچ سابقه ای یافت نشد",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "دور",
             "Square Arrow": "مربع",
             "Diamond Arrow": "الماس",
+            "Butt": "باسن",
             "Cut": "قطع كردن",
             "Paste": "چسباندن",
             "Delete Context": "حذف",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "تغییرات را بپذیرید",
             "Reject Changes": "تغییرات را رد کنید",
             "User": "کاربر",
-            "View": "چشم انداز"
+            "View": "چشم انداز",
+            "Insertion": "درج کردن",
+            "Deletion": "حذف",
+            "All caps": "همه کلاه",
+            "This region is locked by": "این منطقه توسط قفل شده است",
+            "Lock": "قفل کردن",
+            "Unlock": "باز کردن قفل",
+            "Already locked": "منطقه انتخاب شده یا بخشی از آن توسط کاربر دیگری قفل شده است",
+            "1, 2, 3, ...": "1 ، 2 ، 3 ، ...",
+            "a, b, c, ...": "a ، b ، c ، ...",
+            "A, B, C, ...": "A ، B ، C ، ...",
+            "I, II, III, ...": "من ، دوم ، سوم ، ...",
+            "i, ii, iii, ...": "من ، ii ، iii ، ...",
+            "Text Form": "فرم متن",
+            "Check Box": "جعبه را علامت بزنید",
+            "DropDown": "کشویی",
+            "Form Fields": "قسمتهای فرم",
+            "Fillin enabled": "پر کردن فعال است"
         },
         "documenteditorcontainer": {
             "New": "جدید",
@@ -2438,7 +2523,13 @@
             "Check Box": "جعبه چک",
             "DropDown": "رها کردن",
             "Update Fields": "زمینه ها را به روز کنید",
-            "Update cross reference fields": "زمینه های مرجع متقابل را به روز کنید"
+            "Update cross reference fields": "زمینه های مرجع متقابل را به روز کنید",
+            "Hide properties pane": "پنهان کردن بخش خصوصیات",
+            "Show properties pane": "نمایش پنجره خواص",
+            "Form Fields": "قسمتهای فرم",
+            "Track Changes": "تغییرات ایجاد شده در سند را پیگیری کنید",
+            "TrackChanges": "تغییرات مسیر",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "نزدیک"
@@ -2458,6 +2549,12 @@
             "yes": "آره",
             "no": "نه",
             "close": "نزدیک"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "هیچ سوابقی یافت نشد",
+            "actionFailureTemplate": "درخواست ناموفق بود",
+            "overflowCountTemplate": "+ $ {count} بیشتر ..",
+            "totalCountTemplate": "$ {count} انتخاب شد"
         }
     }
 }

@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Hvis du endrer filnavnet, kan filen bli ustabil. Er du sikker på at du vil endre det?",
             "Header-Delete": "Slett fil",
             "Content-Delete": "Er du sikker på at du vil slette denne filen?",
+            "Header-Folder-Delete": "Slett mappe",
+            "Content-Folder-Delete": "Er du sikker på at du vil slette denne mappen?",
             "Header-Multiple-Delete": "Slette flere filer",
             "Content-Multiple-Delete": "Er du sikker på at du vil slette disse {0} filene?",
             "Header-Duplicate": "Fil / mappe finnes",
@@ -704,7 +706,9 @@
             "cleanFormat": "Ren",
             "keepFormat": "Beholde",
             "pasteDialogOk": "OK",
-            "pasteDialogCancel": "Avbryt"
+            "pasteDialogCancel": "Avbryt",
+            "fileManager": "Filbehandler",
+            "fileDialogHeader": "Fil utforsker"
         },
         "diagram": {
             "Copy": "Kopiere",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "DateTime-filtre",
             "Undo": "Angre",
             "Redo": "Gjøre om",
+            "ClearAllFilter": "Klar",
+            "ReapplyFilter": "Søk på nytt",
             "DateFilter": "Datofiltre",
             "TextFilter": "Tekstfiltre",
             "NumberFilter": "Antall filtre",
@@ -1329,6 +1335,56 @@
             "LOG": "Returnerer logaritmen til et nummer til basen du angir.",
             "TRUNC": "Returnerer den avkortede verdien til et tall til et spesifisert antall desimaler.",
             "EXP": "Returnerer e hevet til kraften til det gitte tallet.",
+            "HighlightCellsRules": "Marker celleregler",
+            "CFEqualTo": "Lik",
+            "TextThatContains": "Tekst som inneholder",
+            "ADateOccuring": "En dato som skjer",
+            "DuplicateValues": "Dupliserte verdier",
+            "TopBottomRules": "Topp / bunnregler",
+            "Top10Items": "Topp 10 varer",
+            "Top10": "Topp 10",
+            "Bottom10Items": "Bunn 10 elementer",
+            "Bottom10": "Bunn 10",
+            "AboveAverage": "Over gjennomsnittet",
+            "BelowAverage": "Under gjennomsnittet",
+            "FormatCellsGreaterThan": "Formater celler som er STØRRE ENN:",
+            "FormatCellsLessThan": "Formater celler som er MINDRE ENN:",
+            "FormatCellsBetween": "Formater celler som er MELLOM:",
+            "FormatCellsEqualTo": "Formater celler som er LIKE MED:",
+            "FormatCellsThatContainTheText": "Formater celler som inneholder teksten:",
+            "FormatCellsThatContainADateOccurring": "Formater celler som inneholder en dato som forekommer:",
+            "FormatCellsDuplicate": "Formater celler som inneholder:",
+            "FormatCellsTop": "Formater celler som rangeres i TOPPEN:",
+            "FormatCellsBottom": "Formater celler som rangeres i BUNN:",
+            "FormatCellsAbove": "Formater celler som er GJENNOMSNITT:",
+            "FormatCellsBelow": "Formater celler som er NEDER GJENNOMSNITT:",
+            "With": "med",
+            "DataBars": "Datastenger",
+            "ColorScales": "Fargeskalaer",
+            "IconSets": "Ikonsett",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Fjern regler fra valgte celler",
+            "EntireSheet": "Fjern regler fra hele arket",
+            "LightRedFillWithDarkRedText": "Lysrød fyll med mørkerød tekst",
+            "YellowFillWithDarkYellowText": "Gul fylling med mørk gul tekst",
+            "GreenFillWithDarkGreenText": "Grønn fylling med mørkegrønn tekst",
+            "RedFill": "Rød fyll",
+            "RedText": "Rød tekst",
+            "Duplicate": "Duplisere",
+            "Unique": "Unik",
+            "And": "og",
+            "WebPage": "NETTSIDE",
+            "ThisDocument": "DETTE DOKUMENTET",
+            "DisplayText": "Vis tekst",
+            "Url": "URL",
+            "CellReference": "Cellereferanse",
+            "DefinedNames": "Definerte navn",
+            "EnterTheTextToDisplay": "Skriv inn teksten som skal vises",
+            "EnterTheUrl": "Skriv inn nettadressen",
+            "INT": "Returnerer et tall til nærmeste heltall.",
+            "SUMPRODUCT": "Returnerer summen av produktet av gitte rekkevidden av matriser.",
+            "TODAY": "Returnerer gjeldende dato som datoverdi.",
+            "ROUNDUP": "Avrunder et tall fra null.",
             "SelectBorderOption": "Velg grensealternativ"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Andre felt",
             "AND": "OG",
             "OR": "ELLER",
-            "SelectValue": "Angi verdi"
+            "SelectValue": "Angi verdi",
+            "IsEmpty": "Er tom",
+            "IsNotEmpty": "Er ikke tom",
+            "IsNull": "Er Null",
+            "IsNotNull": "Er ikke null",
+            "True": "ekte",
+            "False": "falsk"
         },
         "grid": {
             "EmptyRecord": "Ingen oppføringer å vise",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} av {1} sider",
             "totalItemsInfo": "({0} elementer)",
-            "totalItemInfo": "({0} punkt)",
             "firstPageTooltip": "Gå til første side",
             "lastPageTooltip": "Gå til siste side",
             "nextPageTooltip": "Gå til neste side",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Gå til forrige personsøker",
             "pagerDropDown": "Elementer per side",
             "pagerAllDropDown": "elementer",
-            "All": "Alle"
+            "All": "Alle",
+            "totalItemInfo": "({0} punkt)"
         },
         "calendar": {
             "today": "I dag"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Ikke tilordnet oppgave",
             "group": "Gruppe",
             "indent": "innrykk",
-            "outdent": "Reduser innrykk"
+            "outdent": "Reduser innrykk",
+            "segments": "Segmenter",
+            "splitTask": "Delt oppgave",
+            "mergeTask": "Flett oppgave",
+            "left": "Venstre",
+            "right": "Ikke sant"
         },
         "dropdowns": {
             "noRecordsTemplate": "Ingen opptak funnet",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Rund",
             "Square Arrow": "Torget",
             "Diamond Arrow": "Diamant",
+            "Butt": "Butt",
             "Cut": "Kutte opp",
             "Paste": "Lim inn",
             "Delete Context": "Slett",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Godta endringer",
             "Reject Changes": "Avvis endringer",
             "User": "Bruker",
-            "View": "Utsikt"
+            "View": "Utsikt",
+            "Insertion": "Innsetting",
+            "Deletion": "Sletting",
+            "All caps": "Alle caps",
+            "This region is locked by": "Denne regionen er låst av",
+            "Lock": "Låse",
+            "Unlock": "Låse opp",
+            "Already locked": "Valgt eller en del av regionen er allerede låst av en annen bruker",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Tekstskjema",
+            "Check Box": "Merk av",
+            "DropDown": "Fall ned",
+            "Form Fields": "Skjemafelt",
+            "Fillin enabled": "Innfylling aktivert"
         },
         "documenteditorcontainer": {
             "New": "Ny",
@@ -2438,7 +2523,13 @@
             "Check Box": "Avkrysningsrute",
             "DropDown": "Fall ned",
             "Update Fields": "Oppdater felt",
-            "Update cross reference fields": "Oppdater kryssreferansefelt"
+            "Update cross reference fields": "Oppdater kryssreferansefelt",
+            "Hide properties pane": "Skjul egenskapsruten",
+            "Show properties pane": "Vis ruten for egenskaper",
+            "Form Fields": "Skjemafelt",
+            "Track Changes": "Hold rede på endringene som er gjort i dokumentet",
+            "TrackChanges": "Spor endringer",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "Lukk"
@@ -2458,6 +2549,12 @@
             "yes": "Ja",
             "no": "Nei",
             "close": "Lukk"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Ingen opptak funnet",
+            "actionFailureTemplate": "Forespørsel feilet",
+            "overflowCountTemplate": "+ $ {count} til ..",
+            "totalCountTemplate": "$ {count} valgt"
         }
     }
 }

@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Ako promijenite proširenje naziva datoteke, datoteka može postati nestabilna. Jeste li sigurni da želite to promijeniti?",
             "Header-Delete": "Izbrisati dateoteku",
             "Content-Delete": "Jeste li sigurni da želite izbrisati ovu datoteku?",
+            "Header-Folder-Delete": "Izbriši mapo",
+            "Content-Folder-Delete": "Ali ste prepričani, da želite izbrisati to mapo?",
             "Header-Multiple-Delete": "Brisanje više datoteka",
             "Content-Multiple-Delete": "Jeste li sigurni da želite izbrisati ove datoteke {0}?",
             "Header-Duplicate": "Datoteka / mapa postoje",
@@ -704,7 +706,9 @@
             "cleanFormat": "Čist",
             "keepFormat": "Zadržati",
             "pasteDialogOk": "u redu",
-            "pasteDialogCancel": "Otkazati"
+            "pasteDialogCancel": "Otkazati",
+            "fileManager": "Upravitelj datotek",
+            "fileDialogHeader": "Brskalnik datotek"
         },
         "diagram": {
             "Copy": "Kopirati",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "DateTime filteri",
             "Undo": "Poništi",
             "Redo": "Ponovi",
+            "ClearAllFilter": "Jasno",
+            "ReapplyFilter": "Ponovno se prijavi",
             "DateFilter": "Filteri datuma",
             "TextFilter": "Tekstualni filtri",
             "NumberFilter": "Filtri brojeva",
@@ -1329,6 +1335,56 @@
             "LOG": "Vraća logaritam broja na bazu koju ste odredili.",
             "TRUNC": "Vraća skraćenu vrijednost broja na određeni broj decimalnih mjesta.",
             "EXP": "Vraća e podignute na snagu zadanog broja.",
+            "HighlightCellsRules": "Označite pravila celic",
+            "CFEqualTo": "Enako",
+            "TextThatContains": "Besedilo, ki vsebuje",
+            "ADateOccuring": "Datum dogodka",
+            "DuplicateValues": "Podvojene vrednosti",
+            "TopBottomRules": "Pravila zgoraj / spodaj",
+            "Top10Items": "Top 10 predmetov",
+            "Top10": "Top 10",
+            "Bottom10Items": "Spodnjih 10 predmetov",
+            "Bottom10": "Spodaj 10",
+            "AboveAverage": "Nad povprečjem",
+            "BelowAverage": "Pod povprečjem",
+            "FormatCellsGreaterThan": "Formatirajte celice, VELIKE OD KOT:",
+            "FormatCellsLessThan": "Oblikujte celice, KI SO MANJ KOT:",
+            "FormatCellsBetween": "Oblikujte celice, ki so MED:",
+            "FormatCellsEqualTo": "Oblikujte celice, KI SO ENAKE:",
+            "FormatCellsThatContainTheText": "Oblikujte celice, ki vsebujejo besedilo:",
+            "FormatCellsThatContainADateOccurring": "Oblikujte celice, ki vsebujejo datum, ki se zgodi:",
+            "FormatCellsDuplicate": "Oblikujte celice, ki vsebujejo:",
+            "FormatCellsTop": "Oblikujte celice, ki se uvrstijo na vrh:",
+            "FormatCellsBottom": "Oblikujte celice, ki se uvrščajo na DNO:",
+            "FormatCellsAbove": "Formatirajte celice, KI SO SPREJ POVPREJ:",
+            "FormatCellsBelow": "Oblikujte celice, ki so SPLEDNJE:",
+            "With": "s",
+            "DataBars": "Podatkovne vrstice",
+            "ColorScales": "Barvne lestvice",
+            "IconSets": "Nabori ikon",
+            "ClearRules": "ClearPravila",
+            "SelectedCells": "Izbriši pravila iz izbranih celic",
+            "EntireSheet": "Izbriši pravila iz celotnega lista",
+            "LightRedFillWithDarkRedText": "Svetlo rdeča barva s temno rdečim besedilom",
+            "YellowFillWithDarkYellowText": "Rumeno polnilo s temno rumenim besedilom",
+            "GreenFillWithDarkGreenText": "Zelena barva s temno zelenim besedilom",
+            "RedFill": "Red Fill",
+            "RedText": "Rdeče besedilo",
+            "Duplicate": "Dvojnik",
+            "Unique": "Edinstven",
+            "And": "in",
+            "WebPage": "SPLETNA STRAN",
+            "ThisDocument": "TA DOKUMENT",
+            "DisplayText": "Prikaži besedilo",
+            "Url": "URL",
+            "CellReference": "Referenca na celico",
+            "DefinedNames": "Določena imena",
+            "EnterTheTextToDisplay": "Vnesite besedilo za prikaz",
+            "EnterTheUrl": "Vnesite URL",
+            "INT": "Vrne številko na najbližje celo število.",
+            "SUMPRODUCT": "Vrne vsoto zmnožka danih obsegov nizov.",
+            "TODAY": "Vrne trenutni datum kot vrednost datuma.",
+            "ROUNDUP": "Zaokroži število stran od nič.",
             "SelectBorderOption": "Odaberite Ograničena opcija"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Ostala polja",
             "AND": "I",
             "OR": "ILI",
-            "SelectValue": "Unesite vrijednost"
+            "SelectValue": "Unesite vrijednost",
+            "IsEmpty": "Je prazno",
+            "IsNotEmpty": "Ni prazno",
+            "IsNull": "Je Null",
+            "IsNotNull": "Ni nulen",
+            "True": "prav",
+            "False": "napačno"
         },
         "grid": {
             "EmptyRecord": "Nema zapisa za prikaz",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} od {1} stranica",
             "totalItemsInfo": "({0} predmeta)",
-            "totalItemInfo": "({0} predmeta)",
             "firstPageTooltip": "Idite na prvu stranicu",
             "lastPageTooltip": "Idite na zadnju stranicu",
             "nextPageTooltip": "Prijeđite na sljedeću stranicu",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Idite na prethodni dojavljivač",
             "pagerDropDown": "stavke po stranici",
             "pagerAllDropDown": "stavke",
-            "All": "svi"
+            "All": "svi",
+            "totalItemInfo": "({0} predmeta)"
         },
         "calendar": {
             "today": "Danas"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Neodređeni zadatak",
             "group": "Skupina",
             "indent": "uvući",
-            "outdent": "Izvuci"
+            "outdent": "Izvuci",
+            "segments": "Segmenti",
+            "splitTask": "Razdeljena naloga",
+            "mergeTask": "Združi nalogo",
+            "left": "Levo",
+            "right": "Prav"
         },
         "dropdowns": {
             "noRecordsTemplate": "Nije pronađen niti jedan zapis",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Krug",
             "Square Arrow": "Kvadrat",
             "Diamond Arrow": "Dijamant",
+            "Butt": "Butt",
             "Cut": "Izrezati",
             "Paste": "Zalijepiti",
             "Delete Context": "Izbrisati",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Prihvatite promjene",
             "Reject Changes": "Odbaci promjene",
             "User": "Korisnik",
-            "View": "Pogled"
+            "View": "Pogled",
+            "Insertion": "Vstavitev",
+            "Deletion": "Izbris",
+            "All caps": "Vse kape",
+            "This region is locked by": "Ta regija je zaklenjena z",
+            "Lock": "Zakleni",
+            "Unlock": "Odkleni",
+            "Already locked": "Izbrani ali del regije je že zaklenil drug uporabnik",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Besedilni obrazec",
+            "Check Box": "Potrditveno polje",
+            "DropDown": "Spustni meni",
+            "Form Fields": "Polja obrazca",
+            "Fillin enabled": "Izpolnjevanje omogočeno"
         },
         "documenteditorcontainer": {
             "New": "Novi",
@@ -2438,7 +2523,13 @@
             "Check Box": "Potvrdni okvir",
             "DropDown": "Padajući",
             "Update Fields": "Ažurirajte polja",
-            "Update cross reference fields": "Ažurirajte unakrsna polja"
+            "Update cross reference fields": "Ažurirajte unakrsna polja",
+            "Hide properties pane": "Skrij podokno z lastnostmi",
+            "Show properties pane": "Pokaži podokno lastnosti",
+            "Form Fields": "Polja obrazca",
+            "Track Changes": "Spremljajte spremembe v dokumentu",
+            "TrackChanges": "Sledi spremembam",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "Zatvoriti"
@@ -2458,6 +2549,12 @@
             "yes": "Da",
             "no": "Ne",
             "close": "Zatvoriti"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Ni najdenih zapisov",
+            "actionFailureTemplate": "Zahteva ni uspela",
+            "overflowCountTemplate": "+ $ {count} več ..",
+            "totalCountTemplate": "$ {count} je izbrano"
         }
     }
 }

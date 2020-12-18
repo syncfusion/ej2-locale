@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Jos muutat tiedostotunnistetta, tiedosto saattaa tulla epävakaa. Haluatko varmasti muuttaa sen?",
             "Header-Delete": "Poista tiedosto",
             "Content-Delete": "Haluatko varmasti poistaa tämän tiedoston?",
+            "Header-Folder-Delete": "Poista kansio",
+            "Content-Folder-Delete": "Haluatko varmasti poistaa tämän kansion?",
             "Header-Multiple-Delete": "Poista useita tiedostoja",
             "Content-Multiple-Delete": "Haluatko varmasti poistaa nämä {0} tiedostot?",
             "Header-Duplicate": "Tiedosto / kansio on olemassa",
@@ -704,7 +706,9 @@
             "cleanFormat": "Puhdas",
             "keepFormat": "Pitää",
             "pasteDialogOk": "kunnossa",
-            "pasteDialogCancel": "Peruuttaa"
+            "pasteDialogCancel": "Peruuttaa",
+            "fileManager": "Tiedostonhallinta",
+            "fileDialogHeader": "Tiedostoselain"
         },
         "diagram": {
             "Copy": "Kopio",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "DateTime-suodattimet",
             "Undo": "Kumoa",
             "Redo": "Toista",
+            "ClearAllFilter": "Asia selvä",
+            "ReapplyFilter": "Käytä uudelleen",
             "DateFilter": "Päivämäärän suodattimet",
             "TextFilter": "Tekstisuodattimet",
             "NumberFilter": "Numerosuodattimet",
@@ -1329,6 +1335,56 @@
             "LOG": "لگاریتم یک عدد را به پایه ای که مشخص کرده اید برمی گرداند.",
             "TRUNC": "مقدار کوتاه شده یک عدد را به تعداد مشخصی از مکانهای اعشار برمی گرداند.",
             "EXP": "برمی گرداند به قدرت عدد داده شده.",
+            "HighlightCellsRules": "Korosta solujen säännöt",
+            "CFEqualTo": "Yhtä kuin",
+            "TextThatContains": "Sisältää tekstiä",
+            "ADateOccuring": "Päivämäärä",
+            "DuplicateValues": "Päällekkäiset arvot",
+            "TopBottomRules": "Ylä- / ala-säännöt",
+            "Top10Items": "10 parasta tuotetta",
+            "Top10": "10 parasta",
+            "Bottom10Items": "10 alaosaa",
+            "Bottom10": "Pohja 10",
+            "AboveAverage": "Keskiverron yläpuolella",
+            "BelowAverage": "Keskiarvon alapuolella",
+            "FormatCellsGreaterThan": "Alusta solut, jotka ovat suurempia kuin:",
+            "FormatCellsLessThan": "Alusta solut, jotka ovat VÄHÄN:",
+            "FormatCellsBetween": "Alusta solut, jotka ovat VÄLILLÄ:",
+            "FormatCellsEqualTo": "Alusta solut, jotka ovat EQUAL TO:",
+            "FormatCellsThatContainTheText": "Muotoile solut, jotka sisältävät tekstin:",
+            "FormatCellsThatContainADateOccurring": "Muotoile solut, jotka sisältävät esiintyvän päivämäärän:",
+            "FormatCellsDuplicate": "Alusta solut, jotka sisältävät:",
+            "FormatCellsTop": "Alusta TOP-listalla olevat solut:",
+            "FormatCellsBottom": "Muotoile solut, jotka sijoittuvat alareunaan:",
+            "FormatCellsAbove": "Muotoile keskiarvon yläpuolella olevat solut:",
+            "FormatCellsBelow": "Alusta keskiarvon alapuolella olevat solut:",
+            "With": "kanssa",
+            "DataBars": "Datapalkit",
+            "ColorScales": "Värivaa'at",
+            "IconSets": "Kuvakejoukot",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Tyhjennä säännöt valituista soluista",
+            "EntireSheet": "Tyhjennä säännöt koko taulukosta",
+            "LightRedFillWithDarkRedText": "Vaaleanpunainen Täytä tummanpunaisella tekstillä",
+            "YellowFillWithDarkYellowText": "Keltainen Täytä tumman keltaisella tekstillä",
+            "GreenFillWithDarkGreenText": "Vihreä Täytä tummanvihreällä tekstillä",
+            "RedFill": "Punainen täyttö",
+            "RedText": "Punainen teksti",
+            "Duplicate": "Kopioi",
+            "Unique": "Ainutlaatuinen",
+            "And": "ja",
+            "WebPage": "NETTISIVU",
+            "ThisDocument": "TÄMÄ ASIAKIRJA",
+            "DisplayText": "Näytä teksti",
+            "Url": "URL",
+            "CellReference": "Soluviite",
+            "DefinedNames": "Määritetyt nimet",
+            "EnterTheTextToDisplay": "Kirjoita näytettävä teksti",
+            "EnterTheUrl": "Kirjoita URL-osoite",
+            "INT": "Palauttaa luvun lähimpään kokonaislukuun.",
+            "SUMPRODUCT": "Palauttaa annettujen matriisialueiden tulon summan.",
+            "TODAY": "Palauttaa nykyisen päivämäärän päivämääräarvona.",
+            "ROUNDUP": "Pyöristää luvun pois nollasta.",
             "SelectBorderOption": "Valitse Reunavaihtoehto"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Muut kentät",
             "AND": "JA",
             "OR": "TAI",
-            "SelectValue": "Anna arvo"
+            "SelectValue": "Anna arvo",
+            "IsEmpty": "On tyhjä",
+            "IsNotEmpty": "Ei ole tyhjä",
+            "IsNull": "Onko Null",
+            "IsNotNull": "Ei ole tyhjä",
+            "True": "totta",
+            "False": "väärä"
         },
         "grid": {
             "EmptyRecord": "Ei näytettäviä tietueita",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} {1} sivusta",
             "totalItemsInfo": "({0} tuotetta)",
-            "totalItemInfo": "({0} tuotetta)",
             "firstPageTooltip": "Siirry ensimmäiselle sivulle",
             "lastPageTooltip": "Siirry viimeiselle sivulle",
             "nextPageTooltip": "Siirry seuraavalle sivulle",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Siirry edelliseen hakulaitteeseen",
             "pagerDropDown": "Tuotteita sivua kohden",
             "pagerAllDropDown": "Tuotteet",
-            "All": "Kaikki"
+            "All": "Kaikki",
+            "totalItemInfo": "({0} tuotetta)"
         },
         "calendar": {
             "today": "Tänään"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Määrittämätön tehtävä",
             "group": "Ryhmä",
             "indent": "تورفتگی",
-            "outdent": "قدیمی"
+            "outdent": "قدیمی",
+            "segments": "Segmentit",
+            "splitTask": "Jaettu tehtävä",
+            "mergeTask": "Yhdistä tehtävä",
+            "left": "Vasen",
+            "right": "Aivan"
         },
         "dropdowns": {
             "noRecordsTemplate": "Merkintöjä ei löydy",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Pyöristää",
             "Square Arrow": "Neliö",
             "Diamond Arrow": "Timantti",
+            "Butt": "Butt",
             "Cut": "Leikata",
             "Paste": "liitä",
             "Delete Context": "Poistaa",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "تغییرات را بپذیرید",
             "Reject Changes": "تغییرات را رد کنید",
             "User": "کاربر",
-            "View": "چشم انداز"
+            "View": "چشم انداز",
+            "Insertion": "Lisäys",
+            "Deletion": "Poistaminen",
+            "All caps": "Kaikki korkit",
+            "This region is locked by": "Tämä alue on lukittu",
+            "Lock": "Lukko",
+            "Unlock": "Avata",
+            "Already locked": "Toinen käyttäjä on jo lukinnut valitun tai alueen osan",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Tekstilomake",
+            "Check Box": "Valintaruutu",
+            "DropDown": "Pudota alas",
+            "Form Fields": "Lomakekentät",
+            "Fillin enabled": "Täyttö käytössä"
         },
         "documenteditorcontainer": {
             "New": "Uusi",
@@ -2438,7 +2523,13 @@
             "Check Box": "Valintaruutu",
             "DropDown": "Pudota alas",
             "Update Fields": "Päivitä kentät",
-            "Update cross reference fields": "Päivitä ristiviittauskentät"
+            "Update cross reference fields": "Päivitä ristiviittauskentät",
+            "Hide properties pane": "Piilota ominaisuudet -ruutu",
+            "Show properties pane": "Näytä ominaisuudet -ruutu",
+            "Form Fields": "Lomakekentät",
+            "Track Changes": "Seuraa dokumentissa tehtyjä muutoksia",
+            "TrackChanges": "Jäljitä muutokset",
+            "AllCaps": "Kaikki korkit"
         },
         "toast": {
             "close": "kiinni"
@@ -2458,6 +2549,12 @@
             "yes": "Joo",
             "no": "Ei",
             "close": "نزدیک"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Merkintöjä ei löydy",
+            "actionFailureTemplate": "Pyyntö epäonnistui",
+            "overflowCountTemplate": "+ $ {count} muuta ..",
+            "totalCountTemplate": "$ {count} valittu"
         }
     }
 }

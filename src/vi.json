@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Nếu bạn thay đổi phần mở rộng tên tệp, tệp có thể không ổn định. Bạn có chắc chắn muốn thay đổi nó?",
             "Header-Delete": "Xóa tài liệu",
             "Content-Delete": "Bạn có chắc chắn muốn xóa tập tin này?",
+            "Header-Folder-Delete": "Xóa thư mục",
+            "Content-Folder-Delete": "Bạn có chắc chắn muốn xóa thư mục này không?",
             "Header-Multiple-Delete": "Xóa nhiều tập tin",
             "Content-Multiple-Delete": "Bạn có chắc chắn muốn xóa các tệp {0} này không?",
             "Header-Duplicate": "Tệp / Thư mục tồn tại",
@@ -704,7 +706,9 @@
             "cleanFormat": "Dọn dẹp",
             "keepFormat": "Giữ",
             "pasteDialogOk": "đồng ý",
-            "pasteDialogCancel": "Hủy bỏ"
+            "pasteDialogCancel": "Hủy bỏ",
+            "fileManager": "Quản lý tập tin",
+            "fileDialogHeader": "Trình duyệt tệp"
         },
         "diagram": {
             "Copy": "Sao chép",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "Bộ lọc DateTime",
             "Undo": "Hoàn tác",
             "Redo": "Làm lại",
+            "ClearAllFilter": "Thông thoáng",
+            "ReapplyFilter": "Áp dụng lại",
             "DateFilter": "Bộ lọc ngày",
             "TextFilter": "Bộ lọc văn bản",
             "NumberFilter": "Bộ lọc số",
@@ -1329,6 +1335,56 @@
             "LOG": "Trả về logarit của một số cho cơ sở mà bạn chỉ định.",
             "TRUNC": "Trả về giá trị rút gọn của một số cho một số vị trí thập phân được chỉ định.",
             "EXP": "Trả về e tăng lên sức mạnh của số đã cho.",
+            "HighlightCellsRules": "Làm nổi bật Quy tắc ô",
+            "CFEqualTo": "Tương đương với",
+            "TextThatContains": "Văn bản Chứa",
+            "ADateOccuring": "Một ngày xảy ra",
+            "DuplicateValues": "Giá trị trùng lặp",
+            "TopBottomRules": "Quy tắc Trên cùng / Dưới cùng",
+            "Top10Items": "10 mặt hàng hàng đầu",
+            "Top10": "Tôp 10",
+            "Bottom10Items": "10 mục dưới cùng",
+            "Bottom10": "Dưới cùng 10",
+            "AboveAverage": "Trên mức trung bình",
+            "BelowAverage": "Dưới trung bình",
+            "FormatCellsGreaterThan": "Định dạng ô TUYỆT VỜI HƠN:",
+            "FormatCellsLessThan": "Định dạng ô ÍT HƠN:",
+            "FormatCellsBetween": "Định dạng các ô GIỮA:",
+            "FormatCellsEqualTo": "Định dạng các ô BẰNG NHAU:",
+            "FormatCellsThatContainTheText": "Định dạng các ô có chứa văn bản:",
+            "FormatCellsThatContainADateOccurring": "Định dạng các ô có chứa ngày tháng xảy ra:",
+            "FormatCellsDuplicate": "Định dạng các ô chứa:",
+            "FormatCellsTop": "Định dạng các ô xếp hạng trong TOP:",
+            "FormatCellsBottom": "Định dạng các ô xếp hạng trong BOTTOM:",
+            "FormatCellsAbove": "Định dạng các ô TRÊN AVERAGE:",
+            "FormatCellsBelow": "Định dạng các ô có AVERAGE DƯỚI ĐÂY:",
+            "With": "với",
+            "DataBars": "Thanh dữ liệu",
+            "ColorScales": "Thang màu",
+            "IconSets": "Bộ biểu tượng",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Xóa quy tắc khỏi các ô đã chọn",
+            "EntireSheet": "Xóa Quy tắc khỏi Toàn bộ Trang tính",
+            "LightRedFillWithDarkRedText": "Tô màu đỏ nhạt với văn bản màu đỏ đậm",
+            "YellowFillWithDarkYellowText": "Tô màu vàng với văn bản màu vàng đậm",
+            "GreenFillWithDarkGreenText": "Tô màu xanh lục với văn bản màu xanh lá cây đậm",
+            "RedFill": "Tô màu đỏ",
+            "RedText": "Văn bản màu đỏ",
+            "Duplicate": "Bản sao",
+            "Unique": "Độc nhất",
+            "And": "và",
+            "WebPage": "TRANG WEB",
+            "ThisDocument": "TÀI LIỆU NÀY",
+            "DisplayText": "Hiển thị Văn bản",
+            "Url": "URL",
+            "CellReference": "Tham chiếu ô",
+            "DefinedNames": "Tên được xác định",
+            "EnterTheTextToDisplay": "Nhập văn bản để hiển thị",
+            "EnterTheUrl": "Nhập URL",
+            "INT": "Trả về một số về số nguyên gần nhất.",
+            "SUMPRODUCT": "Trả về tổng tích của các phạm vi mảng đã cho.",
+            "TODAY": "Trả về ngày hiện tại dưới dạng giá trị ngày.",
+            "ROUNDUP": "Làm tròn một số khác 0.",
             "SelectBorderOption": "Chọn tùy chọn viền"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Các lĩnh vực khác",
             "AND": "VÀ",
             "OR": "HOẶC LÀ",
-            "SelectValue": "Nhập giá trị"
+            "SelectValue": "Nhập giá trị",
+            "IsEmpty": "Trống",
+            "IsNotEmpty": "Không có sản phẩm nào",
+            "IsNull": "Là Null",
+            "IsNotNull": "Không phải là không",
+            "True": "thật",
+            "False": "sai"
         },
         "grid": {
             "EmptyRecord": "Không có hồ sơ để hiển thị",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} trong số {1} trang",
             "totalItemsInfo": "({0} mục)",
-            "totalItemInfo": "({0} mục)",
             "firstPageTooltip": "Đến trang đầu tiên",
             "lastPageTooltip": "Đến trang cuối",
             "nextPageTooltip": "Chuyển đến trang tiếp theo",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Đi đến máy nhắn tin trước",
             "pagerDropDown": "Mục trên mỗi trang",
             "pagerAllDropDown": "Mặt hàng",
-            "All": "Tất cả"
+            "All": "Tất cả",
+            "totalItemInfo": "({0} mục)"
         },
         "calendar": {
             "today": "Hôm nay"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Nhiệm vụ chưa được giao",
             "group": "Nhóm",
             "indent": "Thụt lề",
-            "outdent": "Hết hạn"
+            "outdent": "Hết hạn",
+            "segments": "Phân đoạn",
+            "splitTask": "Tách nhiệm vụ",
+            "mergeTask": "Hợp nhất tác vụ",
+            "left": "Trái",
+            "right": "Đúng"
         },
         "dropdowns": {
             "noRecordsTemplate": "Không có dữ liệu được tìm thấy",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Tròn",
             "Square Arrow": "Quảng trường",
             "Diamond Arrow": "Kim cương",
+            "Butt": "Mông",
             "Cut": "Cắt",
             "Paste": "Dán",
             "Delete Context": "Xóa bỏ",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Chấp nhận thay đổi",
             "Reject Changes": "Từ chối thay đổi",
             "User": "Người sử dụng",
-            "View": "Lượt xem"
+            "View": "Lượt xem",
+            "Insertion": "Chèn",
+            "Deletion": "Xóa",
+            "All caps": "Viết hoa tất cả",
+            "This region is locked by": "Khu vực này bị khóa bởi",
+            "Lock": "Khóa",
+            "Unlock": "Mở khóa",
+            "Already locked": "Người dùng khác đã chọn hoặc một phần của khu vực đã bị khóa",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Dạng văn bản",
+            "Check Box": "Hộp kiểm tra",
+            "DropDown": "Thả xuống",
+            "Form Fields": "Trường biểu mẫu",
+            "Fillin enabled": "Đã bật điền vào"
         },
         "documenteditorcontainer": {
             "New": "Mới",
@@ -2438,7 +2523,13 @@
             "Check Box": "Hộp kiểm",
             "DropDown": "Thả xuống",
             "Update Fields": "Cập nhật các lĩnh vực",
-            "Update cross reference fields": "Cập nhật các trường tham chiếu chéo"
+            "Update cross reference fields": "Cập nhật các trường tham chiếu chéo",
+            "Hide properties pane": "Ẩn ngăn thuộc tính",
+            "Show properties pane": "Hiển thị ngăn thuộc tính",
+            "Form Fields": "Trường biểu mẫu",
+            "Track Changes": "Theo dõi các thay đổi được thực hiện trong tài liệu",
+            "TrackChanges": "Theo dõi các thay đổi",
+            "AllCaps": "Tất cả"
         },
         "toast": {
             "close": "Đóng"
@@ -2458,6 +2549,12 @@
             "yes": "Đúng",
             "no": "Không",
             "close": "Đóng"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Không có dữ liệu được tìm thấy",
+            "actionFailureTemplate": "Yêu cầu không thành công",
+            "overflowCountTemplate": "+ $ {count} khác ..",
+            "totalCountTemplate": "$ {count} đã được chọn"
         }
     }
 }
