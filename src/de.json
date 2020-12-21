@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Wenn Sie eine Dateinamenerweiterung ändern, wird die Datei möglicherweise instabil. Möchten Sie das wirklich ändern?",
             "Header-Delete": "Datei löschen",
             "Content-Delete": "Möchten Sie diese Datei wirklich löschen?",
+            "Header-Folder-Delete": "Lösche Ordner",
+            "Content-Folder-Delete": "Möchten Sie diesen Ordner wirklich löschen?",
             "Header-Multiple-Delete": "Mehrere Dateien löschen",
             "Content-Multiple-Delete": "Möchten Sie diese {0} Dateien wirklich löschen?",
             "Header-Duplicate": "Datei / Ordner existiert",
@@ -704,7 +706,9 @@
             "cleanFormat": "Sauber",
             "keepFormat": "Behalten",
             "pasteDialogOk": "in Ordnung",
-            "pasteDialogCancel": "Stornieren"
+            "pasteDialogCancel": "Stornieren",
+            "fileManager": "Dateimanager",
+            "fileDialogHeader": "Dateibrowser"
         },
         "diagram": {
             "Copy": "Kopieren",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "DatumsZeit-Filter",
             "Undo": "Rückgängig machen",
             "Redo": "Redo",
+            "ClearAllFilter": "klar",
+            "ReapplyFilter": "Erneut anwenden",
             "DateFilter": "Datumsfilter",
             "TextFilter": "Textfilter",
             "NumberFilter": "Anzahl Filter",
@@ -1329,6 +1335,56 @@
             "LOG": "Gibt den Logarithmus einer Zahl an die von Ihnen angegebene Basis zurück.",
             "TRUNC": "Gibt den abgeschnittenen Wert einer Zahl auf eine bestimmte Anzahl von Dezimalstellen zurück.",
             "EXP": "Gibt e hoch der angegebenen Zahl zurück.",
+            "HighlightCellsRules": "Markieren Sie die Zellenregeln",
+            "CFEqualTo": "Gleicht",
+            "TextThatContains": "Text, der enthält",
+            "ADateOccuring": "Ein Datum, das auftritt",
+            "DuplicateValues": "Doppelte Werte",
+            "TopBottomRules": "Top / Bottom Regeln",
+            "Top10Items": "Top 10 Artikel",
+            "Top10": "Top 10",
+            "Bottom10Items": "Unten 10 Artikel",
+            "Bottom10": "Unten 10",
+            "AboveAverage": "Überdurchschnittlich",
+            "BelowAverage": "Unterdurchschnittlich",
+            "FormatCellsGreaterThan": "Formatieren Sie Zellen, die größer sind als:",
+            "FormatCellsLessThan": "Formatieren Sie Zellen, die WENIGER ALS:",
+            "FormatCellsBetween": "Formatieren Sie ZWISCHEN Zellen:",
+            "FormatCellsEqualTo": "Formatieren Sie Zellen, die GLEICH sind:",
+            "FormatCellsThatContainTheText": "Formatieren Sie Zellen, die den Text enthalten:",
+            "FormatCellsThatContainADateOccurring": "Formatieren Sie Zellen, die ein Datum enthalten:",
+            "FormatCellsDuplicate": "Formatieren Sie Zellen, die Folgendes enthalten:",
+            "FormatCellsTop": "Formatieren Sie Zellen, die im TOP rangieren:",
+            "FormatCellsBottom": "Formatieren Sie Zellen, die UNTEN rangieren:",
+            "FormatCellsAbove": "Formatieren Sie Zellen, die über dem Durchschnitt liegen:",
+            "FormatCellsBelow": "Formatieren Sie Zellen, die UNTER DURCHSCHNITTLICH sind:",
+            "With": "mit",
+            "DataBars": "Datenleisten",
+            "ColorScales": "Farbskalen",
+            "IconSets": "Symbolsätze",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Klare Regeln aus ausgewählten Zellen",
+            "EntireSheet": "Klare Regeln aus dem gesamten Blatt",
+            "LightRedFillWithDarkRedText": "Hellrote Füllung mit dunkelrotem Text",
+            "YellowFillWithDarkYellowText": "Gelbe Füllung mit dunkelgelbem Text",
+            "GreenFillWithDarkGreenText": "Grüne Füllung mit dunkelgrünem Text",
+            "RedFill": "Rote Füllung",
+            "RedText": "Roter Text",
+            "Duplicate": "Duplikat",
+            "Unique": "Einzigartig",
+            "And": "und",
+            "WebPage": "WEBSITE",
+            "ThisDocument": "DIESES DOKUMENT",
+            "DisplayText": "Text anzeigen",
+            "Url": "URL",
+            "CellReference": "Zellreferenz",
+            "DefinedNames": "Definierte Namen",
+            "EnterTheTextToDisplay": "Geben Sie den anzuzeigenden Text ein",
+            "EnterTheUrl": "Geben Sie die URL ein",
+            "INT": "Gibt eine Zahl auf die nächste Ganzzahl zurück.",
+            "SUMPRODUCT": "Gibt die Summe des Produkts bestimmter Array-Bereiche zurück.",
+            "TODAY": "Gibt das aktuelle Datum als Datumswert zurück.",
+            "ROUNDUP": "Rundet eine Zahl von Null weg.",
             "SelectBorderOption": "Wählen Sie Randoption"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Andere Felder",
             "AND": "UND",
             "OR": "ODER",
-            "SelectValue": "Wert eingeben"
+            "SelectValue": "Wert eingeben",
+            "IsEmpty": "Ist leer",
+            "IsNotEmpty": "Ist nicht leer",
+            "IsNull": "Ist Null",
+            "IsNotNull": "Ist nicht Null",
+            "True": "wahr",
+            "False": "falsch"
         },
         "grid": {
             "EmptyRecord": "Keine Datensätze zum Anzeigen",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} von {1} Seiten",
             "totalItemsInfo": "({0} Datensätze)",
-            "totalItemInfo": "({0} Datensätz)",
             "firstPageTooltip": "Gehe zur ersten Seite",
             "lastPageTooltip": "Gehe zur letzten Seite",
             "nextPageTooltip": "Gehe zur nächsten Seite",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Zum vorherigen Pager wechseln",
             "pagerDropDown": "Datensätze pro Seite",
             "pagerAllDropDown": "Datensätze",
-            "All": "Alle"
+            "All": "Alle",
+            "totalItemInfo": "({0} Datensätz)"
         },
         "calendar": {
             "today": "Heute"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Nicht zugewiesene Aufgabe",
             "group": "Gruppe",
             "indent": "Einzug",
-            "outdent": "Outdent"
+            "outdent": "Outdent",
+            "segments": "Segmente",
+            "splitTask": "Aufgabe teilen",
+            "mergeTask": "Aufgabe zusammenführen",
+            "left": "Links",
+            "right": "Recht"
         },
         "dropdowns": {
             "noRecordsTemplate": "Keine Datensätze gefunden",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Runden",
             "Square Arrow": "Platz",
             "Diamond Arrow": "Diamant",
+            "Butt": "Hintern",
             "Cut": "Ausschneiden",
             "Paste": "Einfügen",
             "Delete Context": "Löschen",
@@ -2293,6 +2361,23 @@
             "Reject Changes": "Änderungen ablehnen",
             "User": "Benutzer",
             "View": "Aussicht",
+            "Insertion": "Einfügen",
+            "Deletion": "Streichung",
+            "All caps": "Alle Kappen",
+            "This region is locked by": "Diese Region ist gesperrt durch",
+            "Lock": "Sperren",
+            "Unlock": "Freischalten",
+            "Already locked": "Ausgewählt oder ein Teil der Region ist bereits von einem anderen Benutzer gesperrt",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Textform",
+            "Check Box": "Kontrollkästchen",
+            "DropDown": "Dropdown-Liste",
+            "Form Fields": "Formularfelder",
+            "Fillin enabled": "Ausfüllen aktiviert",
             "Table Of Contents": "Inhaltsverzeichnis"
         },
         "documenteditorcontainer": {
@@ -2439,7 +2524,13 @@
             "Check Box": "Kontrollkästchen",
             "DropDown": "Dropdown-Liste",
             "Update Fields": "Felder aktualisieren",
-            "Update cross reference fields": "Querverweisfelder aktualisieren"
+            "Update cross reference fields": "Querverweisfelder aktualisieren",
+            "Hide properties pane": "Eigenschaftenbereich ausblenden",
+            "Show properties pane": "Eigenschaftenbereich anzeigen",
+            "Form Fields": "Formularfelder",
+            "Track Changes": "Verfolgen Sie die im Dokument vorgenommenen Änderungen",
+            "TrackChanges": "Änderungen verfolgen",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "Schliessen"
@@ -2459,6 +2550,12 @@
             "yes": "Ja",
             "no": "Nein",
             "close": "Schließen"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Keine Aufzeichnungen gefunden",
+            "actionFailureTemplate": "Anfrage fehlgeschlagen",
+            "overflowCountTemplate": "+ $ {count} mehr ..",
+            "totalCountTemplate": "$ {count} ausgewählt"
         }
     }
 }

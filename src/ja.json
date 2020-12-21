@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "ファイル名拡張子を変更すると、ファイルが不安定になる可能性があります。変更してもよろしいですか？",
             "Header-Delete": "ファイルを削除する",
             "Content-Delete": "このファイルを削除してもよろしいですか？",
+            "Header-Folder-Delete": "フォルダを削除",
+            "Content-Folder-Delete": "このフォルダを削除してもよろしいですか？",
             "Header-Multiple-Delete": "複数のファイルを削除する",
             "Content-Multiple-Delete": "これらの{0}ファイルを削除してもよろしいですか？",
             "Header-Duplicate": "ファイル/フォルダーが存在します",
@@ -704,7 +706,9 @@
             "cleanFormat": "掃除",
             "keepFormat": "保つ",
             "pasteDialogOk": "OK",
-            "pasteDialogCancel": "キャンセル"
+            "pasteDialogCancel": "キャンセル",
+            "fileManager": "ファイルマネージャー",
+            "fileDialogHeader": "ファイルブラウザ"
         },
         "diagram": {
             "Copy": "コピー",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "日時フィルター",
             "Undo": "元に戻す",
             "Redo": "やり直し",
+            "ClearAllFilter": "晴れ",
+            "ReapplyFilter": "再適用",
             "DateFilter": "日付フィルター",
             "TextFilter": "テキストフィルター",
             "NumberFilter": "番号フィルター",
@@ -1329,6 +1335,56 @@
             "LOG": "数値の対数を、指定した底に戻します。",
             "TRUNC": "数値の切り捨てられた値を、指定された小数点以下の桁数に戻します。",
             "EXP": "eを指定された数値で累乗して返します。",
+            "HighlightCellsRules": "セルルールを強調表示",
+            "CFEqualTo": "に等しい",
+            "TextThatContains": "を含むテキスト",
+            "ADateOccuring": "発生する日付",
+            "DuplicateValues": "値が重複しています",
+            "TopBottomRules": "トップ/ボトムルール",
+            "Top10Items": "トップ10アイテム",
+            "Top10": "トップ10",
+            "Bottom10Items": "ボトム10アイテム",
+            "Bottom10": "ボトム10",
+            "AboveAverage": "平均以上",
+            "BelowAverage": "平均以下の",
+            "FormatCellsGreaterThan": "以下よりも大きいセルをフォーマットします。",
+            "FormatCellsLessThan": "以下のセルをフォーマットします。",
+            "FormatCellsBetween": "間にあるセルをフォーマットします。",
+            "FormatCellsEqualTo": "同等のセルをフォーマットします。",
+            "FormatCellsThatContainTheText": "テキストを含むセルをフォーマットします。",
+            "FormatCellsThatContainADateOccurring": "発生する日付を含むセルをフォーマットします。",
+            "FormatCellsDuplicate": "以下を含むセルをフォーマットします。",
+            "FormatCellsTop": "TOPにランク付けされているセルをフォーマットします。",
+            "FormatCellsBottom": "BOTTOMにランク付けされているセルをフォーマットします。",
+            "FormatCellsAbove": "AVERAGEのセルをフォーマットします。",
+            "FormatCellsBelow": "平均以下のセルをフォーマットします。",
+            "With": "と",
+            "DataBars": "データバー",
+            "ColorScales": "カラースケール",
+            "IconSets": "アイコンセット",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "選択したセルからルールをクリアする",
+            "EntireSheet": "シート全体からルールをクリアする",
+            "LightRedFillWithDarkRedText": "濃い赤のテキストで明るい赤の塗りつぶし",
+            "YellowFillWithDarkYellowText": "濃い黄色のテキストで黄色の塗りつぶし",
+            "GreenFillWithDarkGreenText": "濃い緑色のテキストで緑色の塗りつぶし",
+            "RedFill": "赤い塗りつぶし",
+            "RedText": "赤いテキスト",
+            "Duplicate": "複製",
+            "Unique": "ユニーク",
+            "And": "そして",
+            "WebPage": "ウェブページ",
+            "ThisDocument": "このドキュメント",
+            "DisplayText": "テキストを表示する",
+            "Url": "URL",
+            "CellReference": "セルリファレンス",
+            "DefinedNames": "定義された名前",
+            "EnterTheTextToDisplay": "表示するテキストを入力してください",
+            "EnterTheUrl": "URLを入力してください",
+            "INT": "最も近い整数に数値を返します。",
+            "SUMPRODUCT": "指定された範囲の配列の積の合計を返します。",
+            "TODAY": "現在の日付を日付値として返します。",
+            "ROUNDUP": "数値をゼロから丸めます。",
             "SelectBorderOption": "ボーダーオプションを選択"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "その他の分野",
             "AND": "そして",
             "OR": "または",
-            "SelectValue": "値を入力"
+            "SelectValue": "値を入力",
+            "IsEmpty": "空です",
+            "IsNotEmpty": "空ではない",
+            "IsNull": "無効である",
+            "IsNotNull": "ヌルではない",
+            "True": "true",
+            "False": "false"
         },
         "grid": {
             "EmptyRecord": "表示するレコードはありません",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0}ページのうち{1}ページ",
             "totalItemsInfo": "（{0}アイテム）",
-            "totalItemInfo": "（{0}アイテム）",
             "firstPageTooltip": "最初のページに移動",
             "lastPageTooltip": "最後のページに移動",
             "nextPageTooltip": "次のページに進む",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "前のページャーに移動",
             "pagerDropDown": "ページごとのアイテム",
             "pagerAllDropDown": "アイテム",
-            "All": "すべて"
+            "All": "すべて",
+            "totalItemInfo": "（{0}アイテム）"
         },
         "calendar": {
             "today": "今日"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "割り当てられていないタスク",
             "group": "グループ",
             "indent": "インデント",
-            "outdent": "アウトデント"
+            "outdent": "アウトデント",
+            "segments": "セグメント",
+            "splitTask": "分割タスク",
+            "mergeTask": "マージタスク",
+            "left": "左",
+            "right": "正しい"
         },
         "dropdowns": {
             "noRecordsTemplate": "レコードが見つかりません",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "円形",
             "Square Arrow": "平方",
             "Diamond Arrow": "ダイヤモンド",
+            "Butt": "お尻",
             "Cut": "切る",
             "Paste": "ペースト",
             "Delete Context": "削除",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "変更を受け入れる",
             "Reject Changes": "変更を拒否",
             "User": "ユーザー",
-            "View": "見る"
+            "View": "見る",
+            "Insertion": "挿入",
+            "Deletion": "削除",
+            "All caps": "すべて大文字",
+            "This region is locked by": "この地域はによってロックされています",
+            "Lock": "ロック",
+            "Unlock": "ロックを解除する",
+            "Already locked": "選択された領域または領域の一部がすでに別のユーザーによってロックされています",
+            "1, 2, 3, ...": "1、2、3、..。",
+            "a, b, c, ...": "a、b、c、..。",
+            "A, B, C, ...": "A、B、C、...",
+            "I, II, III, ...": "I、II、III、...",
+            "i, ii, iii, ...": "i、ii、iii、..。",
+            "Text Form": "テキストフォーム",
+            "Check Box": "チェックボックス",
+            "DropDown": "落ちる",
+            "Form Fields": "フォームフィールド",
+            "Fillin enabled": "入力が有効"
         },
         "documenteditorcontainer": {
             "New": "新着",
@@ -2438,7 +2523,13 @@
             "Check Box": "チェックボックス",
             "DropDown": "落ちる",
             "Update Fields": "フィールドを更新",
-            "Update cross reference fields": "相互参照フィールドを更新する"
+            "Update cross reference fields": "相互参照フィールドを更新する",
+            "Hide properties pane": "プロパティペインを非表示",
+            "Show properties pane": "プロパティペインを表示",
+            "Form Fields": "フォームフィールド",
+            "Track Changes": "ドキュメントに加えられた変更を追跡します",
+            "TrackChanges": "変更の追跡",
+            "AllCaps": "すべて大文字"
         },
         "toast": {
             "close": "閉じる"
@@ -2458,6 +2549,12 @@
             "yes": "はい",
             "no": "番号",
             "close": "閉じる"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "レコードが見つかりません",
+            "actionFailureTemplate": "要求が失敗しました",
+            "overflowCountTemplate": "+ $ {count}もっと..",
+            "totalCountTemplate": "$ {count}が選択されました"
         }
     }
 }

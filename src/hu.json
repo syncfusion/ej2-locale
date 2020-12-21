@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Ha megváltoztat egy fájlnévkiterjesztést, akkor a fájl instabillá válhat. Biztosan meg akarja változtatni?",
             "Header-Delete": "Fájl törlése",
             "Content-Delete": "Biztosan törli ezt a fájlt?",
+            "Header-Folder-Delete": "Mappa törlése",
+            "Content-Folder-Delete": "Biztosan törli ezt a mappát?",
             "Header-Multiple-Delete": "Több fájl törlése",
             "Content-Multiple-Delete": "Biztosan törli ezeket a (z) {0} fájlokat?",
             "Header-Duplicate": "A fájl / mappa létezik",
@@ -704,7 +706,9 @@
             "cleanFormat": "Tiszta",
             "keepFormat": "Tart",
             "pasteDialogOk": "rendben",
-            "pasteDialogCancel": "Megszünteti"
+            "pasteDialogCancel": "Megszünteti",
+            "fileManager": "Fájl kezelő",
+            "fileDialogHeader": "Fájl böngésző"
         },
         "diagram": {
             "Copy": "Másolat",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "DateTime szűrők",
             "Undo": "Undo",
             "Redo": "redo",
+            "ClearAllFilter": "Egyértelmű",
+            "ReapplyFilter": "Jelentkezzen újra",
             "DateFilter": "Dátumszűrők",
             "TextFilter": "Szövegszűrők",
             "NumberFilter": "Számszűrők",
@@ -1329,6 +1335,56 @@
             "LOG": "Visszaadja a szám logaritmusát a megadott bázishoz.",
             "TRUNC": "Egy szám csonkolt értékét adja vissza egy meghatározott számú tizedes pontossággal.",
             "EXP": "Visszaadja az e-t az adott szám teljesítményére.",
+            "HighlightCellsRules": "Jelölje ki a Cellák szabályait",
+            "CFEqualTo": "Egyenlő",
+            "TextThatContains": "Tartalmazó szöveg",
+            "ADateOccuring": "A bekövetkező dátum",
+            "DuplicateValues": "Ismétlődő értékek",
+            "TopBottomRules": "Felső / alsó szabályok",
+            "Top10Items": "A legjobb 10 elem",
+            "Top10": "Legjobb 10",
+            "Bottom10Items": "Alsó 10 elem",
+            "Bottom10": "10. alsó",
+            "AboveAverage": "Átlagon felüli",
+            "BelowAverage": "Átlag alatti",
+            "FormatCellsGreaterThan": "Formázza a cellákat, amelyek nagyobbak, mint:",
+            "FormatCellsLessThan": "Formázza a cellákat, amelyek kisebbek, mint:",
+            "FormatCellsBetween": "Formázzon cellákat KÖZÖTT:",
+            "FormatCellsEqualTo": "Olyan cellákat formázzon, amelyek egyenlőek:",
+            "FormatCellsThatContainTheText": "A szöveget tartalmazó cellák formázása:",
+            "FormatCellsThatContainADateOccurring": "Olyan cellákat formázzon, amelyek dátumot tartalmaznak:",
+            "FormatCellsDuplicate": "Formázza azokat a cellákat, amelyek tartalmazzák:",
+            "FormatCellsTop": "A TOP-ban rangsoroló cellák formázása:",
+            "FormatCellsBottom": "A BOTTOM-ban rangsoroló cellák formázása:",
+            "FormatCellsAbove": "ÁTLAG feletti cellák formázása:",
+            "FormatCellsBelow": "Átlag alatti cellák formázása:",
+            "With": "val vel",
+            "DataBars": "Adatsávok",
+            "ColorScales": "Színskálák",
+            "IconSets": "Ikonkészletek",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Szabályok törlése a kijelölt cellákból",
+            "EntireSheet": "Szabályok törlése a teljes munkalapról",
+            "LightRedFillWithDarkRedText": "Világos piros Töltsön sötétvörös szöveggel",
+            "YellowFillWithDarkYellowText": "Sárga kitöltése sötét sárga szöveggel",
+            "GreenFillWithDarkGreenText": "Zöld töltse ki sötétzöld szöveggel",
+            "RedFill": "Piros kitöltés",
+            "RedText": "Piros szöveg",
+            "Duplicate": "Másolat",
+            "Unique": "Egyedi",
+            "And": "és",
+            "WebPage": "HONLAP",
+            "ThisDocument": "EZ A DOKUMENTUM",
+            "DisplayText": "Megjelenített szöveg",
+            "Url": "URL",
+            "CellReference": "Cella hivatkozás",
+            "DefinedNames": "Meghatározott nevek",
+            "EnterTheTextToDisplay": "Írja be a megjelenítendő szöveget",
+            "EnterTheUrl": "Írja be az URL-t",
+            "INT": "Számot ad vissza a legközelebbi egész számra.",
+            "SUMPRODUCT": "Visszaadja a megadott tömbtartományok szorzatát.",
+            "TODAY": "Az aktuális dátumot adja vissza dátumértékként.",
+            "ROUNDUP": "Egy számot kerekít a nullától.",
             "SelectBorderOption": "Válassza a Border Option lehetőséget"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Egyéb mezők",
             "AND": "ÉS",
             "OR": "VAGY",
-            "SelectValue": "Írja be az értéket"
+            "SelectValue": "Írja be az értéket",
+            "IsEmpty": "Üres",
+            "IsNotEmpty": "Nem üres",
+            "IsNull": "Nulla",
+            "IsNotNull": "Nem Null",
+            "True": "igaz",
+            "False": "hamis"
         },
         "grid": {
             "EmptyRecord": "Nincs bejegyzés megjelenítéséhez",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{1} oldal {0}",
             "totalItemsInfo": "({0} elem)",
-            "totalItemInfo": "({0} elem)",
             "firstPageTooltip": "Ugrás az első oldalra",
             "lastPageTooltip": "Ugrás az utolsó oldalra",
             "nextPageTooltip": "Ugrás a következő oldalra",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Ugrás az előző személyhívóra",
             "pagerDropDown": "oldalankénti tételek",
             "pagerAllDropDown": "példány",
-            "All": "Összes"
+            "All": "Összes",
+            "totalItemInfo": "({0} elem)"
         },
         "calendar": {
             "today": "Ma"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Neodređeni zadatak",
             "group": "Skupina",
             "indent": "bekezdés",
-            "outdent": "Outdent"
+            "outdent": "Outdent",
+            "segments": "Szegmensek",
+            "splitTask": "Feladat megosztása",
+            "mergeTask": "Egyesítési feladat",
+            "left": "Bal",
+            "right": "Jobb"
         },
         "dropdowns": {
             "noRecordsTemplate": "Nincs találat",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Kerek",
             "Square Arrow": "Négyzet",
             "Diamond Arrow": "gyémánt",
+            "Butt": "Csikk",
             "Cut": "Vágott",
             "Paste": "Paszta",
             "Delete Context": "Töröl",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Fogadja el a változásokat",
             "Reject Changes": "A változások elutasítása",
             "User": "használó",
-            "View": "Kilátás"
+            "View": "Kilátás",
+            "Insertion": "Beszúrás",
+            "Deletion": "Törlés",
+            "All caps": "Minden sapka",
+            "This region is locked by": "Ezt a régiót elzárta",
+            "Lock": "Zár",
+            "Unlock": "Kinyit",
+            "Already locked": "A kiválasztott területet vagy a régió egy részét már lezárta egy másik felhasználó",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Szöveg űrlap",
+            "Check Box": "Jelölőnégyzet",
+            "DropDown": "Ledob",
+            "Form Fields": "Űrlapmezők",
+            "Fillin enabled": "Kitöltés engedélyezve"
         },
         "documenteditorcontainer": {
             "New": "Új",
@@ -2438,7 +2523,13 @@
             "Check Box": "Jelölőnégyzet",
             "DropDown": "Ledob",
             "Update Fields": "Frissítse a mezőket",
-            "Update cross reference fields": "Frissítse a kereszthivatkozási mezőket"
+            "Update cross reference fields": "Frissítse a kereszthivatkozási mezőket",
+            "Hide properties pane": "Tulajdonságok panel elrejtése",
+            "Show properties pane": "Tulajdonságok panel megjelenítése",
+            "Form Fields": "Űrlapmezők",
+            "Track Changes": "Kövesse nyomon a dokumentumban végrehajtott változásokat",
+            "TrackChanges": "Útvonal változások",
+            "AllCaps": "Minden sapka"
         },
         "toast": {
             "close": "Bezárás"
@@ -2458,6 +2549,12 @@
             "yes": "Igen",
             "no": "Nem",
             "close": "Bezárás"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Nincs találat",
+            "actionFailureTemplate": "Kérés sikertelen",
+            "overflowCountTemplate": "+ további $ {count} ..",
+            "totalCountTemplate": "$ {count} kiválasztva"
         }
     }
 }

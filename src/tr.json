@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Bir dosya adı uzantısını değiştirirseniz, dosya kararsız hale gelebilir. Değiştirmek istediğinizden emin misiniz?",
             "Header-Delete": "Dosyayı sil",
             "Content-Delete": "Bu dosyayı silmek istediğinizden emin misiniz?",
+            "Header-Folder-Delete": "Klasörü Sil",
+            "Content-Folder-Delete": "Bu klasörü silmek istediğinizden emin misiniz?",
             "Header-Multiple-Delete": "Birden Fazla Dosyayı Sil",
             "Content-Multiple-Delete": "Bu {0} dosyaları silmek istediğinizden emin misiniz?",
             "Header-Duplicate": "Dosya / Klasör var",
@@ -704,7 +706,9 @@
             "cleanFormat": "Temiz",
             "keepFormat": "Tut",
             "pasteDialogOk": "tamam",
-            "pasteDialogCancel": "İptal etmek"
+            "pasteDialogCancel": "İptal etmek",
+            "fileManager": "Dosya Yöneticisi",
+            "fileDialogHeader": "Dosya tarayıcısı"
         },
         "diagram": {
             "Copy": "kopya",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "DateTime Filtreleri",
             "Undo": "Geri alma",
             "Redo": "Yeniden",
+            "ClearAllFilter": "Açık",
+            "ReapplyFilter": "Yeniden başvur",
             "DateFilter": "Tarih Filtreleri",
             "TextFilter": "Metin Filtreleri",
             "NumberFilter": "Filtre Sayısı",
@@ -1329,6 +1335,56 @@
             "LOG": "Bir sayının logaritmasını belirttiğiniz tabana döndürür.",
             "TRUNC": "Sayının kesilmiş değerini belirtilen ondalık basamağa döndürür.",
             "EXP": "Verilen sayının gücüne yükseltilmiş e değerini döndürür.",
+            "HighlightCellsRules": "Hücre Kurallarını Vurgula",
+            "CFEqualTo": "Eşittir",
+            "TextThatContains": "İçeren Metin",
+            "ADateOccuring": "Gerçekleşen Bir Tarih",
+            "DuplicateValues": "Yinelenen Değerler",
+            "TopBottomRules": "Üst / Alt Kurallar",
+            "Top10Items": "En İyi 10 Ürün",
+            "Top10": "En iyi 10",
+            "Bottom10Items": "Alt 10 Öğe",
+            "Bottom10": "Sondan 10",
+            "AboveAverage": "Ortalamanın üstü",
+            "BelowAverage": "Ortalamanın altında",
+            "FormatCellsGreaterThan": "ŞUNLARDAN DAHA BÜYÜK olan hücreleri biçimlendirin:",
+            "FormatCellsLessThan": "DAHA AZ olan hücreleri biçimlendirin:",
+            "FormatCellsBetween": "ARASINDAKİ hücreleri biçimlendir:",
+            "FormatCellsEqualTo": "ŞUNA EŞİT olan hücreleri biçimlendir:",
+            "FormatCellsThatContainTheText": "Metni içeren hücreleri biçimlendirin:",
+            "FormatCellsThatContainADateOccurring": "Oluşan bir tarihi içeren hücreleri biçimlendirin:",
+            "FormatCellsDuplicate": "Şunları içeren hücreleri biçimlendirin:",
+            "FormatCellsTop": "En üstte yer alan hücreleri biçimlendirin:",
+            "FormatCellsBottom": "ALT'ta sıralanan hücreleri biçimlendirin:",
+            "FormatCellsAbove": "ORTALAMANIN ÜZERİNDEKİ hücreleri biçimlendirin:",
+            "FormatCellsBelow": "ORTALAMANIN ALTINDA olan hücreleri biçimlendirin:",
+            "With": "ile",
+            "DataBars": "Veri Çubukları",
+            "ColorScales": "Renk Skalaları",
+            "IconSets": "İkon Setleri",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Seçili Hücrelerden Kuralları Temizle",
+            "EntireSheet": "Tüm Sayfadaki Kuralları Temizle",
+            "LightRedFillWithDarkRedText": "Koyu Kırmızı Metinli Açık Kırmızı Dolgu",
+            "YellowFillWithDarkYellowText": "Koyu Sarı Metinli Sarı Dolgu",
+            "GreenFillWithDarkGreenText": "Koyu Yeşil Metin ile Yeşil Dolgu",
+            "RedFill": "Kırmızı Dolgu",
+            "RedText": "Kırmızı Metin",
+            "Duplicate": "Çiftleme",
+            "Unique": "Benzersiz",
+            "And": "ve",
+            "WebPage": "İNTERNET SAYFASI",
+            "ThisDocument": "BU BELGE",
+            "DisplayText": "Metni Görüntüle",
+            "Url": "URL",
+            "CellReference": "Hücre Referansı",
+            "DefinedNames": "Tanımlı İsimler",
+            "EnterTheTextToDisplay": "Görüntülenecek metni girin",
+            "EnterTheUrl": "URL'yi girin",
+            "INT": "Bir sayıyı en yakın tam sayıya döndürür.",
+            "SUMPRODUCT": "Verilen dizi aralıklarının çarpımının toplamını döndürür.",
+            "TODAY": "Geçerli tarihi tarih değeri olarak döndürür.",
+            "ROUNDUP": "Bir sayıyı sıfırdan uzağa yuvarlar.",
             "SelectBorderOption": "Kenarlık Seçeneğini Seçin"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Diğer Alanlar",
             "AND": "VE",
             "OR": "VEYA",
-            "SelectValue": "Değer Girin"
+            "SelectValue": "Değer Girin",
+            "IsEmpty": "Boş",
+            "IsNotEmpty": "Boş değil",
+            "IsNull": "Boş",
+            "IsNotNull": "Boş Değil",
+            "True": "doğru",
+            "False": "yanlış"
         },
         "grid": {
             "EmptyRecord": "Gösterilecek kayıt yok",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{1} sayfanın {0}",
             "totalItemsInfo": "({0} öğe)",
-            "totalItemInfo": "({0} öğe)",
             "firstPageTooltip": "İlk sayfaya git",
             "lastPageTooltip": "Son sayfaya git",
             "nextPageTooltip": "Sonraki sayfaya git",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Önceki çağrı cihazına git",
             "pagerDropDown": "Sayfa başına öğe sayısı",
             "pagerAllDropDown": "Öğeler",
-            "All": "Herşey"
+            "All": "Herşey",
+            "totalItemInfo": "({0} öğe)"
         },
         "calendar": {
             "today": "Bugün"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Atanmamış Görev",
             "group": "grup",
             "indent": "çentik",
-            "outdent": "Çıkıntı"
+            "outdent": "Çıkıntı",
+            "segments": "Bölümler",
+            "splitTask": "Görevi Böl",
+            "mergeTask": "Görevi Birleştir",
+            "left": "Ayrıldı",
+            "right": "Sağ"
         },
         "dropdowns": {
             "noRecordsTemplate": "Kayıt bulunamadı",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "yuvarlak",
             "Square Arrow": "Meydan",
             "Diamond Arrow": "Elmas",
+            "Butt": "Popo",
             "Cut": "Kesmek",
             "Paste": "Yapıştırmak",
             "Delete Context": "Sil",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Değişiklikleri Kabul Et",
             "Reject Changes": "Değişiklikleri Reddet",
             "User": "kullanıcı",
-            "View": "Görünüm"
+            "View": "Görünüm",
+            "Insertion": "Yerleştirme",
+            "Deletion": "Silme",
+            "All caps": "Tümü büyük harf",
+            "This region is locked by": "Bu bölge tarafından kilitlendi",
+            "Lock": "Kilit",
+            "Unlock": "Kilidini aç",
+            "Already locked": "Seçilmiş veya bölgenin bir kısmı başka bir kullanıcı tarafından zaten kilitlenmiş",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Metin Formu",
+            "Check Box": "Onay Kutusu",
+            "DropDown": "Yıkılmak",
+            "Form Fields": "Form Alanları",
+            "Fillin enabled": "Doldurma etkinleştirildi"
         },
         "documenteditorcontainer": {
             "New": "Yeni",
@@ -2438,7 +2523,13 @@
             "Check Box": "Onay Kutusu",
             "DropDown": "Yıkılmak",
             "Update Fields": "Alanları Güncelle",
-            "Update cross reference fields": "Çapraz referans alanlarını güncelleme"
+            "Update cross reference fields": "Çapraz referans alanlarını güncelleme",
+            "Hide properties pane": "Özellikler bölmesini gizle",
+            "Show properties pane": "Özellikler bölmesini göster",
+            "Form Fields": "Form Alanları",
+            "Track Changes": "Belgede yapılan değişiklikleri takip edin",
+            "TrackChanges": "Parça değişiklikleri",
+            "AllCaps": "Tümü büyük harf"
         },
         "toast": {
             "close": "Kapat"
@@ -2458,6 +2549,12 @@
             "yes": "Evet",
             "no": "Hayır",
             "close": "Kapat"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "kayıt bulunamadı",
+            "actionFailureTemplate": "İstek başarısız oldu",
+            "overflowCountTemplate": "+ $ {count} tane daha ..",
+            "totalCountTemplate": "$ {count} seçildi"
         }
     }
 }

@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Jika Anda mengubah ekstensi nama file, file mungkin menjadi tidak stabil. Anda yakin ingin mengubahnya?",
             "Header-Delete": "Menghapus berkas",
             "Content-Delete": "Anda yakin ingin menghapus file ini?",
+            "Header-Folder-Delete": "Hapus Folder",
+            "Content-Folder-Delete": "Anda yakin ingin menghapus folder ini?",
             "Header-Multiple-Delete": "Hapus Banyak File",
             "Content-Multiple-Delete": "Apakah Anda yakin ingin menghapus {0} file-file ini?",
             "Header-Duplicate": "File / Folder ada",
@@ -704,7 +706,9 @@
             "cleanFormat": "Bersih",
             "keepFormat": "Menjaga",
             "pasteDialogOk": "baik",
-            "pasteDialogCancel": "Membatalkan"
+            "pasteDialogCancel": "Membatalkan",
+            "fileManager": "Manajer File",
+            "fileDialogHeader": "File Browser"
         },
         "diagram": {
             "Copy": "Salinan",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "Filter DateTime",
             "Undo": "Batalkan",
             "Redo": "Mengulangi",
+            "ClearAllFilter": "Bersih",
+            "ReapplyFilter": "Melamar lagi",
             "DateFilter": "Filter Tanggal",
             "TextFilter": "Filter Teks",
             "NumberFilter": "Filter Angka",
@@ -1329,6 +1335,56 @@
             "LOG": "Mengembalikan logaritma angka ke pangkalan yang Anda tentukan.",
             "TRUNC": "Mengembalikan nilai terpotong angka ke jumlah tempat desimal yang ditentukan.",
             "EXP": "Pengembalian e dinaikkan ke kekuatan nomor yang diberikan.",
+            "HighlightCellsRules": "Sorot Aturan Sel",
+            "CFEqualTo": "Sama dengan",
+            "TextThatContains": "Teks yang Berisi",
+            "ADateOccuring": "Tanggal yang Terjadi",
+            "DuplicateValues": "Nilai Duplikat",
+            "TopBottomRules": "Aturan Atas / Bawah",
+            "Top10Items": "10 Item Teratas",
+            "Top10": "10 besar",
+            "Bottom10Items": "10 Item Terbawah",
+            "Bottom10": "10 terbawah",
+            "AboveAverage": "Diatas rata-rata",
+            "BelowAverage": "Dibawah rata-rata",
+            "FormatCellsGreaterThan": "Memformat sel yang LEBIH BESAR DARI:",
+            "FormatCellsLessThan": "Memformat sel yang KURANG DARI:",
+            "FormatCellsBetween": "Memformat sel yang ANTARA:",
+            "FormatCellsEqualTo": "Memformat sel yang SAMA DENGAN:",
+            "FormatCellsThatContainTheText": "Memformat sel yang berisi teks:",
+            "FormatCellsThatContainADateOccurring": "Memformat sel yang berisi tanggal yang terjadi:",
+            "FormatCellsDuplicate": "Memformat sel yang berisi:",
+            "FormatCellsTop": "Memformat sel yang berperingkat TOP:",
+            "FormatCellsBottom": "Memformat sel yang diberi peringkat di BAWAH:",
+            "FormatCellsAbove": "Memformat sel yang DI ATAS RATA-RATA:",
+            "FormatCellsBelow": "Memformat sel yang DI BAWAH RATA-RATA:",
+            "With": "dengan",
+            "DataBars": "Bilah Data",
+            "ColorScales": "Timbangan Warna",
+            "IconSets": "Set Ikon",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Hapus Aturan dari Sel yang Dipilih",
+            "EntireSheet": "Hapus Aturan dari Seluruh Lembar",
+            "LightRedFillWithDarkRedText": "Isi Merah Muda dengan Teks Merah Tua",
+            "YellowFillWithDarkYellowText": "Isi Kuning dengan Teks Kuning Tua",
+            "GreenFillWithDarkGreenText": "Isi Hijau dengan Teks Hijau Tua",
+            "RedFill": "Isi Merah",
+            "RedText": "Teks Merah",
+            "Duplicate": "Duplikat",
+            "Unique": "Unik",
+            "And": "dan",
+            "WebPage": "HALAMAN WEB",
+            "ThisDocument": "DOKUMEN INI",
+            "DisplayText": "Teks Tampilan",
+            "Url": "URL",
+            "CellReference": "Referensi Sel",
+            "DefinedNames": "Nama yang Ditentukan",
+            "EnterTheTextToDisplay": "Masukkan teks untuk ditampilkan",
+            "EnterTheUrl": "Masukkan URL",
+            "INT": "Mengembalikan angka ke bilangan bulat terdekat.",
+            "SUMPRODUCT": "Mengembalikan jumlah produk dari rentang larik tertentu.",
+            "TODAY": "Mengembalikan tanggal sekarang sebagai nilai tanggal.",
+            "ROUNDUP": "Membulatkan angka menjauh dari nol.",
             "SelectBorderOption": "Pilih Opsi Perbatasan"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Bidang Lainnya",
             "AND": "DAN",
             "OR": "ATAU",
-            "SelectValue": "Masukkan Nilai"
+            "SelectValue": "Masukkan Nilai",
+            "IsEmpty": "Kosong",
+            "IsNotEmpty": "Tidak kosong",
+            "IsNull": "Apakah Null",
+            "IsNotNull": "Is Not Null",
+            "True": "benar",
+            "False": "Salah"
         },
         "grid": {
             "EmptyRecord": "Tidak ada catatan untuk ditampilkan",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} dari {1} halaman",
             "totalItemsInfo": "({0} item)",
-            "totalItemInfo": "({0} item)",
             "firstPageTooltip": "Pergi ke halaman pertama",
             "lastPageTooltip": "Pergi ke halaman terakhir",
             "nextPageTooltip": "Pergi ke halaman berikutnya",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Pergi ke halaman sebelumnya",
             "pagerDropDown": "item per halaman",
             "pagerAllDropDown": "Item",
-            "All": "Semua"
+            "All": "Semua",
+            "totalItemInfo": "({0} item)"
         },
         "calendar": {
             "today": "Hari ini"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Tugas yang Tidak Ditugaskan",
             "group": "Kelompok",
             "indent": "Indentasi",
-            "outdent": "Ketinggalan jaman"
+            "outdent": "Ketinggalan jaman",
+            "segments": "Segmen",
+            "splitTask": "Pisahkan Tugas",
+            "mergeTask": "Gabungkan Tugas",
+            "left": "Kiri",
+            "right": "Baik"
         },
         "dropdowns": {
             "noRecordsTemplate": "Tidak Ditemukan Catatan",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Bulat",
             "Square Arrow": "Kotak",
             "Diamond Arrow": "berlian",
+            "Butt": "Pantat",
             "Cut": "Memotong",
             "Paste": "Tempel",
             "Delete Context": "Menghapus",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Terima Perubahan",
             "Reject Changes": "Tolak Perubahan",
             "User": "Pengguna",
-            "View": "Melihat"
+            "View": "Melihat",
+            "Insertion": "Insersi",
+            "Deletion": "Penghapusan",
+            "All caps": "Semua huruf besar",
+            "This region is locked by": "Wilayah ini dikunci oleh",
+            "Lock": "Mengunci",
+            "Unlock": "Membuka kunci",
+            "Already locked": "Wilayah yang dipilih atau sudah dikunci oleh pengguna lain",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Formulir Teks",
+            "Check Box": "Kotak Centang",
+            "DropDown": "Drop-Down",
+            "Form Fields": "Bidang Formulir",
+            "Fillin enabled": "Isi diaktifkan"
         },
         "documenteditorcontainer": {
             "New": "Baru",
@@ -2438,7 +2523,13 @@
             "Check Box": "Centang Kotak",
             "DropDown": "Drop-Down",
             "Update Fields": "Perbarui Bidang",
-            "Update cross reference fields": "Perbarui bidang referensi silang"
+            "Update cross reference fields": "Perbarui bidang referensi silang",
+            "Hide properties pane": "Sembunyikan panel properti",
+            "Show properties pane": "Tampilkan panel properti",
+            "Form Fields": "Bidang Formulir",
+            "Track Changes": "Pantau perubahan yang dibuat dalam dokumen",
+            "TrackChanges": "Lacak Perubahan",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "Menutup"
@@ -2458,6 +2549,12 @@
             "yes": "Iya",
             "no": "Tidak",
             "close": "Menutup"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Tidak ada catatan yang ditemukan",
+            "actionFailureTemplate": "Permintaan gagal",
+            "overflowCountTemplate": "+ $ {count} lagi ..",
+            "totalCountTemplate": "$ {count} dipilih"
         }
     }
 }

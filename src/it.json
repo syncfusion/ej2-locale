@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Se si modifica un'estensione del nome file, il file potrebbe diventare instabile. Sei sicuro di volerlo cambiare?",
             "Header-Delete": "Cancella il file",
             "Content-Delete": "Sei sicuro di voler eliminare questo file?",
+            "Header-Folder-Delete": "Elimina cartella",
+            "Content-Folder-Delete": "Sei sicuro di voler eliminare questa cartella?",
             "Header-Multiple-Delete": "Elimina più file",
             "Content-Multiple-Delete": "Sei sicuro di voler eliminare questi {0} file?",
             "Header-Duplicate": "File / cartella esiste",
@@ -704,7 +706,9 @@
             "cleanFormat": "Pulito",
             "keepFormat": "Mantenere",
             "pasteDialogOk": "ok",
-            "pasteDialogCancel": "Annulla"
+            "pasteDialogCancel": "Annulla",
+            "fileManager": "File Manager",
+            "fileDialogHeader": "Browser di file"
         },
         "diagram": {
             "Copy": "copia",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "Filtri DateTime",
             "Undo": "Disfare",
             "Redo": "Rifare",
+            "ClearAllFilter": "Chiaro",
+            "ReapplyFilter": "Riapplica",
             "DateFilter": "Filtri data",
             "TextFilter": "Filtri di testo",
             "NumberFilter": "Filtri numerici",
@@ -1329,6 +1335,56 @@
             "LOG": "Restituisce il logaritmo di un numero alla base specificata.",
             "TRUNC": "Restituisce il valore troncato di un numero su un numero specificato di posizioni decimali.",
             "EXP": "Restituisce e elevato alla potenza di un determinato numero.",
+            "HighlightCellsRules": "Evidenzia le regole delle celle",
+            "CFEqualTo": "Uguale a",
+            "TextThatContains": "Testo che contiene",
+            "ADateOccuring": "Una data che si verifica",
+            "DuplicateValues": "Valori duplicati",
+            "TopBottomRules": "Regole in alto / in basso",
+            "Top10Items": "I 10 articoli migliori",
+            "Top10": "Top 10",
+            "Bottom10Items": "Ultimi 10 articoli",
+            "Bottom10": "Inferiore 10",
+            "AboveAverage": "Sopra la media",
+            "BelowAverage": "Sotto la media",
+            "FormatCellsGreaterThan": "Formatta le celle MAGGIORI DI:",
+            "FormatCellsLessThan": "Formatta le celle MENO DI:",
+            "FormatCellsBetween": "Formatta le celle che sono TRA:",
+            "FormatCellsEqualTo": "Formatta le celle UGUALI A:",
+            "FormatCellsThatContainTheText": "Formatta le celle che contengono il testo:",
+            "FormatCellsThatContainADateOccurring": "Formatta le celle che contengono una data che si verifica:",
+            "FormatCellsDuplicate": "Formatta le celle che contengono:",
+            "FormatCellsTop": "Formatta le celle che si classificano nella TOP:",
+            "FormatCellsBottom": "Formatta le celle che si trovano in BASSO:",
+            "FormatCellsAbove": "Formatta le celle che sono SOPRA LA MEDIA:",
+            "FormatCellsBelow": "Formatta le celle al di sotto della media:",
+            "With": "con",
+            "DataBars": "Barre dei dati",
+            "ColorScales": "Scale di colori",
+            "IconSets": "Set di icone",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Cancella regole dalle celle selezionate",
+            "EntireSheet": "Cancella regole dall'intero foglio",
+            "LightRedFillWithDarkRedText": "Riempimento rosso chiaro con testo rosso scuro",
+            "YellowFillWithDarkYellowText": "Riempimento giallo con testo giallo scuro",
+            "GreenFillWithDarkGreenText": "Riempimento verde con testo verde scuro",
+            "RedFill": "Riempimento rosso",
+            "RedText": "Testo rosso",
+            "Duplicate": "Duplicare",
+            "Unique": "Unico",
+            "And": "e",
+            "WebPage": "PAGINA WEB",
+            "ThisDocument": "QUESTO DOCUMENTO",
+            "DisplayText": "Visualizza testo",
+            "Url": "URL",
+            "CellReference": "Riferimento cella",
+            "DefinedNames": "Nomi definiti",
+            "EnterTheTextToDisplay": "Immettere il testo da visualizzare",
+            "EnterTheUrl": "Immettere l'URL",
+            "INT": "Restituisce un numero all'intero più vicino.",
+            "SUMPRODUCT": "Restituisce la somma del prodotto di determinati intervalli di array.",
+            "TODAY": "Restituisce la data corrente come valore della data.",
+            "ROUNDUP": "Arrotonda un numero lontano da zero.",
             "SelectBorderOption": "Seleziona l'opzione bordo"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Altri campi",
             "AND": "E",
             "OR": "O",
-            "SelectValue": "Inserisci valore"
+            "SelectValue": "Inserisci valore",
+            "IsEmpty": "È vuoto",
+            "IsNotEmpty": "Non è vuoto",
+            "IsNull": "È zero",
+            "IsNotNull": "Non è nullo",
+            "True": "vero",
+            "False": "falso"
         },
         "grid": {
             "EmptyRecord": "nessun dato da visualizzare",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} di {1} pagine",
             "totalItemsInfo": "({0} articoli)",
-            "totalItemInfo": "({0} articolo)",
             "firstPageTooltip": "Vai alla prima pagina",
             "lastPageTooltip": "Vai all'ultima pagina",
             "nextPageTooltip": "Vai alla pagina successiva",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Vai al cercapersone precedente",
             "pagerDropDown": "oggetti per pagina",
             "pagerAllDropDown": "Elementi",
-            "All": "Tutti"
+            "All": "Tutti",
+            "totalItemInfo": "({0} articolo)"
         },
         "calendar": {
             "today": "Oggi"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Attività non assegnata",
             "group": "Gruppo",
             "indent": "Rientro",
-            "outdent": "outdent"
+            "outdent": "outdent",
+            "segments": "Segmenti",
+            "splitTask": "Attività divisa",
+            "mergeTask": "Unisci attività",
+            "left": "Sinistra",
+            "right": "Destra"
         },
         "dropdowns": {
             "noRecordsTemplate": "Nessun record trovato",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Il giro",
             "Square Arrow": "Piazza",
             "Diamond Arrow": "Diamante",
+            "Butt": "Culo",
             "Cut": "Tagliare",
             "Paste": "Incolla",
             "Delete Context": "Elimina",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Accetta modifiche",
             "Reject Changes": "Rifiuta modifiche",
             "User": "Utente",
-            "View": "Visualizza"
+            "View": "Visualizza",
+            "Insertion": "Inserimento",
+            "Deletion": "Cancellazione",
+            "All caps": "Tutto maiuscolo",
+            "This region is locked by": "Questa regione è bloccata da",
+            "Lock": "Serratura",
+            "Unlock": "Sbloccare",
+            "Already locked": "Selezionato o parte della regione è già bloccata da un altro utente",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "io, ii, iii, ...",
+            "Text Form": "Modulo di testo",
+            "Check Box": "Casella di controllo",
+            "DropDown": "Cadere in picchiata",
+            "Form Fields": "Campi modulo",
+            "Fillin enabled": "Fill-in abilitato"
         },
         "documenteditorcontainer": {
             "New": "Nuovo",
@@ -2438,7 +2523,13 @@
             "Check Box": "Casella di controllo",
             "DropDown": "Cadere in picchiata",
             "Update Fields": "Campi di aggiornamento",
-            "Update cross reference fields": "Aggiorna i campi di riferimento incrociato"
+            "Update cross reference fields": "Aggiorna i campi di riferimento incrociato",
+            "Hide properties pane": "Nascondi riquadro proprietà",
+            "Show properties pane": "Mostra riquadro proprietà",
+            "Form Fields": "Campi modulo",
+            "Track Changes": "Tieni traccia delle modifiche apportate nel documento",
+            "TrackChanges": "Tenere traccia delle modifiche",
+            "AllCaps": "Tutto maiuscolo"
         },
         "toast": {
             "close": "Chiudi"
@@ -2458,6 +2549,12 @@
             "yes": "sì",
             "no": "No",
             "close": "Vicino"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Nessun record trovato",
+            "actionFailureTemplate": "Richiesta fallita",
+            "overflowCountTemplate": "+ $ {count} altro ..",
+            "totalCountTemplate": "$ {count} selezionato"
         }
     }
 }

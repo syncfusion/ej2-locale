@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "如果更改文件擴展名，文件可能會變得不穩定。您確定要更改嗎？",
             "Header-Delete": "刪除文件",
             "Content-Delete": "您確定要刪除此文件嗎？",
+            "Header-Folder-Delete": "刪除資料夾",
+            "Content-Folder-Delete": "您確定要刪除此文件夾嗎？",
             "Header-Multiple-Delete": "刪除多個文件",
             "Content-Multiple-Delete": "您確定要刪除這些{0}文件嗎？",
             "Header-Duplicate": "文件/文件夾存在",
@@ -704,7 +706,9 @@
             "cleanFormat": "清潔",
             "keepFormat": "保持",
             "pasteDialogOk": "好",
-            "pasteDialogCancel": "取消"
+            "pasteDialogCancel": "取消",
+            "fileManager": "文件管理器",
+            "fileDialogHeader": "文件瀏覽器"
         },
         "diagram": {
             "Copy": "複製",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "日期時間過濾器",
             "Undo": "撤消",
             "Redo": "重做",
+            "ClearAllFilter": "明確",
+            "ReapplyFilter": "重新申請",
             "DateFilter": "日期過濾器",
             "TextFilter": "文字過濾器",
             "NumberFilter": "號碼過濾器",
@@ -1329,6 +1335,56 @@
             "LOG": "将数字的对数返回到您指定的底数。",
             "TRUNC": "将数字的截断值返回指定的小数位数。",
             "EXP": "返回e升到给定数字的幂。",
+            "HighlightCellsRules": "突出顯示單元規則",
+            "CFEqualTo": "等於",
+            "TextThatContains": "包含的文字",
+            "ADateOccuring": "約會發生",
+            "DuplicateValues": "重複值",
+            "TopBottomRules": "頂部/底部規則",
+            "Top10Items": "十大項目",
+            "Top10": "前10名",
+            "Bottom10Items": "下10件",
+            "Bottom10": "底部10",
+            "AboveAverage": "高於平均水平",
+            "BelowAverage": "低於平均值",
+            "FormatCellsGreaterThan": "格式化大於的單元格：",
+            "FormatCellsLessThan": "格式化少於以下單元格：",
+            "FormatCellsBetween": "格式化以下單元格：",
+            "FormatCellsEqualTo": "格式化等於：",
+            "FormatCellsThatContainTheText": "格式化包含文本的單元格：",
+            "FormatCellsThatContainADateOccurring": "格式化包含發生日期的單元格：",
+            "FormatCellsDuplicate": "格式化包含以下內容的單元格：",
+            "FormatCellsTop": "格式化在TOP中排名的單元格：",
+            "FormatCellsBottom": "格式化位於底部的單元格：",
+            "FormatCellsAbove": "格式化平均以上的單元格：",
+            "FormatCellsBelow": "格式化低於平均的單元格：",
+            "With": "與",
+            "DataBars": "數據條",
+            "ColorScales": "色標",
+            "IconSets": "圖標集",
+            "ClearRules": "清除規則",
+            "SelectedCells": "清除選定單元格中的規則",
+            "EntireSheet": "從整個工作表中清除規則",
+            "LightRedFillWithDarkRedText": "淺紅色填充深紅色文本",
+            "YellowFillWithDarkYellowText": "黃色填充深黃色文本",
+            "GreenFillWithDarkGreenText": "綠色填充為深綠色文本",
+            "RedFill": "紅色填充",
+            "RedText": "紅色文字",
+            "Duplicate": "重複",
+            "Unique": "獨特",
+            "And": "和",
+            "WebPage": "網頁",
+            "ThisDocument": "這個文件",
+            "DisplayText": "顯示文字",
+            "Url": "網址",
+            "CellReference": "單元格參考",
+            "DefinedNames": "定義名稱",
+            "EnterTheTextToDisplay": "輸入要顯示的文字",
+            "EnterTheUrl": "輸入網址",
+            "INT": "返回最接近的整數。",
+            "SUMPRODUCT": "返回給定數組範圍的乘積之和。",
+            "TODAY": "返回當前日期作為日期值。",
+            "ROUNDUP": "將數字四捨五入為零。",
             "SelectBorderOption": "選擇邊框選項"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "其他領域",
             "AND": "和",
             "OR": "要么",
-            "SelectValue": "輸入值"
+            "SelectValue": "輸入值",
+            "IsEmpty": "是空的",
+            "IsNotEmpty": "不為空",
+            "IsNull": "一片空白",
+            "IsNotNull": "不為空",
+            "True": "真正",
+            "False": "假"
         },
         "grid": {
             "EmptyRecord": "無記錄可顯示",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0}頁中的{0}頁",
             "totalItemsInfo": "（{0}個項目）",
-            "totalItemInfo": "（{0}项目）",
             "firstPageTooltip": "轉到第一頁",
             "lastPageTooltip": "轉到最後一頁",
             "nextPageTooltip": "轉到下一頁",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "轉到上一頁",
             "pagerDropDown": "每頁項目",
             "pagerAllDropDown": "物品",
-            "All": "所有"
+            "All": "所有",
+            "totalItemInfo": "（{0}项目）"
         },
         "calendar": {
             "today": "今天"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "未分配任務",
             "group": "組",
             "indent": "缩进",
-            "outdent": "突出"
+            "outdent": "突出",
+            "segments": "區隔",
+            "splitTask": "拆分任務",
+            "mergeTask": "合併任務",
+            "left": "剩下",
+            "right": "對"
         },
         "dropdowns": {
             "noRecordsTemplate": "沒有找到記錄",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "回合",
             "Square Arrow": "廣場",
             "Diamond Arrow": "鑽石",
+            "Butt": "屁股",
             "Cut": "切",
             "Paste": "糊",
             "Delete Context": "刪除",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "接受变更",
             "Reject Changes": "拒绝更改",
             "User": "用户",
-            "View": "视图"
+            "View": "视图",
+            "Insertion": "插入",
+            "Deletion": "刪除中",
+            "All caps": "所有大寫",
+            "This region is locked by": "該區域被鎖定",
+            "Lock": "鎖",
+            "Unlock": "開鎖",
+            "Already locked": "所選區域或部分區域已被另一用戶鎖定",
+            "1, 2, 3, ...": "1、2、3，...",
+            "a, b, c, ...": "a，b，c，...",
+            "A, B, C, ...": "A，B，C，...",
+            "I, II, III, ...": "I，II，III，...",
+            "i, ii, iii, ...": "i，ii，iii，...",
+            "Text Form": "文字形式",
+            "Check Box": "複選框",
+            "DropDown": "落下",
+            "Form Fields": "表格欄位",
+            "Fillin enabled": "啟用填寫"
         },
         "documenteditorcontainer": {
             "New": "新",
@@ -2438,7 +2523,13 @@
             "Check Box": "複選框",
             "DropDown": "落下",
             "Update Fields": "更新欄位",
-            "Update cross reference fields": "更新交叉參考字段"
+            "Update cross reference fields": "更新交叉參考字段",
+            "Hide properties pane": "隱藏屬性窗格",
+            "Show properties pane": "顯示屬性窗格",
+            "Form Fields": "表格欄位",
+            "Track Changes": "跟踪文檔中所做的更改",
+            "TrackChanges": "跟踪變化",
+            "AllCaps": "全部大寫"
         },
         "toast": {
             "close": "關"
@@ -2458,6 +2549,12 @@
             "yes": "是",
             "no": "沒有",
             "close": "关"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "沒有找到記錄",
+            "actionFailureTemplate": "請求失敗",
+            "overflowCountTemplate": "+ $ {count}更多..",
+            "totalCountTemplate": "已選擇$ {count}個"
         }
     }
 }

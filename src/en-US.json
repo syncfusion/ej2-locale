@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "If you change a file name extension, the file might become unstable. Are you sure you want to change it?",
             "Header-Delete": "Delete File",
             "Content-Delete": "Are you sure you want to delete this file?",
+            "Header-Folder-Delete": "Delete Folder",
+            "Content-Folder-Delete": "Are you sure you want to delete this folder?",
             "Header-Multiple-Delete": "Delete Multiple Files",
             "Content-Multiple-Delete": "Are you sure you want to delete these {0} files?",
             "Header-Duplicate": "File/Folder exists",
@@ -704,7 +706,9 @@
             "cleanFormat": "Clean",
             "keepFormat": "Keep",
             "pasteDialogOk": "OK",
-            "pasteDialogCancel": "Cancel"
+            "pasteDialogCancel": "Cancel",
+            "fileManager": "File Manager",
+            "fileDialogHeader": "File Browser"
         },
         "diagram": {
             "Copy": "Copy",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "DateTime Filters",
             "Undo": "Undo",
             "Redo": "Redo",
+            "ClearAllFilter": "Clear",
+            "ReapplyFilter": "Reapply",
             "DateFilter": "Date Filters",
             "TextFilter": "Text Filters",
             "NumberFilter": "Number Filters",
@@ -1329,6 +1335,56 @@
             "LOG": "Returns the logarithm of a number to the base that you specify.",
             "TRUNC": "Returns the truncated value of a number to a specified number of decimal places.",
             "EXP": "Returns e raised to the power of the given number.",
+            "HighlightCellsRules": "Highlight Cells Rules",
+            "CFEqualTo": "Equal To",
+            "TextThatContains": "Text that Contains",
+            "ADateOccuring": "A Date Occuring",
+            "DuplicateValues": "Duplicate Values",
+            "TopBottomRules": "Top/Bottom Rules",
+            "Top10Items": "Top 10 Items",
+            "Top10": "Top 10",
+            "Bottom10Items": "Bottom 10 Items",
+            "Bottom10": "Bottom 10",
+            "AboveAverage": "Above Average",
+            "BelowAverage": "Below Average",
+            "FormatCellsGreaterThan": "Format cells that are GREATER THAN:",
+            "FormatCellsLessThan": "Format cells that are LESS THAN:",
+            "FormatCellsBetween": "Format cells that are BETWEEN:",
+            "FormatCellsEqualTo": "Format cells that are EQUAL TO:",
+            "FormatCellsThatContainTheText": "Format cells that contain the text:",
+            "FormatCellsThatContainADateOccurring": "Format cells that contain a date occurring:",
+            "FormatCellsDuplicate": "Format cells that contain:",
+            "FormatCellsTop": "Format cells that rank in the TOP:",
+            "FormatCellsBottom": "Format cells that rank in the BOTTOM:",
+            "FormatCellsAbove": "Format cells that are ABOVE AVERAGE:",
+            "FormatCellsBelow": "Format cells that are BELOW AVERAGE:",
+            "With": "with",
+            "DataBars": "Data Bars",
+            "ColorScales": "Color Scales",
+            "IconSets": "Icon Sets",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Clear Rules from Selected Cells",
+            "EntireSheet": "Clear Rules from Entire Sheet",
+            "LightRedFillWithDarkRedText": "Light Red Fill with Dark Red Text",
+            "YellowFillWithDarkYellowText": "Yellow Fill with Dark Yellow Text",
+            "GreenFillWithDarkGreenText": "Green Fill with Dark Green Text",
+            "RedFill": "Red Fill",
+            "RedText": "Red Text",
+            "Duplicate": "Duplicate",
+            "Unique": "Unique",
+            "And": "and",
+            "WebPage": "WEB PAGE",
+            "ThisDocument": "THIS DOCUMENT",
+            "DisplayText": "Display Text",
+            "Url": "URL",
+            "CellReference": "Cell Reference",
+            "DefinedNames": "Defined Names",
+            "EnterTheTextToDisplay": "Enter the text to display",
+            "EnterTheUrl": "Enter the URL",
+            "INT": "Returns a number to the nearest integer.",
+            "SUMPRODUCT": "Returns sum of the product of given ranges of arrays.",
+            "TODAY": "Returns the current date as date value.",
+            "ROUNDUP": "Rounds a number away from zero.",
             "SelectBorderOption": "Select Border Option"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Other Fields",
             "AND": "AND",
             "OR": "OR",
-            "SelectValue": "Enter Value"
+            "SelectValue": "Enter Value",
+            "IsEmpty": "Is Empty",
+            "IsNotEmpty": "Is Not Empty",
+            "IsNull": "Is Null",
+            "IsNotNull": "Is Not Null",
+            "True": "true",
+            "False": "false"
         },
         "grid": {
             "EmptyRecord": "No records to display",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} of {1} pages",
             "totalItemsInfo": "({0} items)",
-            "totalItemInfo": "({0} item)",
             "firstPageTooltip": "Go to first page",
             "lastPageTooltip": "Go to last page",
             "nextPageTooltip": "Go to next page",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Go to previous pager",
             "pagerDropDown": "Items per page",
             "pagerAllDropDown": "Items",
-            "All": "All"
+            "All": "All",
+            "totalItemInfo": "({0} item)"
         },
         "calendar": {
             "today": "Today"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Unassigned Task",
             "group": "Group",
             "indent": "Indent",
-            "outdent": "Outdent"
+            "outdent": "Outdent",
+            "segments": "Segments",
+            "splitTask": "Split Task",
+            "mergeTask": "Merge Task",
+            "left": "Left",
+            "right": "Right"
         },
         "dropdowns": {
             "noRecordsTemplate": "No Records Found",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Round",
             "Square Arrow": "Square",
             "Diamond Arrow": "Diamond",
+            "Butt": "Butt",
             "Cut": "Cut",
             "Paste": "Paste",
             "Delete Context": "Delete",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Accept Changes",
             "Reject Changes": "Reject Changes",
             "User": "User",
-            "View": "View"
+            "View": "View",
+            "Insertion": "Insertion",
+            "Deletion": "Deletion",
+            "All caps": "All caps",
+            "This region is locked by": "This region is locked by",
+            "Lock": "Lock",
+            "Unlock": "Unlock",
+            "Already locked": "Selected or part of region is already locked by another user",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Text Form",
+            "Check Box": "Check Box",
+            "DropDown": "Drop-Down",
+            "Form Fields": "Form Fields",
+            "Fillin enabled": "Fill-in enabled"
         },
         "documenteditorcontainer": {
             "New": "New",
@@ -2438,7 +2523,13 @@
             "Check Box": "Check Box",
             "DropDown": "Drop-Down",
             "Update Fields": "Update Fields",
-            "Update cross reference fields": "Update cross reference fields"
+            "Update cross reference fields": "Update cross reference fields",
+            "Hide properties pane": "Hide properties pane",
+            "Show properties pane": "Show properties pane",
+            "Form Fields": "Form Fields",
+            "Track Changes": "Keep track of the changes made in the document",
+            "TrackChanges": "Track Changes",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "Close"
@@ -2458,6 +2549,12 @@
             "yes": "Yes",
             "no": "No",
             "close": "Close"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "No records found",
+            "actionFailureTemplate": "Request failed",
+            "overflowCountTemplate": "+${count} more..",
+            "totalCountTemplate": "${count} selected"
         }
     }
 }

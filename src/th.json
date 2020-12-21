@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "หากคุณเปลี่ยนนามสกุลไฟล์ไฟล์นั้นอาจไม่เสถียร คุณแน่ใจหรือว่าต้องการเปลี่ยนแปลง",
             "Header-Delete": "ลบไฟล์",
             "Content-Delete": "คุณแน่ใจหรือว่าต้องการลบไฟล์นี้?",
+            "Header-Folder-Delete": "ลบโฟลเดอร์",
+            "Content-Folder-Delete": "แน่ใจไหมว่าต้องการลบโฟลเดอร์นี้",
             "Header-Multiple-Delete": "ลบหลายไฟล์",
             "Content-Multiple-Delete": "แน่ใจหรือไม่ว่าคุณต้องการลบไฟล์ {0} เหล่านี้",
             "Header-Duplicate": "มีไฟล์ / โฟลเดอร์อยู่",
@@ -704,7 +706,9 @@
             "cleanFormat": "สะอาด",
             "keepFormat": "เก็บไว้",
             "pasteDialogOk": "ตกลง",
-            "pasteDialogCancel": "ยกเลิก"
+            "pasteDialogCancel": "ยกเลิก",
+            "fileManager": "ตัวจัดการไฟล์",
+            "fileDialogHeader": "ไฟล์เบราว์เซอร์"
         },
         "diagram": {
             "Copy": "สำเนา",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "ตัวกรอง DateTime",
             "Undo": "เลิกทำ",
             "Redo": "ทำซ้ำ",
+            "ClearAllFilter": "ชัดเจน",
+            "ReapplyFilter": "สมัครใหม่",
             "DateFilter": "ตัวกรองวันที่",
             "TextFilter": "ตัวกรองข้อความ",
             "NumberFilter": "ตัวกรองจำนวน",
@@ -1329,6 +1335,56 @@
             "LOG": "ส่งคืนลอการิทึมของตัวเลขไปยังฐานที่คุณระบุ",
             "TRUNC": "ส่งคืนค่าที่ตัดปลายของตัวเลขเป็นจำนวนทศนิยมที่ระบุ",
             "EXP": "ส่งคืน e ยกกำลังของจำนวนที่กำหนด",
+            "HighlightCellsRules": "เน้นกฎของเซลล์",
+            "CFEqualTo": "เท่ากับ",
+            "TextThatContains": "ข้อความที่มี",
+            "ADateOccuring": "วันที่เกิดขึ้น",
+            "DuplicateValues": "ค่าที่ซ้ำกัน",
+            "TopBottomRules": "กฎบน / ล่าง",
+            "Top10Items": "รายการ 10 อันดับแรก",
+            "Top10": "10 อันดับแรก",
+            "Bottom10Items": "10 อันดับสุดท้าย",
+            "Bottom10": "10 อันดับสุดท้าย",
+            "AboveAverage": "เหนือค่าเฉลี่ย",
+            "BelowAverage": "ต่ำกว่าค่าเฉลี่ย",
+            "FormatCellsGreaterThan": "จัดรูปแบบเซลล์ที่ดีกว่า:",
+            "FormatCellsLessThan": "จัดรูปแบบเซลล์ที่น้อยกว่า:",
+            "FormatCellsBetween": "จัดรูปแบบเซลล์ที่อยู่ระหว่าง:",
+            "FormatCellsEqualTo": "จัดรูปแบบเซลล์ที่มีค่าเท่ากับ:",
+            "FormatCellsThatContainTheText": "จัดรูปแบบเซลล์ที่มีข้อความ:",
+            "FormatCellsThatContainADateOccurring": "จัดรูปแบบเซลล์ที่มีวันที่เกิดขึ้น:",
+            "FormatCellsDuplicate": "จัดรูปแบบเซลล์ที่มี:",
+            "FormatCellsTop": "จัดรูปแบบเซลล์ที่อยู่ในอันดับสูงสุด:",
+            "FormatCellsBottom": "จัดรูปแบบเซลล์ที่อยู่ใน BOTTOM:",
+            "FormatCellsAbove": "จัดรูปแบบเซลล์ที่สูงกว่าค่าเฉลี่ย:",
+            "FormatCellsBelow": "จัดรูปแบบเซลล์ที่ต่ำกว่าค่าเฉลี่ย:",
+            "With": "ด้วย",
+            "DataBars": "แถบข้อมูล",
+            "ColorScales": "เครื่องชั่งสี",
+            "IconSets": "ชุดไอคอน",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "ล้างกฎจากเซลล์ที่เลือก",
+            "EntireSheet": "ล้างกฎจากแผ่นงานทั้งหมด",
+            "LightRedFillWithDarkRedText": "เติมสีแดงอ่อนด้วยข้อความสีแดงเข้ม",
+            "YellowFillWithDarkYellowText": "เติมสีเหลืองด้วยข้อความสีเหลืองเข้ม",
+            "GreenFillWithDarkGreenText": "เติมสีเขียวด้วยข้อความสีเขียวเข้ม",
+            "RedFill": "เติมสีแดง",
+            "RedText": "ข้อความสีแดง",
+            "Duplicate": "ทำซ้ำ",
+            "Unique": "ไม่เหมือนใคร",
+            "And": "และ",
+            "WebPage": "หน้าเว็บ",
+            "ThisDocument": "เอกสารนี้",
+            "DisplayText": "แสดงข้อความ",
+            "Url": "URL",
+            "CellReference": "การอ้างอิงเซลล์",
+            "DefinedNames": "ชื่อที่กำหนด",
+            "EnterTheTextToDisplay": "ป้อนข้อความที่จะแสดง",
+            "EnterTheUrl": "ป้อน URL",
+            "INT": "ส่งกลับตัวเลขเป็นจำนวนเต็มที่ใกล้เคียงที่สุด",
+            "SUMPRODUCT": "ส่งคืนผลรวมของผลคูณของช่วงอาร์เรย์ที่กำหนด",
+            "TODAY": "ส่งคืนวันที่ปัจจุบันเป็นค่าวันที่",
+            "ROUNDUP": "ปัดเศษตัวเลขให้ห่างจากศูนย์",
             "SelectBorderOption": "เลือกตัวเลือกชายแดน"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "สาขาอื่น ๆ",
             "AND": "และ",
             "OR": "หรือ",
-            "SelectValue": "ป้อนค่า"
+            "SelectValue": "ป้อนค่า",
+            "IsEmpty": "มันว่างเปล่า",
+            "IsNotEmpty": "ไม่ว่างเปล่า",
+            "IsNull": "เป็น Null",
+            "IsNotNull": "ไม่เป็นโมฆะ",
+            "True": "จริง",
+            "False": "เท็จ"
         },
         "grid": {
             "EmptyRecord": "ไม่มีบันทึกที่จะแสดง",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "หน้า {0} จาก {1} หน้า",
             "totalItemsInfo": "({0} รายการ)",
-            "totalItemInfo": "({0} รายการ)",
             "firstPageTooltip": "ไปที่หน้าแรก",
             "lastPageTooltip": "ไปที่หน้าสุดท้าย",
             "nextPageTooltip": "ไปที่หน้าถัดไป",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "ไปที่เพจเจอร์ก่อนหน้า",
             "pagerDropDown": "รายการต่อหน้า",
             "pagerAllDropDown": "รายการ",
-            "All": "ทั้งหมด"
+            "All": "ทั้งหมด",
+            "totalItemInfo": "({0} รายการ)"
         },
         "calendar": {
             "today": "ในวันนี้"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "ภารกิจที่ไม่ได้มอบหมาย",
             "group": "กลุ่ม",
             "indent": "ย่อหน้า",
-            "outdent": "เยื้องออก"
+            "outdent": "เยื้องออก",
+            "segments": "กลุ่ม",
+            "splitTask": "แยกงาน",
+            "mergeTask": "ผสานงาน",
+            "left": "ซ้าย",
+            "right": "ขวา"
         },
         "dropdowns": {
             "noRecordsTemplate": "ไม่พบบันทึก",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "รอบ",
             "Square Arrow": "สี่เหลี่ยม",
             "Diamond Arrow": "เพชร",
+            "Butt": "ก้น",
             "Cut": "ตัด",
             "Paste": "วาง",
             "Delete Context": "ลบ",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "ยอมรับการเปลี่ยนแปลง",
             "Reject Changes": "ปฏิเสธการเปลี่ยนแปลง",
             "User": "ผู้ใช้งาน",
-            "View": "ดู"
+            "View": "ดู",
+            "Insertion": "การแทรก",
+            "Deletion": "การลบ",
+            "All caps": "ตัวพิมพ์ใหญ่ทั้งหมด",
+            "This region is locked by": "ภูมิภาคนี้ถูกล็อคโดย",
+            "Lock": "ล็อค",
+            "Unlock": "ปลดล็อค",
+            "Already locked": "ผู้ใช้รายอื่นที่เลือกหรือบางส่วนถูกล็อกไว้แล้ว",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "ก, ข, ค, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "ฉัน, II, III, ...",
+            "i, ii, iii, ...": "ฉัน, ii, iii, ...",
+            "Text Form": "แบบฟอร์มข้อความ",
+            "Check Box": "กล่องกาเครื่องหมาย",
+            "DropDown": "หล่นลง",
+            "Form Fields": "แบบฟอร์มฟิลด์",
+            "Fillin enabled": "เปิดใช้งานการกรอกข้อมูล"
         },
         "documenteditorcontainer": {
             "New": "ใหม่",
@@ -2438,7 +2523,13 @@
             "Check Box": "ช่องทำเครื่องหมาย",
             "DropDown": "หล่นลง",
             "Update Fields": "อัปเดตฟิลด์",
-            "Update cross reference fields": "อัปเดตฟิลด์อ้างอิงโยง"
+            "Update cross reference fields": "อัปเดตฟิลด์อ้างอิงโยง",
+            "Hide properties pane": "ซ่อนบานหน้าต่างคุณสมบัติ",
+            "Show properties pane": "แสดงบานหน้าต่างคุณสมบัติ",
+            "Form Fields": "แบบฟอร์มฟิลด์",
+            "Track Changes": "ติดตามการเปลี่ยนแปลงที่เกิดขึ้นในเอกสาร",
+            "TrackChanges": "ติดตามการเปลี่ยนแปลง",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "ปิด"
@@ -2458,6 +2549,12 @@
             "yes": "ใช่",
             "no": "ไม่",
             "close": "ปิด"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "ไม่พบบันทึก",
+            "actionFailureTemplate": "คำขอล้มเหลว",
+            "overflowCountTemplate": "และอีก $ {count} ..",
+            "totalCountTemplate": "เลือก $ {count}"
         }
     }
 }

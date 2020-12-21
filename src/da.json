@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "Hvis du ændrer en filnavnetudvidelse, kan filen muligvis blive ustabil. Er du sikker på, at du vil ændre det?",
             "Header-Delete": "Slet fil",
             "Content-Delete": "Er du sikker på, at du vil slette denne fil?",
+            "Header-Folder-Delete": "Slet mappe",
+            "Content-Folder-Delete": "Er du sikker på, at du vil slette denne mappe?",
             "Header-Multiple-Delete": "Slet flere filer",
             "Content-Multiple-Delete": "Er du sikker på, at du vil slette disse {0} filer?",
             "Header-Duplicate": "Fil / mappe findes",
@@ -704,7 +706,9 @@
             "cleanFormat": "Ren",
             "keepFormat": "Holde",
             "pasteDialogOk": "Okay",
-            "pasteDialogCancel": "Afbestille"
+            "pasteDialogCancel": "Afbestille",
+            "fileManager": "Filhåndtering",
+            "fileDialogHeader": "Filbrowser"
         },
         "diagram": {
             "Copy": "Kopi",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "DateTime-filtre",
             "Undo": "Fortryd",
             "Redo": "Redo",
+            "ClearAllFilter": "Klar",
+            "ReapplyFilter": "Ansøg igen",
             "DateFilter": "Datofiltre",
             "TextFilter": "Tekstfiltre",
             "NumberFilter": "Antal filtre",
@@ -1329,6 +1335,56 @@
             "LOG": "Returnerer logaritmen for et nummer til den base, du angiver.",
             "TRUNC": "Returnerer den trunkerede værdi af et tal til et specificeret antal decimaler.",
             "EXP": "Returnerer e hævet til magten i det givne nummer.",
+            "HighlightCellsRules": "Fremhæv celleregler",
+            "CFEqualTo": "Svarende til",
+            "TextThatContains": "Tekst, der indeholder",
+            "ADateOccuring": "En dato, der finder sted",
+            "DuplicateValues": "Kopier af værdier",
+            "TopBottomRules": "Top / bund regler",
+            "Top10Items": "Top 10 varer",
+            "Top10": "Top 10",
+            "Bottom10Items": "Nederste 10 varer",
+            "Bottom10": "Bund 10",
+            "AboveAverage": "Over gennemsnit",
+            "BelowAverage": "Under middel",
+            "FormatCellsGreaterThan": "Formater celler, der er STØRRE END:",
+            "FormatCellsLessThan": "Formater celler, der er mindre end:",
+            "FormatCellsBetween": "Formater celler, der er MELLEM:",
+            "FormatCellsEqualTo": "Formatér celler, der er LIGE TIL:",
+            "FormatCellsThatContainTheText": "Formater celler, der indeholder teksten:",
+            "FormatCellsThatContainADateOccurring": "Formatér celler, der indeholder en dato, der forekommer:",
+            "FormatCellsDuplicate": "Formater celler, der indeholder:",
+            "FormatCellsTop": "Formatér celler, der rangerer i TOPPEN:",
+            "FormatCellsBottom": "Formatér celler, der rangerer i BUNDEN:",
+            "FormatCellsAbove": "Formater celler, der er OVER GEMIDDELIG:",
+            "FormatCellsBelow": "Formater celler, der er NEDER GEMIDDELIG:",
+            "With": "med",
+            "DataBars": "Databarer",
+            "ColorScales": "Farveskalaer",
+            "IconSets": "Ikonsæt",
+            "ClearRules": "ClearRules",
+            "SelectedCells": "Ryd regler fra valgte celler",
+            "EntireSheet": "Ryd regler fra hele arket",
+            "LightRedFillWithDarkRedText": "Lysrød fyld med mørkerød tekst",
+            "YellowFillWithDarkYellowText": "Gul fyld med mørkegul tekst",
+            "GreenFillWithDarkGreenText": "Grøn fyld med mørkegrøn tekst",
+            "RedFill": "Rød fyld",
+            "RedText": "Rød tekst",
+            "Duplicate": "Duplikere",
+            "Unique": "Enestående",
+            "And": "og",
+            "WebPage": "HJEMMESIDE",
+            "ThisDocument": "DETTE DOKUMENT",
+            "DisplayText": "Vis tekst",
+            "Url": "URL",
+            "CellReference": "Cellereference",
+            "DefinedNames": "Definerede navne",
+            "EnterTheTextToDisplay": "Indtast den tekst, der skal vises",
+            "EnterTheUrl": "Indtast URL'en",
+            "INT": "Returnerer et tal til nærmeste heltal.",
+            "SUMPRODUCT": "Returnerer summen af ​​produktet fra givne arrayserier.",
+            "TODAY": "Returnerer den aktuelle dato som datoværdi.",
+            "ROUNDUP": "Afrunder et tal væk fra nul.",
             "SelectBorderOption": "Vælg Border Option"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "Andre felter",
             "AND": "OG",
             "OR": "ELLER",
-            "SelectValue": "Indtast værdi"
+            "SelectValue": "Indtast værdi",
+            "IsEmpty": "Er tom",
+            "IsNotEmpty": "Er ikke tom",
+            "IsNull": "Er Null",
+            "IsNotNull": "Er ikke nul",
+            "True": "rigtigt",
+            "False": "falsk"
         },
         "grid": {
             "EmptyRecord": "Ingen poster at vise",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} af {1} sider",
             "totalItemsInfo": "({0} varer)",
-            "totalItemInfo": "({0} vare)",
             "firstPageTooltip": "Gå til første side",
             "lastPageTooltip": "Gå til sidste side",
             "nextPageTooltip": "Gå til næste side",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "Gå til forrige personsøger",
             "pagerDropDown": "Varer pr. Side",
             "pagerAllDropDown": "Elementer",
-            "All": "Alle"
+            "All": "Alle",
+            "totalItemInfo": "({0} vare)"
         },
         "calendar": {
             "today": "I dag"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "Opdrag, der ikke er tildelt",
             "group": "Gruppe",
             "indent": "indrykning",
-            "outdent": "Ryk"
+            "outdent": "Ryk",
+            "segments": "Segmenter",
+            "splitTask": "Opdel opgave",
+            "mergeTask": "Flet opgave",
+            "left": "Venstre",
+            "right": "Ret"
         },
         "dropdowns": {
             "noRecordsTemplate": "Ingen poster fundet",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "Rund",
             "Square Arrow": "Firkant",
             "Diamond Arrow": "Diamant",
+            "Butt": "Butt",
             "Cut": "Skære",
             "Paste": "sæt ind",
             "Delete Context": "Slet",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "Accepter ændringer",
             "Reject Changes": "Afvis ændringer",
             "User": "Bruger",
-            "View": "Udsigt"
+            "View": "Udsigt",
+            "Insertion": "Indskud",
+            "Deletion": "Sletning",
+            "All caps": "Alle hætter",
+            "This region is locked by": "Denne region er låst af",
+            "Lock": "Låse",
+            "Unlock": "Lås op",
+            "Already locked": "Valgt eller del af område er allerede låst af en anden bruger",
+            "1, 2, 3, ...": "1, 2, 3, ...",
+            "a, b, c, ...": "a, b, c, ...",
+            "A, B, C, ...": "A, B, C, ...",
+            "I, II, III, ...": "I, II, III, ...",
+            "i, ii, iii, ...": "i, ii, iii, ...",
+            "Text Form": "Tekstformular",
+            "Check Box": "Afkrydsningsfelt",
+            "DropDown": "Drop-Down",
+            "Form Fields": "Formularfelter",
+            "Fillin enabled": "Udfyldning aktiveret"
         },
         "documenteditorcontainer": {
             "New": "Ny",
@@ -2438,7 +2523,13 @@
             "Check Box": "Afkrydsningsfelt",
             "DropDown": "Drop-Down",
             "Update Fields": "Opdater felter",
-            "Update cross reference fields": "Opdater krydsreferencefelter"
+            "Update cross reference fields": "Opdater krydsreferencefelter",
+            "Hide properties pane": "Skjul egenskabsruden",
+            "Show properties pane": "Vis egenskabsrude",
+            "Form Fields": "Formularfelter",
+            "Track Changes": "Hold styr på de ændringer, der er foretaget i dokumentet",
+            "TrackChanges": "Spor ændringer",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "Tæt"
@@ -2458,6 +2549,12 @@
             "yes": "Ja",
             "no": "Ingen",
             "close": "Tæt"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "Ingen optegnelser fundet",
+            "actionFailureTemplate": "Anmodningen mislykkedes",
+            "overflowCountTemplate": "+ $ {count} mere ..",
+            "totalCountTemplate": "$ {count} valgt"
         }
     }
 }

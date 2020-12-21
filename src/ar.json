@@ -475,6 +475,8 @@
             "Content-Rename-Confirmation": "إذا قمت بتغيير ملحق اسم الملف ، فقد يصبح الملف غير مستقر. هل أنت متأكد أنك تريد تغييره؟",
             "Header-Delete": "حذف ملف",
             "Content-Delete": "هل أنت متأكد أنك تريد حذف هذا الملف؟",
+            "Header-Folder-Delete": "احذف المجلد",
+            "Content-Folder-Delete": "هل أنت متأكد أنك تريد حذف هذا المجلد؟",
             "Header-Multiple-Delete": "حذف ملفات متعددة",
             "Content-Multiple-Delete": "هل أنت متأكد من أنك تريد حذف هذه الملفات {0}؟",
             "Header-Duplicate": "يوجد ملف / مجلد",
@@ -704,7 +706,9 @@
             "cleanFormat": "نظيف",
             "keepFormat": "احتفظ",
             "pasteDialogOk": "حسنا",
-            "pasteDialogCancel": "إلغاء"
+            "pasteDialogCancel": "إلغاء",
+            "fileManager": "مدير الملفات",
+            "fileDialogHeader": "متصفح الملفات"
         },
         "diagram": {
             "Copy": "نسخ",
@@ -1260,6 +1264,8 @@
             "DateTimeFilter": "مرشحات DateTime",
             "Undo": "الغاء التحميل",
             "Redo": "الإعادة",
+            "ClearAllFilter": "واضح",
+            "ReapplyFilter": "أعد تطبيق",
             "DateFilter": "مرشحات التاريخ",
             "TextFilter": "مرشحات النص",
             "NumberFilter": "عدد المرشحات",
@@ -1329,6 +1335,56 @@
             "LOG": "إرجاع لوغاريتم رقم إلى الأساس الذي تحدده.",
             "TRUNC": "إرجاع القيمة المقطوعة لرقم إلى عدد محدد من المنازل العشرية.",
             "EXP": "إرجاع e مرفوع إلى قوة الرقم المعطى.",
+            "HighlightCellsRules": "تمييز قواعد الخلايا",
+            "CFEqualTo": "يساوي",
+            "TextThatContains": "النص الذي يحتوي على",
+            "ADateOccuring": "حدث تاريخ",
+            "DuplicateValues": "قيم مكررة",
+            "TopBottomRules": "أعلى / أسفل القواعد",
+            "Top10Items": "أهم 10 عناصر",
+            "Top10": "أعلى 10",
+            "Bottom10Items": "أسفل 10 عناصر",
+            "Bottom10": "أسفل 10",
+            "AboveAverage": "فوق المتوسط",
+            "BelowAverage": "أقل من المتوسط",
+            "FormatCellsGreaterThan": "تنسيق الخلايا الأكبر من:",
+            "FormatCellsLessThan": "تنسيق الخلايا الأقل من:",
+            "FormatCellsBetween": "تنسيق الخلايا الواقعة بين:",
+            "FormatCellsEqualTo": "تنسيق الخلايا المتساوية مع:",
+            "FormatCellsThatContainTheText": "تنسيق الخلايا التي تحتوي على النص:",
+            "FormatCellsThatContainADateOccurring": "تنسيق الخلايا التي تحتوي على تاريخ يحدث:",
+            "FormatCellsDuplicate": "تنسيق الخلايا التي تحتوي على:",
+            "FormatCellsTop": "تنسيق الخلايا التي يتم ترتيبها في الأعلى:",
+            "FormatCellsBottom": "تنسيق الخلايا التي يتم ترتيبها في الأسفل:",
+            "FormatCellsAbove": "تنسيق الخلايا التي تكون فوق المتوسط:",
+            "FormatCellsBelow": "تنسيق الخلايا أدناه AVERAGE:",
+            "With": "مع",
+            "DataBars": "أشرطة البيانات",
+            "ColorScales": "مقاييس اللون",
+            "IconSets": "مجموعات الرموز",
+            "ClearRules": "القواعد الواضحة",
+            "SelectedCells": "مسح القواعد من الخلايا المحددة",
+            "EntireSheet": "مسح القواعد من الورقة بأكملها",
+            "LightRedFillWithDarkRedText": "أحمر فاتح تعبئة بنص أحمر غامق",
+            "YellowFillWithDarkYellowText": "تعبئة باللون الأصفر بنص أصفر داكن",
+            "GreenFillWithDarkGreenText": "تعبئة باللون الأخضر بنص أخضر داكن",
+            "RedFill": "التعبئة الحمراء",
+            "RedText": "نص أحمر",
+            "Duplicate": "مكرر",
+            "Unique": "فريد",
+            "And": "و",
+            "WebPage": "صفحة ويب",
+            "ThisDocument": "هذا المستند",
+            "DisplayText": "عرض النص",
+            "Url": "URL",
+            "CellReference": "مرجع الخلية",
+            "DefinedNames": "الأسماء المعرفة",
+            "EnterTheTextToDisplay": "أدخل النص لعرضه",
+            "EnterTheUrl": "أدخل الرابط",
+            "INT": "إرجاع رقم إلى أقرب عدد صحيح.",
+            "SUMPRODUCT": "إرجاع مجموع حاصل ضرب نطاقات معينة من المصفوفات.",
+            "TODAY": "إرجاع التاريخ الحالي كقيمة تاريخ.",
+            "ROUNDUP": "لتقريب رقم بعيدًا عن الصفر.",
             "SelectBorderOption": "حدد خيار الحدود"
         },
         "pdfviewer": {
@@ -1465,7 +1521,13 @@
             "OtherFields": "مجالات أخرى",
             "AND": "و",
             "OR": "أو",
-            "SelectValue": "أدخل القيمة"
+            "SelectValue": "أدخل القيمة",
+            "IsEmpty": "فارغ",
+            "IsNotEmpty": "ليس فارغا",
+            "IsNull": "باطل",
+            "IsNotNull": "هو ليس لاشيء",
+            "True": "صحيح",
+            "False": "خاطئة"
         },
         "grid": {
             "EmptyRecord": "لا سجلات لعرضها",
@@ -1556,7 +1618,6 @@
         "pager": {
             "currentPageInfo": "{0} من {1} صفحة",
             "totalItemsInfo": "({0} عناصر)",
-            "totalItemInfo": "({0} بند)",
             "firstPageTooltip": "الذهاب إلى الصفحة الأولى",
             "lastPageTooltip": "الذهاب إلى الصفحة الأخيرة",
             "nextPageTooltip": "انتقل إلى الصفحة التالية",
@@ -1565,7 +1626,8 @@
             "previousPagerTooltip": "الذهاب إلى النداء السابق",
             "pagerDropDown": "مواد لكل صفحة",
             "pagerAllDropDown": "العناصر",
-            "All": "الكل"
+            "All": "الكل",
+            "totalItemInfo": "({0} بند)"
         },
         "calendar": {
             "today": "اليوم"
@@ -1683,7 +1745,12 @@
             "unassignedTask": "مهمة غير محددة",
             "group": "مجموعة",
             "indent": "مسافة بادئة",
-            "outdent": "عفا عليها الزمن"
+            "outdent": "عفا عليها الزمن",
+            "segments": "شرائح",
+            "splitTask": "تقسيم المهمة",
+            "mergeTask": "مهمة الدمج",
+            "left": "اليسار",
+            "right": "حق"
         },
         "dropdowns": {
             "noRecordsTemplate": "لا توجد سجلات",
@@ -1923,6 +1990,7 @@
             "Round Arrow": "مستدير",
             "Square Arrow": "ميدان",
             "Diamond Arrow": "الماس",
+            "Butt": "بعقب",
             "Cut": "يقطع",
             "Paste": "معجون",
             "Delete Context": "حذف",
@@ -2292,7 +2360,24 @@
             "Accept Changes": "قبول التغييرات",
             "Reject Changes": "رفض التغييرات",
             "User": "المستعمل",
-            "View": "رأي"
+            "View": "رأي",
+            "Insertion": "إدراج",
+            "Deletion": "حذف",
+            "All caps": "كل الأحرف الاستهلالية",
+            "This region is locked by": "هذه المنطقة مؤمنة من قبل",
+            "Lock": "قفل",
+            "Unlock": "الغاء القفل",
+            "Already locked": "تم تحديد منطقة أو جزء منها مؤمن بالفعل من قبل مستخدم آخر",
+            "1, 2, 3, ...": "1 ، 2 ، 3 ، ...",
+            "a, b, c, ...": "أ ، ب ، ج ، ...",
+            "A, B, C, ...": "أ ، ب ، ج ، ...",
+            "I, II, III, ...": "الأول ، الثاني ، الثالث ، ...",
+            "i, ii, iii, ...": "الأول ، الثاني ، الثالث ، ...",
+            "Text Form": "نموذج نصي",
+            "Check Box": "خانة اختيار",
+            "DropDown": "اسقاط",
+            "Form Fields": "حقول النموذج",
+            "Fillin enabled": "تم تمكين التعبئة"
         },
         "documenteditorcontainer": {
             "New": "جديد",
@@ -2438,7 +2523,13 @@
             "Check Box": "خانة اختيار",
             "DropDown": "اسقاط",
             "Update Fields": "تحديث الحقول",
-            "Update cross reference fields": "تحديث حقول الإسناد الترافقي"
+            "Update cross reference fields": "تحديث حقول الإسناد الترافقي",
+            "Hide properties pane": "إخفاء جزء الخصائص",
+            "Show properties pane": "إظهار جزء الخصائص",
+            "Form Fields": "حقول النموذج",
+            "Track Changes": "تتبع التغييرات التي تم إجراؤها في المستند",
+            "TrackChanges": "تعقب التغيرات",
+            "AllCaps": "AllCaps"
         },
         "toast": {
             "close": "قريب"
@@ -2458,6 +2549,12 @@
             "yes": "نعم",
             "no": "لا",
             "close": "قريب"
+        },
+        "drop-down-tree": {
+            "noRecordsTemplate": "لا توجد سجلات",
+            "actionFailureTemplate": "الطلب فشل",
+            "overflowCountTemplate": "+ $ {count} أكثر ..",
+            "totalCountTemplate": "تم اختيار {عدد} دولار"
         }
     }
 }
