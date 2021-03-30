@@ -2007,7 +2007,7 @@
             "ResetZoom": "Alaphelyzetbe állítja a zoomot"
         },
         "PdfViewer": {
-            "PdfViewer": "PDF Viewer",
+            "PdfViewer": "PDF Néző",
             "Cancel": "Megszünteti",
             "Download file": "Fájl letöltése",
             "Download": "Letöltés",
@@ -2055,7 +2055,7 @@
             "Highlight context": "Kiemel",
             "Underline context": "Aláhúzás",
             "Strikethrough context": "Át kell törölni",
-            "Server error": "A webszolgáltatás nem figyel. A PDF Viewer minden funkciója függ a webszolgáltatástól. Kérjük, indítsa el a webszolgáltatást a folytatáshoz.",
+            "Server error": "A webszolgáltatás nem figyel. A PDF Néző minden funkciója függ a webszolgáltatástól. Kérjük, indítsa el a webszolgáltatást a folytatáshoz.",
             "Open text": "Nyisd ki",
             "First text": "Első oldal",
             "Previous text": "Előző oldal",

@@ -2055,7 +2055,7 @@
             "Highlight context": "Markera",
             "Underline context": "Understrykning",
             "Strikethrough context": "Slå igenom",
-            "Server error": "Webbtjänsten lyssnar inte. PDF Viewer beror på webbtjänsten för alla dess funktioner. Starta webbtjänsten för att fortsätta.",
+            "Server error": "Webbtjänsten lyssnar inte. PDF-visare beror på webbtjänsten för alla dess funktioner. Starta webbtjänsten för att fortsätta.",
             "Open text": "Öppen",
             "First text": "Första sidan",
             "Previous text": "Föregående sida",

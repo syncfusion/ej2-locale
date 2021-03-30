@@ -2055,7 +2055,7 @@
             "Highlight context": "Realce",
             "Underline context": "Subrayar",
             "Strikethrough context": "Penetrar",
-            "Server error": "El servicio web no está escuchando. PDF Viewer depende del servicio web para todas sus funciones. Inicie el servicio web para continuar.",
+            "Server error": "El servicio web no está escuchando. Visor de PDFr depende del servicio web para todas sus funciones. Inicie el servicio web para continuar.",
             "Open text": "Abierto",
             "First text": "Primera página",
             "Previous text": "Pagina anterior",

@@ -2008,7 +2008,7 @@
             "ResetZoom": "Zoom resetten"
         },
         "PdfViewer": {
-            "PdfViewer": "PDF-viewer",
+            "PdfViewer": "PDF-Kijker",
             "Cancel": "Annuleren",
             "Download file": "Download bestand",
             "Download": "Download",
@@ -2056,7 +2056,7 @@
             "Highlight context": "highlight",
             "Underline context": "Onderstrepen",
             "Strikethrough context": "Doorhalen",
-            "Server error": "Web-service luistert niet. PDF Viewer is afhankelijk van webservice voor al zijn functies. Start de webservice om door te gaan.",
+            "Server error": "Web-service luistert niet. PDF-Kijker is afhankelijk van webservice voor al zijn functies. Start de webservice om door te gaan.",
             "Open text": "Open",
             "First text": "Eerste pagina",
             "Previous text": "Vorige bladzijde",

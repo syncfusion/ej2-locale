@@ -2055,7 +2055,7 @@
             "Highlight context": "突出",
             "Underline context": "強調",
             "Strikethrough context": "罷工",
-            "Server error": "Web服務未監聽。 PDF Viewer的所有功能都依賴於Web服務。請啟動網絡服務以繼續。",
+            "Server error": "Web服務未監聽。 PDF查看器的所有功能都依賴於Web服務。請啟動網絡服務以繼續。",
             "Open text": "打開",
             "First text": "第一頁",
             "Previous text": "上一頁",

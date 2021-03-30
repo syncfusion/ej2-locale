@@ -2007,7 +2007,7 @@
             "ResetZoom": "Nollaa zoomaus"
         },
         "PdfViewer": {
-            "PdfViewer": "PDF Viewer",
+            "PdfViewer": "PDF-katseluohjelma",
             "Cancel": "Peruuttaa",
             "Download file": "Lataa tiedosto",
             "Download": "ladata",
@@ -2055,7 +2055,7 @@
             "Highlight context": "Kohokohta",
             "Underline context": "Korostaa",
             "Strikethrough context": "Läpi läpi",
-            "Server error": "Web-palvelu ei kuuntele. PDF Viewer riippuu verkkopalvelusta kaikilla sen ominaisuuksilla. Käynnistä verkkopalvelu jatkaaksesi.",
+            "Server error": "Web-palvelu ei kuuntele. PDF-katseluohjelma riippuu verkkopalvelusta kaikilla sen ominaisuuksilla. Käynnistä verkkopalvelu jatkaaksesi.",
             "Open text": "Avata",
             "First text": "Ensimmäinen sivu",
             "Previous text": "Edellinen sivu",

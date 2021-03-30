@@ -2055,7 +2055,7 @@
             "Highlight context": "Realçar",
             "Underline context": "Sublinhado",
             "Strikethrough context": "Strike through",
-            "Server error": "O serviço da Web não está escutando. O PDF Viewer depende do serviço da Web para todos os seus recursos. Por favor, inicie o serviço web para continuar.",
+            "Server error": "O serviço da Web não está escutando. O Visualizador de PDF depende do serviço da Web para todos os seus recursos. Por favor, inicie o serviço web para continuar.",
             "Open text": "Aberto",
             "First text": "Primeira página",
             "Previous text": "Página anterior",
