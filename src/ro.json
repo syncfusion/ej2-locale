@@ -2007,7 +2007,7 @@
             "ResetZoom": "Resetare Zoom"
         },
         "PdfViewer": {
-            "PdfViewer": "PDF Viewer",
+            "PdfViewer": "Vizualizator PDF",
             "Cancel": "Anulare",
             "Download file": "Descărcare fișier",
             "Download": "Descarca",
@@ -2055,7 +2055,7 @@
             "Highlight context": "A scoate in evidenta",
             "Underline context": "subliniere",
             "Strikethrough context": "Loviti prin",
-            "Server error": "Serviciul web nu ascultă. PDF Viewer depinde de serviciul web pentru toate funcțiile sale. Vă rugăm să începeți serviciul web pentru a continua.",
+            "Server error": "Serviciul web nu ascultă. Vizualizator PDF depinde de serviciul web pentru toate funcțiile sale. Vă rugăm să începeți serviciul web pentru a continua.",
             "Open text": "Deschis",
             "First text": "Prima pagina",
             "Previous text": "Pagina precedentă",

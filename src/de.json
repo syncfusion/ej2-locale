@@ -2007,7 +2007,7 @@
             "ResetZoom": "Zoom zurücksetzen"
         },
         "PdfViewer": {
-            "PdfViewer": "PDF Viewer",
+            "PdfViewer": "PDF Zuschauerin",
             "Cancel": "Abbrechen",
             "Download file": "Datei herunterladen",
             "Download": "Herunterladen",
@@ -2055,7 +2055,7 @@
             "Highlight context": "Markieren",
             "Underline context": "Unterstreichen",
             "Strikethrough context": "Durchstreichen",
-            "Server error": "Web-Service hört nicht zu. PDF Viewer ist in allen Funktionen vom Web-Service abhängig. Bitte starten Sie den Webdienst, um fortzufahren.",
+            "Server error": "Internetservice hört nicht zu. PDF Zuschauerin ist in allen Funktionen vom Internetservice abhängig. Bitte starten Sie den Webdienst, um fortzufahren.",
             "Open text": "Öffnen",
             "First text": "Erste Seite",
             "Previous text": "Vorherige Seite",

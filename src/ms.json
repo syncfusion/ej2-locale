@@ -2007,7 +2007,7 @@
             "ResetZoom": "Tetapkan semula Zum"
         },
         "PdfViewer": {
-            "PdfViewer": "PDF Viewer",
+            "PdfViewer": "Pemapar PDF",
             "Cancel": "Batalkan",
             "Download file": "Muat turun fail",
             "Download": "Muat turun",
@@ -2055,7 +2055,7 @@
             "Highlight context": "Sorotan",
             "Underline context": "Garis bawah",
             "Strikethrough context": "Terjejas melalui",
-            "Server error": "Perkhidmatan web tidak mendengar. Viewer PDF bergantung pada perkhidmatan web untuk semua ciri-ciri itu. Sila mulakan perkhidmatan web untuk meneruskan.",
+            "Server error": "Perkhidmatan web tidak mendengar. Pemapar PDF bergantung pada perkhidmatan web untuk semua ciri-ciri itu. Sila mulakan perkhidmatan web untuk meneruskan.",
             "Open text": "Buka",
             "First text": "Muka surat pertama",
             "Previous text": "Halaman sebelumnya",
