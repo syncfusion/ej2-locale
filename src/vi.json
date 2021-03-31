@@ -2125,8 +2125,8 @@
             "Add a reply": " Thêm câu trả lời ",
             "Import Annotations": " Nhập chú thích từ tệp JSON ",
             "Export Annotations": " Xuất chú thích sang tệp JSON ",
-            "Export XFDF": " Xuất chú thích sang tệp XFDF"
-            "Import XFDF": " Nhập chú thích từ tệp XFDF”           
+            "Export XFDF": " Xuất chú thích sang tệp XFDF",
+            "Import XFDF": " Nhập chú thích từ tệp XFDF",
             "Add": " Thêm vào",
             "Clear": " Thông thoáng ",
             "Bold": " Dũng cảm ",
