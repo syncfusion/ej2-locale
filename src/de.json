@@ -944,6 +944,7 @@
             "week": "Woche",
             "workWeek": "Arbeitswoche",
             "month": "Monat",
+            "year": "Jahr",
             "agenda": "Agenda",
             "weekAgenda": "Wochenprogramm",
             "workWeekAgenda": "Arbeitswochen-Agenda",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Ereignis löschen",
             "editTitle": "Ereignis bearbeiten",
             "beginFrom": "Beginnen Sie von",
-            "endAt": "Ende um"
+            "endAt": "Ende um",
+            "expandAllDaySection": "Erweitern Sie den ganzen Tag",
+            "collapseAllDaySection": "Ganztägiger Zusammenbruch"
         },
         "recurrenceeditor": {
             "none": "Keiner",

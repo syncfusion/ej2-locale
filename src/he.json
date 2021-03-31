@@ -944,6 +944,7 @@
             "week": "שבוע",
             "workWeek": "שבוע עבודה",
             "month": "חודש",
+            "year": "שָׁנָה",
             "agenda": "סדר יום",
             "weekAgenda": "סדר יום בשבוע",
             "workWeekAgenda": "סדר יום של שבוע עבודה",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "מחק אירוע",
             "editTitle": "ערוך אירוע",
             "beginFrom": "התחל מ",
-            "endAt": "נגמר ב"
+            "endAt": "נגמר ב",
+            "expandAllDaySection": "הרחב את החלק כל היום",
+            "collapseAllDaySection": "קטע כווץ כל היום"
         },
         "recurrenceeditor": {
             "none": "אף אחד",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "כיול אזור",
             "Calibrate Radius": "כיול רדיוס",
             "Calibrate Volume": "כיול נפח",
-			"Depth": "עִברִית",
+            "Depth": "עִברִית",
             "Closed": "סָגוּר",
             "Round": "עָגוֹל",
             "Square": "כיכר",

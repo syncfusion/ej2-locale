@@ -944,6 +944,7 @@
             "week": "Semana",
             "workWeek": "Semana de trabalho",
             "month": "Mês",
+            "year": "Ano",
             "agenda": "Agenda",
             "weekAgenda": "Agenda da semana",
             "workWeekAgenda": "Agenda da Semana de Trabalho",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Excluir evento",
             "editTitle": "Editar evento",
             "beginFrom": "Começar de",
-            "endAt": "Termina em"
+            "endAt": "Termina em",
+            "expandAllDaySection": "Seção de expansão para o dia todo",
+            "collapseAllDaySection": "Recolher a seção do dia inteiro"
         },
         "recurrenceeditor": {
             "none": "Nenhum",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "Calibrar área",
             "Calibrate Radius": "Calibrar raio",
             "Calibrate Volume": "Calibrar volume",
-			"Depth": "Profundidade",
+            "Depth": "Profundidade",
             "Closed": "Fechados",
             "Round": "Redondo",
             "Square": "Praça",

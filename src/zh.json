@@ -944,6 +944,7 @@
             "week": "週",
             "workWeek": "工作週",
             "month": "月",
+            "year": "年",
             "agenda": "議程",
             "weekAgenda": "週議程",
             "workWeekAgenda": "工作週議程",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "刪除活動",
             "editTitle": "編輯活動",
             "beginFrom": "從開始",
-            "endAt": "結束於"
+            "endAt": "結束於",
+            "expandAllDaySection": "展开全天部分",
+            "collapseAllDaySection": "全天折叠部分"
         },
         "recurrenceeditor": {
             "none": "沒有",

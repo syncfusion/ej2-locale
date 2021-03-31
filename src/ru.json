@@ -944,6 +944,7 @@
             "week": "Неделя",
             "workWeek": "Рабочая неделя",
             "month": "Месяц",
+            "year": "Год",
             "agenda": "Повестка дня",
             "weekAgenda": "Программа недели",
             "workWeekAgenda": "Программа рабочей недели",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Удалить событие",
             "editTitle": "Изменить событие",
             "beginFrom": "Начать с",
-            "endAt": "Конец в"
+            "endAt": "Конец в",
+            "expandAllDaySection": "Развернуть-весь-день-раздел",
+            "collapseAllDaySection": "Свернуть-весь-день-раздел"
         },
         "recurrenceeditor": {
             "none": "Никто",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "Калибровать площадь",
             "Calibrate Radius": "Калибровать радиус",
             "Calibrate Volume": "Калибровать громкость",
-			"Depth": "Глубина",
+            "Depth": "Глубина",
             "Closed": "Закрыто",
             "Round": "Круглый",
             "Square": "Квадрат",

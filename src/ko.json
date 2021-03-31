@@ -944,6 +944,7 @@
             "week": "주",
             "workWeek": "일주일",
             "month": "달",
+            "year": "년",
             "agenda": "의제",
             "weekAgenda": "주 일정",
             "workWeekAgenda": "일주일 의제",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "이벤트 삭제",
             "editTitle": "이벤트 수정",
             "beginFrom": "시작",
-            "endAt": "종료"
+            "endAt": "종료",
+            "expandAllDaySection": "하루 종일 섹션 확장",
+            "collapseAllDaySection": "하루 종일 축소 섹션"
         },
         "recurrenceeditor": {
             "none": "없음",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "면적 교정",
             "Calibrate Radius": "반경 보정",
             "Calibrate Volume": "볼륨 보정",
-			"Depth": "깊이",
+            "Depth": "깊이",
             "Closed": "닫은",
             "Round": "일주",
             "Square": "광장",

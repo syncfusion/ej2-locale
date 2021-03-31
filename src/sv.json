@@ -944,6 +944,7 @@
             "week": "Vecka",
             "workWeek": "Arbetsvecka",
             "month": "Månad",
+            "year": "År",
             "agenda": "Dagordning",
             "weekAgenda": "Veckas agenda",
             "workWeekAgenda": "Agenda för arbetsveckan",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Radera händelse",
             "editTitle": "Redigera händelse",
             "beginFrom": "Börja från",
-            "endAt": "Slut kl"
+            "endAt": "Slut kl",
+            "expandAllDaySection": "Utöka avsnittet hela dagen",
+            "collapseAllDaySection": "Dölj-avsnittet hela dagen"
         },
         "recurrenceeditor": {
             "none": "Ingen",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "Kalibrera område",
             "Calibrate Radius": "Kalibrera radie",
             "Calibrate Volume": "Kalibrera volym",
-			"Depth": "Djup",
+            "Depth": "Djup",
             "Closed": "Stängd",
             "Round": "Runda",
             "Square": "Fyrkant",

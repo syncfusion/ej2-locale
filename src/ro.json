@@ -944,6 +944,7 @@
             "week": "Săptămână",
             "workWeek": "Saptamana de lucru",
             "month": "Lună",
+            "year": "An",
             "agenda": "Agendă",
             "weekAgenda": "Agenda săptămânii",
             "workWeekAgenda": "Agenda săptămânii de lucru",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Ștergeți evenimentul",
             "editTitle": "Editează evenimentul",
             "beginFrom": "Începeți de la",
-            "endAt": "Încheiați la"
+            "endAt": "Încheiați la",
+            "expandAllDaySection": "Extinde-toată secțiunea",
+            "collapseAllDaySection": "Reduceți secțiunea toată ziua"
         },
         "recurrenceeditor": {
             "none": "Nici unul",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "Zona de calibrare",
             "Calibrate Radius": "Calibrați Radius",
             "Calibrate Volume": "Calibrați volumul",
-			"Depth": "Adâncime",
+            "Depth": "Adâncime",
             "Closed": "Închis",
             "Round": "Rundă",
             "Square": "Pătrat",
