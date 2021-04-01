@@ -944,6 +944,7 @@
             "week": "týždeň",
             "workWeek": "Pracovný týždeň",
             "month": "mesiac",
+            "year": "Rok",
             "agenda": "program",
             "weekAgenda": "Program týždňa",
             "workWeekAgenda": "Program pracovného týždňa",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Odstrániť udalosť",
             "editTitle": "Upraviť udalosť",
             "beginFrom": "Začať od",
-            "endAt": "Koniec o"
+            "endAt": "Koniec o",
+            "expandAllDaySection": "Rozbaliť celodennú časť",
+            "collapseAllDaySection": "Zbaliť celý deň"
         },
         "recurrenceeditor": {
             "none": "nikto",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "Kalibrovať oblasť",
             "Calibrate Radius": "Kalibrujte polomer",
             "Calibrate Volume": "Kalibrujte hlasitosť",
-			"Depth": "Hĺbka",
+            "Depth": "Hĺbka",
             "Closed": "Zatvorené",
             "Round": "Okrúhly",
             "Square": "Námestie",

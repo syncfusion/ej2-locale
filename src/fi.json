@@ -944,6 +944,7 @@
             "week": "Viikko",
             "workWeek": "Työviikko",
             "month": "Kuukausi",
+            "year": "Vuosi",
             "agenda": "esityslista",
             "weekAgenda": "Viikon esityslista",
             "workWeekAgenda": "Työviikon esityslista",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Poista tapahtuma",
             "editTitle": "Muokkaa tapahtumaa",
             "beginFrom": "Aloita",
-            "endAt": "Loppu kello"
+            "endAt": "Loppu kello",
+            "expandAllDaySection": "Laajenna koko päivän jakso",
+            "collapseAllDaySection": "Kutista koko päivän jakso"
         },
         "recurrenceeditor": {
             "none": "Ei mitään",

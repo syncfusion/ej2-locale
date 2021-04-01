@@ -944,6 +944,7 @@
             "week": "Hét",
             "workWeek": "Munkahét",
             "month": "Hónap",
+            "year": "Év",
             "agenda": "Napirend",
             "weekAgenda": "Hét napirendje",
             "workWeekAgenda": "Munkahét napirendje",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Esemény törlése",
             "editTitle": "Esemény szerkesztése",
             "beginFrom": "Kezdje",
-            "endAt": "Vége"
+            "endAt": "Vége",
+            "expandAllDaySection": "Bontsa ki az egész napot",
+            "collapseAllDaySection": "Összecsukás-egész napos szakasz"
         },
         "recurrenceeditor": {
             "none": "Egyik sem",

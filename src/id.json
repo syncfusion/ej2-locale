@@ -944,6 +944,7 @@
             "week": "Minggu",
             "workWeek": "Minggu kerja",
             "month": "Bulan",
+            "year": "Tahun",
             "agenda": "Jadwal acara",
             "weekAgenda": "Agenda Minggu",
             "workWeekAgenda": "Agenda Minggu Kerja",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Hapus Acara",
             "editTitle": "Edit Acara",
             "beginFrom": "Mulai Dari",
-            "endAt": "End At"
+            "endAt": "End At",
+            "expandAllDaySection": "Luaskan bagian sepanjang hari",
+            "collapseAllDaySection": "Ciutkan bagian sepanjang hari"
         },
         "recurrenceeditor": {
             "none": "Tidak ada",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "Area Kalibrasi",
             "Calibrate Radius": "Kalibrasi Radius",
             "Calibrate Volume": "Kalibrasi Volume",
-			"Depth": "Kedalaman",
+            "Depth": "Kedalaman",
             "Closed": "Tutup",
             "Round": "Bulat",
             "Square": "Kotak",

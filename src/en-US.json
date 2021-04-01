@@ -944,6 +944,7 @@
             "week": "Week",
             "workWeek": "Work Week",
             "month": "Month",
+            "year": "Year",
             "agenda": "Agenda",
             "weekAgenda": "Week Agenda",
             "workWeekAgenda": "Work Week Agenda",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Delete Event",
             "editTitle": "Edit Event",
             "beginFrom": "Begin From",
-            "endAt": "End At"
+            "endAt": "End At",
+            "expandAllDaySection": "Expand-all-day-section",
+            "collapseAllDaySection": "Collapse-all-day-section"
         },
         "recurrenceeditor": {
             "none": "None",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "Calibrate Area",
             "Calibrate Radius": "Calibrate Radius",
             "Calibrate Volume": "Calibrate Volume",
-			"Depth": "Depth",
+            "Depth": "Depth",
             "Closed": "Closed",
             "Round": "Round",
             "Square": "Square",

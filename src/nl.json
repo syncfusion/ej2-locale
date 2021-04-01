@@ -944,6 +944,7 @@
             "week": "Week",
             "workWeek": "Werkweek",
             "month": "Maand",
+            "year": "Jaar",
             "agenda": "Agenda",
             "weekAgenda": "Weekagenda",
             "workWeekAgenda": "Werkweek Agenda",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Evenement verwijderen",
             "editTitle": "Evenement bewerken",
             "beginFrom": "Begin vanaf",
-            "endAt": "Eindig op"
+            "endAt": "Eindig op",
+            "expandAllDaySection": "Uitvouwen-hele dag-sectie",
+            "collapseAllDaySection": "Collapse-hele-dag-sectie"
         },
         "recurrenceeditor": {
             "none": "Geen",
@@ -2111,7 +2114,7 @@
             "Calibrate Area": "Gebied kalibreren",
             "Calibrate Radius": "Radius kalibreren",
             "Calibrate Volume": "Volume kalibreren",
-			"Depth": "Diepte",
+            "Depth": "Diepte",
             "Closed": "Gesloten",
             "Round": "Ronde",
             "Square": "Vierkant",

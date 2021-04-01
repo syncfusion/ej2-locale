@@ -944,6 +944,7 @@
             "week": "Uke",
             "workWeek": "Arbeidsuke",
             "month": "Måned",
+            "year": "År",
             "agenda": "Dagsorden",
             "weekAgenda": "Uke Agenda",
             "workWeekAgenda": "Arbeidsuke-agenda",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Slett hendelse",
             "editTitle": "Rediger hendelse",
             "beginFrom": "Begynn fra",
-            "endAt": "Slutt kl"
+            "endAt": "Slutt kl",
+            "expandAllDaySection": "Utvid hele seksjonen",
+            "collapseAllDaySection": "Skjul-seksjonen hele dagen"
         },
         "recurrenceeditor": {
             "none": "Ingen",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "Kalibrer området",
             "Calibrate Radius": "Kalibrer radius",
             "Calibrate Volume": "Kalibrer volum",
-			"Depth": "Dybde",
+            "Depth": "Dybde",
             "Closed": "Lukket",
             "Round": "Rund",
             "Square": "Torget",

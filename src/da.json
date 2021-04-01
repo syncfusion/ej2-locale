@@ -944,6 +944,7 @@
             "week": "Uge",
             "workWeek": "Arbejdsuge",
             "month": "Måned",
+            "year": "År",
             "agenda": "Dagsorden",
             "weekAgenda": "Ugens dagsorden",
             "workWeekAgenda": "Arbejdsuge-dagsorden",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Slet begivenhed",
             "editTitle": "Rediger begivenhed",
             "beginFrom": "Begynd fra",
-            "endAt": "Slut kl"
+            "endAt": "Slut kl",
+            "expandAllDaySection": "Udvid hele dagen-sektionen",
+            "collapseAllDaySection": "Collapse-hele dagen-sektion"
         },
         "recurrenceeditor": {
             "none": "Ingen",

@@ -944,6 +944,7 @@
             "week": "Hafta",
             "workWeek": "Çalışma haftası",
             "month": "Ay",
+            "year": "Yıl",
             "agenda": "Gündem",
             "weekAgenda": "Hafta Gündemi",
             "workWeekAgenda": "Çalışma Haftası Gündemi",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Etkinliği Sil",
             "editTitle": "Etkinliği Düzenle",
             "beginFrom": "Başlangıç",
-            "endAt": "Sonunda"
+            "endAt": "Sonunda",
+            "expandAllDaySection": "Tüm gün-bölümü genişlet",
+            "collapseAllDaySection": "Tüm gün-bölümü daralt"
         },
         "recurrenceeditor": {
             "none": "Yok",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "Alanı Kalibre Et",
             "Calibrate Radius": "Yarıçapı Kalibre Et",
             "Calibrate Volume": "Hacmi Kalibre Et",
-			"Depth": "Derinlik",
+            "Depth": "Derinlik",
             "Closed": "Kapalı",
             "Round": "Yuvarlak",
             "Square": "Meydan",

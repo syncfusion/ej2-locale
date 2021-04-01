@@ -944,6 +944,7 @@
             "week": "Tuần",
             "workWeek": "Tuần làm việc",
             "month": "tháng",
+            "year": "Năm",
             "agenda": "Chương trình nghị sự",
             "weekAgenda": "Chương trình nghị sự tuần",
             "workWeekAgenda": "Chương trình làm việc trong tuần",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Xóa sự kiện",
             "editTitle": "Chỉnh sửa sự kiện",
             "beginFrom": "Bắt đầu từ",
-            "endAt": "Kết thúc tại"
+            "endAt": "Kết thúc tại",
+            "expandAllDaySection": "Mở rộng phần cả ngày",
+            "collapseAllDaySection": "Thu gọn-cả ngày-phần"
         },
         "recurrenceeditor": {
             "none": "không ai",

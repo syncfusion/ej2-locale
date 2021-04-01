@@ -944,6 +944,7 @@
             "week": "Tjedan",
             "workWeek": "Radni tjedan",
             "month": "Mjesec",
+            "year": "Godina",
             "agenda": "dnevni red",
             "weekAgenda": "Tjedni dnevni red",
             "workWeekAgenda": "Agenda radnog tjedna",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Izbriši događaj",
             "editTitle": "Uređivanje događaja",
             "beginFrom": "Počnite od",
-            "endAt": "Kraj At"
+            "endAt": "Kraj At",
+            "expandAllDaySection": "Proširi-cjelodnevni odjeljak",
+            "collapseAllDaySection": "Sažmi cjelodnevni odjeljak"
         },
         "recurrenceeditor": {
             "none": "nijedan",

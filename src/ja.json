@@ -944,6 +944,7 @@
             "week": "週間",
             "workWeek": "仕事の週",
             "month": "月",
+            "year": "年",
             "agenda": "議題",
             "weekAgenda": "週間アジェンダ",
             "workWeekAgenda": "労働週間の議題",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "イベントを削除",
             "editTitle": "イベントを編集",
             "beginFrom": "から始まる",
-            "endAt": "で終了"
+            "endAt": "で終了",
+            "expandAllDaySection": "終日展開セクション",
+            "collapseAllDaySection": "崩壊-終日-セクション"
         },
         "recurrenceeditor": {
             "none": "なし",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "キャリブレーションエリア",
             "Calibrate Radius": "半径の調整",
             "Calibrate Volume": "ボリュームの調整",
-			"Depth": "深さ",
+            "Depth": "深さ",
             "Closed": "閉まっている",
             "Round": "円形",
             "Square": "平方",

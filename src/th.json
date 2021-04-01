@@ -944,6 +944,7 @@
             "week": "สัปดาห์",
             "workWeek": "สัปดาห์การทำงาน",
             "month": "เดือน",
+            "year": "ปี",
             "agenda": "ระเบียบวาระการประชุม",
             "weekAgenda": "กำหนดการประจำสัปดาห์",
             "workWeekAgenda": "วาระการทำงานประจำสัปดาห์",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "ลบกิจกรรม",
             "editTitle": "แก้ไขกิจกรรม",
             "beginFrom": "เริ่มจาก",
-            "endAt": "สิ้นสุดเวลา"
+            "endAt": "สิ้นสุดเวลา",
+            "expandAllDaySection": "ส่วนขยายทั้งวัน",
+            "collapseAllDaySection": "ส่วนยุบตลอดทั้งวัน"
         },
         "recurrenceeditor": {
             "none": "ไม่มี",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "พื้นที่สอบเทียบ",
             "Calibrate Radius": "ปรับเทียบรัศมี",
             "Calibrate Volume": "ปรับเทียบปริมาตร",
-			"Depth": "ความลึก",
+            "Depth": "ความลึก",
             "Closed": "ปิด",
             "Round": "รอบ",
             "Square": "สแควร์",

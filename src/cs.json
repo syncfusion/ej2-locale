@@ -944,6 +944,7 @@
             "week": "Týden",
             "workWeek": "Pracovní týden",
             "month": "Měsíc",
+            "year": "Rok",
             "agenda": "Denní program",
             "weekAgenda": "Týdenní agenda",
             "workWeekAgenda": "Agenda pracovního týdne",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "Smazat událost",
             "editTitle": "Upravit událost",
             "beginFrom": "Začněte od",
-            "endAt": "Konec v"
+            "endAt": "Konec v",
+            "expandAllDaySection": "Rozbalit celodenní sekci",
+            "collapseAllDaySection": "Sbalit celodenní sekci"
         },
         "recurrenceeditor": {
             "none": "Žádný",

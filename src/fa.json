@@ -944,6 +944,7 @@
             "week": "هفته",
             "workWeek": "هفته کاری",
             "month": "ماه",
+            "year": "سال",
             "agenda": "دستور جلسه",
             "weekAgenda": "برنامه هفته",
             "workWeekAgenda": "دستور کار هفته کار",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "رویداد را حذف کنید",
             "editTitle": "ویرایش رویداد",
             "beginFrom": "شروع از",
-            "endAt": "پایان در"
+            "endAt": "پایان در",
+            "expandAllDaySection": "بخش تمام روز را گسترش دهید",
+            "collapseAllDaySection": "جمع کردن بخش تمام روز"
         },
         "recurrenceeditor": {
             "none": "هیچ یک",
@@ -2110,7 +2113,7 @@
             "Calibrate Area": "منطقه کالیبره",
             "Calibrate Radius": "کالیبره کردن رادیوس",
             "Calibrate Volume": "جلد کالیبره",
-			"Depth": "عمق",
+            "Depth": "عمق",
             "Closed": "بسته است",
             "Round": "گرد",
             "Square": "مربع",

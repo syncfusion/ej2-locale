@@ -944,6 +944,7 @@
             "week": "أسبوع",
             "workWeek": "أسبوع العمل",
             "month": "شهر",
+            "year": "عام",
             "agenda": "جدول أعمال",
             "weekAgenda": "جدول أعمال الأسبوع",
             "workWeekAgenda": "جدول أعمال أسبوع العمل",
@@ -1012,7 +1013,9 @@
             "deleteTitle": "حذف الحدث",
             "editTitle": "تحرير الحدث",
             "beginFrom": "تبدأ من",
-            "endAt": "يغلق عند مستوى"
+            "endAt": "يغلق عند مستوى",
+            "expandAllDaySection": "قم بتوسيع القسم طوال اليوم",
+            "collapseAllDaySection": "طي القسم طوال اليوم"
         },
         "recurrenceeditor": {
             "none": "لا شيء",
