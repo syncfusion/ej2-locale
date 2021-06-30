@@ -499,6 +499,7 @@
             "Filter-Empty": "לא נמצאו תוצאות",
             "Filter-Key": "נסה עם פילטר אחר",
             "Sub-Folder-Error": "תיקיית היעד היא תיקיית המשנה של תיקיית המקור.",
+            "Same-Folder-Error": "תיקיית היעד זהה לתיקיית המקור.",
             "Access-Denied": "גישה נדחתה",
             "Access-Details": "אין לך הרשאה לגישה לתיקיה זו.",
             "Header-Retry": "קובץ כבר קיים",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "בסדר",
             "pasteDialogCancel": "בטל",
             "fileManager": "מנהל קבצים",
-            "fileDialogHeader": "סייר קבצים"
+            "fileDialogHeader": "סייר קבצים",
+            "formatsDropDownParagraph": "פסקה",
+            "formatsDropDownCode": "קוד",
+            "formatsDropDownQuotation": "ציטוט",
+            "formatsDropDownHeading1": "מכוון ל 1",
+            "formatsDropDownHeading2": "כותרת 2",
+            "formatsDropDownHeading3": "כותרת 3",
+            "formatsDropDownHeading4": "כותרת 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "אריאל",
+            "fontNameGeorgia": "ג'ורג'יה",
+            "fontNameImpact": "פְּגִיעָה",
+            "fontNameTahoma": "טהומה",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "ורדנה",
+            "formatsOLListNumber": "מספר",
+            "formatsOLListLowerAlpha": "תחתון אלפא",
+            "formatsOLListUpperAlpha": "עליון אלפא",
+            "formatsOLListLowerRoman": "תחתון רומאן",
+            "formatsOLListUpperRoman": "UpperRoman",
+            "formatsOLListLowerGreek": "יוון התחתונה",
+            "formatsULListDisc": "דיסק",
+            "formatsULListCircle": "מעגל",
+            "formatsULListSquare": "כיכר",
+            "formatsOLListNone": "אף אחד",
+            "formatsULListNone": "אף אחד"
         },
         "diagram": {
             "Copy": "עותק",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "האם ברצונך לבטל את השינויים שבוצעו במקרים ספציפיים של הסדרה הזו ולהתאים אותה לסדרה כולה שוב?",
             "createError": "משך האירוע חייב להיות קצר יותר מתדירות התרחשותו. קצר את משך הזמן, או שנה את דפוס הישנות בעורך אירוע הישנות.",
             "sameDayAlert": "שני התרחשויות של אותו אירוע לא יכולים להתרחש באותו יום.",
+            "occurenceAlert": "לא ניתן לתזמן מחדש התרחשות של הפגישה החוזרת אם היא מדלגת על התרחשות מאוחרת יותר של אותו פגישה.",
             "editRecurrence": "ערוך הישנות",
             "repeats": "חוזר",
             "alert": "התראה",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "הכנס פונקציה",
             "Insert": "הכנס",
             "Delete": "מחק",
+            "DuplicateSheet": "לְשַׁכְפֵּל",
+            "MoveRight": "זוז ימינה",
+            "MoveLeft": "זוז שמאלה",
             "Rename": "שנה שם",
             "Hide": "להתחבא",
             "Unhide": "הסתר",
@@ -2501,7 +2531,7 @@
             "Spell Check": "בדיקת איות",
             "Underline errors": "הדגיש שגיאות",
             "Ignore": "להתעלם",
-            "Ignore all": "התעלם מהכל",
+            "Ignore All": "התעלם מהכל",
             "Add to Dictionary": "הוסף למילון",
             "Change": "שינוי",
             "Change All": "שנה הכל",
@@ -2596,7 +2626,15 @@
             "Footnote": "הערת שוליים",
             "Endnote": "הערת סיום",
             "Click to View/Edit Footnote": "לחץ לצפייה / עריכת הערת שוליים",
-            "Click to View/Edit Endnote": "לחץ לצפייה / עריכה של הערת סיום"
+            "Click to View/Edit Endnote": "לחץ לצפייה / עריכה של הערת סיום",
+            "InsertAsRows": "הכנס כשורות חדשות",
+            "InsertAsColumns": "הוסף כעמודות חדשות",
+            "OverwriteCells": "החלף תאים",
+            "NestTable": "שולחן קן",
+            "No suggestions": "אין הצעות",
+            "More Suggestion": "הצעה נוספת",
+            "Ignore Once": "התעלם פעם אחת",
+            "Ignore all": "התעלם מהכל"
         },
         "documenteditorcontainer": {
             "New": "חדש",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "הוסף הערת שוליים",
             "Insert Endnote": "הכנס הערת סיום",
             "Footnote Tooltip": "הוסף הערת שוליים (Alt + Ctrl + F).",
-            "Endnote Tooltip": "הכנס הערת סיום (Alt + Ctrl + D)."
+            "Endnote Tooltip": "הכנס הערת סיום (Alt + Ctrl + D).",
+            "UPPERCASE": "אותיות רישיות"
         },
         "toast": {
             "close": "סגור"
@@ -2773,7 +2812,8 @@
             "yes": "כן",
             "no": "לא",
             "close": "סגור",
-            "noCard": "אין קלפים להצגה"
+            "noCard": "אין קלפים להצגה",
+            "unassigned": "לא הוקצה"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "לא נמצאו שיאים",

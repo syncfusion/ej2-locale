@@ -499,6 +499,7 @@
             "Filter-Empty": "Nici un rezultat gasit",
             "Filter-Key": "Încercați cu filtru diferit",
             "Sub-Folder-Error": "Folderul destinație este subfolderul folderului sursă.",
+            "Same-Folder-Error": "Dosarul de destinație este același cu dosarul sursă.",
             "Access-Denied": "Acces interzis",
             "Access-Details": "Nu aveți permisiunea de a accesa acest folder.",
             "Header-Retry": "Fisierul există deja",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "O.K",
             "pasteDialogCancel": "Anulare",
             "fileManager": "Manager de fișiere",
-            "fileDialogHeader": "Browser de fișiere"
+            "fileDialogHeader": "Browser de fișiere",
+            "formatsDropDownParagraph": "Paragraf",
+            "formatsDropDownCode": "Cod",
+            "formatsDropDownQuotation": "Citat",
+            "formatsDropDownHeading1": "Titlul 1",
+            "formatsDropDownHeading2": "Titlul 2",
+            "formatsDropDownHeading3": "Rubrica 3",
+            "formatsDropDownHeading4": "Titlul 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "Georgia",
+            "fontNameImpact": "Impact",
+            "fontNameTahoma": "Tahoma",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "Verdana",
+            "formatsOLListNumber": "Număr",
+            "formatsOLListLowerAlpha": "Alfa Inferior",
+            "formatsOLListUpperAlpha": "UpperAlpha",
+            "formatsOLListLowerRoman": "LowerRoman",
+            "formatsOLListUpperRoman": "UpperRoman",
+            "formatsOLListLowerGreek": "LowerGreek",
+            "formatsULListDisc": "Disc",
+            "formatsULListCircle": "Cerc",
+            "formatsULListSquare": "Pătrat",
+            "formatsOLListNone": "Nici unul",
+            "formatsULListNone": "Nici unul"
         },
         "diagram": {
             "Copy": "Copie",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "Doriți să anulați modificările aduse unor instanțe specifice ale acestei serii și să o potriviți din nou la întreaga serie?",
             "createError": "Durata evenimentului trebuie să fie mai scurtă decât cât de des are loc. Scurtați durata sau modificați modelul de recurență în editorul de evenimente de recurență.",
             "sameDayAlert": "Două apariții ale aceluiași eveniment nu pot apărea în aceeași zi.",
+            "occurenceAlert": "Nu se poate reprograma o apariție a întâlnirii recurente dacă aceasta trece peste o apariție ulterioară a aceleiași întâlniri.",
             "editRecurrence": "Editează recurența",
             "repeats": "repetă",
             "alert": "Alerta",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "Funcția Insert",
             "Insert": "Introduce",
             "Delete": "Șterge",
+            "DuplicateSheet": "Duplicat",
+            "MoveRight": "Misca-te la dreapta",
+            "MoveLeft": "Mută ​​la stânga",
             "Rename": "Redenumire",
             "Hide": "Ascunde",
             "Unhide": "Unhide",
@@ -2501,7 +2531,7 @@
             "Spell Check": "Verificare a ortografiei",
             "Underline errors": "Subliniază erorile",
             "Ignore": "Ignora",
-            "Ignore all": "Ignora tot",
+            "Ignore All": "Ignora tot",
             "Add to Dictionary": "Adaugă în dicționar",
             "Change": "Schimbare",
             "Change All": "Schimbă toate",
@@ -2596,7 +2626,15 @@
             "Footnote": "Notă de subsol",
             "Endnote": "Notă finală",
             "Click to View/Edit Footnote": "Faceți clic pentru a vizualiza / edita nota de subsol",
-            "Click to View/Edit Endnote": "Faceți clic pentru a vizualiza / edita nota finală"
+            "Click to View/Edit Endnote": "Faceți clic pentru a vizualiza / edita nota finală",
+            "InsertAsRows": "Inserați ca rânduri noi",
+            "InsertAsColumns": "Inserați ca coloane noi",
+            "OverwriteCells": "Suprascrieți celulele",
+            "NestTable": "Masă cuib",
+            "No suggestions": "Fără sugestii",
+            "More Suggestion": "Mai multe sugestii",
+            "Ignore Once": "Ignoră o dată",
+            "Ignore all": "Ignora tot"
         },
         "documenteditorcontainer": {
             "New": "Nou",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "Introduceți nota de subsol",
             "Insert Endnote": "Introduceți nota finală",
             "Footnote Tooltip": "Introduceți nota de subsol (Alt + Ctrl + F).",
-            "Endnote Tooltip": "Introduceți nota finală (Alt + Ctrl + D)."
+            "Endnote Tooltip": "Introduceți nota finală (Alt + Ctrl + D).",
+            "UPPERCASE": "MAJUSCULE"
         },
         "toast": {
             "close": "Închide"
@@ -2773,7 +2812,8 @@
             "yes": "da",
             "no": "Nu",
             "close": "Închide",
-            "noCard": "Fără cărți de afișat"
+            "noCard": "Fără cărți de afișat",
+            "unassigned": "Neatribuit"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "Nu au fost găsite",

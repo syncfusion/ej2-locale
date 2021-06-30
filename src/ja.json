@@ -499,6 +499,7 @@
             "Filter-Empty": "結果が見つかりません",
             "Filter-Key": "別のフィルターで試してください",
             "Sub-Folder-Error": "宛先フォルダーは、ソースフォルダーのサブフォルダーです。",
+            "Same-Folder-Error": "宛先フォルダーはソースフォルダーと同じです。",
             "Access-Denied": "アクセスが拒否されました",
             "Access-Details": "このフォルダにアクセスする権限がありません。",
             "Header-Retry": "ファイルが既に存在します",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "OK",
             "pasteDialogCancel": "キャンセル",
             "fileManager": "ファイルマネージャー",
-            "fileDialogHeader": "ファイルブラウザ"
+            "fileDialogHeader": "ファイルブラウザ",
+            "formatsDropDownParagraph": "段落",
+            "formatsDropDownCode": "コード",
+            "formatsDropDownQuotation": "引用",
+            "formatsDropDownHeading1": "見出し1",
+            "formatsDropDownHeading2": "見出し2",
+            "formatsDropDownHeading3": "見出し3",
+            "formatsDropDownHeading4": "見出し4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "ジョージア",
+            "fontNameImpact": "影響",
+            "fontNameTahoma": "タホマ",
+            "fontNameTimesNewRoman": "タイムズニューローマン",
+            "fontNameVerdana": "ヴェルダナ",
+            "formatsOLListNumber": "数",
+            "formatsOLListLowerAlpha": "LowerAlpha",
+            "formatsOLListUpperAlpha": "UpperAlpha",
+            "formatsOLListLowerRoman": "LowerRoman",
+            "formatsOLListUpperRoman": "アッパーローマ",
+            "formatsOLListLowerGreek": "LowerGreek",
+            "formatsULListDisc": "ディスク",
+            "formatsULListCircle": "サークル",
+            "formatsULListSquare": "平方",
+            "formatsOLListNone": "無し",
+            "formatsULListNone": "無し"
         },
         "diagram": {
             "Copy": "コピー",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "このシリーズの特定のインスタンスに加えられた変更をキャンセルし、再びシリーズ全体に一致させますか？",
             "createError": "イベントの期間は、発生する頻度よりも短くする必要があります。期間を短くするか、繰り返しイベントエディターで繰り返しパターンを変更します。",
             "sameDayAlert": "同じイベントが同じ日に2回発生することはできません。",
+            "occurenceAlert": "同じ予定のその後の発生をスキップした場合、定期的な予定の発生を再スケジュールすることはできません。",
             "editRecurrence": "繰り返しを編集",
             "repeats": "繰り返し",
             "alert": "アラート",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "挿入機能",
             "Insert": "インサート",
             "Delete": "削除",
+            "DuplicateSheet": "複製",
+            "MoveRight": "右に動く",
+            "MoveLeft": "左に移動",
             "Rename": "リネーム",
             "Hide": "隠す",
             "Unhide": "再表示",
@@ -2501,7 +2531,7 @@
             "Spell Check": "スペルチェック",
             "Underline errors": "エラーに下線を引く",
             "Ignore": "無視する",
-            "Ignore all": "全無視",
+            "Ignore All": "すべて無視",
             "Add to Dictionary": "辞書に追加",
             "Change": "変化する",
             "Change All": "すべて変更",
@@ -2596,7 +2626,15 @@
             "Footnote": "脚注",
             "Endnote": "巻末注",
             "Click to View/Edit Footnote": "脚注を表示/編集するにはクリックしてください",
-            "Click to View/Edit Endnote": "クリックして文末脚注を表示/編集"
+            "Click to View/Edit Endnote": "クリックして文末脚注を表示/編集",
+            "InsertAsRows": "新しい行として挿入",
+            "InsertAsColumns": "新しい列として挿入",
+            "OverwriteCells": "セルを上書きする",
+            "NestTable": "ネストテーブル",
+            "No suggestions": "提案はありません",
+            "More Suggestion": "より多くの提案",
+            "Ignore Once": "一度無視する",
+            "Ignore all": "全無視"
         },
         "documenteditorcontainer": {
             "New": "新着",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "脚注を挿入",
             "Insert Endnote": "Endnoteを挿入",
             "Footnote Tooltip": "脚注を挿入します（Alt + Ctrl + F）。",
-            "Endnote Tooltip": "Endnoteを挿入します（Alt + Ctrl + D）。"
+            "Endnote Tooltip": "Endnoteを挿入します（Alt + Ctrl + D）。",
+            "UPPERCASE": "大文字"
         },
         "toast": {
             "close": "閉じる"
@@ -2773,7 +2812,8 @@
             "yes": "はい",
             "no": "番号",
             "close": "閉じる",
-            "noCard": "表示するカードがありません"
+            "noCard": "表示するカードがありません",
+            "unassigned": "未割り当て"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "レコードが見つかりません",

@@ -499,6 +499,7 @@
             "Filter-Empty": "لم يتم العثور على نتائج",
             "Filter-Key": "حاول مع مرشح مختلف",
             "Sub-Folder-Error": "المجلد الوجهة هو المجلد الفرعي للمجلد المصدر.",
+            "Same-Folder-Error": "المجلد الوجهة هو نفس المجلد المصدر.",
             "Access-Denied": "تم الرفض",
             "Access-Details": "ليس لديك إذن للوصول إلى هذا المجلد.",
             "Header-Retry": "الملف موجود بالفعل",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "حسنا",
             "pasteDialogCancel": "إلغاء",
             "fileManager": "مدير الملفات",
-            "fileDialogHeader": "متصفح الملفات"
+            "fileDialogHeader": "متصفح الملفات",
+            "formatsDropDownParagraph": "فقرة",
+            "formatsDropDownCode": "شفرة",
+            "formatsDropDownQuotation": "اقتباس",
+            "formatsDropDownHeading1": "عنوان 1",
+            "formatsDropDownHeading2": "العنوان 2",
+            "formatsDropDownHeading3": "العنوان 3",
+            "formatsDropDownHeading4": "العنوان 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "اريال",
+            "fontNameGeorgia": "جورجيا",
+            "fontNameImpact": "تأثير",
+            "fontNameTahoma": "تاهوما",
+            "fontNameTimesNewRoman": "تايمز نيو رومان",
+            "fontNameVerdana": "فيردانا",
+            "formatsOLListNumber": "عدد",
+            "formatsOLListLowerAlpha": "السفلى ألفا",
+            "formatsOLListUpperAlpha": "العلوي",
+            "formatsOLListLowerRoman": "LowerRoman",
+            "formatsOLListUpperRoman": "أبرومان",
+            "formatsOLListLowerGreek": "اليونانية السفلى",
+            "formatsULListDisc": "قرص",
+            "formatsULListCircle": "دائرة",
+            "formatsULListSquare": "ميدان",
+            "formatsOLListNone": "لا أحد",
+            "formatsULListNone": "لا أحد"
         },
         "diagram": {
             "Copy": "نسخ",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "هل تريد إلغاء التغييرات التي تم إجراؤها على مثيلات معينة من هذه السلسلة ومطابقتها مع السلسلة بأكملها مرة أخرى؟",
             "createError": "يجب أن تكون مدة الحدث أقصر من تكرار حدوثه. تقصير المدة ، أو تغيير نمط التكرار في محرر حدث التكرار.",
             "sameDayAlert": "لا يمكن أن يحدث تواجدان لنفس الحدث في نفس اليوم.",
+            "occurenceAlert": "لا يمكن إعادة جدولة تكرار الموعد المتكرر إذا تخطى تكرارًا لاحقًا للموعد نفسه.",
             "editRecurrence": "تحرير التكرار",
             "repeats": "يكرر",
             "alert": "إنذار",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "إدراج وظيفة",
             "Insert": "إدراج",
             "Delete": "حذف",
+            "DuplicateSheet": "ينسخ",
+            "MoveRight": "تحرك يمينا",
+            "MoveLeft": "تحرك يسارا",
             "Rename": "إعادة تسمية",
             "Hide": "إخفاء",
             "Unhide": "إظهار",
@@ -2501,7 +2531,7 @@
             "Spell Check": "التدقيق الإملائي",
             "Underline errors": "تسطير الأخطاء",
             "Ignore": "تجاهل",
-            "Ignore all": "تجاهل الكل",
+            "Ignore All": "تجاهل الكل",
             "Add to Dictionary": "أضف إلى القاموس",
             "Change": "يتغيرون",
             "Change All": "تغير الكل",
@@ -2596,7 +2626,15 @@
             "Footnote": "هامش",
             "Endnote": "تعليق ختامي",
             "Click to View/Edit Footnote": "انقر لعرض / تحرير الحاشية السفلية",
-            "Click to View/Edit Endnote": "انقر لعرض / تحرير التعليق الختامي"
+            "Click to View/Edit Endnote": "انقر لعرض / تحرير التعليق الختامي",
+            "InsertAsRows": "إدراج كصفوف جديدة",
+            "InsertAsColumns": "إدراج كأعمدة جديدة",
+            "OverwriteCells": "الكتابة فوق الخلايا",
+            "NestTable": "عش الجدول",
+            "No suggestions": "بدون اقتراحات",
+            "More Suggestion": "المزيد من الاقتراحات",
+            "Ignore Once": "تجاهل مرة واحدة",
+            "Ignore all": "تجاهل الكل"
         },
         "documenteditorcontainer": {
             "New": "جديد",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "أدخل حاشية سفلية",
             "Insert Endnote": "أدخل تعليق ختامي",
             "Footnote Tooltip": "أدخل حاشية سفلية (Alt + Ctrl + F).",
-            "Endnote Tooltip": "قم بإدراج تعليق ختامي (Alt + Ctrl + D)."
+            "Endnote Tooltip": "قم بإدراج تعليق ختامي (Alt + Ctrl + D).",
+            "UPPERCASE": "الأحرف الكبيرة"
         },
         "toast": {
             "close": "قريب"
@@ -2773,7 +2812,8 @@
             "yes": "نعم",
             "no": "لا",
             "close": "قريب",
-            "noCard": "لا توجد بطاقات لعرضها"
+            "noCard": "لا توجد بطاقات لعرضها",
+            "unassigned": "غير معين"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "لا توجد سجلات",

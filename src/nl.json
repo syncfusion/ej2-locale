@@ -499,6 +499,7 @@
             "Filter-Empty": "Geen resultaten gevonden",
             "Filter-Key": "Probeer het met een ander filter",
             "Sub-Folder-Error": "De doelmap is de submap van de bronmap.",
+            "Same-Folder-Error": "De doelmap is hetzelfde als de bronmap.",
             "Access-Denied": "Toegang geweigerd",
             "Access-Details": "U hebt geen toestemming om deze map te openen.",
             "Header-Retry": "Bestand bestaat al",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "OK",
             "pasteDialogCancel": "Annuleren",
             "fileManager": "Bestandsbeheer",
-            "fileDialogHeader": "Bestandsverkenner"
+            "fileDialogHeader": "Bestandsverkenner",
+            "formatsDropDownParagraph": "Paragraaf",
+            "formatsDropDownCode": "Code",
+            "formatsDropDownQuotation": "Citaat",
+            "formatsDropDownHeading1": "Koptekst 1",
+            "formatsDropDownHeading2": "Kop 2",
+            "formatsDropDownHeading3": "Kop 3",
+            "formatsDropDownHeading4": "Rubriek 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "Georgië",
+            "fontNameImpact": "Gevolg",
+            "fontNameTahoma": "Tahoma",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "Verdana",
+            "formatsOLListNumber": "Aantal",
+            "formatsOLListLowerAlpha": "LagereAlpha",
+            "formatsOLListUpperAlpha": "BovenAlpha",
+            "formatsOLListLowerRoman": "Lager Romeins",
+            "formatsOLListUpperRoman": "BovenRomeins",
+            "formatsOLListLowerGreek": "Lager Grieks",
+            "formatsULListDisc": "Schijf",
+            "formatsULListCircle": "Cirkel",
+            "formatsULListSquare": "Plein",
+            "formatsOLListNone": "Geen",
+            "formatsULListNone": "Geen"
         },
         "diagram": {
             "Copy": "Kopiëren",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "Wilt u de wijzigingen annuleren die zijn aangebracht in specifieke exemplaren van deze serie en deze opnieuw koppelen aan de hele serie?",
             "createError": "De duur van het evenement moet korter zijn dan hoe vaak het voorkomt. Kort de duur in of wijzig het terugkeerpatroon in de terugkeereditor.",
             "sameDayAlert": "Twee gebeurtenissen van dezelfde gebeurtenis kunnen niet op dezelfde dag plaatsvinden.",
+            "occurenceAlert": "Een optreden van de terugkerende afspraak kan niet opnieuw worden gepland als een later optreden van dezelfde afspraak wordt overgeslagen.",
             "editRecurrence": "Herhaling bewerken",
             "repeats": "herhalingen",
             "alert": "alarm",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "Functie invoegen",
             "Insert": "Invoegen",
             "Delete": "Verwijderen",
+            "DuplicateSheet": "Duplicaat",
+            "MoveRight": "Ga naar rechts",
+            "MoveLeft": "Ga naar links",
             "Rename": "Hernoemen",
             "Hide": "Verbergen",
             "Unhide": "Zichtbaar maken",
@@ -2502,7 +2532,7 @@
             "Spell Check": "Spellingscontrole",
             "Underline errors": "Onderstreep fouten",
             "Ignore": "Negeren",
-            "Ignore all": "Negeer alles",
+            "Ignore All": "Negeer alles",
             "Add to Dictionary": "Toevoegen aan woordenboek",
             "Change": "Verandering",
             "Change All": "Verander alles",
@@ -2597,7 +2627,15 @@
             "Footnote": "Voetnoot",
             "Endnote": "Eindnoot",
             "Click to View/Edit Footnote": "Klik om voetnoot te bekijken / bewerken",
-            "Click to View/Edit Endnote": "Klik om eindnoot te bekijken / bewerken"
+            "Click to View/Edit Endnote": "Klik om eindnoot te bekijken / bewerken",
+            "InsertAsRows": "Invoegen als nieuwe rijen",
+            "InsertAsColumns": "Invoegen als nieuwe kolommen",
+            "OverwriteCells": "Cellen overschrijven",
+            "NestTable": "Nesttafel",
+            "No suggestions": "Geen suggesties",
+            "More Suggestion": "Meer Suggestie:",
+            "Ignore Once": "Eén keer negeren",
+            "Ignore all": "Negeer alles"
         },
         "documenteditorcontainer": {
             "New": "Nieuw",
@@ -2754,7 +2792,8 @@
             "Insert Footnote": "Voetnoot invoegen",
             "Insert Endnote": "Eindnoot invoegen",
             "Footnote Tooltip": "Voetnoot invoegen (Alt + Ctrl + F).",
-            "Endnote Tooltip": "Eindnoot invoegen (Alt + Ctrl + D)."
+            "Endnote Tooltip": "Eindnoot invoegen (Alt + Ctrl + D).",
+            "UPPERCASE": "HOOFDLETTERS"
         },
         "toast": {
             "close": "Sluiten"
@@ -2774,7 +2813,8 @@
             "yes": "Ja",
             "no": "Nee",
             "close": "Dichtbij",
-            "noCard": "Geen kaarten om weer te geven"
+            "noCard": "Geen kaarten om weer te geven",
+            "unassigned": "Niet toegewezen"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "Geen verslagen gevonden",

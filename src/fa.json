@@ -499,6 +499,7 @@
             "Filter-Empty": "نتیجه ای پیدا نشد",
             "Filter-Key": "با فیلترهای مختلف امتحان کنید",
             "Sub-Folder-Error": "پوشه مقصد زیر پوشه پوشه منبع است.",
+            "Same-Folder-Error": "پوشه مقصد همان پوشه منبع است.",
             "Access-Denied": "دسترسی رد شد",
             "Access-Details": "شما اجازه دسترسی به این پوشه را ندارید.",
             "Header-Retry": "فایل از قبل موجود میباشد",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "خوب",
             "pasteDialogCancel": "لغو",
             "fileManager": "مدیر پرونده",
-            "fileDialogHeader": "مرورگر فایل"
+            "fileDialogHeader": "مرورگر فایل",
+            "formatsDropDownParagraph": "پاراگراف",
+            "formatsDropDownCode": "کد",
+            "formatsDropDownQuotation": "نقل قول",
+            "formatsDropDownHeading1": "عنوان 1",
+            "formatsDropDownHeading2": "عنوان 2",
+            "formatsDropDownHeading3": "عنوان 3",
+            "formatsDropDownHeading4": "عنوان 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "گرجستان",
+            "fontNameImpact": "تأثیر",
+            "fontNameTahoma": "تاهوما",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "وردانا",
+            "formatsOLListNumber": "عدد",
+            "formatsOLListLowerAlpha": "آلفای پایین",
+            "formatsOLListUpperAlpha": "آلفای فوقانی",
+            "formatsOLListLowerRoman": "پایین رومانی",
+            "formatsOLListUpperRoman": "رومان بالا",
+            "formatsOLListLowerGreek": "یونان پایین",
+            "formatsULListDisc": "دیسک",
+            "formatsULListCircle": "دایره",
+            "formatsULListSquare": "مربع",
+            "formatsOLListNone": "هیچ یک",
+            "formatsULListNone": "هیچ یک"
         },
         "diagram": {
             "Copy": "کپی 🀄",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "آیا می خواهید تغییرات ایجاد شده در موارد خاص این سری را لغو کنید و دوباره آن را با کل سری مطابقت دهید؟",
             "createError": "مدت زمان وقوع این رویداد باید کوتاه تر از زمان وقوع باشد. مدت زمان را کوتاه کنید یا الگوی عود را در ویرایشگر رویداد عود تغییر دهید.",
             "sameDayAlert": "دو واقعه مشابه نمی توانند در همان روز اتفاق بیفتند.",
+            "occurenceAlert": "اگر از یک قرار ملاقات بعدی بگذرد ، نمی توان وقوع یک قرار ملاقات را دوباره تنظیم کرد.",
             "editRecurrence": "عود را ویرایش کنید",
             "repeats": "تکرار می کند",
             "alert": "هشدار",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "عملکرد را وارد کنید",
             "Insert": "درج کنید",
             "Delete": "حذف",
+            "DuplicateSheet": "کپی کنید",
+            "MoveRight": "برو راست",
+            "MoveLeft": "حرکت به سمت چپ",
             "Rename": "تغییر نام دهید",
             "Hide": "پنهان شدن",
             "Unhide": "لغو",
@@ -2501,7 +2531,7 @@
             "Spell Check": "بررسی طلسم",
             "Underline errors": "خطاهای زیرخط",
             "Ignore": "چشم پوشی",
-            "Ignore all": "نادیده گرفتن همه",
+            "Ignore All": "نادیده گرفتن همه",
             "Add to Dictionary": "اضافه کردن به فرهنگ لغت",
             "Change": "تغییر دادن",
             "Change All": "تغییر همه",
@@ -2596,7 +2626,15 @@
             "Footnote": "پاورقی",
             "Endnote": "پینوشت",
             "Click to View/Edit Footnote": "برای مشاهده / ویرایش پاورقی کلیک کنید",
-            "Click to View/Edit Endnote": "برای مشاهده / ویرایش یادداشت نهایی کلیک کنید"
+            "Click to View/Edit Endnote": "برای مشاهده / ویرایش یادداشت نهایی کلیک کنید",
+            "InsertAsRows": "درج به عنوان ردیف های جدید",
+            "InsertAsColumns": "درج به عنوان ستون های جدید",
+            "OverwriteCells": "بازنویسی سلول ها",
+            "NestTable": "میز آشیانه",
+            "No suggestions": "پیشنهادی نیست",
+            "More Suggestion": "پیشنهاد بیشتر",
+            "Ignore Once": "یک بار نادیده بگیر",
+            "Ignore all": "نادیده گرفتن همه"
         },
         "documenteditorcontainer": {
             "New": "جدید",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "پاورقی را وارد کنید",
             "Insert Endnote": "Endnote را وارد کنید",
             "Footnote Tooltip": "پاورقی را وارد کنید (Alt + Ctrl + F).",
-            "Endnote Tooltip": "Endnote را وارد کنید (Alt + Ctrl + D)."
+            "Endnote Tooltip": "Endnote را وارد کنید (Alt + Ctrl + D).",
+            "UPPERCASE": "بزرگتر"
         },
         "toast": {
             "close": "نزدیک"
@@ -2773,7 +2812,8 @@
             "yes": "آره",
             "no": "نه",
             "close": "نزدیک",
-            "noCard": "هیچ کارتی برای نمایش وجود ندارد"
+            "noCard": "هیچ کارتی برای نمایش وجود ندارد",
+            "unassigned": "تکلیف نشده"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "هیچ سوابقی یافت نشد",

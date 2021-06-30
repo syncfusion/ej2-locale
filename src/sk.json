@@ -499,6 +499,7 @@
             "Filter-Empty": "Neboli nájdené žiadne výsledky",
             "Filter-Key": "Skúste použiť iný filter",
             "Sub-Folder-Error": "Cieľový priečinok je podpriečinok zdrojového priečinka.",
+            "Same-Folder-Error": "Cieľový priečinok je rovnaký ako zdrojový priečinok.",
             "Access-Denied": "Prístup zamietnutý",
             "Access-Details": "Nemáte povolenie na prístup do tohto priečinka.",
             "Header-Retry": "Súbor už existuje",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "OK",
             "pasteDialogCancel": "Zrušiť",
             "fileManager": "Správca súborov",
-            "fileDialogHeader": "Prehliadač súborov"
+            "fileDialogHeader": "Prehliadač súborov",
+            "formatsDropDownParagraph": "Odstavec",
+            "formatsDropDownCode": "Zákonníka",
+            "formatsDropDownQuotation": "Citát",
+            "formatsDropDownHeading1": "Nadpis 1",
+            "formatsDropDownHeading2": "Nadpis 2",
+            "formatsDropDownHeading3": "Nadpis 3",
+            "formatsDropDownHeading4": "Nadpis 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "Gruzínsko",
+            "fontNameImpact": "Dopad",
+            "fontNameTahoma": "Tahoma",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "Verdana",
+            "formatsOLListNumber": "Číslo",
+            "formatsOLListLowerAlpha": "LowerAlpha",
+            "formatsOLListUpperAlpha": "Horná Alfa",
+            "formatsOLListLowerRoman": "LowerRoman",
+            "formatsOLListUpperRoman": "UpperRoman",
+            "formatsOLListLowerGreek": "LowerGreek",
+            "formatsULListDisc": "Disk",
+            "formatsULListCircle": "Kruh",
+            "formatsULListSquare": "Námestie",
+            "formatsOLListNone": "Žiadne",
+            "formatsULListNone": "Žiadne"
         },
         "diagram": {
             "Copy": "kópie",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "Chcete zrušiť zmeny vykonané v konkrétnych prípadoch tejto série a znova ich priradiť k celej sérii?",
             "createError": "Trvanie udalosti musí byť kratšie, ako často sa koná. Skráťte trvanie alebo zmeňte model opakovania v editore udalostí opakovania.",
             "sameDayAlert": "Dva výskyty tej istej udalosti sa nemôžu vyskytnúť v ten istý deň.",
+            "occurenceAlert": "Výskyt opakovanej schôdzky nie je možné znova naplánovať, ak preskočí neskorší výskyt tej istej schôdzky.",
             "editRecurrence": "Upraviť opakovanie",
             "repeats": "opakuje",
             "alert": "bdelý",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "Vložte funkciu",
             "Insert": "insert",
             "Delete": "delete",
+            "DuplicateSheet": "Duplikát",
+            "MoveRight": "Pohnúť sa vpravo",
+            "MoveLeft": "Presuňte sa doľava",
             "Rename": "premenovanie",
             "Hide": "skryť",
             "Unhide": "odkryť",
@@ -2501,7 +2531,7 @@
             "Spell Check": "Kontrola pravopisu",
             "Underline errors": "Podčiarknite chyby",
             "Ignore": "Ignorovať",
-            "Ignore all": "Ignorovať všetko",
+            "Ignore All": "Ignorovať všetko",
             "Add to Dictionary": "Pridať do slovníka",
             "Change": "zmena",
             "Change All": "Zmeniť všetko",
@@ -2596,7 +2626,15 @@
             "Footnote": "Poznámka pod čiarou",
             "Endnote": "Koncová poznámka",
             "Click to View/Edit Footnote": "Kliknutím zobrazíte / upravíte poznámku pod čiarou",
-            "Click to View/Edit Endnote": "Kliknutím zobrazíte / upravíte poznámku"
+            "Click to View/Edit Endnote": "Kliknutím zobrazíte / upravíte poznámku",
+            "InsertAsRows": "Vložiť ako nové riadky",
+            "InsertAsColumns": "Vložiť ako nové stĺpce",
+            "OverwriteCells": "Prepísať bunky",
+            "NestTable": "Hniezdny stôl",
+            "No suggestions": "Žiadne návrhy",
+            "More Suggestion": "Viac návrhov",
+            "Ignore Once": "Ignorovať raz",
+            "Ignore all": "Ignorovať všetko"
         },
         "documenteditorcontainer": {
             "New": "Nový",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "Vložte poznámku pod čiarou",
             "Insert Endnote": "Vložte koncovú poznámku",
             "Footnote Tooltip": "Vložte poznámku pod čiarou (Alt + Ctrl + F).",
-            "Endnote Tooltip": "Vložte koncovú poznámku (Alt + Ctrl + D)."
+            "Endnote Tooltip": "Vložte koncovú poznámku (Alt + Ctrl + D).",
+            "UPPERCASE": "VEĽKÉ PÍSMENÁ"
         },
         "toast": {
             "close": "Zavrieť"
@@ -2773,7 +2812,8 @@
             "yes": "Áno",
             "no": "žiadny",
             "close": "Zavrieť",
-            "noCard": "Žiadne karty na zobrazenie"
+            "noCard": "Žiadne karty na zobrazenie",
+            "unassigned": "Nepriradený"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "Nenašli sa žiadne záznamy",
