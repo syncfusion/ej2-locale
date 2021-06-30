@@ -499,6 +499,7 @@
             "Filter-Empty": "Nema rezultata",
             "Filter-Key": "Pokušajte s drugim filtrom",
             "Sub-Folder-Error": "Odredišna mapa je podmapa izvorne mape.",
+            "Same-Folder-Error": "Odredišna mapa je ista kao i izvorna mapa.",
             "Access-Denied": "Pristup odbijen",
             "Access-Details": "Nemate dozvolu za pristup ovoj mapi.",
             "Header-Retry": "Datoteka već postoji",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "u redu",
             "pasteDialogCancel": "Otkazati",
             "fileManager": "Upravitelj datotek",
-            "fileDialogHeader": "Brskalnik datotek"
+            "fileDialogHeader": "Brskalnik datotek",
+            "formatsDropDownParagraph": "Stavak",
+            "formatsDropDownCode": "Kodirati",
+            "formatsDropDownQuotation": "Citat",
+            "formatsDropDownHeading1": "Naslov 1",
+            "formatsDropDownHeading2": "Naslov 2",
+            "formatsDropDownHeading3": "Naslov 3",
+            "formatsDropDownHeading4": "Naslov 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "Gruzija",
+            "fontNameImpact": "Udarac",
+            "fontNameTahoma": "Tahoma",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "Verdana",
+            "formatsOLListNumber": "Broj",
+            "formatsOLListLowerAlpha": "DonjaAlfa",
+            "formatsOLListUpperAlpha": "GornjaAlfa",
+            "formatsOLListLowerRoman": "Donji Rimljani",
+            "formatsOLListUpperRoman": "Gornji Rimljani",
+            "formatsOLListLowerGreek": "Donji Grčki",
+            "formatsULListDisc": "Disk",
+            "formatsULListCircle": "Krug",
+            "formatsULListSquare": "Kvadrat",
+            "formatsOLListNone": "Nijedna",
+            "formatsULListNone": "Nijedna"
         },
         "diagram": {
             "Copy": "Kopirati",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "Želite li otkazati promjene učinjene na određenim primjercima ove serije i ponovno ih uskladiti s cijelom serijom?",
             "createError": "Trajanje događaja mora biti kraće od onog koliko često se događaj događa. Skratite trajanje ili promijenite obrazac ponavljanja u uređivaču događaja ponavljanja.",
             "sameDayAlert": "Dvije pojave istog događaja ne mogu se dogoditi istog dana.",
+            "occurenceAlert": "Ne može se zakazati pojava ponavljajućeg sastanka ako preskoči kasniju pojavu istog sastanka.",
             "editRecurrence": "Uređivanje ponavljanja",
             "repeats": "ponavlja",
             "alert": "uzbuna",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "Umetni funkciju",
             "Insert": "Umetnuti",
             "Delete": "Izbrisati",
+            "DuplicateSheet": "Duplikat",
+            "MoveRight": "Pomaknuti se udesno",
+            "MoveLeft": "Pomakni se ulijevo",
             "Rename": "Preimenovati",
             "Hide": "Sakriti",
             "Unhide": "Otkrij",
@@ -2501,7 +2531,7 @@
             "Spell Check": "Provjera pravopisa",
             "Underline errors": "Podcrtajte pogreške",
             "Ignore": "Zanemariti",
-            "Ignore all": "Zanemari sve",
+            "Ignore All": "Zanemari sve",
             "Add to Dictionary": "Dodaj u rječnik",
             "Change": "Promijeniti",
             "Change All": "Promijeni sve",
@@ -2596,7 +2626,15 @@
             "Footnote": "Fusnota",
             "Endnote": "Završna bilješka",
             "Click to View/Edit Footnote": "Kliknite za prikaz / uređivanje fusnote",
-            "Click to View/Edit Endnote": "Kliknite za prikaz / uređivanje završne bilješke"
+            "Click to View/Edit Endnote": "Kliknite za prikaz / uređivanje završne bilješke",
+            "InsertAsRows": "Umetni kao nove redove",
+            "InsertAsColumns": "Umetni kao nove stupce",
+            "OverwriteCells": "Prepiši stanice",
+            "NestTable": "Tablica za gnijezdo",
+            "No suggestions": "Nema prijedloga",
+            "More Suggestion": "Još prijedloga",
+            "Ignore Once": "Zanemari jednom",
+            "Ignore all": "Zanemari sve"
         },
         "documenteditorcontainer": {
             "New": "Novi",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "Umetnite fusnotu",
             "Insert Endnote": "Umetnite završnu bilješku",
             "Footnote Tooltip": "Umetnite fusnotu (Alt + Ctrl + F).",
-            "Endnote Tooltip": "Umetnite završnu bilješku (Alt + Ctrl + D)."
+            "Endnote Tooltip": "Umetnite završnu bilješku (Alt + Ctrl + D).",
+            "UPPERCASE": "GORNJA"
         },
         "toast": {
             "close": "Zatvoriti"
@@ -2773,7 +2812,8 @@
             "yes": "Da",
             "no": "Ne",
             "close": "Zatvoriti",
-            "noCard": "Nema kartica za prikaz"
+            "noCard": "Nema kartica za prikaz",
+            "unassigned": "Neraspoređeno"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "Ni najdenih zapisov",

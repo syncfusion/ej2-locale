@@ -499,6 +499,7 @@
             "Filter-Empty": "keine Ergebnisse gefunden",
             "Filter-Key": "Versuchen Sie es mit einem anderen Filter",
             "Sub-Folder-Error": "Der Zielordner ist der Unterordner des Quellordners.",
+            "Same-Folder-Error": "Der Zielordner ist der gleiche wie der Quellordner.",
             "Access-Denied": "Zugriff verweigert",
             "Access-Details": "Sie haben keine Berechtigung, auf diesen Ordner zuzugreifen.",
             "Header-Retry": "Die Datei existiert bereits",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "in Ordnung",
             "pasteDialogCancel": "Stornieren",
             "fileManager": "Dateimanager",
-            "fileDialogHeader": "Dateibrowser"
+            "fileDialogHeader": "Dateibrowser",
+            "formatsDropDownParagraph": "Absatz",
+            "formatsDropDownCode": "Code",
+            "formatsDropDownQuotation": "Zitat",
+            "formatsDropDownHeading1": "Überschrift 1",
+            "formatsDropDownHeading2": "Überschrift 2",
+            "formatsDropDownHeading3": "Überschrift 3",
+            "formatsDropDownHeading4": "Überschrift 4",
+            "fontNameSegoeUI": "Segoe UI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "Georgia",
+            "fontNameImpact": "Einschlag",
+            "fontNameTahoma": "Tahoma",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "Verdana",
+            "formatsOLListNumber": "Nummer",
+            "formatsOLListLowerAlpha": "LowerAlpha",
+            "formatsOLListUpperAlpha": "OberAlpha",
+            "formatsOLListLowerRoman": "Niederroman",
+            "formatsOLListUpperRoman": "Oberrömisch",
+            "formatsOLListLowerGreek": "Niedergriechisch",
+            "formatsULListDisc": "Rabatt",
+            "formatsULListCircle": "Kreis",
+            "formatsULListSquare": "Quadrat",
+            "formatsOLListNone": "Keiner",
+            "formatsULListNone": "Keiner"
         },
         "diagram": {
             "Copy": "Kopieren",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "Möchten Sie die an bestimmten Instanzen dieser Serie vorgenommenen Änderungen verwerfen und erneut mit der gesamten Serie abgleichen?",
             "createError": "Die Dauer des Ereignisses muss kürzer als die Häufigkeit sein, mit der es auftritt. Verkürzen Sie die Dauer oder ändern Sie das Wiederholungsmuster im Wiederholungsereignis-Editor.",
             "sameDayAlert": "Zwei Ereignisse desselben Ereignisses können nicht am selben Tag auftreten.",
+            "occurenceAlert": "Ein Vorkommen des wiederkehrenden Termins kann nicht neu geplant werden, wenn ein späteres Vorkommen desselben Termins übersprungen wird.",
             "editRecurrence": "Wiederholung bearbeiten",
             "repeats": "Wiederholt",
             "alert": "Warnen",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "Funktion einfügen",
             "Insert": "Einfügen",
             "Delete": "Löschen",
+            "DuplicateSheet": "Duplikat",
+            "MoveRight": "Nach rechts bewegen",
+            "MoveLeft": "Geh nach links",
             "Rename": "Umbenennen",
             "Hide": "Ausblenden",
             "Unhide": "Einblenden",
@@ -2501,7 +2531,7 @@
             "Spell Check": "Rechtschreibprüfung",
             "Underline errors": "Fehler unterstreichen",
             "Ignore": "Ignorieren",
-            "Ignore all": "Alles ignorieren",
+            "Ignore All": "Alles ignorieren",
             "Add to Dictionary": "Zum Wörterbuch hinzufügen",
             "Change": "Veränderung",
             "Change All": "Ändere Alles",
@@ -2597,6 +2627,14 @@
             "Endnote": "Endnote",
             "Click to View/Edit Footnote": "Klicken Sie hier, um die Fußnote anzuzeigen / zu bearbeiten",
             "Click to View/Edit Endnote": "Klicken Sie hier, um die Endnote anzuzeigen / zu bearbeiten",
+            "InsertAsRows": "Als neue Zeilen einfügen",
+            "InsertAsColumns": "Als neue Spalten einfügen",
+            "OverwriteCells": "Zellen überschreiben",
+            "NestTable": "Nesttisch",
+            "No suggestions": "Keine Vorschläge",
+            "More Suggestion": "Mehr Vorschlag",
+            "Ignore Once": "Einmal ignorieren",
+            "Ignore all": "Alles ignorieren",
             "Table Of Contents": "Inhaltsverzeichnis"
         },
         "documenteditorcontainer": {
@@ -2754,7 +2792,8 @@
             "Insert Footnote": "Fußnote einfügen",
             "Insert Endnote": "Endnote einfügen",
             "Footnote Tooltip": "Fußnote einfügen (Alt + Strg + F).",
-            "Endnote Tooltip": "Endnote einfügen (Alt + Strg + D)."
+            "Endnote Tooltip": "Endnote einfügen (Alt + Strg + D).",
+            "UPPERCASE": "GROSSBUCHSTABEN"
         },
         "toast": {
             "close": "Schliessen"
@@ -2774,7 +2813,8 @@
             "yes": "Ja",
             "no": "Nein",
             "close": "Schließen",
-            "noCard": "Keine Karten zum Anzeigen"
+            "noCard": "Keine Karten zum Anzeigen",
+            "unassigned": "Nicht zugewiesen"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "Keine Aufzeichnungen gefunden",

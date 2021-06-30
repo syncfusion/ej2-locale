@@ -499,6 +499,7 @@
             "Filter-Empty": "Nie znaleziono wyników",
             "Filter-Key": "Spróbuj z innym filtrem",
             "Sub-Folder-Error": "Folder docelowy jest podfolderem folderu źródłowego.",
+            "Same-Folder-Error": "Folder docelowy jest taki sam jak folder źródłowy.",
             "Access-Denied": "Brak dostępu",
             "Access-Details": "Nie masz uprawnień dostępu do tego folderu.",
             "Header-Retry": "Plik już istnieje",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "dobrze",
             "pasteDialogCancel": "Anuluj",
             "fileManager": "Menedżer plików",
-            "fileDialogHeader": "Przeglądarka plików"
+            "fileDialogHeader": "Przeglądarka plików",
+            "formatsDropDownParagraph": "Ustęp",
+            "formatsDropDownCode": "Kod",
+            "formatsDropDownQuotation": "Cytat",
+            "formatsDropDownHeading1": "Nagłówek 1",
+            "formatsDropDownHeading2": "Nagłówek 2",
+            "formatsDropDownHeading3": "Nagłówek 3",
+            "formatsDropDownHeading4": "Nagłówek 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "Gruzja",
+            "fontNameImpact": "Wpływ",
+            "fontNameTahoma": "Tahoma",
+            "fontNameTimesNewRoman": "Czcionka Times New Roman",
+            "fontNameVerdana": "Verdana",
+            "formatsOLListNumber": "Numer",
+            "formatsOLListLowerAlpha": "DolnaAlfa",
+            "formatsOLListUpperAlpha": "Górna alfa",
+            "formatsOLListLowerRoman": "Dolny Roman",
+            "formatsOLListUpperRoman": "UpperRoman",
+            "formatsOLListLowerGreek": "Dolny Grecki",
+            "formatsULListDisc": "Dysk",
+            "formatsULListCircle": "okrąg",
+            "formatsULListSquare": "Kwadrat",
+            "formatsOLListNone": "Żaden",
+            "formatsULListNone": "Żaden"
         },
         "diagram": {
             "Copy": "Kopiuj",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "Czy chcesz anulować zmiany wprowadzone w określonych wystąpieniach tej serii i ponownie dopasować ją do całej serii?",
             "createError": "Czas trwania wydarzenia musi być krótszy niż częstotliwość jego występowania. Skróć czas trwania lub zmień wzorzec cyklu w edytorze zdarzeń cyklicznych.",
             "sameDayAlert": "Dwa wystąpienia tego samego zdarzenia nie mogą wystąpić tego samego dnia.",
+            "occurenceAlert": "Nie można przełożyć wystąpienia spotkania cyklicznego, jeśli pomija późniejsze wystąpienie tego samego spotkania.",
             "editRecurrence": "Edytuj cykl",
             "repeats": "Powtarza się",
             "alert": "Alarm",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "Wstaw funkcję",
             "Insert": "Wstawić",
             "Delete": "Usunąć",
+            "DuplicateSheet": "Duplikować",
+            "MoveRight": "Ruch w prawo",
+            "MoveLeft": "Przesuń w lewo",
             "Rename": "Przemianować",
             "Hide": "Ukryć",
             "Unhide": "Odkryj",
@@ -2501,7 +2531,7 @@
             "Spell Check": "Sprawdzanie pisowni",
             "Underline errors": "Podkreśl błędy",
             "Ignore": "Ignorować",
-            "Ignore all": "Ignorować wszystko",
+            "Ignore All": "Ignorować wszystko",
             "Add to Dictionary": "Dodaj do słownika",
             "Change": "Zmiana",
             "Change All": "Zmienić wszystko",
@@ -2596,7 +2626,15 @@
             "Footnote": "Notatka",
             "Endnote": "Uwaga końcowa",
             "Click to View/Edit Footnote": "Kliknij, aby wyświetlić / edytować przypis",
-            "Click to View/Edit Endnote": "Kliknij, aby wyświetlić / edytować przypis końcowy"
+            "Click to View/Edit Endnote": "Kliknij, aby wyświetlić / edytować przypis końcowy",
+            "InsertAsRows": "Wstaw jako nowe wiersze",
+            "InsertAsColumns": "Wstaw jako nowe kolumny",
+            "OverwriteCells": "Zastąp komórki",
+            "NestTable": "Zagnieżdżanie stołu",
+            "No suggestions": "Brak sugestii",
+            "More Suggestion": "Więcej sugestii",
+            "Ignore Once": "Zignoruj ​​raz",
+            "Ignore all": "Ignorować wszystko"
         },
         "documenteditorcontainer": {
             "New": "Nowy",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "Wstaw przypis",
             "Insert Endnote": "Wstaw przypis końcowy",
             "Footnote Tooltip": "Wstaw przypis (Alt + Ctrl + F).",
-            "Endnote Tooltip": "Wstaw przypis końcowy (Alt + Ctrl + D)."
+            "Endnote Tooltip": "Wstaw przypis końcowy (Alt + Ctrl + D).",
+            "UPPERCASE": "DUŻE LITERY"
         },
         "toast": {
             "close": "Blisko"
@@ -2773,7 +2812,8 @@
             "yes": "tak",
             "no": "Nie",
             "close": "Blisko",
-            "noCard": "Brak kart do wyświetlenia"
+            "noCard": "Brak kart do wyświetlenia",
+            "unassigned": "Nieprzypisany"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "Nic nie znaleziono",

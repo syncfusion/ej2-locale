@@ -499,6 +499,7 @@
             "Filter-Empty": "nessun risultato trovato",
             "Filter-Key": "Prova con un filtro diverso",
             "Sub-Folder-Error": "La cartella di destinazione è la sottocartella della cartella di origine.",
+            "Same-Folder-Error": "La cartella di destinazione è la stessa della cartella di origine.",
             "Access-Denied": "Accesso negato",
             "Access-Details": "Non sei autorizzato ad accedere a questa cartella.",
             "Header-Retry": "Il file esiste già",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "ok",
             "pasteDialogCancel": "Annulla",
             "fileManager": "File Manager",
-            "fileDialogHeader": "Browser di file"
+            "fileDialogHeader": "Browser di file",
+            "formatsDropDownParagraph": "Paragrafo",
+            "formatsDropDownCode": "Codice",
+            "formatsDropDownQuotation": "Quotazione",
+            "formatsDropDownHeading1": "Intestazione 1",
+            "formatsDropDownHeading2": "Intestazione 2",
+            "formatsDropDownHeading3": "Intestazione 3",
+            "formatsDropDownHeading4": "Intestazione 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "Georgia",
+            "fontNameImpact": "Impatto",
+            "fontNameTahoma": "Tahoma",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "Verdana",
+            "formatsOLListNumber": "Numero",
+            "formatsOLListLowerAlpha": "Alfa inferiore",
+            "formatsOLListUpperAlpha": "UpperAlpha",
+            "formatsOLListLowerRoman": "LowerRoman",
+            "formatsOLListUpperRoman": "UpperRoman",
+            "formatsOLListLowerGreek": "greco inferiore",
+            "formatsULListDisc": "Disco",
+            "formatsULListCircle": "Cerchio",
+            "formatsULListSquare": "Piazza",
+            "formatsOLListNone": "Nessuna",
+            "formatsULListNone": "Nessuna"
         },
         "diagram": {
             "Copy": "copia",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "Vuoi annullare le modifiche apportate a istanze specifiche di questa serie e abbinarle nuovamente all'intera serie?",
             "createError": "La durata dell'evento deve essere inferiore alla frequenza con cui si verifica. Ridurre la durata o modificare il modello di ricorrenza nell'editor degli eventi di ricorrenza.",
             "sameDayAlert": "Due ricorrenze dello stesso evento non possono verificarsi nello stesso giorno.",
+            "occurenceAlert": "Impossibile ripianificare un'occorrenza dell'appuntamento ricorrente se salta un'occorrenza successiva dello stesso appuntamento.",
             "editRecurrence": "Modifica ricorrenza",
             "repeats": "ripetizioni",
             "alert": "Mettere in guardia",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "Inserisci funzione",
             "Insert": "Inserire",
             "Delete": "Elimina",
+            "DuplicateSheet": "Duplicare",
+            "MoveRight": "Vai a destra",
+            "MoveLeft": "Muovere a sinistra",
             "Rename": "Rinominare",
             "Hide": "Nascondere",
             "Unhide": "unhide",
@@ -2501,7 +2531,7 @@
             "Spell Check": "Controllo ortografico",
             "Underline errors": "Sottolinea errori",
             "Ignore": "Ignorare",
-            "Ignore all": "Ignora tutto",
+            "Ignore All": "Ignora tutto",
             "Add to Dictionary": "Aggiungi al dizionario",
             "Change": "Modificare",
             "Change All": "Cambia tutto",
@@ -2596,7 +2626,15 @@
             "Footnote": "Nota",
             "Endnote": "Nota di chiusura",
             "Click to View/Edit Footnote": "Fare clic per visualizzare / modificare la nota a piè di pagina",
-            "Click to View/Edit Endnote": "Fare clic per visualizzare / modificare la nota di chiusura"
+            "Click to View/Edit Endnote": "Fare clic per visualizzare / modificare la nota di chiusura",
+            "InsertAsRows": "Inserisci come nuove righe",
+            "InsertAsColumns": "Inserisci come nuove colonne",
+            "OverwriteCells": "Sovrascrivi celle",
+            "NestTable": "Tavolo Nido",
+            "No suggestions": "Nessun suggerimento",
+            "More Suggestion": "Altri suggerimenti",
+            "Ignore Once": "Ignora una volta",
+            "Ignore all": "Ignora tutto"
         },
         "documenteditorcontainer": {
             "New": "Nuovo",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "Inserisci nota a piè di pagina",
             "Insert Endnote": "Inserisci nota di chiusura",
             "Footnote Tooltip": "Inserisci nota a piè di pagina (Alt + Ctrl + F).",
-            "Endnote Tooltip": "Inserisci nota di chiusura (Alt + Ctrl + D)."
+            "Endnote Tooltip": "Inserisci nota di chiusura (Alt + Ctrl + D).",
+            "UPPERCASE": "MAIUSCOLO"
         },
         "toast": {
             "close": "Chiudi"
@@ -2773,7 +2812,8 @@
             "yes": "sì",
             "no": "No",
             "close": "Vicino",
-            "noCard": "Nessuna scheda da visualizzare"
+            "noCard": "Nessuna scheda da visualizzare",
+            "unassigned": "Non assegnato"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "Nessun record trovato",

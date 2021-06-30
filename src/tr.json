@@ -499,6 +499,7 @@
             "Filter-Empty": "Sonuç bulunamadı",
             "Filter-Key": "Farklı bir filtreyle deneyin",
             "Sub-Folder-Error": "Hedef klasör, kaynak klasörün alt klasörüdür.",
+            "Same-Folder-Error": "Hedef klasör, kaynak klasörle aynıdır.",
             "Access-Denied": "Erişim reddedildi",
             "Access-Details": "Bu klasöre erişim izniniz yok.",
             "Header-Retry": "Dosya zaten mevcut",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "tamam",
             "pasteDialogCancel": "İptal etmek",
             "fileManager": "Dosya Yöneticisi",
-            "fileDialogHeader": "Dosya tarayıcısı"
+            "fileDialogHeader": "Dosya tarayıcısı",
+            "formatsDropDownParagraph": "Paragraf",
+            "formatsDropDownCode": "kod",
+            "formatsDropDownQuotation": "alıntı",
+            "formatsDropDownHeading1": "Başlık 1",
+            "formatsDropDownHeading2": "Başlık 2",
+            "formatsDropDownHeading3": "Başlık 3",
+            "formatsDropDownHeading4": "Başlık 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "Gürcistan",
+            "fontNameImpact": "Etki",
+            "fontNameTahoma": "Tahoma",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "Verdana",
+            "formatsOLListNumber": "Numara",
+            "formatsOLListLowerAlpha": "AltAlfa",
+            "formatsOLListUpperAlpha": "ÜstAlfa",
+            "formatsOLListLowerRoman": "AşağıRoman",
+            "formatsOLListUpperRoman": "YukarıRoman",
+            "formatsOLListLowerGreek": "AşağıYunanca",
+            "formatsULListDisc": "Disk",
+            "formatsULListCircle": "Daire",
+            "formatsULListSquare": "Meydan",
+            "formatsOLListNone": "Yok",
+            "formatsULListNone": "Yok"
         },
         "diagram": {
             "Copy": "kopya",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "Bu serinin belirli örneklerinde yapılan değişiklikleri iptal edip tekrar tüm seriyle eşleştirmek istiyor musunuz?",
             "createError": "Etkinliğin süresi, gerçekleşme sıklığından daha kısa olmalıdır. Süreyi kısaltın veya yineleme etkinliği düzenleyicisinde yineleme düzenini değiştirin.",
             "sameDayAlert": "Aynı olayda iki olay aynı günde gerçekleşemez.",
+            "occurenceAlert": "Aynı randevunun daha sonraki bir oluşumunu atlarsa, yinelenen randevunun bir tekrarı yeniden planlanamaz.",
             "editRecurrence": "Yinelemeyi Düzenle",
             "repeats": "Tekrarlar",
             "alert": "Uyarmak",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "Ekleme İşlevi",
             "Insert": "Ekle",
             "Delete": "Sil",
+            "DuplicateSheet": "Çiftleme",
+            "MoveRight": "Sağa hareket et",
+            "MoveLeft": "Sola hareket et",
             "Rename": "Adını değiştirmek",
             "Hide": "Saklamak",
             "Unhide": "unhide",
@@ -2501,7 +2531,7 @@
             "Spell Check": "Yazım denetimi",
             "Underline errors": "Altı çizili hatalar",
             "Ignore": "Aldırmamak",
-            "Ignore all": "Hepsini Yoksay",
+            "Ignore All": "Hepsini Yoksay",
             "Add to Dictionary": "Sözlüğe Ekle",
             "Change": "Değişiklik",
             "Change All": "Hepsini değiştir",
@@ -2596,7 +2626,15 @@
             "Footnote": "Dipnot",
             "Endnote": "Son not",
             "Click to View/Edit Footnote": "Dipnotu Görüntülemek / Düzenlemek İçin Tıklayın",
-            "Click to View/Edit Endnote": "Son Notu Görüntülemek / Düzenlemek İçin Tıklayın"
+            "Click to View/Edit Endnote": "Son Notu Görüntülemek / Düzenlemek İçin Tıklayın",
+            "InsertAsRows": "Yeni Satır Olarak Ekle",
+            "InsertAsColumns": "Yeni Sütunlar Olarak Ekle",
+            "OverwriteCells": "Hücrelerin Üzerine Yaz",
+            "NestTable": "Yuva Tablosu",
+            "No suggestions": "Öneri yok",
+            "More Suggestion": "Daha Fazla Öneri",
+            "Ignore Once": "Bir kereliğine görmezden gel",
+            "Ignore all": "Hepsini Yoksay"
         },
         "documenteditorcontainer": {
             "New": "Yeni",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "Dipnot Ekle",
             "Insert Endnote": "Son Not Ekle",
             "Footnote Tooltip": "Dipnot Ekle (Alt + Ctrl + F).",
-            "Endnote Tooltip": "Son Not Ekle (Alt + Ctrl + D)."
+            "Endnote Tooltip": "Son Not Ekle (Alt + Ctrl + D).",
+            "UPPERCASE": "BÜYÜK HARF"
         },
         "toast": {
             "close": "Kapat"
@@ -2773,7 +2812,8 @@
             "yes": "Evet",
             "no": "Hayır",
             "close": "Kapat",
-            "noCard": "Görüntülenecek kart yok"
+            "noCard": "Görüntülenecek kart yok",
+            "unassigned": "Atanmamış"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "kayıt bulunamadı",

@@ -499,6 +499,7 @@
             "Filter-Empty": "Tiada keputusan dijumpai",
             "Filter-Key": "Cuba dengan penapis yang berbeza",
             "Sub-Folder-Error": "Folder destinasi ialah subfolder pada folder sumber.",
+            "Same-Folder-Error": "Folder tujuan adalah sama dengan folder sumber.",
             "Access-Denied": "Akses dinafikan",
             "Access-Details": "Anda tidak mempunyai kebenaran untuk mengakses folder ini.",
             "Header-Retry": "Fail Sudah Hadiri",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "okey",
             "pasteDialogCancel": "Batalkan",
             "fileManager": "Pengurus Fail",
-            "fileDialogHeader": "Penyemak Imbas Fail"
+            "fileDialogHeader": "Penyemak Imbas Fail",
+            "formatsDropDownParagraph": "Ayat",
+            "formatsDropDownCode": "Kod",
+            "formatsDropDownQuotation": "Sebutharga",
+            "formatsDropDownHeading1": "Tajuk 1",
+            "formatsDropDownHeading2": "Tajuk 2",
+            "formatsDropDownHeading3": "Tajuk 3",
+            "formatsDropDownHeading4": "Tajuk 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "Georgia",
+            "fontNameImpact": "Kesan",
+            "fontNameTahoma": "Tahoma",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "Verdana",
+            "formatsOLListNumber": "Nombor",
+            "formatsOLListLowerAlpha": "BawahAlpha",
+            "formatsOLListUpperAlpha": "AtasAlpha",
+            "formatsOLListLowerRoman": "BawahRoman",
+            "formatsOLListUpperRoman": "AtasanRoman",
+            "formatsOLListLowerGreek": "Bahasa Yunani Rendah",
+            "formatsULListDisc": "Cakera",
+            "formatsULListCircle": "Bulatan",
+            "formatsULListSquare": "Petak",
+            "formatsOLListNone": "Tiada",
+            "formatsULListNone": "Tiada"
         },
         "diagram": {
             "Copy": "Salinan",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "Adakah anda mahu membatalkan perubahan yang dibuat kepada contoh tertentu dalam siri ini dan padankannya ke siri keseluruhan lagi?",
             "createError": "Tempoh acara mestilah lebih pendek daripada berapa kerap berlaku. Mempersendakan tempoh, atau menukar pola berulang dalam editor acara ulangan.",
             "sameDayAlert": "Dua peristiwa yang sama tidak boleh berlaku pada hari yang sama.",
+            "occurenceAlert": "Tidak dapat menjadualkan semula kejadian janji temu berulang jika ia melupakan kejadian temu janji yang sama kemudian.",
             "editRecurrence": "Edit Pengulangan",
             "repeats": "Berulang",
             "alert": "Amaran",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "Masukkan Fungsi",
             "Insert": "Masukkan",
             "Delete": "Padam",
+            "DuplicateSheet": "Gandakan",
+            "MoveRight": "Bergerak ke Kanan",
+            "MoveLeft": "Bergerak ke kiri",
             "Rename": "Namakan semula",
             "Hide": "Sembunyikan",
             "Unhide": "Nyahtutup",
@@ -2501,7 +2531,7 @@
             "Spell Check": "Semak ejaan",
             "Underline errors": "Garis bawah kesalahan",
             "Ignore": "Abai",
-            "Ignore all": "Abaikan semua",
+            "Ignore All": "Abaikan semua",
             "Add to Dictionary": "Tambah ke Kamus",
             "Change": "Ubah",
             "Change All": "Tukar Semua",
@@ -2596,7 +2626,15 @@
             "Footnote": "Nota kaki",
             "Endnote": "Catatan",
             "Click to View/Edit Footnote": "Klik untuk Lihat / Edit Nota Kaki",
-            "Click to View/Edit Endnote": "Klik untuk Lihat / Edit Catatan"
+            "Click to View/Edit Endnote": "Klik untuk Lihat / Edit Catatan",
+            "InsertAsRows": "Masukkan sebagai Baris Baru",
+            "InsertAsColumns": "Masukkan sebagai Lajur Baru",
+            "OverwriteCells": "Menimpa Sel",
+            "NestTable": "Jadual Sarang",
+            "No suggestions": "Tiada cadangan",
+            "More Suggestion": "Lebih Banyak Cadangan",
+            "Ignore Once": "Abaikan Sekali",
+            "Ignore all": "Abaikan semua"
         },
         "documenteditorcontainer": {
             "New": "Baru",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "Masukkan Nota Kaki",
             "Insert Endnote": "Masukkan Nota Catatan",
             "Footnote Tooltip": "Masukkan Nota Kaki (Alt + Ctrl + F).",
-            "Endnote Tooltip": "Masukkan Endnote (Alt + Ctrl + D)."
+            "Endnote Tooltip": "Masukkan Endnote (Alt + Ctrl + D).",
+            "UPPERCASE": "HASIL"
         },
         "toast": {
             "close": "Tutup"
@@ -2773,7 +2812,8 @@
             "yes": "Ya",
             "no": "Tidak",
             "close": "Tutup",
-            "noCard": "Tiada kad untuk dipaparkan"
+            "noCard": "Tiada kad untuk dipaparkan",
+            "unassigned": "Tidak ditugaskan"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "Tiada rekod dijumpai",

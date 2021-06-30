@@ -499,6 +499,7 @@
             "Filter-Empty": "No results found",
             "Filter-Key": "Try with different filter",
             "Sub-Folder-Error": "The destination folder is the subfolder of the source folder.",
+            "Same-Folder-Error": "The destination folder is the same as the source folder.",
             "Access-Denied": "Access Denied",
             "Access-Details": "You don't have permission to access this folder.",
             "Header-Retry": "File Already Exists",
@@ -713,7 +714,32 @@
             "pasteDialogOk": "OK",
             "pasteDialogCancel": "Cancel",
             "fileManager": "File Manager",
-            "fileDialogHeader": "File Browser"
+            "fileDialogHeader": "File Browser",
+            "formatsDropDownParagraph": "Paragraph",
+            "formatsDropDownCode": "Code",
+            "formatsDropDownQuotation": "Quotation",
+            "formatsDropDownHeading1": "Heading 1",
+            "formatsDropDownHeading2": "Heading 2",
+            "formatsDropDownHeading3": "Heading 3",
+            "formatsDropDownHeading4": "Heading 4",
+            "fontNameSegoeUI": "SegoeUI",
+            "fontNameArial": "Arial",
+            "fontNameGeorgia": "Georgia",
+            "fontNameImpact": "Impact",
+            "fontNameTahoma": "Tahoma",
+            "fontNameTimesNewRoman": "Times New Roman",
+            "fontNameVerdana": "Verdana",
+            "formatsOLListNumber": "Number",
+            "formatsOLListLowerAlpha": "LowerAlpha",
+            "formatsOLListUpperAlpha": "UpperAlpha",
+            "formatsOLListLowerRoman": "LowerRoman",
+            "formatsOLListUpperRoman": "UpperRoman",
+            "formatsOLListLowerGreek": "LowerGreek",
+            "formatsULListDisc": "Disc",
+            "formatsULListCircle": "Circle",
+            "formatsULListSquare": "Square",
+            "formatsOLListNone": "None",
+            "formatsULListNone": "None"
         },
         "diagram": {
             "Copy": "Copy",
@@ -996,6 +1022,7 @@
             "seriesChangeAlert": "Do you want to cancel the changes made to specific instances of this series and match it to the whole series again?",
             "createError": "The duration of the event must be shorter than how frequently it occurs. Shorten the duration, or change the recurrence pattern in the recurrence event editor.",
             "sameDayAlert": "Two occurrences of the same event cannot occur on the same day.",
+            "occurenceAlert": "Cannot reschedule an occurrence of the recurring appointment if it skips over a later occurrence of the same appointment.",
             "editRecurrence": "Edit Recurrence",
             "repeats": "Repeats",
             "alert": "Alert",
@@ -1135,6 +1162,9 @@
             "InsertFunction": "Insert Function",
             "Insert": "Insert",
             "Delete": "Delete",
+            "DuplicateSheet": "Duplicate",
+            "MoveRight": "Move Right",
+            "MoveLeft": "Move Left",
             "Rename": "Rename",
             "Hide": "Hide",
             "Unhide": "Unhide",
@@ -2501,7 +2531,7 @@
             "Spell Check": "Spell Check",
             "Underline errors": "Underline errors",
             "Ignore": "Ignore",
-            "Ignore all": "Ignore All",
+            "Ignore All": "Ignore All",
             "Add to Dictionary": "Add to Dictionary",
             "Change": "Change",
             "Change All": "Change All",
@@ -2596,7 +2626,15 @@
             "Footnote": "Footnote",
             "Endnote": "Endnote",
             "Click to View/Edit Footnote": "Click to View/Edit Footnote",
-            "Click to View/Edit Endnote": "Click to View/Edit Endnote"
+            "Click to View/Edit Endnote": "Click to View/Edit Endnote",
+            "InsertAsRows": "Insert as New Rows",
+            "InsertAsColumns": "Insert as New Columns",
+            "OverwriteCells": "Overwrite Cells",
+            "NestTable": "Nest Table",
+            "No suggestions": "No suggestions",
+            "More Suggestion": "More Suggestion",
+            "Ignore Once": "Ignore Once",
+            "Ignore all": "Ignore All"
         },
         "documenteditorcontainer": {
             "New": "New",
@@ -2753,7 +2791,8 @@
             "Insert Footnote": "Insert Footnote",
             "Insert Endnote": "Insert Endnote",
             "Footnote Tooltip": "Insert Footnote (Alt+Ctrl+F).",
-            "Endnote Tooltip": "Insert Endnote (Alt+Ctrl+D)."
+            "Endnote Tooltip": "Insert Endnote (Alt+Ctrl+D).",
+            "UPPERCASE": "UPPERCASE"
         },
         "toast": {
             "close": "Close"
@@ -2773,7 +2812,8 @@
             "yes": "Yes",
             "no": "No",
             "close": "Close",
-            "noCard": "No cards to display"
+            "noCard": "No cards to display",
+            "unassigned": "Unassigned"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "No records found",
