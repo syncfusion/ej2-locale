@@ -1673,7 +1673,11 @@
             "Calibrate Perimeter": "Kvörðuðu jaðar",
             "Calibrate Area": "Kvörðunarsvæði",
             "Calibrate Radius": "Kvarða radíus",
-            "Calibrate Volume": "Kvarða magn"
+            "Calibrate Volume": "Kvarða magn",
+            "SignatureFieldDialogHeaderText": "Bæta við undirskrift",
+            "HandwrittenSignatureDialogHeaderText": "Bæta við undirskrift",
+            "InitialFieldDialogHeaderText": "Bæta við upphafsstaf",
+            "HandwrittenInitialDialogHeaderText": "Bæta við upphafsstaf"
         },
         "querybuilder": {
             "StartsWith": "Byrjar með",
