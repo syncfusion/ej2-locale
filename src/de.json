@@ -1817,7 +1817,7 @@
             "pagerDropDown": "Datensätze pro Seite",
             "pagerAllDropDown": "Datensätze",
             "All": "Alle",
-            "totalItemInfo": "({0} Datensätz)"
+            "totalItemInfo": "({0} Datensätze)"
         },
         "calendar": {
             "today": "Heute"
