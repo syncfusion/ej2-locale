@@ -534,7 +534,7 @@
             "ModeSwitcher": "Mudar de modo"
         },
         "uploader": {
-            "Browse": "Squeaky toy...",
+            "Browse": "Navegar...",
             "Clear": "Claro",
             "Upload": "Envio",
             "dropFilesHint": "Ou solte arquivos aqui",
@@ -653,7 +653,7 @@
             "imageDeviceUploadMessage": "Clique aqui para fazer o upload",
             "imageAlternateText": "Texto alternativo",
             "alternateHeader": "Texto Alternativo",
-            "browse": "Squeaky toy",
+            "browse": "Navegar",
             "imageUrl": "http://example.com/image.png",
             "imageCaption": "Rubrica",
             "imageSizeHeader": "Tamanho da imagem",
@@ -2072,7 +2072,7 @@
             "imageDeviceUploadMessage": "Clique aqui para fazer o upload",
             "imageAlternateText": "Texto alternativo",
             "alternateHeader": "Texto Alternativo",
-            "browse": "Squeaky toy",
+            "browse": "Navegar",
             "imageUrl": "http://example.com/image.png",
             "imageCaption": "Rubrica",
             "imageSizeHeader": "Tamanho da imagem",
