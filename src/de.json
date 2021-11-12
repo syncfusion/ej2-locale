@@ -2706,6 +2706,8 @@
             "Emboss3D": "Anfang",
             "ThinThickLargeGap": "Emboss3D",
             "ThinThickMediumGap": "ThinDickLargeGap",
+            "Number of rows must be between 1 and 32767.": "DünnDickMittelLücke",
+            "Number of columns must be between 1 and 63.": "Die Anzahl der Zeilen muss zwischen 1 und 32767 liegen.",
             "Ignore all": "Alles ignorieren",
             "Table Of Contents": "Inhaltsverzeichnis"
         },

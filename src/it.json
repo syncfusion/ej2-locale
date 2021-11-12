@@ -2706,6 +2706,8 @@
             "Emboss3D": "fin dall'inizio",
             "ThinThickLargeGap": "Rilievo3D",
             "ThinThickMediumGap": "SottileSpessoLargeGap",
+            "Number of rows must be between 1 and 32767.": "SottileSpessoMedioGap",
+            "Number of columns must be between 1 and 63.": "Il numero di righe deve essere compreso tra 1 e 32767.",
             "Ignore all": "Ignora tutto"
         },
         "documenteditorcontainer": {

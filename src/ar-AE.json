@@ -2706,6 +2706,8 @@
             "Emboss3D": "البداية",
             "ThinThickLargeGap": "النقش",
             "ThinThickMediumGap": "ThinThickLargeGap",
+            "Number of rows must be between 1 and 32767.": "ThinThickMediumGap",
+            "Number of columns must be between 1 and 63.": "يجب أن يكون عدد الصفوف بين 1 و 32767.",
             "Ignore all": "تجاهل الكل"
         },
         "documenteditorcontainer": {

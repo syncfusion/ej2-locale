@@ -2706,6 +2706,8 @@
             "Emboss3D": "Awal",
             "ThinThickLargeGap": "Emboss3D",
             "ThinThickMediumGap": "TipisTebalBesarGap",
+            "Number of rows must be between 1 and 32767.": "TipisTebalMediumGap",
+            "Number of columns must be between 1 and 63.": "Jumlah baris harus antara 1 dan 32767.",
             "Ignore all": "Abaikan semua"
         },
         "documenteditorcontainer": {

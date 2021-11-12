@@ -2710,6 +2710,8 @@
             "Emboss3D": "Début",
             "ThinThickLargeGap": "Emboss3D",
             "ThinThickMediumGap": "MinceÉpaisLargeGap",
+            "Number of rows must be between 1 and 32767.": "MinceÉpaisMoyenÉcart",
+            "Number of columns must be between 1 and 63.": "Le nombre de lignes doit être compris entre 1 et 32767.",
             "Ignore all": "Ignorer tout",
             "ok": "Valider"
         },

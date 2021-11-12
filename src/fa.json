@@ -2706,6 +2706,8 @@
             "Emboss3D": "برون رفت",
             "ThinThickLargeGap": "برجسته سازی 3D",
             "ThinThickMediumGap": "ThinThickLargeGap",
+            "Number of rows must be between 1 and 32767.": "ThinThickMediumGap",
+            "Number of columns must be between 1 and 63.": "تعداد سطرها باید بین 1 تا 32767 باشد.",
             "Ignore all": "نادیده گرفتن همه"
         },
         "documenteditorcontainer": {

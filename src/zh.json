@@ -2706,6 +2706,8 @@
             "Emboss3D": "开始",
             "ThinThickLargeGap": "浮雕3D",
             "ThinThickMediumGap": "薄厚大间隙",
+            "Number of rows must be between 1 and 32767.": "薄厚中间隙",
+            "Number of columns must be between 1 and 63.": "行数必须介于 1 到 32767 之间。",
             "Ignore all": "忽略所有"
         },
         "documenteditorcontainer": {

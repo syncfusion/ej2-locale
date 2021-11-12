@@ -2706,6 +2706,8 @@
             "Emboss3D": "Început",
             "ThinThickLargeGap": "Emboss3D",
             "ThinThickMediumGap": "ThinThickLargeGap",
+            "Number of rows must be between 1 and 32767.": "ThinThickMediumGap",
+            "Number of columns must be between 1 and 63.": "Numărul de rânduri trebuie să fie între 1 și 32767.",
             "Ignore all": "Ignora tot"
         },
         "documenteditorcontainer": {

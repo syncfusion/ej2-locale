@@ -2706,6 +2706,8 @@
             "Emboss3D": "Начало",
             "ThinThickLargeGap": "Emboss3D",
             "ThinThickMediumGap": "ТонкийТолстыйБольшойЗазор",
+            "Number of rows must be between 1 and 32767.": "ТонкийТолстыйСреднийЗазор",
+            "Number of columns must be between 1 and 63.": "Количество строк должно быть от 1 до 32767.",
             "Ignore all": "Игнорировать все"
         },
         "documenteditorcontainer": {
