@@ -2706,6 +2706,8 @@
             "Emboss3D": "Začátek",
             "ThinThickLargeGap": "Emboss3D",
             "ThinThickMediumGap": "ThinThickLargeGap",
+            "Number of rows must be between 1 and 32767.": "ThinThickMediumGap",
+            "Number of columns must be between 1 and 63.": "Počet řádků musí být mezi 1 a 32767.",
             "Ignore all": "Ignorovat vše"
         },
         "documenteditorcontainer": {

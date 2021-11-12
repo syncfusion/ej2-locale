@@ -2706,6 +2706,8 @@
             "Emboss3D": "Ulkoasu",
             "ThinThickLargeGap": "Kohokuviointi3D",
             "ThinThickMediumGap": "OhutPaksuSuuriAukko",
+            "Number of rows must be between 1 and 32767.": "ThinThickMediumGap",
+            "Number of columns must be between 1 and 63.": "Rivien lukumäärän on oltava välillä 1–32 767.",
             "Ignore all": "Sivuuttaa kaikki"
         },
         "documenteditorcontainer": {

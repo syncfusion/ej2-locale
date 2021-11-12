@@ -2706,6 +2706,8 @@
             "Emboss3D": "Kezdet",
             "ThinThickLargeGap": "Domborítás3D",
             "ThinThickMediumGap": "ThinThickLargeGap",
+            "Number of rows must be between 1 and 32767.": "ThinThickMediumGap",
+            "Number of columns must be between 1 and 63.": "A sorok számának 1 és 32767 között kell lennie.",
             "Ignore all": "Mindent figyelmen kívül hagy"
         },
         "documenteditorcontainer": {

@@ -2706,6 +2706,8 @@
             "Emboss3D": "Başlangıç",
             "ThinThickLargeGap": "Kabartma3D",
             "ThinThickMediumGap": "İnceKalınBüyükBoşluk",
+            "Number of rows must be between 1 and 32767.": "İnceKalınOrtaBoşluk",
+            "Number of columns must be between 1 and 63.": "Satır sayısı 1 ile 32767 arasında olmalıdır.",
             "Ignore all": "Hepsini Yoksay"
         },
         "documenteditorcontainer": {

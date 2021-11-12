@@ -2707,6 +2707,8 @@
             "Emboss3D": "Begin",
             "ThinThickLargeGap": "Emboss3D",
             "ThinThickMediumGap": "DunDikGroteKloof",
+            "Number of rows must be between 1 and 32767.": "DunDikMediumKloof",
+            "Number of columns must be between 1 and 63.": "Het aantal rijen moet tussen 1 en 32767 liggen.",
             "Ignore all": "Negeer alles"
         },
         "documenteditorcontainer": {

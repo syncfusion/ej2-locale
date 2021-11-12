@@ -2706,6 +2706,8 @@
             "Emboss3D": "Początek",
             "ThinThickLargeGap": "Wytłoczenie3D",
             "ThinThickMediumGap": "CienkiGrubyDuży Szczelina",
+            "Number of rows must be between 1 and 32767.": "Cienka Gruba Średnia Szczelina",
+            "Number of columns must be between 1 and 63.": "Liczba wierszy musi wynosić od 1 do 32767.",
             "Ignore all": "Ignorować wszystko"
         },
         "documenteditorcontainer": {

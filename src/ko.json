@@ -2706,6 +2706,8 @@
             "Emboss3D": "시초",
             "ThinThickLargeGap": "엠보스3D",
             "ThinThickMediumGap": "ThinThickLargeGap",
+            "Number of rows must be between 1 and 32767.": "ThinThickMediumGap",
+            "Number of columns must be between 1 and 63.": "행 수는 1에서 32767 사이여야 합니다.",
             "Ignore all": "전부다 무시해라"
         },
         "documenteditorcontainer": {

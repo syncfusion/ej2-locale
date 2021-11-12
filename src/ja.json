@@ -2706,6 +2706,8 @@
             "Emboss3D": "最初",
             "ThinThickLargeGap": "Emboss3D",
             "ThinThickMediumGap": "ThinThickLargeGap",
+            "Number of rows must be between 1 and 32767.": "ThinThickMediumGap",
+            "Number of columns must be between 1 and 63.": "行数は1から32767の間でなければなりません。",
             "Ignore all": "全無視"
         },
         "documenteditorcontainer": {
