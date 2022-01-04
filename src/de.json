@@ -1768,7 +1768,8 @@
             "IsNull": "Ist Null",
             "IsNotNull": "Ist nicht Null",
             "True": "wahr",
-            "False": "falsch"
+            "False": "falsch",
+            "AddButton": "Gruppe/Bedingung hinzufügen"
         },
         "grid": {
             "EmptyRecord": "Keine Datensätze zum Anzeigen",
