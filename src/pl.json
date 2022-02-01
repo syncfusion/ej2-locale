@@ -1,7 +1,7 @@
 {
     "pl": {
         "tab": {
-            "closeButtonTitle": "Blisko"
+            "closeButtonTitle": "Zamknij"
         },
         "pivotview": {
             "grandTotal": "Łączna suma",
@@ -10,7 +10,7 @@
             "noValue": "Bez wartości",
             "row": "Rząd",
             "column": "Kolumna",
-            "collapse": "Zawalić się",
+            "collapse": "Zwiń",
             "expand": "Rozszerzać",
             "rowAxisPrompt": "Upuść wiersz tutaj",
             "columnAxisPrompt": "Upuść kolumnę tutaj",
@@ -46,7 +46,7 @@
             "addToColumn": "Dodaj do kolumny",
             "addToValue": "Dodaj do wartości",
             "addToFilter": "Dodaj do filtra",
-            "emptyData": "brak nagrań do odtworzenia",
+            "emptyData": "Brak danych do wyświetlenia.",
             "fieldExist": "Pole o tej nazwie już istnieje. Wpisz inną nazwę.",
             "confirmText": "Pole obliczeniowe już istnieje w tej nazwie. Czy chcesz to wymienić?",
             "noMatches": "Brak wyników",
@@ -1366,7 +1366,7 @@
             "Contains": "Zawiera",
             "EndsWith": "Kończy się na",
             "StartsWith": "Zaczynać z",
-            "ClearButton": "Jasny",
+            "ClearButton": "Wyczyść",
             "FilterButton": "Filtr",
             "CancelButton": "Anuluj",
             "OKButton": "dobrze",
@@ -1771,7 +1771,7 @@
             "False": "fałszywy"
         },
         "grid": {
-            "EmptyRecord": "brak nagrań do odtworzenia",
+            "EmptyRecord": "Brak danych do wyświetlenia.",
             "True": "prawdziwe",
             "False": "fałszywy",
             "InvalidFilterMessage": "Nieprawidłowe dane filtru",
@@ -1810,7 +1810,7 @@
             "SearchColumns": "kolumny wyszukiwania",
             "Matchs": "Nie znaleziono żadnego meczu",
             "FilterButton": "Filtr",
-            "ClearButton": "Jasny",
+            "ClearButton": "Wyczyść",
             "StartsWith": "Zaczynać z",
             "EndsWith": "Kończy się na",
             "Contains": "Zawiera",
@@ -1895,7 +1895,7 @@
             "placeholder": "Wybierz datę i godzinę"
         },
         "gantt": {
-            "emptyRecord": "brak nagrań do odtworzenia",
+            "emptyRecord": "Brak danych do wyświetlenia.",
             "id": "ID",
             "name": "Nazwa",
             "startDate": "Data rozpoczęcia",
