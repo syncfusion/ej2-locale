@@ -23,7 +23,7 @@
             "rows": "Wydziwianie",
             "columns": "Kolumny",
             "values": "Wartości",
-            "close": "Blisko",
+            "close": "Zamknij",
             "cancel": "Anuluj",
             "delete": "Usunąć",
             "CalculatedField": "Obliczone pole",
@@ -299,7 +299,7 @@
             "dropTextMobile": "Dodaj pola i edytuj formułę tutaj.",
             "dropAction": "Obliczone pole nie może być umieszczone w żadnym innym regionie oprócz osi wartości.",
             "search": "Szukaj",
-            "close": "Blisko",
+            "close": "Zamknij",
             "cancel": "Anuluj",
             "delete": "Usunąć",
             "alert": "Alarm",
@@ -942,7 +942,7 @@
             "Click to follow link": "Kliknij, aby śledzić link",
             "Continue Numbering": "Kontynuuj numerację",
             "Bookmark name": "Nazwa zakładki",
-            "Close": "Blisko",
+            "close": "Zamknij",
             "Restart At": "Uruchom ponownie o",
             "Properties": "Nieruchomości",
             "Name": "Nazwa",
@@ -987,7 +987,7 @@
             "start": "Początek",
             "end": "Koniec",
             "more": "więcej",
-            "close": "Blisko",
+            "close": "Zamknij",
             "cancel": "Anuluj",
             "noTitle": "(Bez tytułu)",
             "delete": "Usunąć",
@@ -1238,7 +1238,7 @@
             "DeleteColumn": "Usuń kolumnę",
             "DeleteColumns": "Usuń kolumny",
             "Ok": "Dobrze",
-            "Close": "Blisko",
+            "close": "Zamknij",
             "Cancel": "Anuluj",
             "Apply": "Zastosować",
             "MoreColors": "Więcej kolorów",
@@ -2034,7 +2034,7 @@
             "moveAllFrom": "Przenieś wszystko z"
         },
         "dialog": {
-            "close": "Blisko"
+            "close": "Zamknij"
         },
         "rich-text-editor": {
             "alignments": "wyrównania",
@@ -2508,7 +2508,7 @@
             "Click to follow link": "Kliknij, aby śledzić link",
             "Continue Numbering": "Kontynuuj numerację",
             "Bookmark name": "Nazwa zakładki",
-            "Close": "Blisko",
+            "close": "Zamknij",
             "Restart At": "Uruchom ponownie o",
             "Properties": "Nieruchomości",
             "Name": "Nazwa",
@@ -2895,7 +2895,7 @@
             "Heading 6": "Nagłówek 5"
         },
         "toast": {
-            "close": "Blisko"
+            "close": "Zamknij"
         },
         "kanban": {
             "items": "przedmiotów",
@@ -2911,7 +2911,7 @@
             "cancel": "Anuluj",
             "yes": "tak",
             "no": "Nie",
-            "close": "Blisko",
+            "close": "Zamknij",
             "noCard": "Brak kart do wyświetlenia",
             "unassigned": "Nieprzypisany"
         },
