@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Grubu sil",
             "AddGroup": "Grup ekle",
             "AddCondition": "Koşul Ekle",
+            "AddButton": "Grup/Koşul Ekle",
             "Edit": "DÜZENLE",
             "ValidationMessage": "Bu alan gereklidir",
             "SummaryViewTitle": "Özet Görünüm",

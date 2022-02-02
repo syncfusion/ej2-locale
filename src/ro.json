@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Ștergeți grupul",
             "AddGroup": "Adăugare grup",
             "AddCondition": "Adaugă condiție",
+            "AddButton": "Adăugați grup/condiție",
             "Edit": "EDITAȚI | ×",
             "ValidationMessage": "Acest câmp este obligatoriu",
             "SummaryViewTitle": "Vizualizare sumară",

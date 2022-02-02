@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Radera grupp",
             "AddGroup": "Lägg till grupp",
             "AddCondition": "Lägg till villkor",
+            "AddButton": "Lägg till grupp/villkor",
             "Edit": "REDIGERA",
             "ValidationMessage": "Detta fält krävs",
             "SummaryViewTitle": "Sammanfattningsvy",

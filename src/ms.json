@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Padam kumpulan",
             "AddGroup": "Tambah Kumpulan",
             "AddCondition": "Tambah Keadaan",
+            "AddButton": "Tambah Kumpulan/Syarat",
             "Edit": "EDIT",
             "ValidationMessage": "Bidang ini diperlukan",
             "SummaryViewTitle": "Ringkasan Paparan",

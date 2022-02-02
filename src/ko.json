@@ -1756,6 +1756,7 @@
             "DeleteGroup": "그룹 삭제",
             "AddGroup": "그룹 추가",
             "AddCondition": "조건 추가",
+            "AddButton": "그룹/조건 추가",
             "Edit": "편집하다",
             "ValidationMessage": "이 필드는 필수입니다",
             "SummaryViewTitle": "요약보기",

@@ -1756,6 +1756,7 @@
             "DeleteGroup": "刪除群組",
             "AddGroup": "新增群組",
             "AddCondition": "添加條件",
+            "AddButton": "添加組/條件",
             "Edit": "編輯",
             "ValidationMessage": "這是必填欄",
             "SummaryViewTitle": "摘要視圖",

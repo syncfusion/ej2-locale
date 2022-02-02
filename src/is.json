@@ -1750,6 +1750,7 @@
             "DeleteGroup": "Fjarlægðu þetta ástand",
             "AddGroup": "Eyða hópi",
             "AddCondition": "Bæta við hópi",
+            "AddButton": "Bæta við hópi/ástandi",
             "Edit": "Bæta við ástandi",
             "ValidationMessage": "EDIT",
             "SummaryViewTitle": "Þessi reitur er nauðsynlegur",

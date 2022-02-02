@@ -1759,6 +1759,7 @@
             "DeleteGroup": "Supprimer le groupe",
             "AddGroup": "Ajouter un groupe",
             "AddCondition": "Ajouter une condition",
+            "AddButton": "Ajouter un groupe/condition",
             "Edit": "ÉDITER",
             "ValidationMessage": "Ce champ est requis",
             "SummaryViewTitle": "Vue récapitulative",

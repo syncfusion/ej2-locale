@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Удалить группу",
             "AddGroup": "Добавить группу",
             "AddCondition": "Добавить условие",
+            "AddButton": "Добавить группу/условие",
             "Edit": "РЕДАКТИРОВАТЬ",
             "ValidationMessage": "Это поле обязательно к заполнению",
             "SummaryViewTitle": "Общий вид",

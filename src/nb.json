@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Slett gruppe",
             "AddGroup": "Legg til gruppe",
             "AddCondition": "Legg til betingelse",
+            "AddButton": "Legg til gruppe/tilstand",
             "Edit": "REDIGERE",
             "ValidationMessage": "Dette feltet er obligatorisk",
             "SummaryViewTitle": "Sammendrag Vis",

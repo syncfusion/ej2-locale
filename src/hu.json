@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Csoport törlése",
             "AddGroup": "Csoport hozzáadása",
             "AddCondition": "Add Condition",
+            "AddButton": "Csoport/feltétel hozzáadása",
             "Edit": "EDIT",
             "ValidationMessage": "Ez a mező kötelező",
             "SummaryViewTitle": "Összegző nézet",

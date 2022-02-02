@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Poista ryhmä",
             "AddGroup": "Lisää ryhmä",
             "AddCondition": "Lisää ehto",
+            "AddButton": "Lisää ryhmä/ehto",
             "Edit": "MUOKATA",
             "ValidationMessage": "Tämä kenttä pitää täyttää",
             "SummaryViewTitle": "Yhteenveto-näkymä",

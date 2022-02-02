@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Elimina gruppo",
             "AddGroup": "Aggiungere gruppo",
             "AddCondition": "Aggiungi condizione",
+            "AddButton": "Aggiungi gruppo/condizione",
             "Edit": "MODIFICARE",
             "ValidationMessage": "Questo campo è obbligatorio",
             "SummaryViewTitle": "Vista di riepilogo",

@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Usuń grupę",
             "AddGroup": "Dodaj grupę",
             "AddCondition": "Dodaj warunek",
+            "AddButton": "Dodaj grupę/warunek",
             "Edit": "EDYTOWAĆ",
             "ValidationMessage": "To pole jest wymagane",
             "SummaryViewTitle": "Widok podsumowujący",

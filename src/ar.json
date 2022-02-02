@@ -1756,6 +1756,7 @@
             "DeleteGroup": "حذف المجموعة",
             "AddGroup": "إضافة مجموعة",
             "AddCondition": "إضافة شرط",
+            "AddButton":"إضافة مجموعة / حالة",
             "Edit": "تعديل",
             "ValidationMessage": "هذه الخانة مطلوبه",
             "SummaryViewTitle": "عرض ملخص",
