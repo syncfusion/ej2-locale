@@ -1793,8 +1793,8 @@
             "Search": "Suche",
             "Columnchooser": "Spalten",
             "Save": "Speichern",
-            "Item": "Datensatz",
-            "Items": "Artikel",
+            "Item": "Artikel",
+            "Items": "Datensätze",
             "EditOperationAlert": "Keine Datensätze zum Bearbeiten ausgewählt",
             "DeleteOperationAlert": "Keine Datensätze zum Löschen ausgewählt",
             "SaveButton": "Speichern",
@@ -1865,10 +1865,10 @@
             "previousPageTooltip": "Zurück zur letzten Seite",
             "nextPagerTooltip": "Zum nächsten Pager gehen",
             "previousPagerTooltip": "Zum vorherigen Pager wechseln",
-            "pagerDropDown": "Datensätze pro Seite",
-            "pagerAllDropDown": "Datensätze",
+            "pagerDropDown": "Artikel pro Seite",
+            "pagerAllDropDown": "Artikel",
             "All": "Alle",
-            "totalItemInfo": "({0} Datensätze)"
+            "totalItemInfo": "({0} Datensatz)"
         },
         "calendar": {
             "today": "Heute"
