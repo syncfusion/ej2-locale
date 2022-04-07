@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Izbriši grupu",
             "AddGroup": "Dodajte grupu",
             "AddCondition": "Dodajte uvjet",
+            "AddButton": "Dodaj grupu/uvjet",
             "Edit": "UREDI",
             "ValidationMessage": "ovo polje je obavezno",
             "SummaryViewTitle": "Sažeti prikaz",

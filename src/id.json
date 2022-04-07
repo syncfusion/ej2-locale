@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Hapus grup",
             "AddGroup": "Tambahkan Grup",
             "AddCondition": "Tambahkan Ketentuan",
+            "AddButton": "Tambahkan Grup/Kondisi",
             "Edit": "EDIT",
             "ValidationMessage": "Bagian ini diperlukan",
             "SummaryViewTitle": "Tampilan Ringkasan",

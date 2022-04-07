@@ -1757,6 +1757,7 @@
             "DeleteGroup": "Groep Verwijder",
             "AddGroup": "Groep toevoegen",
             "AddCondition": "Voorwaarde toevoegen",
+            "AddButton": "Groep/Voorwaarde toevoegen",
             "Edit": "BEWERK",
             "ValidationMessage": "dit veld is verplicht",
             "SummaryViewTitle": "Overzichtsweergave",

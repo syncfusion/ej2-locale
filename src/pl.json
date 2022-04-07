@@ -1,7 +1,7 @@
 {
     "pl": {
         "tab": {
-            "closeButtonTitle": "Blisko"
+            "closeButtonTitle": "Zamknij"
         },
         "pivotview": {
             "grandTotal": "Łączna suma",
@@ -10,7 +10,7 @@
             "noValue": "Bez wartości",
             "row": "Rząd",
             "column": "Kolumna",
-            "collapse": "Zawalić się",
+            "collapse": "Zwiń",
             "expand": "Rozszerzać",
             "rowAxisPrompt": "Upuść wiersz tutaj",
             "columnAxisPrompt": "Upuść kolumnę tutaj",
@@ -23,7 +23,7 @@
             "rows": "Wydziwianie",
             "columns": "Kolumny",
             "values": "Wartości",
-            "close": "Blisko",
+            "close": "Zamknij",
             "cancel": "Anuluj",
             "delete": "Usunąć",
             "CalculatedField": "Obliczone pole",
@@ -46,7 +46,7 @@
             "addToColumn": "Dodaj do kolumny",
             "addToValue": "Dodaj do wartości",
             "addToFilter": "Dodaj do filtra",
-            "emptyData": "brak nagrań do odtworzenia",
+            "emptyData": "Brak danych do wyświetlenia",
             "fieldExist": "Pole o tej nazwie już istnieje. Wpisz inną nazwę.",
             "confirmText": "Pole obliczeniowe już istnieje w tej nazwie. Czy chcesz to wymienić?",
             "noMatches": "Brak wyników",
@@ -299,7 +299,7 @@
             "dropTextMobile": "Dodaj pola i edytuj formułę tutaj.",
             "dropAction": "Obliczone pole nie może być umieszczone w żadnym innym regionie oprócz osi wartości.",
             "search": "Szukaj",
-            "close": "Blisko",
+            "close": "Zamknij",
             "cancel": "Anuluj",
             "delete": "Usunąć",
             "alert": "Alarm",
@@ -942,7 +942,7 @@
             "Click to follow link": "Kliknij, aby śledzić link",
             "Continue Numbering": "Kontynuuj numerację",
             "Bookmark name": "Nazwa zakładki",
-            "Close": "Blisko",
+            "Close": "Zamknij",
             "Restart At": "Uruchom ponownie o",
             "Properties": "Nieruchomości",
             "Name": "Nazwa",
@@ -987,7 +987,7 @@
             "start": "Początek",
             "end": "Koniec",
             "more": "więcej",
-            "close": "Blisko",
+            "close": "Zamknij",
             "cancel": "Anuluj",
             "noTitle": "(Bez tytułu)",
             "delete": "Usunąć",
@@ -1238,7 +1238,7 @@
             "DeleteColumn": "Usuń kolumnę",
             "DeleteColumns": "Usuń kolumny",
             "Ok": "Dobrze",
-            "Close": "Blisko",
+            "Close": "Zamknij",
             "Cancel": "Anuluj",
             "Apply": "Zastosować",
             "MoreColors": "Więcej kolorów",
@@ -1366,7 +1366,7 @@
             "Contains": "Zawiera",
             "EndsWith": "Kończy się na",
             "StartsWith": "Zaczynać z",
-            "ClearButton": "Jasny",
+            "ClearButton": "Wyczyść",
             "FilterButton": "Filtr",
             "CancelButton": "Anuluj",
             "OKButton": "dobrze",
@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Usuń grupę",
             "AddGroup": "Dodaj grupę",
             "AddCondition": "Dodaj warunek",
+            "AddButton": "Dodaj grupę/warunek",
             "Edit": "EDYTOWAĆ",
             "ValidationMessage": "To pole jest wymagane",
             "SummaryViewTitle": "Widok podsumowujący",
@@ -1912,7 +1913,7 @@
             "placeholder": "Wybierz datę i godzinę"
         },
         "gantt": {
-            "emptyRecord": "brak nagrań do odtworzenia",
+            "emptyRecord": "Brak danych do wyświetlenia.",
             "id": "ID",
             "name": "Nazwa",
             "startDate": "Data rozpoczęcia",
@@ -2051,7 +2052,7 @@
             "moveAllFrom": "Przenieś wszystko z"
         },
         "dialog": {
-            "close": "Blisko"
+            "close": "Zamknij"
         },
         "rich-text-editor": {
             "alignments": "wyrównania",
@@ -2525,7 +2526,7 @@
             "Click to follow link": "Kliknij, aby śledzić link",
             "Continue Numbering": "Kontynuuj numerację",
             "Bookmark name": "Nazwa zakładki",
-            "Close": "Blisko",
+            "Close": "Zamknij",
             "Restart At": "Uruchom ponownie o",
             "Properties": "Nieruchomości",
             "Name": "Nazwa",
@@ -2912,7 +2913,7 @@
             "Heading 6": "Nagłówek 5"
         },
         "toast": {
-            "close": "Blisko"
+            "close": "Zamknij"
         },
         "kanban": {
             "items": "przedmiotów",
@@ -2928,7 +2929,7 @@
             "cancel": "Anuluj",
             "yes": "tak",
             "no": "Nie",
-            "close": "Blisko",
+            "close": "Zamknij",
             "noCard": "Brak kart do wyświetlenia",
             "unassigned": "Nieprzypisany"
         },

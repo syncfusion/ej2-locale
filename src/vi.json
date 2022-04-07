@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Xóa nhóm",
             "AddGroup": "Thêm nhóm",
             "AddCondition": "Thêm điều kiện",
+            "AddButton": "Thêm nhóm / điều kiện",
             "Edit": "BIÊN TẬP",
             "ValidationMessage": "Lĩnh vực này là bắt buộc",
             "SummaryViewTitle": "Xem tóm tắt",

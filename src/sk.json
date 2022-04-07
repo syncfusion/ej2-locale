@@ -1756,6 +1756,7 @@
             "DeleteGroup": "Odstrániť skupinu",
             "AddGroup": "Pridať skupinu",
             "AddCondition": "Pridať podmienku",
+            "AddButton": "Pridať skupinu/podmienku",
             "Edit": "EDIT",
             "ValidationMessage": "Toto pole je povinné",
             "SummaryViewTitle": "Súhrnné zobrazenie",
