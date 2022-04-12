@@ -1756,6 +1756,7 @@
             "DeleteGroup": "ลบกลุ่ม",
             "AddGroup": "เพิ่มกลุ่ม",
             "AddCondition": "เพิ่มเงื่อนไข",
+            "AddButton": "เพิ่มกลุ่ม/เงื่อนไข",
             "Edit": "แก้ไข",
             "ValidationMessage": "ต้องระบุข้อมูลในฟิลด์นี้",
             "SummaryViewTitle": "มุมมองสรุป",

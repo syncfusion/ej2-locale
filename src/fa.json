@@ -1756,6 +1756,7 @@
             "DeleteGroup": "حذف گروه",
             "AddGroup": "افزودن گروه",
             "AddCondition": "شرط را اضافه کنید",
+            "AddButton": "گروه/شرط را اضافه کنید",
             "Edit": "ویرایش",
             "ValidationMessage": "این قسمت الزامی است",
             "SummaryViewTitle": "نمایش خلاصه",

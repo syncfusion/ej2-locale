@@ -1756,6 +1756,7 @@
             "DeleteGroup": "グループを削除",
             "AddGroup": "グループを追加",
             "AddCondition": "条件を追加",
+            "AddButton": "グループ/条件を追加",
             "Edit": "編集",
             "ValidationMessage": "この項目は必須です",
             "SummaryViewTitle": "概要ビュー",
