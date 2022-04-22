@@ -104,7 +104,7 @@
             "Sort": "Sırala"
         },
         "pager": {
-            "currentPageInfo": "{1} sayfanın {0}",
+            "currentPageInfo": "Sayfa {0} / {1}",
             "totalItemsInfo": "({0} nesne)",
             "firstPageTooltip": "İlk sayfaya git",
             "lastPageTooltip": "Son sayfaya git",
