@@ -93,8 +93,8 @@
             "lastPageTooltip": "Farðu á síðustu síðu",
             "nextPageTooltip": "Farðu á næstu síðu",
             "previousPageTooltip": "Farðu á fyrri síðu",
-            "nextPagerTooltip": "Farðu í næsta boðbera",
-            "previousPagerTooltip": "Farðu í fyrri símann",
+            "nextPagerTooltip": "Farðu í næstu síðuboðsatriði",
+            "previousPagerTooltip": "Farðu í fyrri síðuboðsatriði",
             "pagerDropDown": "Atriði á síðu",
             "pagerAllDropDown": "Hlutir",
             "All": "Allt"
