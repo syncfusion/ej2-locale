@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "Način rada s više osi",
             "top": "Položaj ukupnog zbroja",
             "bottom": "Vrh",
-            "None": "Dno"
+            "None": "Dno",
+            "stackingline": "Nijedan",
+            "stackingline100": "Naslagana linija"
         },
         "pivotfieldlist": {
             "staticFieldList": "Popis okretnih polja",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Titlecase",
             "Filling in forms": "Ispunjavanje obrazaca",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "Tracked changes",
+            "RemovedIgnore": "You may edit in this region, but all change will be tracked.",
+            "RemovedIgnoreExceptions": "Do you want to remove the ignored exceptions?",
+            "Information": "If you make this change in document protection, Word will ignore all the exceptions in this document.",
+            "Yes": "Information",
+            "No": "Da",
             "You may format text only with certain styles": "Tekst možete oblikovati samo s određenim stilovima.",
             "Ignore all": "Zanemari sve"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Naslov 5",
             "Heading 6": "Naslov 6",
             "ZoomLevelTooltip": "Razina zumiranja. Kliknite ili dodirnite da biste otvorili opcije zumiranja.",
-            "None": "Nijedan"
+            "None": "Nijedan",
+            "Borders": "None"
         },
         "carousel": {
             "nextSlide": "Sljedeći slajd",

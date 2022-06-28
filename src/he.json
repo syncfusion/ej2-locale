@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "מצב ריבוי צירים",
             "top": "מיקום סך הכל",
             "bottom": "חלק עליון",
-            "None": "תַחתִית"
+            "None": "תַחתִית",
+            "stackingline": "אף אחד",
+            "stackingline100": "קו מוערם"
         },
         "pivotfieldlist": {
             "staticFieldList": "רשימת שדות ציר",
@@ -1941,7 +1943,7 @@
             "Engrave3D": "לחרוט 3D",
             "Outset": "רֵאשִׁית",
             "Inset": "הַבלָעָה",
-            "Thick": "עבה",            
+            "Thick": "עבה",
             "Style": "סגנון",
             "Width": "רוחב",
             "Height": "גובה",
@@ -2254,7 +2256,7 @@
             "alignbottom": "AlignBottom",
             "insertrowbefore": "insertRowBefore",
             "insertrowafter": "insertRowAfter",
-            "deleterow": "מחק שורה"            
+            "deleterow": "מחק שורה"
         },
         "drop-down-base": {
             "noRecordsTemplate": "לא נמצאו שיאים",
@@ -2864,6 +2866,13 @@
             "TitleCase": "כותרת כיסוי",
             "Filling in forms": "מילוי טפסים",
             "px": "פיקסלים",
+            "Tracked changes": "פיקסלים",
+            "TrackChangesOnly": "מעקב אחר שינויים",
+            "RemovedIgnore": "אתה יכול לערוך באזור זה, אבל כל השינויים יעברו מעקב.",
+            "RemovedIgnoreExceptions": "האם ברצונך להסיר את החריגים שהתעלמו מהם?",
+            "Information": "אם תבצע את השינוי הזה בהגנה על מסמכים, Word יתעלם מכל החריגים במסמך זה.",
+            "Yes": "מֵידָע",
+            "No": "כן",
             "You may format text only with certain styles": "ניתן לעצב טקסט רק עם סגנונות מסוימים.",
             "Ignore all": "התעלם מהכל"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "כותרת 5",
             "Heading 6": "כותרת 6",
             "ZoomLevelTooltip": "רמת הזום. לחץ או הקש כדי לפתוח את אפשרויות הזום.",
-            "None": "אף אחד"
+            "None": "אף אחד",
+            "Borders": "אף אחד"
         },
         "carousel": {
             "nextSlide": "השקף הבא",
@@ -3048,7 +3058,6 @@
             "previousSlide": "שקופית קודמת",
             "slide": "שקופית",
             "slideShow": "הצגת שקופיות"
-            
         }
     }
 }

@@ -1600,7 +1600,9 @@
             "grandTotalPosition": "Mode multi-axes",
             "top": "Position des totaux généraux",
             "bottom": "Haut",
-            "None": "Bas"
+            "None": "Bas",
+            "stackingline": "Aucun",
+            "stackingline100": "Ligne empilée"
         },
         "pivotfieldlist": {
             "staticFieldList": "Liste des champs de pivot",
@@ -2259,7 +2261,7 @@
             "alignbottom": "Aligner en bas",
             "insertrowbefore": "insertRowBefore",
             "insertrowafter": "insertRowAfter",
-            "deleterow": "Supprimer la ligne"            
+            "deleterow": "Supprimer la ligne"
         },
         "drop-down-base": {
             "noRecordsTemplate": "Aucun enregistrement trouvé",
@@ -2870,6 +2872,13 @@
             "TitleCase": "Casse du titre",
             "Filling in forms": "Remplir des formulaires",
             "px": "pixels",
+            "Tracked changes": "pixels",
+            "TrackChangesOnly": "Modifications suivies",
+            "RemovedIgnore": "Vous pouvez effectuer des modifications dans cette région, mais toutes les modifications seront suivies.",
+            "RemovedIgnoreExceptions": "Voulez-vous supprimer les exceptions ignorées ?",
+            "Information": "Si vous apportez cette modification à la protection du document, Word ignorera toutes les exceptions dans ce document.",
+            "Yes": "Informations",
+            "No": "Oui",
             "row": "Ligne",
             "You may format text only with certain styles": "Vous ne pouvez formater le texte qu'avec certains styles.",
             "Ignore all": "Ignorer tout",
@@ -3046,7 +3055,8 @@
             "Heading 5": "Rubrique 5",
             "Heading 6": "Rubrique 6",
             "ZoomLevelTooltip": "Le niveau de zoom. Cliquez ou appuyez sur pour ouvrir les options de zoom.",
-            "None": "Rien"
+            "None": "Rien",
+            "Borders": "Aucun"
         },
         "carousel": {
             "nextSlide": "Diapositive suivante",

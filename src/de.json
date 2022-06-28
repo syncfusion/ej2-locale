@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "Mehrachsenmodus",
             "top": "Gesamtsummenposition",
             "bottom": "Spitze",
-            "None": "Unterseite"
+            "None": "Unterseite",
+            "stackingline": "Keiner",
+            "stackingline100": "Gestapelte Linie"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot-Feldliste",
@@ -2255,7 +2257,6 @@
             "insertrowbefore": "EinfügenRowBefore",
             "insertrowafter": "ZeileNachher einfügen",
             "deleterow": "Zeile löschen"
-            
         },
         "drop-down-base": {
             "noRecordsTemplate": "Keine Datensätze gefunden",
@@ -2865,6 +2866,13 @@
             "TitleCase": "Titelkoffer",
             "Filling in forms": "Formulare ausfüllen",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "Verfolgte Änderungen",
+            "RemovedIgnore": "Sie können in dieser Region Änderungen vornehmen, aber alle Änderungen werden nachverfolgt.",
+            "RemovedIgnoreExceptions": "Möchten Sie die ignorierten Ausnahmen entfernen?",
+            "Information": "Wenn Sie diese Änderung im Dokumentschutz vornehmen, ignoriert Word alle Ausnahmen in diesem Dokument.",
+            "Yes": "Information",
+            "No": "Ja",
             "You may format text only with certain styles": "Sie können Text nur mit bestimmten Stilen formatieren.",
             "Ignore all": "Alles ignorieren",
             "Table Of Contents": "Inhaltsverzeichnis"
@@ -3040,7 +3048,8 @@
             "Heading 5": "Überschrift 5",
             "Heading 6": "Überschrift 6",
             "ZoomLevelTooltip": "Zoomstufe. Klicken oder tippen Sie auf , um die Zoom-Optionen zu öffnen.",
-            "None": "Keiner"
+            "None": "Keiner",
+            "Borders": "Keiner"
         },
         "carousel": {
             "nextSlide": "Nächste Folie",

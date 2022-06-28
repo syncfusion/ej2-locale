@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "โหมดหลายแกน",
             "top": "ตำแหน่งผลรวมทั้งหมด",
             "bottom": "สูงสุด",
-            "None": "ล่าง"
+            "None": "ล่าง",
+            "stackingline": "ไม่มี",
+            "stackingline100": "เส้นซ้อน"
         },
         "pivotfieldlist": {
             "staticFieldList": "รายการเขตข้อมูล Pivot",
@@ -2254,7 +2256,7 @@
             "alignbottom": "AlignBottom",
             "insertrowbefore": "แทรกRowBefore",
             "insertrowafter": "แทรกแถวหลัง",
-            "deleterow": "ลบRow"            
+            "deleterow": "ลบRow"
         },
         "drop-down-base": {
             "noRecordsTemplate": "ไม่พบบันทึก",
@@ -2864,6 +2866,13 @@
             "TitleCase": "ชื่อเรื่อง",
             "Filling in forms": "กรอกแบบฟอร์ม",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "ติดตามการเปลี่ยนแปลง",
+            "RemovedIgnore": "คุณสามารถแก้ไขได้ในภูมิภาคนี้ แต่การเปลี่ยนแปลงทั้งหมดจะถูกติดตาม",
+            "RemovedIgnoreExceptions": "คุณต้องการลบข้อยกเว้นที่ถูกละเว้นหรือไม่?",
+            "Information": "ถ้าคุณทำการเปลี่ยนแปลงนี้ในการป้องกันเอกสาร Word จะละเว้นข้อยกเว้นทั้งหมดในเอกสารนี้",
+            "Yes": "ข้อมูล",
+            "No": "ใช่",
             "You may format text only with certain styles": "คุณสามารถจัดรูปแบบข้อความด้วยสไตล์ที่แน่นอนเท่านั้น",
             "Ignore all": "ไม่สนใจทั้งหมด"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "หัวเรื่อง 4",
             "Heading 6": "หัวเรื่อง 5",
             "ZoomLevelTooltip": "หัวเรื่อง 6",
-            "None": "Zoom level. Click or tap to open the Zoom options."
+            "None": "Zoom level. Click or tap to open the Zoom options.",
+            "Borders": "ไม่มี"
         },
         "carousel": {
             "nextSlide": "สไลด์ถัดไป",
@@ -3048,6 +3058,6 @@
             "previousSlide": "สไลด์ก่อนหน้า",
             "slide": "สไลด์",
             "slideShow": "สไลด์โชว์"
-                    }
+        }
     }
 }

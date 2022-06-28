@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "Fleraxligt läge",
             "top": "Grand totals position",
             "bottom": "Topp",
-            "None": "Botten"
+            "None": "Botten",
+            "stackingline": "Ingen",
+            "stackingline100": "Staplad linje"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Field List",
@@ -2254,7 +2256,7 @@
             "alignbottom": "Justera Botten",
             "insertrowbefore": "insertRowBefore",
             "insertrowafter": "insertRowAfter",
-            "deleterow": "radera rad"            
+            "deleterow": "radera rad"
         },
         "drop-down-base": {
             "noRecordsTemplate": "Inga uppgifter funna",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Titelcase",
             "Filling in forms": "Fyller i blanketter",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "Spårade ändringar",
+            "RemovedIgnore": "Du kan redigera i den här regionen, men alla ändringar kommer att spåras.",
+            "RemovedIgnoreExceptions": "Vill du ta bort de ignorerade undantagen?",
+            "Information": "Om du gör denna ändring i dokumentskyddet kommer Word att ignorera alla undantag i detta dokument.",
+            "Yes": "Information",
+            "No": "Ja",
             "You may format text only with certain styles": "Du kan bara formatera text med vissa stilar.",
             "Ignore all": "Ignorera alla"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Rubrik 5",
             "Heading 6": "Rubrik 6",
             "ZoomLevelTooltip": "Zoomnivå. Klicka eller tryck för att öppna zoomalternativen.",
-            "None": "Ingen"
+            "None": "Ingen",
+            "Borders": "Ingen"
         },
         "carousel": {
             "nextSlide": "Nästa bild",

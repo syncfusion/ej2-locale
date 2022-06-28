@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "Modul cu axe multiple",
             "top": "Poziția în totaluri generale",
             "bottom": "Top",
-            "None": "Partea de jos"
+            "None": "Partea de jos",
+            "stackingline": "Nici unul",
+            "stackingline100": "Linie stivuită"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista câmpurilor pivot",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Titlucase",
             "Filling in forms": "Completarea formularelor",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "Modificări urmărite",
+            "RemovedIgnore": "Puteți edita în această regiune, dar toate modificările vor fi urmărite.",
+            "RemovedIgnoreExceptions": "Doriți să eliminați excepțiile ignorate?",
+            "Information": "Dacă faceți această modificare în protecția documentelor, Word va ignora toate excepțiile din acest document.",
+            "Yes": "informație",
+            "No": "da",
             "You may format text only with certain styles": "Puteți formata textul doar cu anumite stiluri.",
             "Ignore all": "Ignora tot"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Titlul 5",
             "Heading 6": "Titlul 6",
             "ZoomLevelTooltip": "Nivel de zoom. Faceți clic sau atingeți pentru a deschide opțiunile de zoom.",
-            "None": "Nici unul"
+            "None": "Nici unul",
+            "Borders": "Nici unul"
         },
         "carousel": {
             "nextSlide": "Următorul slide",

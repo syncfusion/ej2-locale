@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "Mode Sumbu Ganda",
             "top": "Posisi total keseluruhan",
             "bottom": "Atas",
-            "None": "Dasar"
+            "None": "Dasar",
+            "stackingline": "Tidak ada",
+            "stackingline100": "Garis Bertumpuk"
         },
         "pivotfieldlist": {
             "staticFieldList": "Daftar Bidang Pivot",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Judul:",
             "Filling in forms": "Mengisi formulir",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "Perubahan terlacak",
+            "RemovedIgnore": "Anda dapat mengedit di wilayah ini, tetapi semua perubahan akan dilacak.",
+            "RemovedIgnoreExceptions": "Apakah Anda ingin menghapus pengecualian yang diabaikan?",
+            "Information": "Jika Anda membuat perubahan ini dalam perlindungan dokumen, Word akan mengabaikan semua pengecualian dalam dokumen ini.",
+            "Yes": "Informasi",
+            "No": "Ya",
             "You may format text only with certain styles": "Anda dapat memformat teks hanya dengan gaya tertentu.",
             "Ignore all": "Abaikan semua"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Pos 5",
             "Heading 6": "Pos 6",
             "ZoomLevelTooltip": "Tingkat pembesaran. Klik atau ketuk untuk membuka opsi Zoom.",
-            "None": "Tidak ada"
+            "None": "Tidak ada",
+            "Borders": "Tidak ada"
         },
         "carousel": {
             "nextSlide": "Slide selanjut nya",

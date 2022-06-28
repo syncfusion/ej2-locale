@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "Multipel akse tilstand",
             "top": "Grand totals position",
             "bottom": "Top",
-            "None": "Bund"
+            "None": "Bund",
+            "stackingline": "Ingen",
+            "stackingline100": "Stablet Line"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot feltliste",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Titlecase",
             "Filling in forms": "Udfyldelse af formularer",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "Sporede ændringer",
+            "RemovedIgnore": "Du kan redigere i dette område, men alle ændringer vil blive sporet.",
+            "RemovedIgnoreExceptions": "Vil du fjerne de ignorerede undtagelser?",
+            "Information": "Hvis du foretager denne ændring i dokumentbeskyttelsen, ignorerer Word alle undtagelserne i dette dokument.",
+            "Yes": "Information",
+            "No": "Ja",
             "You may format text only with certain styles": "Du kan kun formatere tekst med bestemte stilarter.",
             "Ignore all": "Ignorer alle"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Overskrift 5",
             "Heading 6": "Overskrift 6",
             "ZoomLevelTooltip": "Zoom niveau. Klik eller tryk for at åbne Zoom-indstillingerne.",
-            "None": "Ingen"
+            "None": "Ingen",
+            "Borders": "Ingen"
         },
         "carousel": {
             "nextSlide": "Næste slide",

@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "Usean akselin tila",
             "top": "Pääsumman sijoitus",
             "bottom": "Ylös",
-            "None": "Pohja"
+            "None": "Pohja",
+            "stackingline": "Ei mitään",
+            "stackingline100": "Pinottu rivi"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot-kenttäluettelo",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Otsikkotapaus",
             "Filling in forms": "Lomakkeiden täyttäminen",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "Seuratut muutokset",
+            "RemovedIgnore": "Voit muokata tällä alueella, mutta kaikkia muutoksia seurataan.",
+            "RemovedIgnoreExceptions": "Haluatko poistaa ohitetut poikkeukset?",
+            "Information": "Jos teet tämän muutoksen asiakirjan suojaukseen, Word ohittaa kaikki tämän asiakirjan poikkeukset.",
+            "Yes": "Tiedot",
+            "No": "Joo",
             "You may format text only with certain styles": "Voit muotoilla tekstiä vain tietyillä tyyleillä.",
             "Ignore all": "Sivuuttaa kaikki"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Otsikko 5",
             "Heading 6": "Otsikko 6",
             "ZoomLevelTooltip": "Zoomaustaso. Napsauta tai napauta avataksesi zoomausasetukset.",
-            "None": "Ei mitään"
+            "None": "Ei mitään",
+            "Borders": "Ei mitään"
         },
         "carousel": {
             "nextSlide": "Seuraava dia",

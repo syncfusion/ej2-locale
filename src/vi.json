@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "Chế độ nhiều trục",
             "top": "Tổng số vị trí",
             "bottom": "Đứng đầu",
-            "None": "Đáy"
+            "None": "Đáy",
+            "stackingline": "Không có",
+            "stackingline100": "Dòng xếp chồng"
         },
         "pivotfieldlist": {
             "staticFieldList": "Danh sách trường Pivot",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Tiêu đề",
             "Filling in forms": "Điền vào những mẫu đơn",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "Các thay đổi được theo dõi",
+            "RemovedIgnore": "Bạn có thể chỉnh sửa trong khu vực này, nhưng tất cả thay đổi sẽ được theo dõi.",
+            "RemovedIgnoreExceptions": "Bạn có muốn xóa các ngoại lệ bị bỏ qua không?",
+            "Information": "Nếu bạn thực hiện thay đổi này trong bảo vệ tài liệu, Word sẽ bỏ qua tất cả các ngoại lệ trong tài liệu này.",
+            "Yes": "Thông tin",
+            "No": "Đúng",
             "You may format text only with certain styles": "Bạn chỉ có thể định dạng văn bản với các kiểu nhất định.",
             "Ignore all": "Bỏ qua tất cả"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Tiêu đề 5",
             "Heading 6": "Tiêu đề 6",
             "ZoomLevelTooltip": "Mức độ phóng to. Nhấp hoặc chạm để mở các tùy chọn Thu phóng.",
-            "None": "Không có"
+            "None": "Không có",
+            "Borders": "Không có"
         },
         "carousel": {
             "nextSlide": "Trang trình bày tiếp theo",

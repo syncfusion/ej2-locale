@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "多軸モード",
             "top": "総計ポジション",
             "bottom": "上",
-            "None": "下"
+            "None": "下",
+            "stackingline": "なし",
+            "stackingline100": "スタックライン"
         },
         "pivotfieldlist": {
             "staticFieldList": "ピボットフィールドリスト",
@@ -2864,6 +2866,13 @@
             "TitleCase": "タイトルケース",
             "Filling in forms": "フォームへの記入",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "追跡された変更",
+            "RemovedIgnore": "このリージョンで編集できますが、すべての変更が追跡されます。",
+            "RemovedIgnoreExceptions": "無視された例外を削除しますか？",
+            "Information": "ドキュメント保護でこの変更を行うと、Wordはこのドキュメントのすべての例外を無視します。",
+            "Yes": "情報",
+            "No": "はい",
             "You may format text only with certain styles": "特定のスタイルでのみテキストをフォーマットできます。",
             "Ignore all": "全無視"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "見出し5",
             "Heading 6": "見出し6",
             "ZoomLevelTooltip": "ズームレベル。クリックまたはタップして、ズームオプションを開きます。",
-            "None": "なし"
+            "None": "なし",
+            "Borders": "なし"
         },
         "carousel": {
             "nextSlide": "次のスライド",

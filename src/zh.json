@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "多轴模式",
             "top": "总计位置",
             "bottom": "最佳",
-            "None": "底部"
+            "None": "底部",
+            "stackingline": "没有任何",
+            "stackingline100": "叠线"
         },
         "pivotfieldlist": {
             "staticFieldList": "樞軸字段列表",
@@ -2864,6 +2866,13 @@
             "TitleCase": "标题案例",
             "Filling in forms": "填写表格",
             "px": "像素",
+            "Tracked changes": "像素",
+            "TrackChangesOnly": "跟踪更改",
+            "RemovedIgnore": "您可以在该区域进行编辑，但所有更改都将被跟踪。",
+            "RemovedIgnoreExceptions": "是否要删除忽略的异常？",
+            "Information": "如果您在文档保护中进行此更改，Word 将忽略此文档中的所有异常。",
+            "Yes": "信息",
+            "No": "是的",
             "You may format text only with certain styles": "您只能使用某些樣式設置文本格式。",
             "Ignore all": "忽略所有"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "标题 5",
             "Heading 6": "标题 6",
             "ZoomLevelTooltip": "缩放级别。单击或点击以打开缩放选项。",
-            "None": "没有任何"
+            "None": "没有任何",
+            "Borders": "没有任何"
         },
         "carousel": {
             "nextSlide": "下一张幻灯片",

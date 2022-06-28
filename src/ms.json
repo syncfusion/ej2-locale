@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "Mod Berbilang Paksi",
             "top": "Kedudukan jumlah besar",
             "bottom": "Atas",
-            "None": "Bawah"
+            "None": "Bawah",
+            "stackingline": "tiada",
+            "stackingline100": "Talian Bertindan"
         },
         "pivotfieldlist": {
             "staticFieldList": "Senarai Medan Pivot",
@@ -2864,6 +2866,13 @@
             "TitleCase": "huruf tajuk",
             "Filling in forms": "Mengisi borang",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "Perubahan yang dijejaki",
+            "RemovedIgnore": "Anda boleh mengedit di rantau ini, tetapi semua perubahan akan dijejaki.",
+            "RemovedIgnoreExceptions": "Adakah anda mahu mengalih keluar pengecualian yang diabaikan?",
+            "Information": "Jika anda membuat perubahan dalam perlindungan dokumen ini, Word akan mengabaikan semua pengecualian dalam dokumen ini.",
+            "Yes": "Maklumat",
+            "No": "ya",
             "You may format text only with certain styles": "Anda boleh memformat teks hanya dengan gaya tertentu.",
             "Ignore all": "Abaikan semua"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Tajuk 5",
             "Heading 6": "Tajuk 6",
             "ZoomLevelTooltip": "Tahap zum. Klik atau ketik untuk membuka pilihan Zum.",
-            "None": "tiada"
+            "None": "tiada",
+            "Borders": "tiada"
         },
         "carousel": {
             "nextSlide": "Slaid seterusnya",

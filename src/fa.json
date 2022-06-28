@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "حالت چند محوره",
             "top": "موقعیت کل کل",
             "bottom": "بالا",
-            "None": "پایین"
+            "None": "پایین",
+            "stackingline": "هیچ یک",
+            "stackingline100": "انباشته خط"
         },
         "pivotfieldlist": {
             "staticFieldList": "لیست زمینه محوری",
@@ -2864,6 +2866,13 @@
             "TitleCase": "عنوان",
             "Filling in forms": "پر کردن فرم ها",
             "px": "px",
+            "Tracked changes": "px",
+            "TrackChangesOnly": "تغییرات پیگیری شده",
+            "RemovedIgnore": "شما می توانید در این منطقه ویرایش کنید، اما همه تغییرات ردیابی خواهند شد.",
+            "RemovedIgnoreExceptions": "آیا می خواهید استثناهای نادیده گرفته شده را حذف کنید؟",
+            "Information": "اگر این تغییر را در حفاظت از اسناد ایجاد کنید، Word تمام استثناهای این سند را نادیده می‌گیرد.",
+            "Yes": "اطلاعات",
+            "No": "آره",
             "You may format text only with certain styles": "شما می توانید متن را فقط با سبک های خاصی قالب بندی کنید.",
             "Ignore all": "نادیده گرفتن همه"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "سرفصل 5",
             "Heading 6": "سرفصل 6",
             "ZoomLevelTooltip": "سطح زوم. برای باز کردن گزینه های Zoom کلیک کنید یا ضربه بزنید.",
-            "None": "هیچ یک"
+            "None": "هیچ یک",
+            "Borders": "هیچ یک"
         },
         "carousel": {
             "nextSlide": "اسلاید بعدی",
