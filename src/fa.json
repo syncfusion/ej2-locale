@@ -1596,12 +1596,12 @@
             "stacked": "انباشته",
             "single": "تنها",
             "multipleAxisMode": "حالت چند محوره",
-            "grandTotalPosition": "حالت چند محوره",
-            "top": "موقعیت کل کل",
-            "bottom": "بالا",
-            "None": "پایین",
-            "stackingline": "هیچ یک",
-            "stackingline100": "انباشته خط"
+            "grandTotalPosition": "موقعیت کل کل",
+            "top": "بالا",
+            "bottom": "پایین",
+            "None": "هیچ یک",
+            "stackingline": "انباشته خط",
+            "stackingline100": "100 انباشته خط"
         },
         "pivotfieldlist": {
             "staticFieldList": "لیست زمینه محوری",
@@ -1752,7 +1752,7 @@
             "of": "از",
             "removeCalculatedField": "آیا مطمئن هستید که می خواهید این قسمت محاسبه شده را حذف کنید؟",
             "yes": "آیا مطمئن هستید که می خواهید این فیلد محاسبه شده را حذف کنید؟",
-            "no": "آره",
+            "no": "نه"",
             "None": "خیر"
         },
         "pdfviewer": {
@@ -2866,12 +2866,12 @@
             "TitleCase": "عنوان",
             "Filling in forms": "پر کردن فرم ها",
             "px": "px",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "تغییرات پیگیری شده",
-            "RemovedIgnore": "شما می توانید در این منطقه ویرایش کنید، اما همه تغییرات ردیابی خواهند شد.",
-            "RemovedIgnoreExceptions": "آیا می خواهید استثناهای نادیده گرفته شده را حذف کنید؟",
-            "Information": "اگر این تغییر را در حفاظت از اسناد ایجاد کنید، Word تمام استثناهای این سند را نادیده می‌گیرد.",
-            "Yes": "اطلاعات",
+            "Tracked changes": "تغییرات پیگیری شده",
+            "TrackChangesOnly": "شما می توانید در این منطقه ویرایش کنید، اما همه تغییرات ردیابی خواهند شد.",
+            "RemovedIgnore": "آیا می خواهید استثناهای نادیده گرفته شده را حذف کنید؟",
+            "RemovedIgnoreExceptions": "اگر این تغییر را در حفاظت از اسناد ایجاد کنید، Word تمام استثناهای این سند را نادیده می‌گیرد.",
+            "Information": "اطلاعات",
+            "Yes": "آره",
             "No": "آره",
             "You may format text only with certain styles": "شما می توانید متن را فقط با سبک های خاصی قالب بندی کنید.",
             "Ignore all": "نادیده گرفتن همه"
@@ -3048,7 +3048,7 @@
             "Heading 6": "سرفصل 6",
             "ZoomLevelTooltip": "سطح زوم. برای باز کردن گزینه های Zoom کلیک کنید یا ضربه بزنید.",
             "None": "هیچ یک",
-            "Borders": "هیچ یک"
+            "Borders": "مرز ها"
         },
         "carousel": {
             "nextSlide": "اسلاید بعدی",

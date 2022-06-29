@@ -1751,9 +1751,9 @@
             "selectGroup": "Pilih grup",
             "of": "dari",
             "removeCalculatedField": "Apakah Anda yakin ingin menghapus bidang yang dihitung ini?",
-            "yes": "Anda yakin ingin menghapus kolom kalkulasi ini?",
-            "no": "Ya",
-            "None": "Tidak"
+            "yes": "Ya",
+            "no": "Tidak",
+            "None": "Tidak ada"
         },
         "pdfviewer": {
             "PdfViewer": "Penampil PDF",
@@ -2866,13 +2866,13 @@
             "TitleCase": "Judul:",
             "Filling in forms": "Mengisi formulir",
             "px": "px",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "Perubahan terlacak",
-            "RemovedIgnore": "Anda dapat mengedit di wilayah ini, tetapi semua perubahan akan dilacak.",
-            "RemovedIgnoreExceptions": "Apakah Anda ingin menghapus pengecualian yang diabaikan?",
-            "Information": "Jika Anda membuat perubahan ini dalam perlindungan dokumen, Word akan mengabaikan semua pengecualian dalam dokumen ini.",
-            "Yes": "Informasi",
-            "No": "Ya",
+            "Tracked changes": "Perubahan terlacak",
+            "TrackChangesOnly": "Anda dapat mengedit di wilayah ini, tetapi semua perubahan akan dilacak.",
+            "RemovedIgnore": "Apakah Anda ingin menghapus pengecualian yang diabaikan?",
+            "RemovedIgnoreExceptions": "Jika Anda membuat perubahan ini dalam perlindungan dokumen, Word akan mengabaikan semua pengecualian dalam dokumen ini.",
+            "Information": "Informasi",
+            "Yes": "Ya",
+            "No": "Tidak",
             "You may format text only with certain styles": "Anda dapat memformat teks hanya dengan gaya tertentu.",
             "Ignore all": "Abaikan semua"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "Pos 6",
             "ZoomLevelTooltip": "Tingkat pembesaran. Klik atau ketuk untuk membuka opsi Zoom.",
             "None": "Tidak ada",
-            "Borders": "Tidak ada"
+            "Borders": "Perbatasan"
         },
         "carousel": {
             "nextSlide": "Slide selanjut nya",

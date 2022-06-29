@@ -1596,12 +1596,12 @@
             "stacked": "Stablet",
             "single": "Enkelt",
             "multipleAxisMode": "Flere akse-modus",
-            "grandTotalPosition": "Fleraksemodus",
-            "top": "Grand totals posisjon",
-            "bottom": "Topp",
-            "None": "Bunn",
-            "stackingline": "Ingen",
-            "stackingline100": "Stablet Line"
+            "grandTotalPosition": "Grand totals posisjon",
+            "top": "Topp",
+            "bottom": "Bunn",
+            "None": "Ingen",
+            "stackingline": "Stablet Line",
+            "stackingline100": "100% Stablet Line"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot feltliste",
@@ -2866,13 +2866,13 @@
             "TitleCase": "Tittelbok",
             "Filling in forms": "Fylle ut skjemaer",
             "px": "px",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "Sporede endringer",
-            "RemovedIgnore": "Du kan redigere i denne regionen, men alle endringer vil bli sporet.",
-            "RemovedIgnoreExceptions": "Vil du fjerne de ignorerte unntakene?",
-            "Information": "Hvis du gjør denne endringen i dokumentbeskyttelsen, vil Word ignorere alle unntakene i dette dokumentet.",
-            "Yes": "Informasjon",
-            "No": "Ja",
+            "Tracked changes": "Sporede endringer",
+            "TrackChangesOnly": "Du kan redigere i denne regionen, men alle endringer vil bli sporet.",
+            "RemovedIgnore": "Vil du fjerne de ignorerte unntakene?",
+            "RemovedIgnoreExceptions": "Hvis du gjør denne endringen i dokumentbeskyttelsen, vil Word ignorere alle unntakene i dette dokumentet.",
+            "Information": "Informasjon",
+            "Yes": "Ja",
+            "No": "Nei",
             "You may format text only with certain styles": "Du kan bare formatere tekst med bestemte stiler.",
             "Ignore all": "Ignorer alt"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "Overskrift 6",
             "ZoomLevelTooltip": "Zoomnivå. Klikk eller trykk for å åpne Zoom-alternativene.",
             "None": "Ingen",
-            "Borders": "Ingen"
+            "Borders": "Borders"
         },
         "carousel": {
             "nextSlide": "Neste lysbilde",

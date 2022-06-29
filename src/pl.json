@@ -1596,12 +1596,12 @@
             "stacked": "Ułożone",
             "single": "Pojedynczy",
             "multipleAxisMode": "Tryb wielu osi",
-            "grandTotalPosition": "Tryb wieloosiowy",
-            "top": "Pozycja sum całkowitych",
-            "bottom": "Szczyt",
-            "None": "Na dole",
-            "stackingline": "Nic",
-            "stackingline100": "Linia ułożona"
+            "grandTotalPosition": "Pozycja sum całkowitych",
+            "top": "Szczyt",
+            "bottom": "Na dole",
+            "None": "Nic",
+            "stackingline": "Linia ułożona",
+            "stackingline100": "100% Linia ułożona"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista pól przestawnych",
@@ -2866,13 +2866,13 @@
             "TitleCase": "Tytuł sprawy",
             "Filling in forms": "Wypełnianie formularzy",
             "px": "px",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "Śledzone zmiany",
-            "RemovedIgnore": "Możesz edytować w tym regionie, ale wszystkie zmiany będą śledzone.",
-            "RemovedIgnoreExceptions": "Czy chcesz usunąć ignorowane wyjątki?",
-            "Information": "Jeśli wprowadzisz tę zmianę w ochronie dokumentów, program Word zignoruje wszystkie wyjątki w tym dokumencie.",
-            "Yes": "Informacja",
-            "No": "TAk",
+            "Tracked changes": "Śledzone zmiany",
+            "TrackChangesOnly": "Możesz edytować w tym regionie, ale wszystkie zmiany będą śledzone.",
+            "RemovedIgnore": "Czy chcesz usunąć ignorowane wyjątki?",
+            "RemovedIgnoreExceptions": "Jeśli wprowadzisz tę zmianę w ochronie dokumentów, program Word zignoruje wszystkie wyjątki w tym dokumencie.",
+            "Information": "Informacja",
+            "Yes": "TAk",
+            "No": "Nie",
             "You may format text only with certain styles": "Możesz formatować tekst tylko w określonych stylach.",
             "Ignore all": "Ignorować wszystko"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "Nagłówek 6",
             "ZoomLevelTooltip": "Poziom przybliżenia. Kliknij lub dotknij, aby otworzyć opcje powiększenia.",
             "None": "Nic",
-            "Borders": "Nic"
+            "Borders": "Granice"
         },
         "carousel": {
             "nextSlide": "Następny slajd",

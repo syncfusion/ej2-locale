@@ -1596,12 +1596,12 @@
             "stacked": "Apilado",
             "single": "Soltero",
             "multipleAxisMode": "Modo de múltiples ejes",
-            "grandTotalPosition": "Modo de eje múltiple",
-            "top": "Posición de los totales generales",
-            "bottom": "Cima",
-            "None": "Abajo",
-            "stackingline": "Ninguna",
-            "stackingline100": "línea apilada"
+            "grandTotalPosition": "Posición de los totales generales",
+            "top": "Cima",
+            "bottom": "Abajo",
+            "None": "Ninguna",
+            "stackingline": "línea apilada",
+            "stackingline100": "100% línea apilada"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista de campos dinámicos",
@@ -2866,13 +2866,13 @@
             "TitleCase": "Titulo del caso",
             "Filling in forms": "Rellenar formularios",
             "px": "píxeles",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "Tracked changes",
-            "RemovedIgnore": "You may edit in this region, but all change will be tracked.",
-            "RemovedIgnoreExceptions": "Do you want to remove the ignored exceptions?",
-            "Information": "If you make this change in document protection, Word will ignore all the exceptions in this document.",
-            "Yes": "Información",
-            "No": "Sí",
+            "Tracked changes": "Tracked changes",
+            "TrackChangesOnly": "You may edit in this region, but all change will be tracked.",
+            "RemovedIgnore": "Do you want to remove the ignored exceptions?",
+            "RemovedIgnoreExceptions": "If you make this change in document protection, Word will ignore all the exceptions in this document.",
+            "Information": "Información",
+            "Yes": "Sí",
+            "No": "No",
             "You may format text only with certain styles": "Puede formatear texto solo con ciertos estilos.",
             "Ignore all": "Ignora todo"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "Título 6",
             "ZoomLevelTooltip": "Nivel de zoom. Haga clic o toque para abrir las opciones de Zoom.",
             "None": "Ninguna",
-            "Borders": "Ninguna"
+            "Borders": "Fronteras"
         },
         "carousel": {
             "nextSlide": "Siguiente diapositiva",

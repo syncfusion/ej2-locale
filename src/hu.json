@@ -1596,12 +1596,12 @@
             "stacked": "Halmozott",
             "single": "Egyetlen",
             "multipleAxisMode": "Többtengelyes mód",
-            "grandTotalPosition": "Többtengelyes mód",
-            "top": "Főösszeg pozíció",
-            "bottom": "Top",
-            "None": "Alsó",
-            "stackingline": "Egyik sem",
-            "stackingline100": "Halmozott sor"
+            "grandTotalPosition": "Főösszeg pozíció",
+            "top": "Top",
+            "bottom": "Alsó",
+            "None": "Egyik sem",
+            "stackingline": "Halmozott sor",
+            "stackingline100": "100% Halmozott sor"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot mezőlista",
@@ -1751,9 +1751,9 @@
             "selectGroup": "Válasszon csoportokat",
             "of": "nak,-nek",
             "removeCalculatedField": "Biztosan törli ezt a kiszámított mezőt?",
-            "yes": "Biztosan törli ezt a számított mezőt?",
-            "no": "Igen",
-            "None": "Nem"
+            "yes": "Igen",
+            "no": "Nem",
+            "None": "Egyik sem"
         },
         "pdfviewer": {
             "PdfViewer": "PDF Viewer",
@@ -2866,13 +2866,13 @@
             "TitleCase": "Címeset",
             "Filling in forms": "Űrlapok kitöltése",
             "px": "px",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "Nyomon követett változások",
-            "RemovedIgnore": "Szerkeszthet ebben a régióban, de a rendszer minden változást nyomon követ.",
-            "RemovedIgnoreExceptions": "El szeretné távolítani a figyelmen kívül hagyott kivételeket?",
-            "Information": "Ha módosítja a dokumentumvédelmet, a Word figyelmen kívül hagyja a dokumentumban szereplő összes kivételt.",
-            "Yes": "Információ",
-            "No": "Igen",
+            "Tracked changes": "Nyomon követett változások",
+            "TrackChangesOnly": "Szerkeszthet ebben a régióban, de a rendszer minden változást nyomon követ.",
+            "RemovedIgnore": "El szeretné távolítani a figyelmen kívül hagyott kivételeket?",
+            "RemovedIgnoreExceptions": "Ha módosítja a dokumentumvédelmet, a Word figyelmen kívül hagyja a dokumentumban szereplő összes kivételt.",
+            "Information": "Információ",
+            "Yes": "Igen",
+            "No": "Nem",
             "You may format text only with certain styles": "A szöveget csak bizonyos stílusokkal formázhatja.",
             "Ignore all": "Mindent figyelmen kívül hagy"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "6. címsor",
             "ZoomLevelTooltip": "Nagyítási szint. Kattintson vagy koppintson a Nagyítási beállítások megnyitásához.",
             "None": "Egyik sem",
-            "Borders": "Egyik sem"
+            "Borders": "határok"
         },
         "carousel": {
             "nextSlide": "Következő dia",

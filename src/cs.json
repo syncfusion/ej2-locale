@@ -1599,9 +1599,9 @@
             "grandTotalPosition": "Režim více os",
             "top": "Pozice celkového součtu",
             "bottom": "Horní",
-            "None": "Dno",
-            "stackingline": "Žádný",
-            "stackingline100": "Skládaný řádek"
+            "None": "Žádný",
+            "stackingline": "Skládaný řádek",
+            "stackingline100": "100% Skládaný řádek"
         },
         "pivotfieldlist": {
             "staticFieldList": "Seznam kontingenčních polí",
@@ -1751,9 +1751,9 @@
             "selectGroup": "Vyberte skupiny",
             "of": "z",
             "removeCalculatedField": "Opravdu chcete toto vypočtené pole smazat?",
-            "yes": "Opravdu chcete toto vypočítané pole smazat?",
-            "no": "Ano",
-            "None": "Ne"
+            "yes": "Ano",
+            "no": "Ne",
+            "None": "Žádný"
         },
         "pdfviewer": {
             "PdfViewer": "Prohlížeč PDF",
@@ -2866,13 +2866,13 @@
             "TitleCase": "Titlecase",
             "Filling in forms": "Vyplňování formulářů",
             "px": "px",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "Sledované změny",
-            "RemovedIgnore": "V této oblasti můžete upravovat, ale všechny změny budou sledovány.",
-            "RemovedIgnoreExceptions": "Chcete odstranit ignorované výjimky?",
-            "Information": "Pokud provedete tuto změnu v ochraně dokumentu, Word bude ignorovat všechny výjimky v tomto dokumentu.",
-            "Yes": "Informace",
-            "No": "Ano",
+            "Tracked changes": "Sledované změny",
+            "TrackChangesOnly": "V této oblasti můžete upravovat, ale všechny změny budou sledovány.",
+            "RemovedIgnore": "Chcete odstranit ignorované výjimky?",
+            "RemovedIgnoreExceptions": "Pokud provedete tuto změnu v ochraně dokumentu, Word bude ignorovat všechny výjimky v tomto dokumentu.",
+            "Information": "Informace",
+            "Yes": "Ano",
+            "No": "Ne",
             "You may format text only with certain styles": "Text můžete formátovat pouze s určitými styly.",
             "Ignore all": "Ignorovat vše"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "Nadpis 6",
             "ZoomLevelTooltip": "Úroveň přiblížení. Kliknutím nebo klepnutím otevřete možnosti Lupa.",
             "None": "Žádný",
-            "Borders": "Žádný"
+            "Borders": "Hranice"
         },
         "carousel": {
             "nextSlide": "Další snímek",

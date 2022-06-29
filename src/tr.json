@@ -1596,12 +1596,12 @@
             "stacked": "Yığılmış",
             "single": "Tek",
             "multipleAxisMode": "Çoklu Eksen Modu",
-            "grandTotalPosition": "Çoklu Eksen Modu",
+            "grandTotalPosition": "Genel toplamlar konumu",
             "top": "Genel toplamlar konumu",
-            "bottom": "Üst",
-            "None": "Alt kısım",
-            "stackingline": "Hiçbiri",
-            "stackingline100": "Yığılmış Çizgi"
+            "bottom": "Alt kısım",
+            "None": "Hiçbiri",
+            "stackingline": "Yığılmış Çizgi",
+            "stackingline100": "100% Yığılmış Çizgi"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Alan Listesi",
@@ -2866,13 +2866,13 @@
             "TitleCase": "başlık",
             "Filling in forms": "Formları doldurmak",
             "px": "piksel",
-            "Tracked changes": "piksel",
-            "TrackChangesOnly": "Izlenen değişiklikler",
-            "RemovedIgnore": "Bu bölgede düzenleme yapabilirsiniz, ancak tüm değişiklikler izlenecektir.",
-            "RemovedIgnoreExceptions": "Yok sayılan istisnaları kaldırmak istiyor musunuz?",
-            "Information": "Bu değişikliği belge korumasında yaparsanız, Word bu belgedeki tüm istisnaları yok sayar.",
-            "Yes": "Bilgi",
-            "No": "Evet",
+            "Tracked changes": "Izlenen değişiklikler",
+            "TrackChangesOnly": "Bu bölgede düzenleme yapabilirsiniz, ancak tüm değişiklikler izlenecektir.",
+            "RemovedIgnore": "Yok sayılan istisnaları kaldırmak istiyor musunuz?",
+            "RemovedIgnoreExceptions": "Bu değişikliği belge korumasında yaparsanız, Word bu belgedeki tüm istisnaları yok sayar.",
+            "Information": "Bilgi",
+            "Yes": "Evet",
+            "No": "Hayır",
             "You may format text only with certain styles": "Metni yalnızca belirli stillerle biçimlendirebilirsiniz.",
             "Ignore all": "Hepsini Yoksay"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "Başlık 6",
             "ZoomLevelTooltip": "Yakınlaştırma seviyesi. Yakınlaştırma seçeneklerini açmak için tıklayın veya dokunun.",
             "None": "Hiçbiri",
-            "Borders": "Hiçbiri"
+            "Borders": "Sınırlar"
         },
         "carousel": {
             "nextSlide": "Sonraki slayt",

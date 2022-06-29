@@ -1595,13 +1595,13 @@
             "invalidCSV": "Ugyldige CSV-data",
             "stacked": "Stablet",
             "single": "Enkelt",
-            "multipleAxisMode": "Multipaksetilstand",
-            "grandTotalPosition": "Multipel akse tilstand",
-            "top": "Grand totals position",
-            "bottom": "Top",
-            "None": "Bund",
-            "stackingline": "Ingen",
-            "stackingline100": "Stablet Line"
+            "multipleAxisMode": "Multipel akse tilstand",
+            "grandTotalPosition": "Grand totals position",
+            "top": "Top",
+            "bottom": "Bund",
+            "None": "Ingen",
+            "stackingline": "Stablet Line",
+            "stackingline100": "100% Stablet Line"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot feltliste",
@@ -1752,7 +1752,7 @@
             "of": "af",
             "removeCalculatedField": "Er du sikker på, at du vil slette dette beregnede felt?",
             "yes": "Er du sikker på, at du vil slette dette beregnede felt?",
-            "no": "Ja",
+            "no": "Ingen",
             "None": "Ingen"
         },
         "pdfviewer": {
@@ -2866,12 +2866,12 @@
             "TitleCase": "Titlecase",
             "Filling in forms": "Udfyldelse af formularer",
             "px": "px",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "Sporede ændringer",
-            "RemovedIgnore": "Du kan redigere i dette område, men alle ændringer vil blive sporet.",
-            "RemovedIgnoreExceptions": "Vil du fjerne de ignorerede undtagelser?",
-            "Information": "Hvis du foretager denne ændring i dokumentbeskyttelsen, ignorerer Word alle undtagelserne i dette dokument.",
-            "Yes": "Information",
+            "Tracked changes": "Sporede ændringer",
+            "TrackChangesOnly": "Du kan redigere i dette område, men alle ændringer vil blive sporet.",
+            "RemovedIgnore": "Vil du fjerne de ignorerede undtagelser?",
+            "RemovedIgnoreExceptions": "Hvis du foretager denne ændring i dokumentbeskyttelsen, ignorerer Word alle undtagelserne i dette dokument.",
+            "Information": "Information",
+            "Yes": "Ja",
             "No": "Ja",
             "You may format text only with certain styles": "Du kan kun formatere tekst med bestemte stilarter.",
             "Ignore all": "Ignorer alle"
@@ -3048,7 +3048,7 @@
             "Heading 6": "Overskrift 6",
             "ZoomLevelTooltip": "Zoom niveau. Klik eller tryk for at åbne Zoom-indstillingerne.",
             "None": "Ingen",
-            "Borders": "Ingen"
+            "Borders": "Grænser"
         },
         "carousel": {
             "nextSlide": "Næste slide",

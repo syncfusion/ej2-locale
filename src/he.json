@@ -1596,12 +1596,12 @@
             "stacked": "מְגוּבָּב",
             "single": "יחיד",
             "multipleAxisMode": "מצב ציר מרובה",
-            "grandTotalPosition": "מצב ריבוי צירים",
-            "top": "מיקום סך הכל",
-            "bottom": "חלק עליון",
-            "None": "תַחתִית",
-            "stackingline": "אף אחד",
-            "stackingline100": "קו מוערם"
+            "grandTotalPosition": "מיקום סך הכל",
+            "top": "חלק עליון",
+            "bottom": "תַחתִית",
+            "None": "אף אחד",
+            "stackingline": "קו מוערם",
+            "stackingline100": "100% קו מוערם"
         },
         "pivotfieldlist": {
             "staticFieldList": "רשימת שדות ציר",
@@ -1751,9 +1751,9 @@
             "selectGroup": "בחר קבוצות",
             "of": "של",
             "removeCalculatedField": "האם אתה בטוח שברצונך למחוק שדה מחושב זה?",
-            "yes": "האם אתה בטוח שברצונך למחוק את השדה המחושב הזה?",
-            "no": "כן",
-            "None": "לא"
+            "yes": "כן",
+            "no": "לא",
+            "None": "אף אחד"
         },
         "pdfviewer": {
             "PdfViewer": "מציג PDF",
@@ -2866,13 +2866,13 @@
             "TitleCase": "כותרת כיסוי",
             "Filling in forms": "מילוי טפסים",
             "px": "פיקסלים",
-            "Tracked changes": "פיקסלים",
-            "TrackChangesOnly": "מעקב אחר שינויים",
-            "RemovedIgnore": "אתה יכול לערוך באזור זה, אבל כל השינויים יעברו מעקב.",
-            "RemovedIgnoreExceptions": "האם ברצונך להסיר את החריגים שהתעלמו מהם?",
-            "Information": "אם תבצע את השינוי הזה בהגנה על מסמכים, Word יתעלם מכל החריגים במסמך זה.",
-            "Yes": "מֵידָע",
-            "No": "כן",
+            "Tracked changes": "מעקב אחר שינויים",
+            "TrackChangesOnly": "אתה יכול לערוך באזור זה, אבל כל השינויים יעברו מעקב.",
+            "RemovedIgnore": "האם ברצונך להסיר את החריגים שהתעלמו מהם?",
+            "RemovedIgnoreExceptions": "אם תבצע את השינוי הזה בהגנה על מסמכים, Word יתעלם מכל החריגים במסמך זה.",
+            "Information": "מֵידָע",
+            "Yes": "כן",
+            "No": "לא",
             "You may format text only with certain styles": "ניתן לעצב טקסט רק עם סגנונות מסוימים.",
             "Ignore all": "התעלם מהכל"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "כותרת 6",
             "ZoomLevelTooltip": "רמת הזום. לחץ או הקש כדי לפתוח את אפשרויות הזום.",
             "None": "אף אחד",
-            "Borders": "אף אחד"
+            "Borders": "גבולות"
         },
         "carousel": {
             "nextSlide": "השקף הבא",

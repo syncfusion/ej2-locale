@@ -1596,12 +1596,12 @@
             "stacked": "Složeni",
             "single": "Singl",
             "multipleAxisMode": "Način višestruke osi",
-            "grandTotalPosition": "Način rada s više osi",
-            "top": "Položaj ukupnog zbroja",
-            "bottom": "Vrh",
-            "None": "Dno",
-            "stackingline": "Nijedan",
-            "stackingline100": "Naslagana linija"
+            "grandTotalPosition": "Položaj ukupnog zbroja",
+            "top": "Vrh",
+            "bottom": "Dno",
+            "None": "Nijedan",
+            "stackingline": "Naslagana linija",
+            "stackingline100": "100% Naslagana linija"
         },
         "pivotfieldlist": {
             "staticFieldList": "Popis okretnih polja",
@@ -1751,9 +1751,9 @@
             "selectGroup": "Odaberite skupine",
             "of": "od",
             "removeCalculatedField": "Jeste li sigurni da želite izbrisati ovo izračunato polje?",
-            "yes": "Jeste li sigurni da želite izbrisati ovo izračunato polje?",
-            "no": "Da",
-            "None": "Ne"
+            "yes": "Da",
+            "no": "Ne",
+            "None": "nijedan"
         },
         "pdfviewer": {
             "PdfViewer": "Preglednik PDF-a",
@@ -2866,13 +2866,13 @@
             "TitleCase": "Titlecase",
             "Filling in forms": "Ispunjavanje obrazaca",
             "px": "px",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "Tracked changes",
-            "RemovedIgnore": "You may edit in this region, but all change will be tracked.",
-            "RemovedIgnoreExceptions": "Do you want to remove the ignored exceptions?",
-            "Information": "If you make this change in document protection, Word will ignore all the exceptions in this document.",
-            "Yes": "Information",
-            "No": "Da",
+            "Tracked changes": "Tracked changes",
+            "TrackChangesOnly": "You may edit in this region, but all change will be tracked.",
+            "RemovedIgnore": "YDo you want to remove the ignored exceptions?",
+            "RemovedIgnoreExceptions": "If you make this change in document protection, Word will ignore all the exceptions in this document.",
+            "Information": "Information",
+            "Yes": "Da",
+            "No": "Ne",
             "You may format text only with certain styles": "Tekst možete oblikovati samo s određenim stilovima.",
             "Ignore all": "Zanemari sve"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "Naslov 6",
             "ZoomLevelTooltip": "Razina zumiranja. Kliknite ili dodirnite da biste otvorili opcije zumiranja.",
             "None": "Nijedan",
-            "Borders": "None"
+            "Borders": "granice"
         },
         "carousel": {
             "nextSlide": "Sljedeći slajd",

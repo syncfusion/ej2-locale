@@ -1596,12 +1596,12 @@
             "stacked": "Stacked",
             "single": "Single",
             "multipleAxisMode": "Multiple Axis Mode",
-            "grandTotalPosition": "Multiple Axis Mode",
-            "top": "Grand totals position",
-            "bottom": "Top",
-            "None": "Bottom",
-            "stackingline": "None",
-            "stackingline100": "Stacked Line"
+            "grandTotalPosition": "Grand totals position",
+            "top": "Top",
+            "bottom": "Bottom",
+            "None": "None",
+            "stackingline": "Stacked Line",
+            "stackingline100": "100% Stacked Line"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Field List",
@@ -2866,13 +2866,13 @@
             "TitleCase": "Titlecase",
             "Filling in forms": "Filling in forms",
             "px": "px",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "Tracked changes",
-            "RemovedIgnore": "You may edit in this region, but all change will be tracked.",
-            "RemovedIgnoreExceptions": "Do you want to remove the ignored exceptions?",
-            "Information": "If you make this change in document protection, Word will ignore all the exceptions in this document.",
-            "Yes": "Information",
-            "No": "Yes",
+            "Tracked changes": "Tracked changes",
+            "TrackChangesOnly": "You may edit in this region, but all change will be tracked.",
+            "RemovedIgnore": "Do you want to remove the ignored exceptions?",
+            "RemovedIgnoreExceptions": "If you make this change in document protection, Word will ignore all the exceptions in this document.",
+            "Information": "Information",
+            "Yes": "Yes",
+            "No": "No",
             "You may format text only with certain styles": "You may format text only with certain styles.",
             "Ignore all": "Ignore All"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "Heading 6",
             "ZoomLevelTooltip": "Zoom level. Click or tap to open the Zoom options.",
             "None": "None",
-            "Borders": "None"
+            "Borders": "Borders"
         },
         "carousel": {
             "nextSlide": "Next slide",

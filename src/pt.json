@@ -1596,12 +1596,12 @@
             "stacked": "Empilhado",
             "single": "solteiro",
             "multipleAxisMode": "Modo de eixo múltiplo",
-            "grandTotalPosition": "Modo de eixo múltiplo",
-            "top": "Posição de totais gerais",
-            "bottom": "Topo",
-            "None": "Inferior",
-            "stackingline": "Nenhum",
-            "stackingline100": "Linha empilhada"
+            "grandTotalPosition": "Posição de totais gerais",
+            "top": "Topo",
+            "bottom": "Inferior",
+            "None": "Nenhum",
+            "stackingline": "Linha empilhada",
+            "stackingline100": "100% Linha empilhada"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista de campos dinâmicos",
@@ -2866,13 +2866,13 @@
             "TitleCase": "Título",
             "Filling in forms": "Preenchimento de formulários",
             "px": "px",
-            "Tracked changes": "px",
-            "TrackChangesOnly": "Mudanças rastreadas",
-            "RemovedIgnore": "Você pode editar nesta região, mas todas as alterações serão rastreadas.",
-            "RemovedIgnoreExceptions": "Deseja remover as exceções ignoradas?",
-            "Information": "Se você fizer essa alteração na proteção do documento, o Word ignorará todas as exceções neste documento.",
-            "Yes": "Em formação",
-            "No": "Sim",
+            "Tracked changes": "Mudanças rastreadas",
+            "TrackChangesOnly": "Você pode editar nesta região, mas todas as alterações serão rastreadas.",
+            "RemovedIgnore": "Deseja remover as exceções ignoradas?",
+            "RemovedIgnoreExceptions": "e você fizer essa alteração na proteção do documento, o Word ignorará todas as exceções neste documento.",
+            "Information": "Em formação",
+            "Yes": "Sim",
+            "No": "Não",
             "You may format text only with certain styles": "Você pode formatar o texto apenas com certos estilos.",
             "Ignore all": "Ignore tudo"
         },
@@ -3048,7 +3048,7 @@
             "Heading 6": "Título 6",
             "ZoomLevelTooltip": "Nível de zoom. Clique ou toque para abrir as opções de Zoom.",
             "None": "Nenhum",
-            "Borders": "Nenhum"
+            "Borders": "Fronteiras"
         },
         "carousel": {
             "nextSlide": "Próximo slide",
