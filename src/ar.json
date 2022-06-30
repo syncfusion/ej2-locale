@@ -1,5 +1,5 @@
 {
-    "ar-AE": {
+    "ar": {
         "grid": {
             "EmptyRecord": "لا سجلات لعرضها",
             "True": "صحيح",
@@ -1599,7 +1599,9 @@
             "grandTotalPosition": "وضع المحاور المتعددة",
             "top": "موقف المجاميع الكلية",
             "bottom": "قمة",
-            "None": "الأسفل"
+            "None": "الأسفل",
+            "stackingline": "لا أحد",
+            "stackingline100": "خط مكدس"
         },
         "pivotfieldlist": {
             "staticFieldList": "قائمة الحقول المحورية",
@@ -2864,6 +2866,13 @@
             "TitleCase": "حالة العنوان",
             "Filling in forms": "تعبئة النماذج",
             "px": "px",
+            "Tracked changes": "التغييرات المتعقبة",
+            "TrackChangesOnly": "يمكنك التعديل في هذه المنطقة ، ولكن سيتم تعقب كل التغييرات",
+            "RemovedIgnore": "هل تريد إزالة الاستثناءات التي تم تجاهلها؟",
+            "RemovedIgnoreExceptions": "إذا أجريت هذا التغيير في حماية المستند ، فسيتجاهل Word كافة الاستثناءات في هذا المستند",
+            "Information": "معلومة",
+            "Yes": "نعم",
+            "No": "رقم",
             "You may format text only with certain styles": "يمكنك تنسيق النص فقط مع أنماط معينة.",
             "Ignore all": "تجاهل الكل"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "العنوان 5",
             "Heading 6": "العنوان 6",
             "ZoomLevelTooltip": "مستوى التكبير. انقر أو اضغط لفتح خيارات التكبير.",
-            "None": "لا أحد"
+            "None": "لا أحد",
+            "Borders": "الحدود"
         },
         "carousel": {
             "nextSlide": "الشريحة التالية",

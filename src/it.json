@@ -1596,10 +1596,12 @@
             "stacked": "Impilati",
             "single": "Single",
             "multipleAxisMode": "Modalità multiasse",
-            "grandTotalPosition": "Modalità a più assi",
-            "top": "Posizione dei totali generali",
-            "bottom": "Superiore",
-            "None": "Metter il fondo a"
+            "grandTotalPosition": "Posizione dei totali generali",
+            "top": "Superiore",
+            "bottom": "Metter il fondo a",
+            "None": "Nessuno",
+            "stackingline": "Linea impilata",
+            "stackingline100": "100% Linea impilata"
         },
         "pivotfieldlist": {
             "staticFieldList": "Elenco campi pivot",
@@ -1917,6 +1919,7 @@
             "Same as the whole table": "Come tutto il tavolo",
             "Borders": "frontiere",
             "None": "Nessuna",
+            "Single": "Nessuno",
             "Dot": "Punto",
             "DashSmallGap": "Dash SmallGap",
             "DashLargeGap": "DashLargeGap",
@@ -2253,7 +2256,7 @@
             "alignbottom": "Allinea in basso",
             "insertrowbefore": "inserisciRigaPrima",
             "insertrowafter": "inserisciRigaDopo",
-            "deleterow": "eliminaRiga"            
+            "deleterow": "eliminaRiga"
         },
         "drop-down-base": {
             "noRecordsTemplate": "Nessun record trovato",
@@ -2863,6 +2866,13 @@
             "TitleCase": "Titlecase",
             "Filling in forms": "Compilazione moduli",
             "px": "px",
+            "Tracked changes": "Modifiche tracciate",
+            "TrackChangesOnly": "Puoi modificare in questa regione, ma tutte le modifiche verranno tracciate.",
+            "RemovedIgnore": "Vuoi rimuovere le eccezioni ignorate?",
+            "RemovedIgnoreExceptions": "Se apporti questa modifica alla protezione del documento, Word ignorerà tutte le eccezioni in questo documento.",
+            "Information": "Informazione",
+            "Yes": "sì",
+            "No": "No",
             "You may format text only with certain styles": "È possibile formattare il testo solo con determinati stili.",
             "Ignore all": "Ignora tutto"
         },
@@ -3037,7 +3047,8 @@
             "Heading 5": "Titolo 5",
             "Heading 6": "Titolo 6",
             "ZoomLevelTooltip": "Livello di zoom. Fare clic o toccare per aprire le opzioni di zoom.",
-            "None": "Nessuno"            
+            "None": "Nessuno",
+            "Borders": "frontiere"
         },
         "carousel": {
             "nextSlide": "Prossima diapositiva",

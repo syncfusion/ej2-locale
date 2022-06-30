@@ -1596,10 +1596,12 @@
             "stacked": "Halmozott",
             "single": "Egyetlen",
             "multipleAxisMode": "Többtengelyes mód",
-            "grandTotalPosition": "Többtengelyes mód",
-            "top": "Főösszeg pozíció",
-            "bottom": "Top",
-            "None": "Alsó"
+            "grandTotalPosition": "Főösszeg pozíció",
+            "top": "Top",
+            "bottom": "Alsó",
+            "None": "Egyik sem",
+            "stackingline": "Halmozott sor",
+            "stackingline100": "100% Halmozott sor"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot mezőlista",
@@ -1749,9 +1751,9 @@
             "selectGroup": "Válasszon csoportokat",
             "of": "nak,-nek",
             "removeCalculatedField": "Biztosan törli ezt a kiszámított mezőt?",
-            "yes": "Biztosan törli ezt a számított mezőt?",
-            "no": "Igen",
-            "None": "Nem"
+            "yes": "Igen",
+            "no": "Nem",
+            "None": "Egyik sem"
         },
         "pdfviewer": {
             "PdfViewer": "PDF Viewer",
@@ -1941,7 +1943,7 @@
             "Engrave3D": "Gravírozás3D",
             "Outset": "Kezdet",
             "Inset": "Betét",
-            "Thick": "Vastag",            
+            "Thick": "Vastag",
             "Style": "Stílus",
             "Width": "Szélesség",
             "Height": "Magasság",
@@ -2254,7 +2256,7 @@
             "alignbottom": "AlignBottom",
             "insertrowbefore": "insertRowBefore",
             "insertrowafter": "insertRowAfter",
-            "deleterow": "deleteRow"            
+            "deleterow": "deleteRow"
         },
         "drop-down-base": {
             "noRecordsTemplate": "Nincs találat",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Címeset",
             "Filling in forms": "Űrlapok kitöltése",
             "px": "px",
+            "Tracked changes": "Nyomon követett változások",
+            "TrackChangesOnly": "Szerkeszthet ebben a régióban, de a rendszer minden változást nyomon követ.",
+            "RemovedIgnore": "El szeretné távolítani a figyelmen kívül hagyott kivételeket?",
+            "RemovedIgnoreExceptions": "Ha módosítja a dokumentumvédelmet, a Word figyelmen kívül hagyja a dokumentumban szereplő összes kivételt.",
+            "Information": "Információ",
+            "Yes": "Igen",
+            "No": "Nem",
             "You may format text only with certain styles": "A szöveget csak bizonyos stílusokkal formázhatja.",
             "Ignore all": "Mindent figyelmen kívül hagy"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "5. címsor",
             "Heading 6": "6. címsor",
             "ZoomLevelTooltip": "Nagyítási szint. Kattintson vagy koppintson a Nagyítási beállítások megnyitásához.",
-            "None": "Egyik sem"            
+            "None": "Egyik sem",
+            "Borders": "határok"
         },
         "carousel": {
             "nextSlide": "Következő dia",
@@ -3047,7 +3057,7 @@
             "playSlideTransition": "Diaátmenet lejátszása",
             "previousSlide": "Előző dia",
             "slide": "Csúszik",
-            "slideShow": "Diavetítés"            
+            "slideShow": "Diavetítés"
         }
     }
 }

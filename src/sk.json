@@ -1596,10 +1596,12 @@
             "stacked": "Skladaný",
             "single": "Slobodný",
             "multipleAxisMode": "Režim viacerých osí",
-            "grandTotalPosition": "Režim viacerých osí",
-            "top": "Pozícia celkového súčtu",
-            "bottom": "Hore",
-            "None": "Spodná časť"
+            "grandTotalPosition": "Pozícia celkového súčtu",
+            "top": "Hore",
+            "bottom": "Spodná časť",
+            "None": "žiadne",
+            "stackingline": "Skladaný riadok",
+            "stackingline100": "100% Skladaný riadok"
         },
         "pivotfieldlist": {
             "staticFieldList": "Zoznam kontingenčných polí",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Nadpis",
             "Filling in forms": "Vypĺňanie formulárov",
             "px": "px",
+            "Tracked changes": "Sledované zmeny",
+            "TrackChangesOnly": "V tejto oblasti môžete upravovať, ale všetky zmeny budú sledované.",
+            "RemovedIgnore": "Chcete odstrániť ignorované výnimky?",
+            "RemovedIgnoreExceptions": "Ak vykonáte túto zmenu v ochrane dokumentov, Word bude ignorovať všetky výnimky v tomto dokumente.",
+            "Information": "Informácie",
+            "Yes": "Áno",
+            "No": "žiadny",
             "You may format text only with certain styles": "Text môžete formátovať iba s určitými štýlmi.",
             "Ignore all": "Ignorovať všetko"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Nadpis 5",
             "Heading 6": "Nadpis 6",
             "ZoomLevelTooltip": "Úroveň priblíženia. Kliknutím alebo klepnutím otvorte možnosti priblíženia.",
-            "None": "žiadne"
+            "None": "žiadne",
+            "Borders": "hranice"
         },
         "carousel": {
             "nextSlide": "Ďalšia snímka",

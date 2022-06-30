@@ -1596,10 +1596,12 @@
             "stacked": "Yığılmış",
             "single": "Tek",
             "multipleAxisMode": "Çoklu Eksen Modu",
-            "grandTotalPosition": "Çoklu Eksen Modu",
+            "grandTotalPosition": "Genel toplamlar konumu",
             "top": "Genel toplamlar konumu",
-            "bottom": "Üst",
-            "None": "Alt kısım"
+            "bottom": "Alt kısım",
+            "None": "Hiçbiri",
+            "stackingline": "Yığılmış Çizgi",
+            "stackingline100": "100% Yığılmış Çizgi"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Alan Listesi",
@@ -2254,7 +2256,7 @@
             "alignbottom": "AlignBottom",
             "insertrowbefore": "insertRowBefore",
             "insertrowafter": "insertRowAfter",
-            "deleterow": "sırayı sil"            
+            "deleterow": "sırayı sil"
         },
         "drop-down-base": {
             "noRecordsTemplate": "Kayıt bulunamadı",
@@ -2864,6 +2866,13 @@
             "TitleCase": "başlık",
             "Filling in forms": "Formları doldurmak",
             "px": "piksel",
+            "Tracked changes": "Izlenen değişiklikler",
+            "TrackChangesOnly": "Bu bölgede düzenleme yapabilirsiniz, ancak tüm değişiklikler izlenecektir.",
+            "RemovedIgnore": "Yok sayılan istisnaları kaldırmak istiyor musunuz?",
+            "RemovedIgnoreExceptions": "Bu değişikliği belge korumasında yaparsanız, Word bu belgedeki tüm istisnaları yok sayar.",
+            "Information": "Bilgi",
+            "Yes": "Evet",
+            "No": "Hayır",
             "You may format text only with certain styles": "Metni yalnızca belirli stillerle biçimlendirebilirsiniz.",
             "Ignore all": "Hepsini Yoksay"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Başlık 5",
             "Heading 6": "Başlık 6",
             "ZoomLevelTooltip": "Yakınlaştırma seviyesi. Yakınlaştırma seçeneklerini açmak için tıklayın veya dokunun.",
-            "None": "Hiçbiri"
+            "None": "Hiçbiri",
+            "Borders": "Sınırlar"
         },
         "carousel": {
             "nextSlide": "Sonraki slayt",
@@ -3047,7 +3057,7 @@
             "playSlideTransition": "Slayt geçişini oynat",
             "previousSlide": "Bir onceki slayt",
             "slide": "Kaymak",
-            "slideShow": "Slayt Gösterisi"            
+            "slideShow": "Slayt Gösterisi"
         }
     }
 }

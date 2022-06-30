@@ -1597,10 +1597,12 @@
             "stacked": "Gestapeld",
             "single": "Single",
             "multipleAxisMode": "Meerdere assen",
-            "grandTotalPosition": "Meerdere assenmodus",
-            "top": "Positie eindtotalen",
-            "bottom": "Bovenkant",
-            "None": "Onderkant"
+            "grandTotalPosition": "Positie eindtotalen",
+            "top": "Bovenkant",
+            "bottom": "Onderkant",
+            "None": "Geen",
+            "stackingline": "Gestapelde lijn",
+            "stackingline100": "100% Gestapelde lijn"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lijst met draaivelden",
@@ -2865,6 +2867,13 @@
             "TitleCase": "Hoofdzaak",
             "Filling in forms": "Formulieren invullen",
             "px": "px",
+            "Tracked changes": "Bijgehouden wijzigingen",
+            "TrackChangesOnly": "U kunt in deze regio bewerken, maar alle wijzigingen worden bijgehouden.",
+            "RemovedIgnore": "Wilt u de genegeerde uitzonderingen verwijderen?",
+            "RemovedIgnoreExceptions": "Als u deze wijziging in documentbeveiliging aanbrengt, negeert Word alle uitzonderingen in dit document.",
+            "Information": "Informatie",
+            "Yes": "Ja",
+            "No": "Nee",
             "You may format text only with certain styles": "U kunt tekst alleen met bepaalde stijlen opmaken.",
             "Ignore all": "Negeer alles"
         },
@@ -3039,7 +3048,8 @@
             "Heading 5": "Kop 5",
             "Heading 6": "Kop 6",
             "ZoomLevelTooltip": "Zoomniveau. Klik of tik om de zoomopties te openen.",
-            "None": "Geen"
+            "None": "Geen",
+            "Borders": "borders"
         },
         "carousel": {
             "nextSlide": "Volgende dia",

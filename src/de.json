@@ -1596,10 +1596,12 @@
             "stacked": "Gestapelt",
             "single": "Single",
             "multipleAxisMode": "Mehrachsenmodus",
-            "grandTotalPosition": "Mehrachsenmodus",
-            "top": "Gesamtsummenposition",
-            "bottom": "Spitze",
-            "None": "Unterseite"
+            "grandTotalPosition": "Gesamtsummenposition",
+            "top": "Spitze",
+            "bottom": "Unterseite",
+            "None": "Keiner",
+            "stackingline": "Gestapelte Linie",
+            "stackingline100": "100% Gestapelte Linie"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot-Feldliste",
@@ -1750,8 +1752,8 @@
             "of": "von",
             "removeCalculatedField": "Möchten Sie dieses berechnete Feld wirklich löschen?",
             "yes": "Möchten Sie dieses berechnete Feld wirklich löschen?",
-            "no": "Ja",
-            "None": "Nein"
+            "no": "Nein",
+            "None": "Keiner"
         },
         "pdfviewer": {
             "PdfViewer": "PDF Viewer",
@@ -2255,7 +2257,6 @@
             "insertrowbefore": "EinfügenRowBefore",
             "insertrowafter": "ZeileNachher einfügen",
             "deleterow": "Zeile löschen"
-            
         },
         "drop-down-base": {
             "noRecordsTemplate": "Keine Datensätze gefunden",
@@ -2865,6 +2866,13 @@
             "TitleCase": "Titelkoffer",
             "Filling in forms": "Formulare ausfüllen",
             "px": "px",
+            "Tracked changes": "Verfolgte Änderungen",
+            "TrackChangesOnly": "Sie können in dieser Region Änderungen vornehmen, aber alle Änderungen werden nachverfolgt.",
+            "RemovedIgnore": "Möchten Sie die ignorierten Ausnahmen entfernen?",
+            "RemovedIgnoreExceptions": "Wenn Sie diese Änderung im Dokumentschutz vornehmen, ignoriert Word alle Ausnahmen in diesem Dokument.",
+            "Information": "Information",
+            "Yes": "Ja",
+            "No": "Nein",
             "You may format text only with certain styles": "Sie können Text nur mit bestimmten Stilen formatieren.",
             "Ignore all": "Alles ignorieren",
             "Table Of Contents": "Inhaltsverzeichnis"
@@ -3040,7 +3048,8 @@
             "Heading 5": "Überschrift 5",
             "Heading 6": "Überschrift 6",
             "ZoomLevelTooltip": "Zoomstufe. Klicken oder tippen Sie auf , um die Zoom-Optionen zu öffnen.",
-            "None": "Keiner"
+            "None": "Keiner",
+            "Borders": "Grenzen"
         },
         "carousel": {
             "nextSlide": "Nächste Folie",

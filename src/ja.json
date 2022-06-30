@@ -240,7 +240,7 @@
             "SelectMergeType": "マージタイプを選択",
             "MergeCellsAlert": "セルを結合すると、左上（最も上）の値のみが保持されます。とにかくマージしますか？",
             "PasteMergeAlert": "マージセルに対してそれを行うことはできません。",
-            "Borders": "国境",
+            "Borders": "ボーダーズ",
             "TopBorders": "トップボーダー",
             "LeftBorders": "左ボーダー",
             "RightBorders": "右ボーダー",
@@ -1596,10 +1596,12 @@
             "stacked": "積み上げ",
             "single": "シングル",
             "multipleAxisMode": "多軸モード",
-            "grandTotalPosition": "多軸モード",
-            "top": "総計ポジション",
-            "bottom": "上",
-            "None": "下"
+            "grandTotalPosition": "総計ポジション",
+            "top": "上",
+            "bottom": "下",
+            "None": "なし",
+            "stackingline": "スタックライン",
+            "stackingline100": "100％スタックライン"
         },
         "pivotfieldlist": {
             "staticFieldList": "ピボットフィールドリスト",
@@ -2864,6 +2866,13 @@
             "TitleCase": "タイトルケース",
             "Filling in forms": "フォームへの記入",
             "px": "px",
+            "Tracked changes": "追跡された変更",
+            "TrackChangesOnly": "このリージョンで編集できますが、すべての変更が追跡されます。",
+            "RemovedIgnore": "無視された例外を削除しますか？",
+            "RemovedIgnoreExceptions": "ドキュメント保護でこの変更を行うと、Wordはこのドキュメントのすべての例外を無視します。",
+            "Information": "情報",
+            "Yes": "はい",
+            "No": "番号",
             "You may format text only with certain styles": "特定のスタイルでのみテキストをフォーマットできます。",
             "Ignore all": "全無視"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "見出し5",
             "Heading 6": "見出し6",
             "ZoomLevelTooltip": "ズームレベル。クリックまたはタップして、ズームオプションを開きます。",
-            "None": "なし"
+            "None": "なし",
+            "Borders": "ボーダーズ"
         },
         "carousel": {
             "nextSlide": "次のスライド",

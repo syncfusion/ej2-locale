@@ -758,7 +758,7 @@
             "Permission": "Lupa",
             "Ascending": "nouseva",
             "Descending": "Laskeva",
-            "None": "هیچ یک",
+            "None": "Ei mitään",
             "View-LargeIcons": "Suuret kuvakkeet",
             "View-Details": "Yksityiskohdat",
             "Search": "Hae",
@@ -1596,10 +1596,12 @@
             "stacked": "Pinottu",
             "single": "Yksittäinen",
             "multipleAxisMode": "Usean akselin tila",
-            "grandTotalPosition": "Usean akselin tila",
-            "top": "Pääsumman sijoitus",
-            "bottom": "Ylös",
-            "None": "Pohja"
+            "grandTotalPosition": "Pääsumman sijoitus",
+            "top": "Ylös",
+            "bottom": "Pohja",
+            "None": "Ei mitään",
+            "stackingline": "Pinottu rivi",
+            "stackingline100": "100 Pinottu rivi"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot-kenttäluettelo",
@@ -1750,8 +1752,8 @@
             "of": "of",
             "removeCalculatedField": "Haluatko varmasti poistaa tämän lasketun kentän?",
             "yes": "Haluatko varmasti poistaa tämän lasketun kentän?",
-            "no": "Joo",
-            "None": "Ei"
+            "no": "Ei",
+            "None": "Ei mitään"
         },
         "pdfviewer": {
             "PdfViewer": "PDF Viewer",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Otsikkotapaus",
             "Filling in forms": "Lomakkeiden täyttäminen",
             "px": "px",
+            "Tracked changes": "Seuratut muutokset",
+            "TrackChangesOnly": "Voit muokata tällä alueella, mutta kaikkia muutoksia seurataan.",
+            "RemovedIgnore": "Haluatko poistaa ohitetut poikkeukset?",
+            "RemovedIgnoreExceptions": "Jos teet tämän muutoksen asiakirjan suojaukseen, Word ohittaa kaikki tämän asiakirjan poikkeukset.",
+            "Information": "Tiedot",
+            "Yes": "Joo",
+            "No": "Ei",
             "You may format text only with certain styles": "Voit muotoilla tekstiä vain tietyillä tyyleillä.",
             "Ignore all": "Sivuuttaa kaikki"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Otsikko 5",
             "Heading 6": "Otsikko 6",
             "ZoomLevelTooltip": "Zoomaustaso. Napsauta tai napauta avataksesi zoomausasetukset.",
-            "None": "Ei mitään"
+            "None": "Ei mitään",
+            "Borders": "Reunukset"
         },
         "carousel": {
             "nextSlide": "Seuraava dia",

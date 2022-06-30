@@ -1596,10 +1596,12 @@
             "stacked": "Staplade",
             "single": "Enda",
             "multipleAxisMode": "Läge för flera axlar",
-            "grandTotalPosition": "Fleraxligt läge",
-            "top": "Grand totals position",
-            "bottom": "Topp",
-            "None": "Botten"
+            "grandTotalPosition": "Grand totals position",
+            "top": "Topp",
+            "bottom": "Botten",
+            "None": "Ingen",
+            "stackingline": "Staplad linje",
+            "stackingline100": "100% Staplad linje"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Field List",
@@ -2254,7 +2256,7 @@
             "alignbottom": "Justera Botten",
             "insertrowbefore": "insertRowBefore",
             "insertrowafter": "insertRowAfter",
-            "deleterow": "radera rad"            
+            "deleterow": "radera rad"
         },
         "drop-down-base": {
             "noRecordsTemplate": "Inga uppgifter funna",
@@ -2864,6 +2866,13 @@
             "TitleCase": "Titelcase",
             "Filling in forms": "Fyller i blanketter",
             "px": "px",
+            "Tracked changes": "Spårade ändringar",
+            "TrackChangesOnly": "Du kan redigera i den här regionen, men alla ändringar kommer att spåras.",
+            "RemovedIgnore": "Vill du ta bort de ignorerade undantagen?",
+            "RemovedIgnoreExceptions": "Om du gör denna ändring i dokumentskyddet kommer Word att ignorera alla undantag i detta dokument.",
+            "Information": "Information",
+            "Yes": "Ja",
+            "No": "Nej",
             "You may format text only with certain styles": "Du kan bara formatera text med vissa stilar.",
             "Ignore all": "Ignorera alla"
         },
@@ -3038,7 +3047,8 @@
             "Heading 5": "Rubrik 5",
             "Heading 6": "Rubrik 6",
             "ZoomLevelTooltip": "Zoomnivå. Klicka eller tryck för att öppna zoomalternativen.",
-            "None": "Ingen"
+            "None": "Ingen",
+            "Borders": "Gränser"
         },
         "carousel": {
             "nextSlide": "Nästa bild",
