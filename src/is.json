@@ -1773,7 +1773,7 @@
             "Undo": "Enginn texti fannst",
             "Redo": "Afturkalla",
             "Annotation": "Endurtaka",
-            "Import PDF Failed": "Ógild PDF skráargerð eða PDF skrá er ekki til. Vinsamlegast veldu gilt PDF skjal"
+            "Import PDF Failed": "Ógild PDF skráargerð eða PDF skrá er ekki til. Vinsamlegast veldu gilt PDF skjal",
             "Highlight": "Bæta við eða breyta athugasemdum",
             "Underline": "Auðkenndu texta",
             "Strikethrough": "Undirstrikaðu texta",
@@ -2221,6 +2221,7 @@
         },
         "PdfViewer": {
             "PdfViewer": "${count} selected",
+            "Import PDF Failed": "Ógild PDF skráargerð eða PDF skrá er ekki til. Vinsamlegast veldu gilt PDF skjal",
             "Cancel": "PDF Viewer",
             "Download file": "Cancel",
             "Download": "Download file",
