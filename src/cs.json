@@ -2429,6 +2429,7 @@
             "Font size": "Velikost písma",
             "Free Text": "Volný text",
             "Import Failed": "Neplatný typ souboru JSON nebo název souboru; vyberte platný soubor JSON",
+            "Import PDF Failed": "Neplatný typ souboru PDF nebo soubor PDF neexistuje. Vyberte prosím platný soubor PDF",
             "File not found": "Importovaný soubor JSON nebyl nalezen v požadovaném umístění",
             "Export Failed": "Akce exportu anotací se nezdařila; ujistěte se, že jsou anotace přidávány správně ",
             "of": "z",

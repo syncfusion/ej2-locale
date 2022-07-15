@@ -2428,6 +2428,7 @@
             "Font size": "Veličina fonta",
             "Free Text": "Slobodni tekst",
             "Import Failed": "Nevažeća vrsta ili naziv datoteke JSON; molimo odaberite valjanu JSON datoteku",
+            "Import PDF Failed": "Nevažeća vrsta PDF datoteke ili PDF datoteka ne postoji. Odaberite valjanu PDF datoteku",
             "File not found": "Uvezena JSON datoteka nije pronađena na željenom mjestu",
             "Export Failed": "Akcija izvoza bilješki nije uspjela; molimo osigurajte da su napomene ispravno dodane",
             "of": "od",

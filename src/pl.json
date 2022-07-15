@@ -2428,6 +2428,7 @@
             "Font size": "Rozmiar czcionki",
             "Free Text": "Dowolny tekst",
             "Import Failed": "Nieprawidłowy typ pliku JSON lub nazwa pliku; wybierz prawidłowy plik JSON",
+            "Import PDF Failed": "Nieprawidłowy typ pliku PDF lub plik PDF nie istnieje. Wybierz prawidłowy plik PDF",
             "File not found": "Zaimportowany plik JSON nie został znaleziony w żądanej lokalizacji",
             "Export Failed": "Eksport adnotacji nie powiódł się; upewnij się, że adnotacje zostały poprawnie dodane",
             "of": "z",

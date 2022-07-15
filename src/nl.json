@@ -2429,6 +2429,7 @@
             "Font size": "Lettertypegrootte",
             "Free Text": "Vrije tekst",
             "Import Failed": "Ongeldig JSON-bestandstype of bestandsnaam; selecteer een geldig JSON-bestand",
+            "Import PDF Failed": "Ongeldig PDF-bestandstype of PDF-bestand bestaat niet. Selecteer een geldig PDF-bestand",
             "File not found": "Het geïmporteerde JSON-bestand is niet gevonden op de gewenste locatie",
             "Export Failed": "Het exporteren van annotaties is mislukt; Zorg ervoor dat annotaties correct zijn toegevoegd",
             "of": "van",

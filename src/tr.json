@@ -2428,6 +2428,7 @@
             "Font size": "Yazı Boyutu",
             "Free Text": "Ücretsiz Metin",
             "Import Failed": "Geçersiz JSON dosya türü veya dosya adı; lütfen geçerli bir JSON dosyası seçin",
+            "Import PDF Failed": "Geçersiz PDF dosya türü veya PDF dosyası mevcut değil. Lütfen geçerli bir PDF dosyası seçin",
             "File not found": "İçe aktarılan JSON dosyası istenen konumda bulunamadı",
             "Export Failed": "Ek açıklamaları dışa aktarma işlemi başarısız oldu; lütfen ek açıklamaların doğru şekilde eklendiğinden emin olun",
             "of": "nın-nin",

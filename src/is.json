@@ -2322,6 +2322,7 @@
             "Calibrate Area": "Calibrate Perimeter",
             "Calibrate Radius": "Calibrate Area",
             "Calibrate Volume": "Calibrate Radius"
+            "Import PDF Failed": "Ógild PDF skráargerð eða PDF skrá er ekki til. Vinsamlegast veldu gilt PDF skjal"
         },
         "documenteditor": {
             "Table": "Calibrate Volume",

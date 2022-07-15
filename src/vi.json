@@ -2428,6 +2428,7 @@
             "Font size": " Cỡ chữ ",
             "Free Text": " Văn bản miễn phí ",
             "Import Failed": " Tên tệp hoặc loại tệp JSON không hợp lệ; vui lòng chọn tệp JSON hợp lệ ",
+            "Import PDF Failed": " Loại tệp PDF không hợp lệ hoặc tệp PDF không tồn tại. Vui lòng chọn một tệp PDF hợp lệ ",
             "File not found": " Không tìm thấy tệp JSON đã nhập ở vị trí mong muốn ",
             "Export Failed": " Thao tác xuất chú thích không thành công; hãy đảm bảo rằng chú thích được thêm đúng cách ",
             "of": " của ",

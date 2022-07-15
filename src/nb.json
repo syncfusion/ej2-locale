@@ -2427,6 +2427,7 @@
             "Font size": "Skriftstørrelse",
             "Free Text": "Fri tekst",
             "Import Failed": "Ugyldig JSON filtype eller filnavn; velg en gyldig JSON-fil",
+            "Import PDF Failed": "Ugyldig PDF-filtype eller PDF-fil finnes ikke. Velg en gyldig PDF-fil",
             "File not found": "Importert JSON-fil ble ikke funnet på ønsket sted",
             "Export Failed": "Handlingen for eksportkommentarer mislyktes. Vennligst sørg for at merknader blir lagt til riktig",
             "of": "av",

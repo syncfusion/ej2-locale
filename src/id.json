@@ -2428,6 +2428,7 @@
             "Font size": "Ukuran huruf",
             "Free Text": "Teks Gratis",
             "Import Failed": "Jenis file JSON atau nama file tidak valid; pilih file JSON yang valid",
+            "Import PDF Failed": "Jenis file PDF tidak valid atau file PDF tidak ada. Silakan pilih file PDF yang valid",
             "File not found": "File JSON yang diimpor tidak ditemukan di lokasi yang diinginkan",
             "Export Failed": "Tindakan ekspor anotasi gagal; harap pastikan anotasi ditambahkan dengan benar",
             "of": "dari",
