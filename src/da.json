@@ -2430,6 +2430,7 @@
             "Font size": "Skriftstørrelse",
             "Free Text": "Fri tekst",
             "Import Failed": "Ugyldig JSON filtype eller filnavn; Vælg en gyldig JSON-fil",
+            "Import PDF Failed": "Ugyldig PDF-filtype eller PDF-fil findes ikke. Vælg venligst en gyldig PDF-fil",
             "File not found": "Importeret JSON-fil blev ikke fundet på det ønskede sted",
             "Export Failed": "Export annotations action has failed; please ensure annotations are added properly",
             "of": "af",

@@ -2430,6 +2430,7 @@
             "Font size": "Betűméret",
             "Free Text": "Szabad szöveg",
             "Import Failed": "Érvénytelen JSON fájltípus vagy fájlnév; válasszon egy érvényes JSON fájlt",
+            "Import PDF Failed": "Érvénytelen PDF-fájltípus vagy PDF-fájl nem létezik. Kérjük, válasszon érvényes PDF-fájlt",
             "File not found": "Az importált JSON fájl nem található a kívánt helyen",
             "Export Failed": "A jelölések exportálása művelet nem sikerült; kérjük, győződjön meg arról, hogy a kommentárok megfelelően lettek-e hozzáadva",
             "of": "nak,-nek",

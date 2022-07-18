@@ -2430,6 +2430,7 @@
             "Font size": "Textstorlek",
             "Free Text": "Fri text",
             "Import Failed": "Ogiltig JSON-filtyp eller filnamn; välj en giltig JSON-fil",
+            "Import PDF Failed": "Ogiltig PDF-filtyp eller PDF-fil finns inte. Välj en giltig PDF-fil",
             "File not found": "Importerad JSON-fil hittades inte på önskad plats",
             "Export Failed": "Åtgärden för exportanmärkningar misslyckades. se till att anteckningar läggs till ordentligt",
             "of": "av",

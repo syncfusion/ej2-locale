@@ -2430,6 +2430,7 @@
             "Font size": "Saiz huruf",
             "Free Text": "Teks Percuma",
             "Import Failed": "Jenis fail atau nama fail JSON tidak sah; sila pilih fail JSON yang sah",
+            "Import PDF Failed": "Jenis fail PDF atau fail PDF tidak sah tidak wujud. Sila pilih fail PDF yang sah",
             "File not found": "Fail JSON yang diimport tidak dijumpai di lokasi yang diinginkan",
             "Export Failed": "Tindakan anotasi eksport telah gagal; sila pastikan anotasi ditambahkan dengan betul",
             "of": "daripada",

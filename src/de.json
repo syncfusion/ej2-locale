@@ -2430,6 +2430,7 @@
             "Font size": "Schriftgröße",
             "Free Text": "Freier Text",
             "Import Failed": "Ungültiger JSON-Dateityp oder Dateiname; Bitte wählen Sie eine gültige JSON-Datei aus",
+            "Import PDF Failed": "Ungültiger PDF-Dateityp oder PDF-Datei existiert nicht. Bitte wählen Sie eine gültige PDF-Datei aus",
             "File not found": "Die importierte JSON-Datei wurde nicht am gewünschten Speicherort gefunden",
             "Export Failed": "Die Aktion zum Exportieren von Anmerkungen ist fehlgeschlagen. Bitte stellen Sie sicher, dass Anmerkungen ordnungsgemäß hinzugefügt werden",
             "of": "von",

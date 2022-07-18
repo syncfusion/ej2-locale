@@ -2430,6 +2430,7 @@
             "Font size": "Fonttikoko",
             "Free Text": "Ilmainen teksti",
             "Import Failed": "Virheellinen JSON-tiedostotyyppi tai -nimi; valitse kelvollinen JSON-tiedosto",
+            "Import PDF Failed": "Virheellinen PDF-tiedostotyyppi tai PDF-tiedostoa ei ole olemassa. Valitse kelvollinen PDF-tiedosto",
             "File not found": "Tuodtua JSON-tiedostoa ei löydy halutusta sijainnista",
             "Export Failed": "Vie merkinnät -toiminto epäonnistui. varmista, että merkinnät lisätään oikein",
             "of": "/",

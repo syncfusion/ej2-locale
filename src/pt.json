@@ -2434,6 +2434,7 @@
             "Font size": "Tamanho da fonte",
             "Free Text": "Texto livre",
             "Import Failed": "Tipo de arquivo JSON ou nome de arquivo inválido; selecione um arquivo JSON válido",
+            "Import PDF Failed": "Tipo de arquivo PDF inválido ou arquivo PDF não existe. Selecione um arquivo PDF válido",
             "File not found": "O arquivo JSON importado não foi encontrado no local desejado",
             "Export Failed": "A ação de exportação de anotações falhou; certifique-se de que as anotações sejam adicionadas corretamente",
             "of": "de",
