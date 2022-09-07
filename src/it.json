@@ -101,7 +101,24 @@
             "SortByNewest": "Ordina per più recente",
             "SortSmallestToLargest": "Ordina dal più piccolo al più grande",
             "SortLargestToSmallest": "Ordina dal più grande al più piccolo",
-            "Sort": "Ordinare"
+            "Sort": "Ordinare",
+            "FilterDescription": "Premi Alt giù per aprire il menu dei filtri",
+            "SortDescription": "Premi Invio per ordinare",
+            "ColumnMenuDescription": "Premi Alt giù per aprire il menu Colonna",
+            "GroupDescription": "Premi Ctrl spazio per raggruppare",
+            "ColumnHeader": " intestazione di colonna ",
+            "TemplateCell": " è la cella modello",
+            "CommandColumnAria": "è Intestazione della colonna della colonna dei comandi ",
+            "DialogEdit": "Modifica finestra di dialogo",
+            "ClipBoard": "appunti",
+            "GroupButton": "Pulsante Gruppo",
+            "UnGroupAria": "pulsante Separa",
+            "GroupSeperator": "Separatore per le colonne raggruppate",
+            "UnGroupIcon": "separare la colonna raggruppata ",
+            "GroupedSortIcon": "ordina la colonna raggruppata ",
+            "GroupedDrag": "Trascina la colonna raggruppata",
+            "GroupCaption": " è una cella di didascalia di gruppo",
+            "CheckBoxLabel": "casella di controllo"
         },
         "pager": {
             "currentPageInfo": "{0} di {1} pagine",
@@ -115,7 +132,13 @@
             "pagerDropDown": "oggetti per pagina",
             "pagerAllDropDown": "Elementi",
             "All": "Tutti",
-            "totalItemInfo": "({0} articolo)"
+            "totalItemInfo": "({0} articolo)",
+            "Container": "Contenitore cercapersone",
+            "Information": "Informazioni sul cercapersone",
+            "ExternalMsg": "Messaggio esterno del cercapersone",
+            "Page": "Pagina ",
+            "Of": " di ",
+            "Pages": " Pagine"
         },
         "kanban": {
             "items": "elementi",

@@ -101,7 +101,24 @@
             "SortByNewest": "Isih mengikut Terbaru",
             "SortSmallestToLargest": "Susun Terkecil kepada Terbesar",
             "SortLargestToSmallest": "Isih Terbesar kepada Terkecil",
-            "Sort": "mengisih"
+            "Sort": "mengisih",
+            "FilterDescription": "Tekan Alt Bawah untuk membuka Menu filter",
+            "SortDescription": "Tekan Enter untuk mengurutkan",
+            "ColumnMenuDescription": "Tekan Alt Bawah untuk membuka Menu Kolom",
+            "GroupDescription": "Tekan Ctrl spasi untuk mengelompokkan",
+            "ColumnHeader": " judul kolom ",
+            "TemplateCell": " adalah sel template",
+            "CommandColumnAria": "adalah tajuk kolom kolom Perintah ",
+            "DialogEdit": "Pengeditan dialog",
+            "ClipBoard": "papan klip",
+            "GroupButton": "tombol grup",
+            "UnGroupAria": "tombol batalkan grup",
+            "GroupSeperator": "Pemisah untuk kolom yang dikelompokkan",
+            "UnGroupIcon": "ungroup kolom yang dikelompokkan ",
+            "GroupedSortIcon": "urutkan kolom yang dikelompokkan ",
+            "GroupedDrag": "Seret kolom yang dikelompokkan",
+            "GroupCaption": " adalah sel groupcaption",
+            "CheckBoxLabel": "kotak centang"
         },
         "pager": {
             "currentPageInfo": "{0} halaman {1}",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Barangan setiap halaman",
             "pagerAllDropDown": "Item",
             "All": "Semua",
-            "totalItemInfo": "({0} item)"
+            "totalItemInfo": "({0} item)",
+            "Container": "Wadah Pager",
+            "Information": "Informasi Pager",
+            "ExternalMsg": "Pesan eksternal pager",
+            "Page": "Halaman ",
+            "Of": " dari ",
+            "Pages": " halaman"
         },
         "kanban": {
             "items": "barangan",

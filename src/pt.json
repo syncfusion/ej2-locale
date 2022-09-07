@@ -101,7 +101,24 @@
             "SortByNewest": "Classificar por mais recente",
             "SortSmallestToLargest": "Classificar do menor para o maior",
             "SortLargestToSmallest": "Classificar do maior para o menor",
-            "Sort": "Ordenar"
+            "Sort": "Ordenar",
+            "FilterDescription": "Pressione Alt para baixo para abrir o menu de filtro",
+            "SortDescription": "Pressione Enter para classificar",
+            "ColumnMenuDescription": "Pressione Alt para baixo para abrir o menu de colunas",
+            "GroupDescription": "Pressione o espaço Ctrl para agrupar",
+            "ColumnHeader": " cabeçalho da coluna ",
+            "TemplateCell": " é célula modelo",
+            "CommandColumnAria": "é o cabeçalho da coluna da coluna de comando ",
+            "DialogEdit": "Editar caixa de diálogo",
+            "ClipBoard": "prancheta",
+            "GroupButton": "Botão de grupo",
+            "UnGroupAria": "botão desagrupar",
+            "GroupSeperator": "Separador para as colunas agrupadas",
+            "UnGroupIcon": "desagrupar a coluna agrupada ",
+            "GroupedSortIcon": "classificar a coluna agrupada ",
+            "GroupedDrag": "Arraste a coluna agrupada",
+            "GroupCaption": " é célula de legenda de grupo",
+            "CheckBoxLabel": "caixa de seleção"
         },
         "pager": {
             "currentPageInfo": "{0} de {1} páginas",
@@ -115,7 +132,13 @@
             "pagerDropDown": "itens por página",
             "pagerAllDropDown": "Itens",
             "All": "Todos",
-            "totalItemInfo": "({0} item)"
+            "totalItemInfo": "({0} item)",
+            "Container": "Contêiner de pager",
+            "Information": "Informações do pager",
+            "ExternalMsg": "Mensagem externa do pager",
+            "Page": "Página ",
+            "Of": " do ",
+            "Pages": " Páginas"
         },
         "kanban": {
             "items": "Itens",

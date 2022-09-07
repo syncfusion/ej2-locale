@@ -101,7 +101,24 @@
             "SortByNewest": "Sortera efter Nyaste",
             "SortSmallestToLargest": "Sortera minsta till största",
             "SortLargestToSmallest": "Sortera störst till minst",
-            "Sort": "Sortera"
+            "Sort": "Sortera",
+            "FilterDescription": "Tryck på Alt ned för att öppna filtermenyn",
+            "SortDescription": "Tryck på Enter för att sortera",
+            "ColumnMenuDescription": "Tryck på Alt ned för att öppna kolumnmenyn",
+            "GroupDescription": "Tryck på Ctrl-mellanslag för att gruppera",
+            "ColumnHeader": " kolumnrubriken ",
+            "TemplateCell": " är mallcell",
+            "CommandColumnAria": "är kolumnrubriken för kommandokolumnen ",
+            "DialogEdit": "Dialog redigera",
+            "ClipBoard": "urklipp",
+            "GroupButton": "Gruppknapp",
+            "UnGroupAria": "dela upp knappen",
+            "GroupSeperator": "Separator för de grupperade kolumnerna",
+            "UnGroupIcon": "dela upp den grupperade kolumnen ",
+            "GroupedSortIcon": "sortera den grupperade kolumnen ",
+            "GroupedDrag": "Dra den grupperade kolumnen",
+            "GroupCaption": " är grupptextcell",
+            "CheckBoxLabel": "kryssruta"
         },
         "pager": {
             "currentPageInfo": "{0} av {1} sidor",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Objekt per sida",
             "pagerAllDropDown": "artiklar",
             "All": "Allt",
-            "totalItemInfo": "({0} artiklar)"
+            "totalItemInfo": "({0} artiklar)",
+            "Container": "Personsökarbehållare",
+            "Information": "Personsökarinformation",
+            "ExternalMsg": "Personsökarens externa meddelande",
+            "Page": "Sida ",
+            "Of": " av ",
+            "Pages": " Sidor"
         },
         "kanban": {
             "items": "objekt",

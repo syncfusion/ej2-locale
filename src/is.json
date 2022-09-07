@@ -84,7 +84,24 @@
             "CustomFilterDatePlaceHolder": "Veldu dagsetningu",
             "AND": "OG",
             "OR": "EÐA",
-            "ShowRowsWhere": "Sýna línur þar sem:"
+            "ShowRowsWhere": "Sýna línur þar sem:",
+            "FilterDescription": "Ýttu á Alt niður til að opna síuvalmynd",
+            "SortDescription": "Ýttu á Enter til að flokka",
+            "ColumnMenuDescription": "Ýttu á Alt niður til að opna dálkavalmynd",
+            "GroupDescription": "Ýttu á Ctrl bil til að flokka",
+            "ColumnHeader": " dálkhaus ",
+            "TemplateCell": " er sniðmát klefi",
+            "CommandColumnAria": "er dálkhaus Command dálks ",
+            "DialogEdit": "Breyta glugga",
+            "ClipBoard": "klemmuspjald",
+            "GroupButton": "Hóphnappur",
+            "UnGroupAria": "taka upp hnappinn",
+            "GroupSeperator": "Skiljari fyrir flokkaða dálka",
+            "UnGroupIcon": "taka upp flokkaða dálkinn ",
+            "GroupedSortIcon": "raða flokkuðum dálknum ",
+            "GroupedDrag": "Dragðu flokkaða dálkinn",
+            "GroupCaption": " er hóptextahólf",
+            "CheckBoxLabel": "gátreit"
         },
         "pager": {
             "currentPageInfo": "{0} af {1} síðum",
@@ -97,7 +114,13 @@
             "previousPagerTooltip": "Farðu í fyrri boðsendingaratriði",
             "pagerDropDown": "Atriði á síðu",
             "pagerAllDropDown": "Hlutir",
-            "All": "Allt"
+            "All": "Allt",
+            "Container": "Pager gámur",
+            "Information": "Pager Upplýsingar",
+            "ExternalMsg": "Símboði ytri skilaboð",
+            "Page": "Bls ",
+            "Of": " af ",
+            "Pages": " Síður"
         },
         "kanban": {
             "items": "hlutir",

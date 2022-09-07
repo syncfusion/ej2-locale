@@ -101,7 +101,24 @@
             "SortByNewest": "En Yeniye Göre Sırala",
             "SortSmallestToLargest": "En Küçükten En Büyüğe Sırala",
             "SortLargestToSmallest": "En Büyükten En Küçüğe Sırala",
-            "Sort": "Çeşit"
+            "Sort": "Çeşit",
+            "FilterDescription": "Filtre Menüsünü açmak için Alt Down tuşuna basın",
+            "SortDescription": "Sıralamak için Enter'a basın",
+            "ColumnMenuDescription": "Sütun Menüsünü açmak için Alt Down tuşuna basın",
+            "GroupDescription": "Gruplamak için Ctrl boşluğuna basın",
+            "ColumnHeader": " Sütun başlığı ",
+            "TemplateCell": " şablon hücresidir",
+            "CommandColumnAria": "Komut sütunu sütun başlığıdır ",
+            "DialogEdit": "iletişim kutusu düzenleme",
+            "ClipBoard": "pano",
+            "GroupButton": "Grup düğmesi",
+            "UnGroupAria": "grubu çöz düğmesi",
+            "GroupSeperator": "Gruplandırılmış sütunlar için ayırıcı",
+            "UnGroupIcon": "gruplandırılmış sütunun grubunu çöz ",
+            "GroupedSortIcon": "gruplandırılmış sütunu sırala ",
+            "GroupedDrag": "Gruplandırılmış sütunu sürükleyin",
+            "GroupCaption": " grup yazısı hücresidir",
+            "CheckBoxLabel": "onay kutusu"
         },
         "pager": {
             "currentPageInfo": "{1} sayfanın {0}",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Sayfa başına öğe sayısı",
             "pagerAllDropDown": "Öğeler",
             "All": "Herşey",
-            "totalItemInfo": "({0} öğe)"
+            "totalItemInfo": "({0} öğe)",
+            "Container": "Çağrı Konteyneri",
+            "Information": "Çağrı Bilgisi",
+            "ExternalMsg": "Çağrı cihazı harici mesajı",
+            "Page": "Sayfa ",
+            "Of": " nın-nin ",
+            "Pages": " Sayfalar"
         },
         "kanban": {
             "items": "ürün",

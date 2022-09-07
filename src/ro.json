@@ -101,7 +101,24 @@
             "SortByNewest": "Sortați după Cele mai noi",
             "SortSmallestToLargest": "Sortați de la cel mai mic la cel mai mare",
             "SortLargestToSmallest": "Sortați de la cel mai mare la cel mai mic",
-            "Sort": "sorta"
+            "Sort": "sorta",
+            "FilterDescription": "Apăsați Alt în jos pentru a deschide meniul filtrului",
+            "SortDescription": "Apăsați Enter pentru a sorta",
+            "ColumnMenuDescription": "Apăsați Alt în jos pentru a deschide Meniul Coloane",
+            "GroupDescription": "Apăsați Ctrl spațiu pentru a grupa",
+            "ColumnHeader": " antetul coloanei ",
+            "TemplateCell": " este celula șablon",
+            "CommandColumnAria": "este antetul coloanei de coloană de comandă ",
+            "DialogEdit": "Editare dialog",
+            "ClipBoard": "clipboard",
+            "GroupButton": "butonul de grup",
+            "UnGroupAria": "butonul de grupare",
+            "GroupSeperator": "Separator pentru coloanele grupate",
+            "UnGroupIcon": "degrupează coloana grupată ",
+            "GroupedSortIcon": "sortați coloana grupată ",
+            "GroupedDrag": "Trageți coloana grupată",
+            "GroupCaption": " este celula subtitrării grupului",
+            "CheckBoxLabel": "Caseta de bifat"
         },
         "pager": {
             "currentPageInfo": "{0} din {1} pagini",
@@ -115,7 +132,13 @@
             "pagerDropDown": "articole pe pagină",
             "pagerAllDropDown": "Articole",
             "All": "Toate",
-            "totalItemInfo": "({0} articol)"
+            "totalItemInfo": "({0} articol)",
+            "Container": "Container pager",
+            "Information": "Informații pager",
+            "ExternalMsg": "Mesaj extern paginator",
+            "Page": "pagină ",
+            "Of": " de ",
+            "Pages": " Pagini"
         },
         "kanban": {
             "items": "articole",

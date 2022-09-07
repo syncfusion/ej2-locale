@@ -101,7 +101,24 @@
             "SortByNewest": "最新で並べ替え",
             "SortSmallestToLargest": "最小から最大に並べ替え",
             "SortLargestToSmallest": "最大から最小に並べ替え",
-            "Sort": "選別"
+            "Sort": "選別",
+            "FilterDescription": "Alt Down を押してフィルター メニューを開きます",
+            "SortDescription": "Enter キーを押して並べ替えます",
+            "ColumnMenuDescription": "Alt Down を押して列メニューを開きます",
+            "GroupDescription": "Ctrl スペースを押してグループ化します",
+            "ColumnHeader": " 列ヘッダー ",
+            "TemplateCell": " テンプレートセルです",
+            "CommandColumnAria": "コマンド列の列ヘッダー ",
+            "DialogEdit": "ダイアログ編集",
+            "ClipBoard": "クリップボード",
+            "GroupButton": "グループボタン",
+            "UnGroupAria": "グループ解除ボタン",
+            "GroupSeperator": "グループ化された列のセパレータ",
+            "UnGroupIcon": "グループ化された列のグループ化を解除します ",
+            "GroupedSortIcon": "グループ化された列を並べ替える ",
+            "GroupedDrag": "グループ化された列をドラッグします",
+            "GroupCaption": " グループキャプションセルです",
+            "CheckBoxLabel": "チェックボックス"
         },
         "pager": {
             "currentPageInfo": "{0}ページのうち{1}ページ",
@@ -115,7 +132,13 @@
             "pagerDropDown": "ページごとのアイテム",
             "pagerAllDropDown": "アイテム",
             "All": "すべて",
-            "totalItemInfo": "（{0}アイテム）"
+            "totalItemInfo": "（{0}アイテム）",
+            "Container": "ページャ コンテナ",
+            "Information": "ポケットベル情報",
+            "ExternalMsg": "ポケットベルの外部メッセージ",
+            "Page": "ページ ",
+            "Of": " の ",
+            "Pages": " ページ"
         },
         "kanban": {
             "items": "アイテム",

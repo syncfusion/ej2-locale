@@ -101,7 +101,24 @@
             "SortByNewest": "Сортировать по новейшим",
             "SortSmallestToLargest": "Сортировать от меньшего к большему",
             "SortLargestToSmallest": "Сортировать от большего к меньшему",
-            "Sort": "Сортировать"
+            "Sort": "Сортировать",
+            "FilterDescription": "Нажмите Alt Down, чтобы открыть меню фильтров.",
+            "SortDescription": "Нажмите Enter, чтобы отсортировать",
+            "ColumnMenuDescription": "Нажмите Alt Down, чтобы открыть меню столбцов.",
+            "GroupDescription": "Нажмите Ctrl пробел, чтобы сгруппировать",
+            "ColumnHeader": " заголовок столбца ",
+            "TemplateCell": " ячейка шаблона",
+            "CommandColumnAria": "заголовок столбца столбца команды ",
+            "DialogEdit": "Диалоговое редактирование",
+            "ClipBoard": "буфер обмена",
+            "GroupButton": "Кнопка группы",
+            "UnGroupAria": "кнопка разгруппировать",
+            "GroupSeperator": "Разделитель для сгруппированных столбцов",
+            "UnGroupIcon": "разгруппировать сгруппированный столбец ",
+            "GroupedSortIcon": "сортировать сгруппированный столбец ",
+            "GroupedDrag": "Перетащите сгруппированный столбец",
+            "GroupCaption": " ячейка группового заголовка",
+            "CheckBoxLabel": "флажок"
         },
         "pager": {
             "currentPageInfo": "{0} из {1} страниц",
@@ -115,7 +132,13 @@
             "pagerDropDown": "пункты на странице",
             "pagerAllDropDown": "Предметы",
             "All": "Все",
-            "totalItemInfo": "({0} заглавие)"
+            "totalItemInfo": "({0} заглавие)",
+            "Container": "Контейнер пейджера",
+            "Information": "Информация о пейджере",
+            "ExternalMsg": "Внешнее сообщение пейджера",
+            "Page": "Страница ",
+            "Of": " из ",
+            "Pages": " Страницы"
         },
         "kanban": {
             "items": "Предметы",

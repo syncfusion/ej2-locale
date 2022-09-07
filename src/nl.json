@@ -101,7 +101,24 @@
             "SortByNewest": "Sorteren op nieuwste",
             "SortSmallestToLargest": "Sorteer van klein naar groot",
             "SortLargestToSmallest": "Sorteer van groot naar klein",
-            "Sort": "Soort"
+            "Sort": "Soort",
+            "FilterDescription": "Druk op Alt Omlaag om het filtermenu te openen",
+            "SortDescription": "Druk op Enter om te sorteren",
+            "ColumnMenuDescription": "Druk op Alt Omlaag om Kolommenu te openen",
+            "GroupDescription": "Druk op Ctrl spatie om te groeperen",
+            "ColumnHeader": " kolomkop ",
+            "TemplateCell": " is sjabloon cel",
+            "CommandColumnAria": "is Command kolom kolomkop ",
+            "DialogEdit": "Dialoogvenster bewerken",
+            "ClipBoard": "klembord",
+            "GroupButton": "Groepsknop",
+            "UnGroupAria": "knop groep opheffen",
+            "GroupSeperator": "Scheidingsteken voor de gegroepeerde kolommen",
+            "UnGroupIcon": "de groepering van de gegroepeerde kolom opheffen ",
+            "GroupedSortIcon": "sorteer de gegroepeerde kolom ",
+            "GroupedDrag": "Sleep de gegroepeerde kolom",
+            "GroupCaption": " is groupcaption cel",
+            "CheckBoxLabel": "selectievakje"
         },
         "pager": {
             "currentPageInfo": "{0} van {1} pagina's",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Items per pagina",
             "pagerAllDropDown": "items",
             "All": "Allemaal",
-            "totalItemInfo": "({0} item)"
+            "totalItemInfo": "({0} item)",
+            "Container": "Pager-container",
+            "Information": "Pager-informatie",
+            "ExternalMsg": "Extern bericht van pieper",
+            "Page": "Bladzijde ",
+            "Of": " van ",
+            "Pages": " Pagina's"
         },
         "kanban": {
             "items": "items",

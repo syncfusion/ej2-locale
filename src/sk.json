@@ -101,7 +101,24 @@
             "SortByNewest": "Zoradiť podľa najnovších",
             "SortSmallestToLargest": "Zoradiť od najmenšieho po najväčšie",
             "SortLargestToSmallest": "Zoradiť od najväčšieho po najmenšie",
-            "Sort": "Triediť"
+            "Sort": "Triediť",
+            "FilterDescription": "Stisknutím Alt dolů otevřete nabídku filtru",
+            "SortDescription": "Pro řazení stiskněte Enter",
+            "ColumnMenuDescription": "Stisknutím Alt dolů otevřete nabídku sloupců",
+            "GroupDescription": "Pro seskupení stiskněte Ctrl mezerník",
+            "ColumnHeader": " záhlaví sloupce ",
+            "TemplateCell": " je buňka šablony",
+            "CommandColumnAria": "je záhlaví sloupce Příkaz ",
+            "DialogEdit": "Úprava dialogu",
+            "ClipBoard": "Schránka",
+            "GroupButton": "Tlačítko skupiny",
+            "UnGroupAria": "tlačítko oddělit",
+            "GroupSeperator": "Oddělovač pro seskupené sloupce",
+            "UnGroupIcon": "oddělit seskupený sloupec ",
+            "GroupedSortIcon": "seřadit seskupený sloupec ",
+            "GroupedDrag": "Přetáhněte seskupený sloupec",
+            "GroupCaption": " je buňka pro popis skupin",
+            "CheckBoxLabel": "zaškrtávací políčko"
         },
         "pager": {
             "currentPageInfo": "{0} z {1} stránok",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Počet položiek na stránku",
             "pagerAllDropDown": "predmety",
             "All": "všetko",
-            "totalItemInfo": "({0} položka)"
+            "totalItemInfo": "({0} položka)",
+            "Container": "Pager kontejner",
+            "Information": "Informace o pageru",
+            "ExternalMsg": "Externí zpráva pageru",
+            "Page": "Strana ",
+            "Of": " z ",
+            "Pages": " Stránky"
         },
         "kanban": {
             "items": "položky",

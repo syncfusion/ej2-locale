@@ -101,7 +101,24 @@
             "SortByNewest": "Poredaj po najnovijim",
             "SortSmallestToLargest": "Razvrstaj od najmanjeg do najvećeg",
             "SortLargestToSmallest": "Razvrstaj od najvećeg do najmanjeg",
-            "Sort": "Vrsta"
+            "Sort": "Vrsta",
+            "FilterDescription": "Pritisnite Alt dolje za otvaranje izbornika filtra",
+            "SortDescription": "Pritisnite Enter za sortiranje",
+            "ColumnMenuDescription": "Pritisnite Alt dolje za otvaranje izbornika stupca",
+            "GroupDescription": "Pritisnite Ctrl razmaknicu za grupiranje",
+            "ColumnHeader": " zaglavlje stupca ",
+            "TemplateCell": " je ćelija predloška",
+            "CommandColumnAria": "je zaglavlje stupca stupca naredbi ",
+            "DialogEdit": "Uređivanje dijaloškog okvira",
+            "ClipBoard": "međuspremnik",
+            "GroupButton": "Grupni gumb",
+            "UnGroupAria": "gumb za razgrupiranje",
+            "GroupSeperator": "Razdjelnik za grupirane stupce",
+            "UnGroupIcon": "razgrupirati grupirani stupac ",
+            "GroupedSortIcon": "sortirati grupirani stupac ",
+            "GroupedDrag": "Povucite grupirani stupac",
+            "GroupCaption": " je ćelija naslova grupe",
+            "CheckBoxLabel": "potvrdni okvir"
         },
         "pager": {
             "currentPageInfo": "{0} od {1} stranica",
@@ -115,7 +132,13 @@
             "pagerDropDown": "stavke po stranici",
             "pagerAllDropDown": "stavke",
             "All": "svi",
-            "totalItemInfo": "({0} predmeta)"
+            "totalItemInfo": "({0} predmeta)",
+            "Container": "Spremnik dojavljivača",
+            "Information": "Informacije o dojavljivaču",
+            "ExternalMsg": "Vanjska poruka dojavljivača",
+            "Page": "Stranica ",
+            "Of": " od ",
+            "Pages": " Stranice"
         },
         "kanban": {
             "items": "stavke",
