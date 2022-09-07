@@ -101,7 +101,24 @@
             "SortByNewest": "Trier par Plus récent",
             "SortSmallestToLargest": "Trier du plus petit au plus grand",
             "SortLargestToSmallest": "Trier du plus grand au plus petit",
-            "Sort": "Sorte"
+            "Sort": "Sorte",
+            "FilterDescription": "Appuyez sur Alt Bas pour ouvrir le menu du filtre",
+            "SortDescription": "Appuyez sur Entrée pour trier",
+            "ColumnMenuDescription": "Appuyez sur Alt Bas pour ouvrir le menu des colonnes",
+            "GroupDescription": "Appuyez sur Ctrl espace pour grouper",
+            "ColumnHeader": " en-tête de colonne ",
+            "TemplateCell": " est une cellule modèle",
+            "CommandColumnAria": "est l'en-tête de colonne de la colonne de commande ",
+            "DialogEdit": "Modifier la boîte de dialogue",
+            "ClipBoard": "presse-papiers",
+            "GroupButton": "Bouton de groupe",
+            "UnGroupAria": "bouton dissocier",
+            "GroupSeperator": "Séparateur pour les colonnes groupées",
+            "UnGroupIcon": "dissocier la colonne groupée ",
+            "GroupedSortIcon": "trier la colonne groupée ",
+            "GroupedDrag": "Faites glisser la colonne groupée",
+            "GroupCaption": " est une cellule de légende de groupe",
+            "CheckBoxLabel": "case à cocher"
         },
         "pager": {
             "currentPageInfo": "{0} de {1} pages",
@@ -115,7 +132,13 @@
             "pagerDropDown": "objets par page",
             "pagerAllDropDown": "Articles",
             "All": "Tout",
-            "totalItemInfo": "({0} élément)"
+            "totalItemInfo": "({0} élément)",
+            "Container": "Conteneur de téléavertisseur",
+            "Information": "Informations sur le téléavertisseur",
+            "ExternalMsg": "Message externe du téléavertisseur",
+            "Page": "Page ",
+            "Of": " de ",
+            "Pages": " pages"
         },
         "kanban": {
             "items": "articles",

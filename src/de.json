@@ -101,7 +101,24 @@
             "SortByNewest": "Nach Neuesten sortieren",
             "SortSmallestToLargest": "Vom Kleinsten zum Größten sortieren",
             "SortLargestToSmallest": "Vom Größten zum Kleinsten sortieren",
-            "Sort": "Sortieren"
+            "Sort": "Sortieren",
+            "FilterDescription": "Drücken Sie die Alt-Nach-unten-Taste, um das Filtermenü zu öffnen",
+            "SortDescription": "Drücken Sie zum Sortieren die Eingabetaste",
+            "ColumnMenuDescription": "Drücken Sie die Alt-Nach-unten-Taste, um das Spaltenmenü zu öffnen",
+            "GroupDescription": "Drücken Sie zum Gruppieren die Strg-Leertaste",
+            "ColumnHeader": " Spaltenüberschrift ",
+            "TemplateCell": " ist eine Vorlagenzelle",
+            "CommandColumnAria": "ist die Spaltenüberschrift der Befehlsspalte ",
+            "DialogEdit": "Dialog bearbeiten",
+            "ClipBoard": "Zwischenablage",
+            "GroupButton": "Gruppenschaltfläche",
+            "UnGroupAria": "Schaltfläche zum Aufheben der Gruppierung",
+            "GroupSeperator": "Trennzeichen für die gruppierten Spalten",
+            "UnGroupIcon": "heben Sie die Gruppierung der gruppierten Spalte auf ",
+            "GroupedSortIcon": "sortieren Sie die gruppierte Spalte ",
+            "GroupedDrag": "Ziehen Sie die gruppierte Spalte",
+            "GroupCaption": " ist eine Gruppenunterschriftszelle",
+            "CheckBoxLabel": "Kontrollkästchen"
         },
         "pager": {
             "currentPageInfo": "{0} von {1} Seiten",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Datensätze pro Seite",
             "pagerAllDropDown": "Datensätze",
             "All": "Alle",
-            "totalItemInfo": "({0} Datensatz)"
+            "totalItemInfo": "({0} Datensatz)",
+            "Container": "Pager-Container",
+            "Information": "Pager-Informationen",
+            "ExternalMsg": "Pager-externe Nachricht",
+            "Page": "Buchseite ",
+            "Of": " von ",
+            "Pages": " Seiten"
         },
         "kanban": {
             "items": "Artikel",

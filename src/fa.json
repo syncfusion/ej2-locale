@@ -101,7 +101,24 @@
             "SortByNewest": "مرتب سازی بر اساس جدیدترین",
             "SortSmallestToLargest": "مرتب سازی کوچکترین به بزرگ ترین",
             "SortLargestToSmallest": "مرتب سازی بزرگترین به کوچکترین",
-            "Sort": "مرتب سازی"
+            "Sort": "مرتب سازی",
+            "FilterDescription": "Alt Down را فشار دهید تا منوی فیلتر باز شود",
+            "SortDescription": "برای مرتب سازی Enter را فشار دهید",
+            "ColumnMenuDescription": "Alt Down را فشار دهید تا منوی ستون باز شود",
+            "GroupDescription": "Ctrl space را برای گروه بندی فشار دهید",
+            "ColumnHeader": " سربرگ ستون ",
+            "TemplateCell": " سلول الگو است",
+            "CommandColumnAria": "سربرگ ستون ستون فرمان است ",
+            "DialogEdit": "ویرایش دیالوگ",
+            "ClipBoard": "کلیپ بورد",
+            "GroupButton": "دکمه گروه",
+            "UnGroupAria": "دکمه لغو گروه",
+            "GroupSeperator": "جداکننده برای ستون های گروه بندی شده",
+            "UnGroupIcon": "ستون گروه بندی شده را از حالت گروه بندی خارج کنید ",
+            "GroupedSortIcon": "ستون گروه بندی شده را مرتب کنید ",
+            "GroupedDrag": "ستون گروه بندی شده را بکشید",
+            "GroupCaption": " سلول زیرنویس گروهی است",
+            "CheckBoxLabel": "چک باکس"
         },
         "pager": {
             "currentPageInfo": "{0} از 1 {صفحه",
@@ -115,7 +132,13 @@
             "pagerDropDown": "موارد در هر صفحه",
             "pagerAllDropDown": "موارد",
             "All": "همه",
-            "totalItemInfo": "({0} مورد)"
+            "totalItemInfo": "({0} مورد)",
+            "Container": "ظرف پیجر",
+            "Information": "اطلاعات پیجر",
+            "ExternalMsg": "پیام خارجی پیجر",
+            "Page": "صفحه ",
+            "Of": " از ",
+            "Pages": " صفحات"
         },
         "kanban": {
             "items": "موارد",
@@ -1752,7 +1775,7 @@
             "of": "از",
             "removeCalculatedField": "آیا مطمئن هستید که می خواهید این قسمت محاسبه شده را حذف کنید؟",
             "yes": "آیا مطمئن هستید که می خواهید این فیلد محاسبه شده را حذف کنید؟",
-            "no": "نه"",
+            "no": "آره",
             "None": "خیر"
         },
         "pdfviewer": {

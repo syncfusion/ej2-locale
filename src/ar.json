@@ -101,7 +101,24 @@
             "SortByNewest": "فرز حسب الأحدث",
             "SortSmallestToLargest": "الفرز من الأصغر إلى الأكبر",
             "SortLargestToSmallest": "الفرز من الأكبر إلى الأصغر",
-            "Sort": "فرز"
+            "Sort": "فرز",
+            "FilterDescription": "اضغط على Alt Down لفتح قائمة التصفية",
+            "SortDescription": "اضغط على Enter للفرز",
+            "ColumnMenuDescription": "اضغط على Alt لأسفل لفتح قائمة العمود",
+            "GroupDescription": "اضغط على مفتاح Ctrl مسافة للمجموعة",
+            "ColumnHeader": " رأس العمود ",
+            "TemplateCell": " هي خلية قالب",
+            "CommandColumnAria": "هو رأس عمود الأمر ",
+            "DialogEdit": "تحرير الحوار",
+            "ClipBoard": "الحافظة",
+            "GroupButton": "زر المجموعة",
+            "UnGroupAria": "زر فك التجميع",
+            "GroupSeperator": "فاصل للأعمدة المجمعة",
+            "UnGroupIcon": "قم بفك تجميع العمود المجمع ",
+            "GroupedSortIcon": "قم بفرز العمود المجمع ",
+            "GroupedDrag": "اسحب العمود المجمع",
+            "GroupCaption": " هي خلية تسمية جماعية",
+            "CheckBoxLabel": "خانة الاختيار"
         },
         "pager": {
             "currentPageInfo": "{0} من {1} صفحة",
@@ -115,7 +132,13 @@
             "pagerDropDown": "مواد لكل صفحة",
             "pagerAllDropDown": "العناصر",
             "All": "الكل",
-            "totalItemInfo": "({0} بند)"
+            "totalItemInfo": "({0} بند)",
+            "Container": "حاوية بيجر",
+            "Information": "معلومات جهاز النداء",
+            "ExternalMsg": "رسالة خارجية بيجر",
+            "Page": "صفحة ",
+            "Of": " من ",
+            "Pages": " الصفحات"
         },
         "kanban": {
             "items": "العناصر",

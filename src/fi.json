@@ -101,7 +101,24 @@
             "SortByNewest": "Lajittele uusimman mukaan",
             "SortSmallestToLargest": "Lajittele pienimmästä suurimpaan",
             "SortLargestToSmallest": "Lajittele suurimmasta pienimpään",
-            "Sort": "Järjestellä"
+            "Sort": "Järjestellä",
+            "FilterDescription": "Avaa suodatinvalikko painamalla Alt-näppäintä",
+            "SortDescription": "Lajittele painamalla Enter",
+            "ColumnMenuDescription": "Avaa sarakevalikko painamalla Alt-näppäintä",
+            "GroupDescription": "Ryhmittele painamalla Ctrl-välilyöntiä",
+            "ColumnHeader": " sarakkeen otsikko ",
+            "TemplateCell": " on mallisolu",
+            "CommandColumnAria": "on Komento-sarakkeen sarakkeen otsikko ",
+            "DialogEdit": "Muokkausikkuna",
+            "ClipBoard": "leikepöydälle",
+            "GroupButton": "Ryhmäpainike",
+            "UnGroupAria": "ryhmittelyn purkupainike",
+            "GroupSeperator": "Ryhmitettyjen sarakkeiden erotin",
+            "UnGroupIcon": "pura ryhmitelty sarake ",
+            "GroupedSortIcon": "lajittele ryhmitelty sarake ",
+            "GroupedDrag": "Vedä ryhmiteltyä saraketta",
+            "GroupCaption": " on ryhmäkuvaussolu",
+            "CheckBoxLabel": "valintaruutu"
         },
         "pager": {
             "currentPageInfo": "{0} {1} sivusta",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Tuotteita sivua kohden",
             "pagerAllDropDown": "Tuotteet",
             "All": "Kaikki",
-            "totalItemInfo": "({0} tuotetta)"
+            "totalItemInfo": "({0} tuotetta)",
+            "Container": "Hakulaitteen kontti",
+            "Information": "Hakulaitteen tiedot",
+            "ExternalMsg": "Hakulaitteen ulkoinen viesti",
+            "Page": "Sivu ",
+            "Of": " / ",
+            "Pages": " Sivut"
         },
         "kanban": {
             "items": "kohdetta",

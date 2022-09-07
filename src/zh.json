@@ -101,7 +101,24 @@
             "SortByNewest": "按最新排序",
             "SortSmallestToLargest": "从小到大排序",
             "SortLargestToSmallest": "从大到小排序",
-            "Sort": "捃"
+            "Sort": "捃",
+            "FilterDescription": "按 Alt Down 打开过滤器菜单",
+            "SortDescription": "按 Enter 进行排序",
+            "ColumnMenuDescription": "按 Alt Down 打开列菜单",
+            "GroupDescription": "按 Ctrl 空格进行分组",
+            "ColumnHeader": " 列标题 ",
+            "TemplateCell": " 是模板单元格",
+            "CommandColumnAria": "是命令列列标题 ",
+            "DialogEdit": "对话框编辑",
+            "ClipBoard": "剪贴板",
+            "GroupButton": "组按钮",
+            "UnGroupAria": "取消组合按钮",
+            "GroupSeperator": "分组列的分隔符",
+            "UnGroupIcon": "取消分组分组的列 ",
+            "GroupedSortIcon": "对分组的列进行排序 ",
+            "GroupedDrag": "拖动分组的列",
+            "GroupCaption": " 是组字幕单元格",
+            "CheckBoxLabel": "复选框"
         },
         "pager": {
             "currentPageInfo": "{0}頁中的{0}頁",
@@ -115,7 +132,13 @@
             "pagerDropDown": "每頁項目",
             "pagerAllDropDown": "物品",
             "All": "所有",
-            "totalItemInfo": "（{0}项目）"
+            "totalItemInfo": "（{0}项目）",
+            "Container": "寻呼机容器",
+            "Information": "寻呼机信息",
+            "ExternalMsg": "寻呼机外部消息",
+            "Page": "页 ",
+            "Of": " 的 ",
+            "Pages": " 页面"
         },
         "kanban": {
             "items": "項目",

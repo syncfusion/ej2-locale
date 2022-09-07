@@ -101,7 +101,24 @@
             "SortByNewest": "Rendezés a legújabbak szerint",
             "SortSmallestToLargest": "Rendezés a legkisebbtől a legnagyobbig",
             "SortLargestToSmallest": "Rendezés a legnagyobbtól a legkisebbig",
-            "Sort": "Fajta"
+            "Sort": "Fajta",
+            "FilterDescription": "Nyomja meg az Alt Le gombot a szűrőmenü megnyitásához",
+            "SortDescription": "A rendezéshez nyomja meg az Enter billentyűt",
+            "ColumnMenuDescription": "Nyomja meg az Alt Le gombot az Oszlopmenü megnyitásához",
+            "GroupDescription": "A csoportosításhoz nyomja meg a Ctrl szóköz billentyűt",
+            "ColumnHeader": " oszlopfejléc ",
+            "TemplateCell": " sablon cella",
+            "CommandColumnAria": "a Parancs oszlop oszlopfejléce ",
+            "DialogEdit": "Dialógus szerkesztés",
+            "ClipBoard": "vágólap",
+            "GroupButton": "Csoport gomb",
+            "UnGroupAria": "csoportbontás gomb",
+            "GroupSeperator": "Elválasztó a csoportosított oszlopokhoz",
+            "UnGroupIcon": "bontsa ki a csoportosított oszlopot ",
+            "GroupedSortIcon": "rendezze a csoportosított oszlopot ",
+            "GroupedDrag": "Húzza a csoportosított oszlopot",
+            "GroupCaption": " csoportfelirat cella",
+            "CheckBoxLabel": "jelölőnégyzetet"
         },
         "pager": {
             "currentPageInfo": "{1} oldal {0}",
@@ -115,7 +132,13 @@
             "pagerDropDown": "oldalankénti tételek",
             "pagerAllDropDown": "példány",
             "All": "Összes",
-            "totalItemInfo": "({0} elem)"
+            "totalItemInfo": "({0} elem)",
+            "Container": "Személyhívó konténer",
+            "Information": "Pager információk",
+            "ExternalMsg": "Pager külső üzenet",
+            "Page": "oldal ",
+            "Of": " nak ",
+            "Pages": " Oldalak"
         },
         "kanban": {
             "items": "példány",

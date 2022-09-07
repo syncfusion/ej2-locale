@@ -101,7 +101,24 @@
             "SortByNewest": "เรียงตามใหม่ล่าสุด",
             "SortSmallestToLargest": "เรียงจากน้อยไปหามาก",
             "SortLargestToSmallest": "เรียงจากมากไปหาน้อย",
-            "Sort": "เรียงลำดับ"
+            "Sort": "เรียงลำดับ",
+            "FilterDescription": "กด Alt Down เพื่อเปิดตัวกรอง Menu",
+            "SortDescription": "กด Enter เพื่อเรียงลำดับ",
+            "ColumnMenuDescription": "กด Alt Down เพื่อเปิดเมนูคอลัมน์",
+            "GroupDescription": "กดแป้นเว้นวรรคเพื่อจัดกลุ่ม",
+            "ColumnHeader": " ส่วนหัวของคอลัมน์ ",
+            "TemplateCell": " เป็นเทมเพลตเซลล์",
+            "CommandColumnAria": "คือส่วนหัวคอลัมน์ของคอลัมน์คำสั่ง ",
+            "DialogEdit": "แก้ไขกล่องโต้ตอบ",
+            "ClipBoard": "คลิปบอร์ด",
+            "GroupButton": "ปุ่มกลุ่ม",
+            "UnGroupAria": "ปุ่มยกเลิกการจัดกลุ่ม",
+            "GroupSeperator": "ตัวคั่นสำหรับคอลัมน์ที่จัดกลุ่ม",
+            "UnGroupIcon": "ยกเลิกการจัดกลุ่มคอลัมน์ที่จัดกลุ่มไว้ ",
+            "GroupedSortIcon": "จัดเรียงคอลัมน์ที่จัดกลุ่ม ",
+            "GroupedDrag": "ลากคอลัมน์ที่จัดกลุ่ม",
+            "GroupCaption": " เป็น groupcaption เซลล์",
+            "CheckBoxLabel": "ช่องทำเครื่องหมาย"
         },
         "pager": {
             "currentPageInfo": "หน้า {0} จาก {1} หน้า",
@@ -115,7 +132,13 @@
             "pagerDropDown": "รายการต่อหน้า",
             "pagerAllDropDown": "รายการ",
             "All": "ทั้งหมด",
-            "totalItemInfo": "({0} รายการ)"
+            "totalItemInfo": "({0} รายการ)",
+            "Container": "คอนเทนเนอร์เพจเจอร์",
+            "Information": "ข้อมูลเพจเจอร์",
+            "ExternalMsg": "ข้อความภายนอกเพจเจอร์",
+            "Page": "หน้าหนังสือ ",
+            "Of": " ของ ",
+            "Pages": " หน้า"
         },
         "kanban": {
             "items": "รายการ",

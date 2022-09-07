@@ -101,7 +101,24 @@
             "SortByNewest": "Sorter efter nyeste",
             "SortSmallestToLargest": "Sorter mindst til størst",
             "SortLargestToSmallest": "Sorter Størst til Mindst",
-            "Sort": "Sortere"
+            "Sort": "Sortere",
+            "FilterDescription": "Tryk på Alt ned for at åbne filtermenuen",
+            "SortDescription": "Tryk på Enter for at sortere",
+            "ColumnMenuDescription": "Tryk på Alt ned for at åbne kolonnemenuen",
+            "GroupDescription": "Tryk på Ctrl mellemrum for at gruppere",
+            "ColumnHeader": " kolonneoverskrift ",
+            "TemplateCell": " er skabeloncelle",
+            "CommandColumnAria": "er Kommando kolonne kolonneoverskrift ",
+            "DialogEdit": "Dialog rediger",
+            "ClipBoard": "udklipsholder",
+            "GroupButton": "Gruppe knap",
+            "UnGroupAria": "ophæv gruppe knap",
+            "GroupSeperator": "Separator for de grupperede kolonner",
+            "UnGroupIcon": "ophæv grupperingen af ​​den grupperede kolonne ",
+            "GroupedSortIcon": "sortere den grupperede kolonne ",
+            "GroupedDrag": "Træk den grupperede kolonne",
+            "GroupCaption": " er gruppetekstcelle",
+            "CheckBoxLabel": "afkrydsningsfeltet"
         },
         "pager": {
             "currentPageInfo": "{0} af {1} sider",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Varer pr. Side",
             "pagerAllDropDown": "Elementer",
             "All": "Alle",
-            "totalItemInfo": "({0} vare)"
+            "totalItemInfo": "({0} vare)",
+            "Container": "Personsøger container",
+            "Information": "Personsøger information",
+            "ExternalMsg": "Personsøger ekstern besked",
+            "Page": "Side ",
+            "Of": " af ",
+            "Pages": " sider"
         },
         "kanban": {
             "items": "elementer",

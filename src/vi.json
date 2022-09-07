@@ -101,7 +101,24 @@
             "SortByNewest": "Sắp xếp theo Mới nhất",
             "SortSmallestToLargest": "Sắp xếp Nhỏ nhất đến Lớn nhất",
             "SortLargestToSmallest": "Sắp xếp Lớn nhất đến Nhỏ nhất",
-            "Sort": "loại"
+            "Sort": "loại",
+            "FilterDescription": "Nhấn Alt Down để mở Menu bộ lọc",
+            "SortDescription": "Nhấn Enter để sắp xếp",
+            "ColumnMenuDescription": "Nhấn Alt Down để mở Menu Cột",
+            "GroupDescription": "Nhấn Ctrl khoảng trắng để nhóm",
+            "ColumnHeader": " tiêu đề cột ",
+            "TemplateCell": " là ô mẫu",
+            "CommandColumnAria": "là tiêu đề cột của cột Lệnh ",
+            "DialogEdit": "Hộp thoại sửa đổi",
+            "ClipBoard": "bìa kẹp hồ sơ",
+            "GroupButton": "Nút nhóm",
+            "UnGroupAria": "nút hủy nhóm",
+            "GroupSeperator": "Dấu phân cách cho các cột được nhóm",
+            "UnGroupIcon": "bỏ nhóm cột được nhóm lại ",
+            "GroupedSortIcon": "sort the grouped column ",
+            "GroupedDrag": "sắp xếp cột được nhóm lại",
+            "GroupCaption": " là ô mã hóa nhóm",
+            "CheckBoxLabel": "hộp kiểm"
         },
         "pager": {
             "currentPageInfo": "{0} trong số {1} trang",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Mục trên mỗi trang",
             "pagerAllDropDown": "Mặt hàng",
             "All": "Tất cả",
-            "totalItemInfo": "({0} mục)"
+            "totalItemInfo": "({0} mục)",
+            "Container": "Bộ chứa Pager",
+            "Information": "Thông tin máy nhắn tin",
+            "ExternalMsg": "Pager tin nhắn bên ngoài",
+            "Page": "Trang ",
+            "Of": " của ",
+            "Pages": " Các trang"
         },
         "kanban": {
             "items": "mặt hàng",

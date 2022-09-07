@@ -101,7 +101,24 @@
             "SortByNewest": "최신순으로 정렬",
             "SortSmallestToLargest": "작은 것부터 큰 것 순으로 정렬",
             "SortLargestToSmallest": "큰 것부터 작은 것 순으로 정렬",
-            "Sort": "활자 한 벌"
+            "Sort": "활자 한 벌",
+            "FilterDescription": "Alt Down을 눌러 필터 메뉴 열기",
+            "SortDescription": "Enter 키를 눌러 정렬",
+            "ColumnMenuDescription": "Alt Down 키를 눌러 열 메뉴 열기",
+            "GroupDescription": "Ctrl 스페이스를 눌러 그룹화",
+            "ColumnHeader": " 열 머리글 ",
+            "TemplateCell": " 템플릿 셀입니다",
+            "CommandColumnAria": "명령 열 열 머리글입니다. ",
+            "DialogEdit": "대화 편집",
+            "ClipBoard": "클립보드",
+            "GroupButton": "그룹 버튼",
+            "UnGroupAria": "그룹 해제 버튼",
+            "GroupSeperator": "그룹화된 열의 구분 기호",
+            "UnGroupIcon": "그룹화된 열 그룹 해제 ",
+            "GroupedSortIcon": "그룹화된 열 정렬 ",
+            "GroupedDrag": "그룹화된 열 드래그",
+            "GroupCaption": " 그룹 캡션 셀입니다",
+            "CheckBoxLabel": "체크박스"
         },
         "pager": {
             "currentPageInfo": "{1} 페이지 중 {0}",
@@ -115,7 +132,13 @@
             "pagerDropDown": "페이지 당 항목",
             "pagerAllDropDown": "아이템",
             "All": "모두",
-            "totalItemInfo": "({0} 항목)"
+            "totalItemInfo": "({0} 항목)",
+            "Container": "호출기 컨테이너",
+            "Information": "호출기 정보",
+            "ExternalMsg": "호출기 외부 메시지",
+            "Page": "페이지 ",
+            "Of": " 의 ",
+            "Pages": " 페이지"
         },
         "kanban": {
             "items": "아이템",

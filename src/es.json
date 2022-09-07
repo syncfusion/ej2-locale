@@ -101,7 +101,24 @@
             "SortByNewest": "Ordenar por más nueva",
             "SortSmallestToLargest": "Ordenar más pequeña a más grande",
             "SortLargestToSmallest": "Ordenar más grande a más pequeña",
-            "Sort": "Clasificar"
+            "Sort": "Clasificar",
+            "FilterDescription": "Presione Alt Abajo para abrir el menú de filtro",
+            "SortDescription": "Presiona Enter para ordenar",
+            "ColumnMenuDescription": "Presiona Alt Abajo para abrir el menú Columna",
+            "GroupDescription": "Presione Ctrl espacio para agrupar",
+            "ColumnHeader": " encabezado de la columna ",
+            "TemplateCell": " es plantilla de celda",
+            "CommandColumnAria": "es el encabezado de la columna de la columna Comando ",
+            "DialogEdit": "Editar cuadro de diálogo",
+            "ClipBoard": "portapapeles",
+            "GroupButton": "Botón de grupo",
+            "UnGroupAria": "botón de desagrupar",
+            "GroupSeperator": "Separador para las columnas agrupadas",
+            "UnGroupIcon": "desagrupar la columna agrupada ",
+            "GroupedSortIcon": "ordenar la columna agrupada ",
+            "GroupedDrag": "Arrastre la columna agrupada",
+            "GroupCaption": " es celda de subtítulos de grupo",
+            "CheckBoxLabel": "caja"
         },
         "pager": {
             "currentPageInfo": "{0} de {1} páginas",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Artículos por página",
             "pagerAllDropDown": "Artículos",
             "All": "Todos",
-            "totalItemInfo": "({0} artículo)"
+            "totalItemInfo": "({0} artículo)",
+            "Container": "Contenedor de buscapersonas",
+            "Information": "Información del localizador",
+            "ExternalMsg": "Mensaje externo del buscapersonas",
+            "Page": "Página ",
+            "Of": " de ",
+            "Pages": " Paginas"
         },
         "kanban": {
             "items": "artículos",

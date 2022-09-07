@@ -101,7 +101,24 @@
             "SortByNewest": "מיין לפי הכי חדש",
             "SortSmallestToLargest": "מיין מהקטן לגדול ביותר",
             "SortLargestToSmallest": "מיין מהגדול לקטן ביותר",
-            "Sort": "מיין"
+            "Sort": "מיין",
+            "FilterDescription": "הקש Alt Down כדי לפתוח את תפריט הסינון",
+            "SortDescription": "הקש Enter כדי למיין",
+            "ColumnMenuDescription": "הקש Alt Down כדי לפתוח את תפריט העמודות",
+            "GroupDescription": "הקש על מקש Ctrl כדי לקבץ",
+            "ColumnHeader": " כותרת העמודה ",
+            "TemplateCell": " הוא תא תבנית",
+            "CommandColumnAria": "הוא כותרת העמודה Command ",
+            "DialogEdit": "עריכת דיאלוג",
+            "ClipBoard": "לוח כתיבה",
+            "GroupButton": "כפתור קבוצה",
+            "UnGroupAria": "לחצן ביטול קבוצה",
+            "GroupSeperator": "מפריד עבור העמודות המקובצות",
+            "UnGroupIcon": "בטל קיבוץ של העמודה המקובצת ",
+            "GroupedSortIcon": "מיין את העמודה המקובצת ",
+            "GroupedDrag": "גרור את העמודה המקובצת",
+            "GroupCaption": " הוא תא כיתוב קבוצתי",
+            "CheckBoxLabel": "תיבת סימון"
         },
         "pager": {
             "currentPageInfo": "{0} מתוך {1} עמודים",
@@ -115,7 +132,13 @@
             "pagerDropDown": "פריטים לעמוד",
             "pagerAllDropDown": "פריטים",
             "All": "את כל",
-            "totalItemInfo": "({0} פריט)"
+            "totalItemInfo": "({0} פריט)",
+            "Container": "מיכל ביפר",
+            "Information": "מידע ביפר",
+            "ExternalMsg": "הודעה חיצונית של ביפר",
+            "Page": "עמוד ",
+            "Of": " שֶׁל ",
+            "Pages": " דפים"
         },
         "kanban": {
             "items": "פריטים",

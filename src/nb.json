@@ -101,7 +101,24 @@
             "SortByNewest": "Sorter etter nyeste",
             "SortSmallestToLargest": "Sorter minst til størst",
             "SortLargestToSmallest": "Sorter størst til minste",
-            "Sort": "Sortere"
+            "Sort": "Sortere",
+            "FilterDescription": "Trykk Alt ned for å åpne filtermenyen",
+            "SortDescription": "Trykk Enter for å sortere",
+            "ColumnMenuDescription": "Trykk Alt ned for å åpne kolonnemenyen",
+            "GroupDescription": "Trykk Ctrl-mellomrom for å gruppere",
+            "ColumnHeader": " kolonneoverskrift ",
+            "TemplateCell": " er malcelle",
+            "CommandColumnAria": "er Kommando-kolonneoverskriften ",
+            "DialogEdit": "Dialogredigering",
+            "ClipBoard": "utklippstavle",
+            "GroupButton": "Gruppeknapp",
+            "UnGroupAria": "oppheve gruppering-knappen",
+            "GroupSeperator": "Skilletegn for de grupperte kolonnene",
+            "UnGroupIcon": "degrupperer den grupperte kolonnen ",
+            "GroupedSortIcon": "sortere den grupperte kolonnen ",
+            "GroupedDrag": "Dra den grupperte kolonnen",
+            "GroupCaption": " er gruppetekstcelle",
+            "CheckBoxLabel": "avmerkingsboksen"
         },
         "pager": {
             "currentPageInfo": "{0} av {1} sider",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Elementer per side",
             "pagerAllDropDown": "elementer",
             "All": "Alle",
-            "totalItemInfo": "({0} punkt)"
+            "totalItemInfo": "({0} punkt)",
+            "Container": "Personsøkerbeholder",
+            "Information": "Personsøkerinformasjon",
+            "ExternalMsg": "Personsøker ekstern melding",
+            "Page": "Side ",
+            "Of": " av ",
+            "Pages": " Sider"
         },
         "kanban": {
             "items": "elementer",

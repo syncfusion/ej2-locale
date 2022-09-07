@@ -101,7 +101,24 @@
             "SortByNewest": "Sort by Newest",
             "SortSmallestToLargest": "Sort Smallest to Largest",
             "SortLargestToSmallest": "Sort Largest to Smallest",
-            "Sort": "Sort"
+            "Sort": "Sort",
+            "FilterDescription": "Press Alt Down to open filter Menu",
+            "SortDescription": "Press Enter to sort",
+            "ColumnMenuDescription": "Press Alt Down to open Column Menu",
+            "GroupDescription": "Press Ctrl space to group",
+            "ColumnHeader": " column header ",
+            "TemplateCell": " is template cell",
+            "CommandColumnAria": "is Command column column header ",
+            "DialogEdit": "Dialog edit",
+            "ClipBoard": "clipboard",
+            "GroupButton": "Group button",
+            "UnGroupAria": "ungroup button",
+            "GroupSeperator": "Separator for the grouped columns",
+            "UnGroupIcon": "ungroup the grouped column ",
+            "GroupedSortIcon": "sort the grouped column ",
+            "GroupedDrag": "Drag the grouped column",
+            "GroupCaption": " is groupcaption cell",
+            "CheckBoxLabel": "checkbox"
         },
         "pager": {
             "currentPageInfo": "{0} of {1} pages",
@@ -115,7 +132,13 @@
             "pagerDropDown": "Items per page",
             "pagerAllDropDown": "Items",
             "All": "All",
-            "totalItemInfo": "({0} item)"
+            "totalItemInfo": "({0} item)",
+            "Container": "Pager Container",
+            "Information": "Pager Information",
+            "ExternalMsg": "Pager external message",
+            "Page": "Page ",
+            "Of": " of ",
+            "Pages": " Pages"
         },
         "kanban": {
             "items": "items",
