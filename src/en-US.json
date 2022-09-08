@@ -1804,6 +1804,7 @@
             "Underline context": "Underline",
             "Strikethrough context": "Strike through",
             "Server error": "Web-service is not listening. PDF Viewer depends on web-service for all it's features. Please start the web service to continue.",
+            "Client error": "Client-side error is found. Please check the custom headers provided in the AjaxRequestSettings property and web action methods in the ServerActionSettings property.",
             "Open text": "Open",
             "First text": "First Page",
             "Previous text": "Previous Page",
