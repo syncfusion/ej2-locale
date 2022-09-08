@@ -1792,6 +1792,7 @@
             "Undo": "Undo",
             "Redo": "Redo",
             "Annotation": "Add or Edit annotations",
+            "FormDesigner": "Add and Edit Form Fields",
             "Highlight": "Highlight Text",
             "Underline": "Underline Text",
             "Strikethrough": "Strikethrough Text",
