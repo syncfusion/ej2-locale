@@ -2443,7 +2443,14 @@
             "Type Signature": "TIPO",
             "Upload Signature": "SUBIR",
             "Browse Signature Image": "NAVEGAR",
-            "Save Signature": "Guardar firma"
+            "Save Signature": "Guardar firma",
+            "Save Initial": "Guardar inicial",
+            "Textbox": "Caja de texto",
+            "Password": "Clave",
+            "Check Box": "Caja",
+            "Radio Button": "Boton de radio",
+            "Dropdown": "Desplegable",
+            "List Box": "Cuadro de lista"
         },
         "documenteditor": {
             "Table": "Mesa",
