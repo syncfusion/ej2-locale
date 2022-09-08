@@ -2333,6 +2333,7 @@
             "Underline context": "Subrayar",
             "Strikethrough context": "Penetrar",
             "Server error": "El servicio web no está escuchando. Visor de PDFr depende del servicio web para todas sus funciones. Inicie el servicio web para continuar.",
+            "Client error": "Se encuentra un error del lado del cliente. Verifique los encabezados personalizados proporcionados en la propiedad AjaxRequestSettings y los métodos de acción web en la propiedad ServerActionSettings.",
             "Open text": "Abierto",
             "First text": "Primera página",
             "Previous text": "Pagina anterior",
