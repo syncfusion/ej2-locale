@@ -1905,7 +1905,7 @@
             "Import Failed": "Tipo de archivo JSON o nombre de archivo no válido; seleccione un archivo JSON válido",
             "File not found": "El archivo JSON importado no se encuentra en la ubicación deseada",
             "Export Failed": "La acción de exportación de anotaciones ha fallado; asegúrese de que las anotaciones se agreguen correctamente",
-            "of": "de",
+            "of": "de ",
             "Dynamic": "Dinámico",
             "Standard Business": "Negocio estándar",
             "Sign Here": "Firma aqui",
