@@ -2401,7 +2401,7 @@
             "overflowCountTemplate": "+${count} more..",
             "totalCountTemplate": "${count} selected"
         },
-        "pdfviewer": {
+        "Pdfviewer": {
             "PdfViewer": "PDF Viewer",
             "Cancel": "Cancel",
             "Download file": "Download file",
