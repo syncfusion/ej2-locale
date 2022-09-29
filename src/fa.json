@@ -375,6 +375,8 @@
             "PickACategory": "یک دسته را انتخاب کنید",
             "Description": "شرح",
             "UnsupportedFile": "فایل پشتیبانی نشده",
+            "DataLimitExceeded": "داده های فایل خیلی بزرگ است و پردازش آن زمان بیشتری می برد، آیا می خواهید ادامه دهید؟",
+            "FileSizeLimitExceeded": "اندازه فایل خیلی بزرگ است و پردازش آن زمان بیشتری می برد، آیا می خواهید ادامه دهید؟",
             "InvalidUrl": "URL نامعتبر است",
             "SUM": "یک سری اعداد و / یا سلول را اضافه می کند.",
             "SUMIF": "سلول ها را بر اساس شرایط مشخص شده اضافه می کند.",
@@ -521,14 +523,14 @@
             "LargeName": "نام فایل نمی تواند خالی باشد.",
             "FormatCells": "قالب های سلول",
             "FormatRows": "ردیف های قالب",
-            "Format Columns": "ستون های قالب",
+            "FormatColumns": "قالب بندی ستون ها",
             "InsertLinks": "درج پیوندها",
             "ProtectContent": "از محتویات سلول های قفل شده محافظت کنید",
             "ProtectAllowUser": "به همه کاربران این کاربرگ اجازه دهید:",
             "EditAlert": "سلولی که می خواهید تغییر دهید محافظت می شود. برای ایجاد تغییر ، از ورق محافظت نکنید.",
             "ClearValidation": "اعتبار سنجی پاک کنید",
             "ISNUMBER": "وقتی مقدار به عنوان یک مقدار عددی تجزیه می شود ، درست می شود.",
-            "Round": "یک عدد را به تعداد مشخصی از رقم ها می چرخانیم.",
+            "ROUND": "یک عدد را به تعداد مشخصی از ارقام گرد می کند.",
             "GEOMEAN": "میانگین هندسی یک آرایه یا دامنه داده های مثبت را برمی گرداند.",
             "POWER": "نتیجه یک عدد مطرح شده به قدرت را برمی گرداند",
             "LOG": "لگاریتم یک عدد را به پایه ای که مشخص کرده اید برمی گرداند.",
@@ -736,6 +738,18 @@
             "IsProtected": "محافظت می شود",
             "PDF": "قالب سند قابل حمل",
             "AutoFillMergeAlertMsg": "قالب سند قابل حمل",
+            "Fluent": "روان، سلیس",
+            "FluentDark": "روان تاریک",
+            "Custom": "سفارشی",
+            "WEEKDAY": "روز هفته مربوط به یک تاریخ را برمی گرداند.",
+            "FillSeries": "پر کردن سری",
+            "CopyCells": "سلول ها را کپی کنید",
+            "FillFormattingOnly": "فقط فرمت پر کنید",
+            "FillWithoutFormatting": "بدون قالب بندی پر کنید",
+            "CustomFormat": "فرمت های اعداد سفارشی",
+            "CustomFormatSample": "تایپ کنید",
+            "Format Columns": "ستون های قالب",
+            "Round": "یک عدد را به تعداد مشخصی از رقم ها می چرخانیم.",
             "SelectBorderOption": "گزینه Border را انتخاب کنید"
         },
         "filemanager": {
@@ -1350,9 +1364,6 @@
             "True": "درست است، واقعی",
             "False": "نادرست"
         },
-        "barcode": {},
-        "datamatrix": {},
-        "qrcode": {},
         "pivotview": {
             "grandTotal": "بزرگ توتال",
             "total": "جمع",
@@ -1624,7 +1635,15 @@
             "bottom": "پایین",
             "None": "هیچ یک",
             "stackingline": "انباشته خط",
-            "stackingline100": "100 انباشته خط"
+            "stackingline100": "100 انباشته خط",
+            "rowPage": "پیجر ردیفی",
+            "rowPerPage": "ردیف در هر صفحه",
+            "columnPage": "پیجر ستونی",
+            "columnPerPage": "ستون در هر صفحه",
+            "goToFirstPage": "به صفحه اول بروید",
+            "goToPreviousPage": "برو به صفحه قبل",
+            "goToNextPage": "به صفحه بعد بروید",
+            "goToLastPage": "برو به صفحه آخر"
         },
         "pivotfieldlist": {
             "staticFieldList": "لیست زمینه محوری",
@@ -2141,7 +2160,6 @@
             "Use bookmarks": "از نشانک ها استفاده کنید",
             "Table of Contents": "فهرست مطالب"
         },
-        "drawing": {},
         "rich-text-editor": {
             "alignments": "ترازها",
             "justifyleft": "justifyLeft",
@@ -2299,7 +2317,8 @@
             "ZoomOut": "کوچک نمایی",
             "Reset": "تنظیم مجدد",
             "Pan": "ماهی تابه",
-            "ResetZoom": "تنظیم مجدد بزرگنمایی"
+            "ResetZoom": "تنظیم مجدد بزرگنمایی",
+            "ImageNotFound": "تصویر پیدا نشد"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "هیچ سوابقی یافت نشد",
@@ -2897,6 +2916,9 @@
             "Information": "اطلاعات",
             "Yes": "آره",
             "No": "آره",
+            "Page Break": "صفحه شکستن",
+            "Section Break Next Page": "شکست بخش (صفحه بعدی)",
+            "Unsupported format": "فرمت فایلی که انتخاب کرده اید پشتیبانی نمی شود. لطفا قالب معتبر را انتخاب کنید.",
             "You may format text only with certain styles": "شما می توانید متن را فقط با سبک های خاصی قالب بندی کنید.",
             "Ignore all": "نادیده گرفتن همه"
         },
@@ -3072,7 +3094,8 @@
             "Heading 6": "سرفصل 6",
             "ZoomLevelTooltip": "سطح زوم. برای باز کردن گزینه های Zoom کلیک کنید یا ضربه بزنید.",
             "None": "هیچ یک",
-            "Borders": "مرز ها"
+            "Borders": "مرز ها",
+            "ShowHiddenMarks Tooltip": "کاراکترهای پنهان مانند فاصله، برگه، علامت پاراگراف و شکست را نشان دهید. (Ctrl + *)"
         },
         "carousel": {
             "nextSlide": "اسلاید بعدی",
@@ -3082,6 +3105,54 @@
             "previousSlide": "اسلاید قبلی",
             "slide": "اسلاید",
             "slideShow": "نمایش اسلاید"
+        },
+        "message": {
+            "close": "نزدیک"
+        },
+        "image-editor": {
+            "Crop": "برش",
+            "ZoomIn": "بزرگنمایی",
+            "ZoomOut": "کوچک نمایی",
+            "Transform": "تبدیل",
+            "Annotation": "حاشیه نویسی",
+            "Text": "اضافه کردن متن",
+            "Pen": "خودکار",
+            "Reset": "بازنشانی کنید",
+            "Save": "صرفه جویی",
+            "Select": "انتخاب کنید",
+            "RotateLeft": "چرخش به چپ",
+            "RotateRight": "به طرف راست بچرخان",
+            "HorizontalFlip": "تلنگر افقی",
+            "VerticalFlip": "چرخش عمودی",
+            "OK": "خوب",
+            "Cancel": "لغو کنید",
+            "FillColor": "رنگ را پر کنید",
+            "StrokeColor": "رنگ سکته مغزی",
+            "StrokeWidth": "عرض سکته مغزی",
+            "FontFamily": "خانواده فونت",
+            "FontStyle": "نوع قلم",
+            "FontSize": "اندازه فونت",
+            "FontColor": "رنگ فونت",
+            "Pan": "ماهی تابه",
+            "Move": "حرکت",
+            "Custom": "سفارشی",
+            "Square": "مربع",
+            "Circle": "دایره",
+            "Rectangle": "مستطیل",
+            "Line": "خط",
+            "Default": "پیش فرض",
+            "Bold": "پررنگ",
+            "Italic": "مورب",
+            "BoldItalic": "کج با حروف درشت",
+            "XSmall": "X-Small",
+            "Small": "کم اهمیت",
+            "Medium": "متوسط",
+            "Large": "بزرگ",
+            "XLarge": "ایکس لارج",
+            "ABC": "ABC"
+        },
+        "mention": {
+            "noRecordsTemplate": "هیچ رکوردی یافت نشد"
         }
     }
 }
