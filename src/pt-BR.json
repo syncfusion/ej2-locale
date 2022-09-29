@@ -375,6 +375,8 @@
             "PickACategory": "Escolha uma categoria",
             "Description": "Descrição",
             "UnsupportedFile": "Arquivo não suportado",
+            "DataLimitExceeded": "Os dados do arquivo são muito grandes e demoram mais para serem processados. Deseja continuar?",
+            "FileSizeLimitExceeded": "O tamanho do arquivo é muito grande e leva mais tempo para processar, deseja continuar?",
             "InvalidUrl": "URL inválida",
             "SUM": "Adiciona uma série de números e / ou células.",
             "SUMIF": "Adiciona as células com base na condição especificada.",
@@ -521,14 +523,14 @@
             "LargeName": "O nome do arquivo não pode estar vazio.",
             "FormatCells": "Formatar celulas",
             "FormatRows": "Formatar linhas",
-            "Format Columns": "Formatar colunas",
+            "FormatColumns": "Colunas de formato",
             "InsertLinks": "Inserir links",
             "ProtectContent": "Proteger o conteúdo de células bloqueadas",
             "ProtectAllowUser": "Permita que todos os usuários desta planilha:",
             "EditAlert": "A célula que você está tentando alterar está protegida. Para fazer alterações, desproteja a folha.",
             "ClearValidation": "Limpar validação",
             "ISNUMBER": "Retorna true quando o valor analisa como um valor numérico.",
-            "Round": "Arredonda um número para um número especificado de dígitos.",
+            "ROUND": "Arredonda um número para um número especificado de dígitos.",
             "GEOMEAN": "Retorna a média geométrica de uma matriz ou intervalo de dados positivos.",
             "POWER": "Retorna o resultado de um número elevado ao poder",
             "LOG": "Retorna o logaritmo de um número para a base que você especificar.",
@@ -736,6 +738,18 @@
             "IsProtected": "está protegido",
             "PDF": "Formato de Documento Portátil",
             "AutoFillMergeAlertMsg": "Formato de Documento Portátil",
+            "Fluent": "Fluente",
+            "FluentDark": "Fluente Escuro",
+            "Custom": "Personalizado",
+            "WEEKDAY": "Retorna o dia da semana correspondente a uma data.",
+            "FillSeries": "Série de preenchimento",
+            "CopyCells": "Copiar células",
+            "FillFormattingOnly": "Preencher apenas formatação",
+            "FillWithoutFormatting": "Preencher sem formatar",
+            "CustomFormat": "Formatos de número personalizados",
+            "CustomFormatSample": "Modelo",
+            "Format Columns": "Formatar colunas",
+            "Round": "Arredonda um número para um número especificado de dígitos.",
             "SelectBorderOption": "Selecionar opção de borda"
         },
         "filemanager": {
@@ -1350,9 +1364,6 @@
             "True": "verdadeiro",
             "False": "falso"
         },
-        "barcode": {},
-        "datamatrix": {},
-        "qrcode": {},
         "pivotview": {
             "grandTotal": "Total geral",
             "total": "Total",
@@ -1624,7 +1635,15 @@
             "bottom": "Inferior",
             "None": "Nenhum",
             "stackingline": "Linha empilhada",
-            "stackingline100": "100% Linha empilhada"
+            "stackingline100": "100% Linha empilhada",
+            "rowPage": "pager de linha",
+            "rowPerPage": "Linhas por página",
+            "columnPage": "pager de coluna",
+            "columnPerPage": "Colunas por página",
+            "goToFirstPage": "Ir para a primeira página",
+            "goToPreviousPage": "Ir para a página anterior",
+            "goToNextPage": "Ir para a próxima página",
+            "goToLastPage": "Ir para a última página"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista de campos dinâmicos",
@@ -2141,7 +2160,6 @@
             "Use bookmarks": "Usar marcadores",
             "Table of Contents": "Índice"
         },
-        "drawing": {},
         "rich-text-editor": {
             "alignments": "alinhamentos",
             "justifyleft": "justificar a esquerda",
@@ -2299,7 +2317,8 @@
             "ZoomOut": "Reduzir",
             "Reset": "Redefinir",
             "Pan": "Pan",
-            "ResetZoom": "Redefinir zoom"
+            "ResetZoom": "Redefinir zoom",
+            "ImageNotFound": "Imagem não encontrada"
         },
         "drop-down-tree": {
             "noRecordsTemplate": "Nenhum registro foi encontrado",
@@ -2897,6 +2916,9 @@
             "Information": "Em formação",
             "Yes": "Sim",
             "No": "Não",
+            "Page Break": "Quebra de página",
+            "Section Break Next Page": "Quebra de Seção (Próxima Página)",
+            "Unsupported format": "O formato de arquivo que você selecionou não é compatível. Por favor, escolha um formato válido.",
             "You may format text only with certain styles": "Você pode formatar o texto apenas com certos estilos.",
             "Ignore all": "Ignore tudo"
         },
@@ -3072,7 +3094,8 @@
             "Heading 6": "Título 6",
             "ZoomLevelTooltip": "Nível de zoom. Clique ou toque para abrir as opções de Zoom.",
             "None": "Nenhum",
-            "Borders": "Fronteiras"
+            "Borders": "Fronteiras",
+            "ShowHiddenMarks Tooltip": "Mostre os caracteres ocultos como espaços, tabulação, marcas de parágrafo e quebras.(Ctrl + *)"
         },
         "carousel": {
             "nextSlide": "Próximo slide",
@@ -3082,6 +3105,54 @@
             "previousSlide": "Slide anterior",
             "slide": "Slide",
             "slideShow": "Apresentação de slides"
+        },
+        "message": {
+            "close": "Perto"
+        },
+        "image-editor": {
+            "Crop": "Colheita",
+            "ZoomIn": "Mais Zoom",
+            "ZoomOut": "Reduzir o zoom",
+            "Transform": "Transformar",
+            "Annotation": "Anotação",
+            "Text": "Adicione texto",
+            "Pen": "Caneta",
+            "Reset": "Redefinir",
+            "Save": "Salvar",
+            "Select": "Selecionar",
+            "RotateLeft": "Vire à esquerda",
+            "RotateRight": "Vire à direita",
+            "HorizontalFlip": "Inversão horizontal",
+            "VerticalFlip": "Virar Vertical",
+            "OK": "OK",
+            "Cancel": "Cancelar",
+            "FillColor": "Cor de preenchimento",
+            "StrokeColor": "Cor do traço",
+            "StrokeWidth": "Largura do traçado",
+            "FontFamily": "Família de fontes",
+            "FontStyle": "Estilo de fonte",
+            "FontSize": "Tamanho da fonte",
+            "FontColor": "Cor da fonte",
+            "Pan": "Frigideira",
+            "Move": "Jogada",
+            "Custom": "Personalizado",
+            "Square": "Quadrado",
+            "Circle": "Círculo",
+            "Rectangle": "Retângulo",
+            "Line": "Linha",
+            "Default": "Predefinição",
+            "Bold": "Audacioso",
+            "Italic": "itálico",
+            "BoldItalic": "Negrito itálico",
+            "XSmall": "X-Pequeno",
+            "Small": "Pequena",
+            "Medium": "Médio",
+            "Large": "Grande",
+            "XLarge": "extra grande",
+            "ABC": "abc"
+        },
+        "mention": {
+            "noRecordsTemplate": "Nenhum registro foi encontrado"
         }
     }
 }
