@@ -68,6 +68,7 @@
             "DeleteRecord": "Smazat záznam",
             "FilterMenu": "Filtr",
             "SelectAll": "Vybrat vše",
+            "AddCurrentSelection": "Přidat aktuální výběr do filtru",
             "Blanks": "Blanks",
             "FilterTrue": "Skutečný",
             "FilterFalse": "Nepravdivé",

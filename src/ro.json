@@ -68,6 +68,7 @@
             "DeleteRecord": "Ștergeți înregistrarea",
             "FilterMenu": "Filtru",
             "SelectAll": "Selectează tot",
+            "AddCurrentSelection": "Adăugați selecția curentă pentru a filtra",
             "Blanks": "Blanks",
             "FilterTrue": "Adevărat",
             "FilterFalse": "Fals",

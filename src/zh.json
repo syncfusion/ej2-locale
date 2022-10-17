@@ -68,6 +68,7 @@
             "DeleteRecord": "刪除記錄",
             "FilterMenu": "過濾",
             "SelectAll": "全選",
+            "AddCurrentSelection": "將當前選擇添加到過濾器",
             "Blanks": "空白",
             "FilterTrue": "真正",
             "FilterFalse": "假",

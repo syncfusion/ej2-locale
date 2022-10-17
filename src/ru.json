@@ -68,6 +68,7 @@
             "DeleteRecord": "Удалить запись",
             "FilterMenu": "Фильтр",
             "SelectAll": "Выбрать все",
+            "AddCurrentSelection": "Добавить текущий выбор в фильтр",
             "Blanks": "Пробелы",
             "FilterTrue": "Правда",
             "FilterFalse": "Ложь",

@@ -68,6 +68,7 @@
             "DeleteRecord": "ลบบันทึก",
             "FilterMenu": "กรอง",
             "SelectAll": "เลือกทั้งหมด",
+            "AddCurrentSelection": "เพิ่มการเลือกปัจจุบันลงในตัวกรอง",
             "Blanks": "ช่องว่าง",
             "FilterTrue": "จริง",
             "FilterFalse": "เท็จ",

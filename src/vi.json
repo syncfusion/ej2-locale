@@ -68,6 +68,7 @@
             "DeleteRecord": "Xóa hồ sơ",
             "FilterMenu": "Bộ lọc",
             "SelectAll": "Chọn tất cả",
+            "AddCurrentSelection": "Thêm lựa chọn hiện tại vào bộ lọc",
             "Blanks": "Khoảng trống",
             "FilterTrue": "Thật",
             "FilterFalse": "Sai",

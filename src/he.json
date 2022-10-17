@@ -68,6 +68,7 @@
             "DeleteRecord": "מחק רשומה",
             "FilterMenu": "סנן",
             "SelectAll": "בחר הכל",
+            "AddCurrentSelection": "הוסף את הבחירה הנוכחית לסינון",
             "Blanks": "החסר",
             "FilterTrue": "נכון",
             "FilterFalse": "שקר",

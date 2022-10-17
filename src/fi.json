@@ -68,6 +68,7 @@
             "DeleteRecord": "Poista tietue",
             "FilterMenu": "Suodattaa",
             "SelectAll": "Valitse kaikki",
+            "AddCurrentSelection": "Lisää nykyinen valinta suodattimeen",
             "Blanks": "aihioita",
             "FilterTrue": "Totta",
             "FilterFalse": "Väärä",

@@ -68,6 +68,7 @@
             "DeleteRecord": "Slett posten",
             "FilterMenu": "Filter",
             "SelectAll": "Velg alle",
+            "AddCurrentSelection": "Legg til gjeldende utvalg for å filtrere",
             "Blanks": "blanks",
             "FilterTrue": "ekte",
             "FilterFalse": "Falsk",

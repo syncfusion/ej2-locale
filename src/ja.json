@@ -68,6 +68,7 @@
             "DeleteRecord": "レコードを削除",
             "FilterMenu": "フィルタ",
             "SelectAll": "すべて選択",
+            "AddCurrentSelection": "現在の選択をフィルターに追加",
             "Blanks": "ブランク",
             "FilterTrue": "本当だ",
             "FilterFalse": "偽",

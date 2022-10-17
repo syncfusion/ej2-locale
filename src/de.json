@@ -68,6 +68,7 @@
             "DeleteRecord": "Datensatz löschen",
             "FilterMenu": "Filter",
             "SelectAll": "Wählen Sie Alle",
+            "AddCurrentSelection": "Aktuelle Auswahl zum Filter hinzufügen",
             "Blanks": "Leerzeichen",
             "FilterTrue": "Wahr",
             "FilterFalse": "Falsch",

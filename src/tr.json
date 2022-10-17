@@ -68,6 +68,7 @@
             "DeleteRecord": "Kaydı sil",
             "FilterMenu": "filtre",
             "SelectAll": "Hepsini seç",
+            "AddCurrentSelection": "Geçerli seçimi filtrelemeye ekle",
             "Blanks": "Boşluklar",
             "FilterTrue": "Doğru",
             "FilterFalse": "Yanlış",
