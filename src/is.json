@@ -1882,7 +1882,7 @@
             "Font size": "Leturstærð",
             "Free Text": "Frjáls texti",
             "Import Failed": "Ógild JSON skráargerð eða skráarheiti; vinsamlegast veldu gilda JSON skrá",
-            "Import PDF Failed": "Ógild PDF skráargerð eða PDF skrá fannst ekki. Vinsamlegast veldu gilt PDF skjal",
+            "Import PDF Failed": "Ógild PDF skráargerð eða PDF skrá er ekki til. Vinsamlegast veldu gilt PDF skjal",
             "File not found": "Innflutt JSON skrá fannst ekki á viðkomandi stað",
             "Export Failed": "Aðgerð að flytja út athugasemdir mistókst; vinsamlegast vertu viss um að athugasemdum sé bætt við á réttan hátt",
             "of": "af ",
