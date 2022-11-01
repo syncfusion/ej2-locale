@@ -68,6 +68,7 @@
             "DeleteRecord": "ضبط را حذف کنید",
             "FilterMenu": "فیلتر",
             "SelectAll": "انتخاب همه",
+            "AddCurrentSelection": "انتخاب فعلی را به فیلتر اضافه کنید",
             "Blanks": "جای خالی",
             "FilterTrue": "درست است، واقعی",
             "FilterFalse": "غلط",

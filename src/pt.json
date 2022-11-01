@@ -68,6 +68,7 @@
             "DeleteRecord": "Apagar registro",
             "FilterMenu": "Filtro",
             "SelectAll": "Selecionar tudo",
+            "AddCurrentSelection": "Adicionar seleção atual para filtrar",
             "Blanks": "Espaços em branco",
             "FilterTrue": "Verdade",
             "FilterFalse": "Falso",
