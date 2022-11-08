@@ -68,7 +68,6 @@
             "DeleteRecord": "Record Verwijder",
             "FilterMenu": "Filter",
             "SelectAll": "Selecteer alles",
-            "AddCurrentSelection": "Huidige selectie toevoegen aan filter",
             "Blanks": "blanks",
             "FilterTrue": "waar",
             "FilterFalse": "onwaar",
@@ -86,6 +85,7 @@
             "AND": "EN",
             "OR": "OF",
             "ShowRowsWhere": "Toon rijen waar:",
+            "AddCurrentSelection": "Huidige selectie toevoegen aan filter",
             "UnGroupButton": "Klik hier om de groep op te heffen",
             "AutoFitAll": "Alle kolommen automatisch aanpassen",
             "AutoFit": "Deze kolom automatisch aanpassen",
@@ -1365,6 +1365,9 @@
             "True": "waar",
             "False": "false"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Eindtotaal",
             "total": "Totaal",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Gebruik bladwijzers",
             "Table of Contents": "Inhoudsopgave"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "uitlijningen",
             "justifyleft": "justifyLeft",

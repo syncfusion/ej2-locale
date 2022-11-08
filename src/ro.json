@@ -68,7 +68,6 @@
             "DeleteRecord": "Ștergeți înregistrarea",
             "FilterMenu": "Filtru",
             "SelectAll": "Selectează tot",
-            "AddCurrentSelection": "Adăugați selecția curentă pentru a filtra",
             "Blanks": "Blanks",
             "FilterTrue": "Adevărat",
             "FilterFalse": "Fals",
@@ -86,6 +85,7 @@
             "AND": "ȘI",
             "OR": "SAU",
             "ShowRowsWhere": "Afișați rândurile unde:",
+            "AddCurrentSelection": "Adăugați selecția curentă pentru a filtra",
             "UnGroupButton": "Faceți clic aici pentru a degrupa",
             "AutoFitAll": "Potriviți automat toate coloanele",
             "AutoFit": "Potriviți automat această coloană",
@@ -1365,6 +1365,9 @@
             "True": "Adevărat",
             "False": "fals"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Total general",
             "total": "Total",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Folosiți marcaje",
             "Table of Contents": "Cuprins"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "aliniamente",
             "justifyleft": "justifyLeft",

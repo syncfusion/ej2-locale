@@ -68,7 +68,6 @@
             "DeleteRecord": "Kaydı sil",
             "FilterMenu": "filtre",
             "SelectAll": "Hepsini seç",
-            "AddCurrentSelection": "Geçerli seçimi filtrelemeye ekle",
             "Blanks": "Boşluklar",
             "FilterTrue": "Doğru",
             "FilterFalse": "Yanlış",
@@ -86,6 +85,7 @@
             "AND": "VE",
             "OR": "VEYA",
             "ShowRowsWhere": "Aşağıdaki satırları göster:",
+            "AddCurrentSelection": "Geçerli seçimi filtrelemeye ekle",
             "UnGroupButton": "Grubu çözmek için burayı tıklayın",
             "AutoFitAll": "Tüm sütunları otomatik sığdır",
             "AutoFit": "Bu sütunu otomatik sığdır",
@@ -1365,6 +1365,9 @@
             "True": "doğru",
             "False": "yanlış"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Genel Toplam",
             "total": "Toplam",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Yer işaretlerini kullan",
             "Table of Contents": "İçindekiler"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "hizalamalarını",
             "justifyleft": "justifyLeft",

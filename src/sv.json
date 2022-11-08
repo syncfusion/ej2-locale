@@ -68,7 +68,6 @@
             "DeleteRecord": "Radera posten",
             "FilterMenu": "Filtrera",
             "SelectAll": "Välj alla",
-            "AddCurrentSelection": "Lägg till aktuellt urval för att filtrera",
             "Blanks": "Blanks",
             "FilterTrue": "Sann",
             "FilterFalse": "Falsk",
@@ -86,6 +85,7 @@
             "AND": "OCH",
             "OR": "ELLER",
             "ShowRowsWhere": "Visa rader där:",
+            "AddCurrentSelection": "Lägg till aktuellt urval för att filtrera",
             "UnGroupButton": "Klicka här för att avgruppera",
             "AutoFitAll": "Autopassa alla kolumner",
             "AutoFit": "Anpassa denna kolumn automatiskt",
@@ -1365,6 +1365,9 @@
             "True": "Sann",
             "False": "falsk"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Grand Total",
             "total": "Total",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Använd bokmärken",
             "Table of Contents": "Innehållsförteckning"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "inpass",
             "justifyleft": "justifyLeft",

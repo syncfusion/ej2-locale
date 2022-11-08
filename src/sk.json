@@ -68,7 +68,6 @@
             "DeleteRecord": "Odstrániť záznam",
             "FilterMenu": "filter",
             "SelectAll": "Vybrať všetko",
-            "AddCurrentSelection": "Pridať aktuálny výber do filtra",
             "Blanks": "Blanks",
             "FilterTrue": "pravdivý",
             "FilterFalse": "nepravdivý",
@@ -86,6 +85,7 @@
             "AND": "A",
             "OR": "OR",
             "ShowRowsWhere": "Zobraziť riadky, kde:",
+            "AddCurrentSelection": "Pridať aktuálny výber do filtra",
             "UnGroupButton": "Kliknutím sem zrušíte zoskupenie",
             "AutoFitAll": "Automaticky prispôsobiť všetky stĺpce",
             "AutoFit": "Automaticky prispôsobiť tento stĺpec",
@@ -1365,6 +1365,9 @@
             "True": "pravda",
             "False": "nepravdivé"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Úhrn",
             "total": "Celkom",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Používajte záložky",
             "Table of Contents": "Obsah"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "zarovnanie",
             "justifyleft": "justifyLeft",

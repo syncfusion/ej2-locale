@@ -68,7 +68,6 @@
             "DeleteRecord": "Xóa hồ sơ",
             "FilterMenu": "Bộ lọc",
             "SelectAll": "Chọn tất cả",
-            "AddCurrentSelection": "Thêm lựa chọn hiện tại vào bộ lọc",
             "Blanks": "Khoảng trống",
             "FilterTrue": "Thật",
             "FilterFalse": "Sai",
@@ -86,6 +85,7 @@
             "AND": "VÀ",
             "OR": "HOẶC LÀ",
             "ShowRowsWhere": "Hiển thị các hàng trong đó:",
+            "AddCurrentSelection": "Thêm lựa chọn hiện tại vào bộ lọc",
             "UnGroupButton": "Nhấn vào đây để hủy nhóm",
             "AutoFitAll": "Tự động điều chỉnh tất cả các cột",
             "AutoFit": "Tự động điều chỉnh cột này",
@@ -1365,6 +1365,9 @@
             "True": "thật",
             "False": "sai"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Tổng cộng",
             "total": "Toàn bộ",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Sử dụng dấu trang",
             "Table of Contents": "Mục lục"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "sắp xếp",
             "justifyleft": "biện minh",

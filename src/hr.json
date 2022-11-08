@@ -68,7 +68,6 @@
             "DeleteRecord": "Izbriši zapis",
             "FilterMenu": "filtar",
             "SelectAll": "Odaberi sve",
-            "AddCurrentSelection": "Dodaj trenutni odabir u filter",
             "Blanks": "Blanks",
             "FilterTrue": "Pravi",
             "FilterFalse": "lažan",
@@ -86,6 +85,7 @@
             "AND": "I",
             "OR": "ILI",
             "ShowRowsWhere": "Pokažite redove gdje:",
+            "AddCurrentSelection": "Dodaj trenutni odabir u filter",
             "UnGroupButton": "Kliknite ovdje za razgrupiranje",
             "AutoFitAll": "Automatski prilagodi sve stupce",
             "AutoFit": "Automatski prilagodi ovaj stupac",
@@ -1365,6 +1365,9 @@
             "True": "prav",
             "False": "napačno"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Ukupno",
             "total": "ukupno",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Koristite oznake",
             "Table of Contents": "Sadržaj"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "poravnanja",
             "justifyleft": "justifyLeft",

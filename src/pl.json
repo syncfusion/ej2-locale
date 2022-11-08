@@ -68,7 +68,6 @@
             "DeleteRecord": "Usuń rekord",
             "FilterMenu": "Filtr",
             "SelectAll": "Zaznacz wszystko",
-            "AddCurrentSelection": "Dodaj bieżący wybór do filtra",
             "Blanks": "Puste",
             "FilterTrue": "Prawdziwe",
             "FilterFalse": "Fałszywy",
@@ -86,6 +85,7 @@
             "AND": "I",
             "OR": "LUB",
             "ShowRowsWhere": "Pokaż wiersze, w których:",
+            "AddCurrentSelection": "Dodaj bieżący wybór do filtra",
             "UnGroupButton": "Kliknij tutaj, aby rozgrupować",
             "AutoFitAll": "Automatycznie dopasuj wszystkie kolumny",
             "AutoFit": "Automatycznie dopasuj tę kolumnę",
@@ -1365,6 +1365,9 @@
             "True": "prawdziwe",
             "False": "fałszywy"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Łączna suma",
             "total": "Całkowity",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Użyj zakładek",
             "Table of Contents": "Spis treści"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "wyrównania",
             "justifyleft": "justifyLeft",

@@ -68,7 +68,6 @@
             "DeleteRecord": "Poista tietue",
             "FilterMenu": "Suodattaa",
             "SelectAll": "Valitse kaikki",
-            "AddCurrentSelection": "Lisää nykyinen valinta suodattimeen",
             "Blanks": "aihioita",
             "FilterTrue": "Totta",
             "FilterFalse": "Väärä",
@@ -86,6 +85,7 @@
             "AND": "JA",
             "OR": "TAI",
             "ShowRowsWhere": "Näytä rivit missä:",
+            "AddCurrentSelection": "Lisää nykyinen valinta suodattimeen",
             "UnGroupButton": "Poista ryhmä napsauttamalla tätä",
             "AutoFitAll": "Sovita kaikki sarakkeet automaattisesti",
             "AutoFit": "Sovita tämä sarake automaattisesti",
@@ -1365,6 +1365,9 @@
             "True": "totta",
             "False": "väärä"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Loppusumma",
             "total": "Kaikki yhteensä",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Käytä kirjanmerkkejä",
             "Table of Contents": "Sisällysluettelo"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "rinnastuksia",
             "justifyleft": "justifyLeft",

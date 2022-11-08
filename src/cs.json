@@ -68,7 +68,6 @@
             "DeleteRecord": "Smazat záznam",
             "FilterMenu": "Filtr",
             "SelectAll": "Vybrat vše",
-            "AddCurrentSelection": "Přidat aktuální výběr do filtru",
             "Blanks": "Blanks",
             "FilterTrue": "Skutečný",
             "FilterFalse": "Nepravdivé",
@@ -86,6 +85,7 @@
             "AND": "A",
             "OR": "NEBO",
             "ShowRowsWhere": "Zobrazit řádky, kde:",
+            "AddCurrentSelection": "Přidat aktuální výběr do filtru",
             "UnGroupButton": "Kliknutím sem zrušíte seskupení",
             "AutoFitAll": "Automaticky přizpůsobit všechny sloupce",
             "AutoFit": "Automaticky přizpůsobit tento sloupec",
@@ -1365,6 +1365,9 @@
             "True": "skutečný",
             "False": "Nepravdivé"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Celkový součet",
             "total": "Celkový",
@@ -2282,6 +2285,7 @@
             "Use bookmarks": "Používejte záložky",
             "Table of Contents": "Obsah"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "zarovnání",
             "justifyleft": "ospravedlnit doleva",

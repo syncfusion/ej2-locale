@@ -68,7 +68,6 @@
             "DeleteRecord": "ضبط را حذف کنید",
             "FilterMenu": "فیلتر",
             "SelectAll": "انتخاب همه",
-            "AddCurrentSelection": "انتخاب فعلی را به فیلتر اضافه کنید",
             "Blanks": "جای خالی",
             "FilterTrue": "درست است، واقعی",
             "FilterFalse": "غلط",
@@ -86,6 +85,7 @@
             "AND": "و",
             "OR": "یا",
             "ShowRowsWhere": "نمایش سطرها در جایی:",
+            "AddCurrentSelection": "انتخاب فعلی را به فیلتر اضافه کنید",
             "UnGroupButton": "برای گروه‌بندی اینجا را کلیک کنید",
             "AutoFitAll": "همه ستون‌ها را به‌طور خودکار تنظیم کنید",
             "AutoFit": "تنظیم خودکار این ستون",
@@ -1365,6 +1365,9 @@
             "True": "درست است، واقعی",
             "False": "نادرست"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "بزرگ توتال",
             "total": "جمع",
@@ -2161,6 +2164,7 @@
             "Use bookmarks": "از نشانک ها استفاده کنید",
             "Table of Contents": "فهرست مطالب"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "ترازها",
             "justifyleft": "justifyLeft",

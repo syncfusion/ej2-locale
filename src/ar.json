@@ -1,5 +1,5 @@
 {
-    "ar-AE": {
+    "ar": {
         "grid": {
             "EmptyRecord": "لا سجلات لعرضها",
             "True": "صحيح",
@@ -68,7 +68,6 @@
             "DeleteRecord": "حذف سجل",
             "FilterMenu": "منقي",
             "SelectAll": "اختر الكل",
-            "AddCurrentSelection": "إضافة التحديد الحالي للتصفية",
             "Blanks": "الفراغات",
             "FilterTrue": "صحيح",
             "FilterFalse": "خاطئة",
@@ -86,6 +85,7 @@
             "AND": "و",
             "OR": "أو",
             "ShowRowsWhere": "إظهار الصفوف حيث:",
+            "AddCurrentSelection": "إضافة التحديد الحالي للتصفية",
             "UnGroupButton": "انقر هنا لفك التجميع",
             "AutoFitAll": "احتواء تلقائي لجميع الأعمدة",
             "AutoFit": "احتواء تلقائي لهذا العمود",
@@ -1365,6 +1365,9 @@
             "True": "صحيح",
             "False": "خاطئة"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "المبلغ الإجمالي",
             "total": "مجموع",
@@ -2282,6 +2285,7 @@
             "Use bookmarks": "استخدام الإشارات المرجعية",
             "Table of Contents": "جدول المحتويات"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "التحالفات",
             "justifyleft": "justifyLeft",

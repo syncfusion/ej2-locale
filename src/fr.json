@@ -68,7 +68,6 @@
             "DeleteRecord": "Supprimer l'enregistrement",
             "FilterMenu": "Filtre",
             "SelectAll": "Tout sélectionner",
-            "AddCurrentSelection": "Ajouter la sélection actuelle au filtre",
             "Blanks": "Blancs",
             "FilterTrue": "Vrai",
             "FilterFalse": "Faux",
@@ -86,6 +85,7 @@
             "AND": "ET",
             "OR": "OU",
             "ShowRowsWhere": "Afficher les lignes où:",
+            "AddCurrentSelection": "Ajouter la sélection actuelle au filtre",
             "UnGroupButton": "Cliquez ici pour dissocier",
             "AutoFitAll": "Ajuster automatiquement toutes les colonnes",
             "AutoFit": "Ajuster automatiquement cette colonne",
@@ -1366,6 +1366,9 @@
             "True": "vrai",
             "False": "faux"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Grand total",
             "total": "Total",
@@ -2287,6 +2290,7 @@
             "row": "Ligne",
             "ok": "Valider"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "alignements",
             "justifyleft": "justifier à gauche",

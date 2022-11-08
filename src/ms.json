@@ -68,7 +68,6 @@
             "DeleteRecord": "Padamkan Rekod",
             "FilterMenu": "Penapis",
             "SelectAll": "Pilih semua",
-            "AddCurrentSelection": "Tambahkan pilihan semasa untuk ditapis",
             "Blanks": "Kosong",
             "FilterTrue": "Benar",
             "FilterFalse": "Salah",
@@ -86,6 +85,7 @@
             "AND": "DAN",
             "OR": "ATAU",
             "ShowRowsWhere": "Tunjukkan baris di mana:",
+            "AddCurrentSelection": "Tambahkan pilihan semasa untuk ditapis",
             "UnGroupButton": "Klik di sini untuk menyahkumpulan",
             "AutoFitAll": "Autofit semua lajur",
             "AutoFit": "Autofit lajur ini",
@@ -1365,6 +1365,9 @@
             "True": "benar",
             "False": "salah"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Jumlah keseluruhan",
             "total": "Jumlah",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Gunakan penanda buku",
             "Table of Contents": "Isi kandungan"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "penjajaran",
             "justifyleft": "justifyLeft",

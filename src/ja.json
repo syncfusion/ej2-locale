@@ -68,7 +68,6 @@
             "DeleteRecord": "レコードを削除",
             "FilterMenu": "フィルタ",
             "SelectAll": "すべて選択",
-            "AddCurrentSelection": "現在の選択をフィルターに追加",
             "Blanks": "ブランク",
             "FilterTrue": "本当だ",
             "FilterFalse": "偽",
@@ -86,6 +85,7 @@
             "AND": "そして",
             "OR": "または",
             "ShowRowsWhere": "行を表示する場所：",
+            "AddCurrentSelection": "現在の選択をフィルターに追加",
             "UnGroupButton": "グループ化を解除するには、ここをクリックしてください",
             "AutoFitAll": "すべての列を自動調整",
             "AutoFit": "この列を自動調整",
@@ -1365,6 +1365,9 @@
             "True": "true",
             "False": "false"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "総計",
             "total": "合計",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "ブックマークを使用する",
             "Table of Contents": "目次"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "アライメント",
             "justifyleft": "左揃え",

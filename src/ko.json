@@ -68,7 +68,6 @@
             "DeleteRecord": "레코드 삭제",
             "FilterMenu": "필터",
             "SelectAll": "모두 선택",
-            "AddCurrentSelection": "필터에 현재 선택 항목 추가",
             "Blanks": "공백",
             "FilterTrue": "진실",
             "FilterFalse": "그릇된",
@@ -86,6 +85,7 @@
             "AND": "과",
             "OR": "또는",
             "ShowRowsWhere": "다음 위치에 행을 표시하십시오.",
+            "AddCurrentSelection": "필터에 현재 선택 항목 추가",
             "UnGroupButton": "그룹을 해제하려면 여기를 클릭하세요.",
             "AutoFitAll": "모든 열 자동 맞춤",
             "AutoFit": "이 열 자동 맞춤",
@@ -1365,6 +1365,9 @@
             "True": "진실",
             "False": "그릇된"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "총계",
             "total": "합계",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "북마크 사용",
             "Table of Contents": "목차"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "정렬",
             "justifyleft": "왼쪽",

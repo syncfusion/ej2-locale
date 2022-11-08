@@ -68,7 +68,6 @@
             "DeleteRecord": "Datensatz löschen",
             "FilterMenu": "Filter",
             "SelectAll": "Wählen Sie Alle",
-            "AddCurrentSelection": "Aktuelle Auswahl zum Filter hinzufügen",
             "Blanks": "Leerzeichen",
             "FilterTrue": "Wahr",
             "FilterFalse": "Falsch",
@@ -86,6 +85,7 @@
             "AND": "UND",
             "OR": "ODER",
             "ShowRowsWhere": "Zeilen anzeigen, in denen:",
+            "AddCurrentSelection": "Aktuelle Auswahl zum Filter hinzufügen",
             "UnGroupButton": "Klicken Sie hier, um die Gruppierung aufzuheben",
             "AutoFitAll": "Automatisch alle Spalten anpassen",
             "AutoFit": "Diese Spalte automatisch anpassen",
@@ -1365,6 +1365,9 @@
             "True": "wahr",
             "False": "falsch"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Gesamtsumme",
             "total": "Gesamt",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Verwenden Sie Lesezeichen",
             "Table of Contents": "Inhaltsverzeichnis"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "Ausrichtungen",
             "justifyleft": "justifyLeft",
