@@ -68,7 +68,6 @@
             "DeleteRecord": "Slet post",
             "FilterMenu": "Filter",
             "SelectAll": "Vælg alle",
-            "AddCurrentSelection": "Tilføj det aktuelle valg til at filtrere",
             "Blanks": "Blanks",
             "FilterTrue": "Rigtigt",
             "FilterFalse": "Falsk",
@@ -86,6 +85,7 @@
             "AND": "OG",
             "OR": "ELLER",
             "ShowRowsWhere": "Vis rækker, hvor:",
+            "AddCurrentSelection": "Tilføj det aktuelle valg til at filtrere",
             "UnGroupButton": "Klik her for at opgruppe",
             "AutoFitAll": "Autotilpas alle kolonner",
             "AutoFit": "Autotilpas denne kolonne",
@@ -1365,6 +1365,9 @@
             "True": "rigtigt",
             "False": "falsk"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Grand Total",
             "total": "Total",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Brug bogmærker",
             "Table of Contents": "Indholdsfortegnelse"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "alignments",
             "justifyleft": "justifyLeft",

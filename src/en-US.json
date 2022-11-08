@@ -1,5 +1,5 @@
 {
-    "en-GB": {
+    "en-US": {
         "grid": {
             "EmptyRecord": "No records to display",
             "True": "true",
@@ -68,7 +68,6 @@
             "DeleteRecord": "Delete Record",
             "FilterMenu": "Filter",
             "SelectAll": "Select All",
-            "AddCurrentSelection": "Add current selection to filter",
             "Blanks": "Blanks",
             "FilterTrue": "True",
             "FilterFalse": "False",
@@ -86,6 +85,7 @@
             "AND": "AND",
             "OR": "OR",
             "ShowRowsWhere": "Show rows where:",
+            "AddCurrentSelection": "Add current selection to filter",
             "UnGroupButton": "Click here to ungroup",
             "AutoFitAll": "Autofit all columns",
             "AutoFit": "Autofit this column",
@@ -1365,6 +1365,9 @@
             "True": "true",
             "False": "false"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Grand Total",
             "total": "Total",
@@ -2284,6 +2287,7 @@
             "Use bookmarks": "Use bookmarks",
             "Table of Contents": "Table of Contents"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "alignments",
             "justifyleft": "justifyLeft",

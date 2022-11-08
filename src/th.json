@@ -68,7 +68,6 @@
             "DeleteRecord": "ลบบันทึก",
             "FilterMenu": "กรอง",
             "SelectAll": "เลือกทั้งหมด",
-            "AddCurrentSelection": "เพิ่มการเลือกปัจจุบันลงในตัวกรอง",
             "Blanks": "ช่องว่าง",
             "FilterTrue": "จริง",
             "FilterFalse": "เท็จ",
@@ -86,6 +85,7 @@
             "AND": "และ",
             "OR": "หรือ",
             "ShowRowsWhere": "แสดงแถวที่:",
+            "AddCurrentSelection": "เพิ่มการเลือกปัจจุบันลงในตัวกรอง",
             "UnGroupButton": "คลิกที่นี่เพื่อยกเลิกการจัดกลุ่ม",
             "AutoFitAll": "ปรับคอลัมน์ทั้งหมดโดยอัตโนมัติ",
             "AutoFit": "ปรับคอลัมน์นี้ให้พอดีอัตโนมัติ",
@@ -1365,6 +1365,9 @@
             "True": "จริง",
             "False": "เท็จ"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "ผลรวมทั้งสิ้น",
             "total": "รวม",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "ใช้ที่คั่นหนังสือ",
             "Table of Contents": "สารบัญ"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "การจัดแนว",
             "justifyleft": "justifyLeft",

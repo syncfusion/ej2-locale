@@ -68,7 +68,6 @@
             "DeleteRecord": "Rekord törlése",
             "FilterMenu": "Szűrő",
             "SelectAll": "Mindet kiválaszt",
-            "AddCurrentSelection": "Az aktuális kijelölés hozzáadása a szűréshez",
             "Blanks": "Üresek",
             "FilterTrue": "Igaz",
             "FilterFalse": "Hamis",
@@ -86,6 +85,7 @@
             "AND": "ÉS",
             "OR": "VAGY",
             "ShowRowsWhere": "Mutasson sorokat, ahol:",
+            "AddCurrentSelection": "Az aktuális kijelölés hozzáadása a szűréshez",
             "UnGroupButton": "Kattintson ide a csoportosítás megszüntetéséhez",
             "AutoFitAll": "Minden oszlop automatikus illesztése",
             "AutoFit": "Az oszlop automatikus illesztése",
@@ -1365,6 +1365,9 @@
             "True": "igaz",
             "False": "hamis"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Teljes összeg",
             "total": "Teljes",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Használjon könyvjelzőket",
             "Table of Contents": "Tartalomjegyzék"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "nyomvonalakat",
             "justifyleft": "justifyLeft",

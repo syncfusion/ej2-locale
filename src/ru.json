@@ -68,7 +68,6 @@
             "DeleteRecord": "Удалить запись",
             "FilterMenu": "Фильтр",
             "SelectAll": "Выбрать все",
-            "AddCurrentSelection": "Добавить текущий выбор в фильтр",
             "Blanks": "Пробелы",
             "FilterTrue": "Правда",
             "FilterFalse": "Ложь",
@@ -86,6 +85,7 @@
             "AND": "И",
             "OR": "ИЛИ",
             "ShowRowsWhere": "Показать строки, где:",
+            "AddCurrentSelection": "Добавить текущий выбор в фильтр",
             "UnGroupButton": "Нажмите здесь, чтобы разгруппировать",
             "AutoFitAll": "Автоподбор всех столбцов",
             "AutoFit": "Автоподбор этого столбца",
@@ -1365,6 +1365,9 @@
             "True": "правда",
             "False": "ложный"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "Общая сумма",
             "total": "Общее количество",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "Используйте закладки",
             "Table of Contents": "Содержание"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "выравнивание",
             "justifyleft": "justifyLeft",

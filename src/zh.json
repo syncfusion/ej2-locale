@@ -68,7 +68,6 @@
             "DeleteRecord": "刪除記錄",
             "FilterMenu": "過濾",
             "SelectAll": "全選",
-            "AddCurrentSelection": "將當前選擇添加到過濾器",
             "Blanks": "空白",
             "FilterTrue": "真正",
             "FilterFalse": "假",
@@ -86,6 +85,7 @@
             "AND": "和",
             "OR": "要么",
             "ShowRowsWhere": "在以下位置顯示行：",
+            "AddCurrentSelection": "將當前選擇添加到過濾器",
             "UnGroupButton": "单击此处取消分组",
             "AutoFitAll": "自动调整所有列",
             "AutoFit": "自动调整此列",
@@ -1365,6 +1365,9 @@
             "True": "真正",
             "False": "假"
         },
+        "barcode": {},
+        "datamatrix": {},
+        "qrcode": {},
         "pivotview": {
             "grandTotal": "累計",
             "total": "總",
@@ -2283,6 +2286,7 @@
             "Use bookmarks": "使用書籤",
             "Table of Contents": "目錄"
         },
+        "drawing": {},
         "rich-text-editor": {
             "alignments": "對齊方式",
             "justifyleft": "justifyLeft",
