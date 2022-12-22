@@ -3304,7 +3304,22 @@
             "Medium": "Sederhana",
             "Large": "besar",
             "XLarge": "X-Besar",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Finetune",
+            "Brightness": "Kecerahan",
+            "Contrast": "Berbeza",
+            "Hue": "Hue",
+            "Saturation": "Ketepuan",
+            "Opacity": "Kelegapan",
+            "Blur": "Kabur",
+            "Exposure": "Dedahan",
+            "Filter": "Penapis",
+            "Chrome": "Chrome",
+            "Cold": "Sejuk",
+            "Warm": "hangat",
+            "Grayscale": "Skala kelabu",
+            "Sepia": "Sepia",
+            "Invert": "Terbalikkan"
         },
         "mention": {
             "noRecordsTemplate": "Tiada rekod dijumpai"

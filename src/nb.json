@@ -3304,7 +3304,22 @@
             "Medium": "Medium",
             "Large": "Stor",
             "XLarge": "X-Large",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Fin tone",
+            "Brightness": "Lysstyrke",
+            "Contrast": "Kontrast",
+            "Hue": "Hue",
+            "Saturation": "Metning",
+            "Opacity": "Opasitet",
+            "Blur": "Uklarhet",
+            "Exposure": "Eksponering",
+            "Filter": "Filter",
+            "Chrome": "Chrome",
+            "Cold": "Kald",
+            "Warm": "Varm",
+            "Grayscale": "Gråtoner",
+            "Sepia": "Sepia",
+            "Invert": "Inverter"
         },
         "mention": {
             "noRecordsTemplate": "Ingen opptak funnet"

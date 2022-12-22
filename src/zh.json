@@ -3304,7 +3304,22 @@
             "Medium": "中等的",
             "Large": "大的",
             "XLarge": "超大",
-            "ABC": "美国广播公司"
+            "ABC": "美国广播公司",
+            "Finetune": "微调",
+            "Brightness": "亮度",
+            "Contrast": "对比",
+            "Hue": "色调",
+            "Saturation": "饱和",
+            "Opacity": "不透明度",
+            "Blur": "模糊",
+            "Exposure": "接触",
+            "Filter": "筛选",
+            "Chrome": "铬合金",
+            "Cold": "寒冷的",
+            "Warm": "温暖的",
+            "Grayscale": "灰阶",
+            "Sepia": "棕褐色",
+            "Invert": "倒置"
         },
         "mention": {
             "noRecordsTemplate": "没有找到记录"

@@ -3182,7 +3182,22 @@
             "Medium": "متوسط",
             "Large": "بزرگ",
             "XLarge": "ایکس لارج",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "تنظیم دقیق",
+            "Brightness": "روشنایی",
+            "Contrast": "تضاد",
+            "Hue": "رنگ",
+            "Saturation": "اشباع",
+            "Opacity": "کدورت",
+            "Blur": "محو کردن",
+            "Exposure": "ارائه",
+            "Filter": "فیلتر کنید",
+            "Chrome": "کروم",
+            "Cold": "سرد",
+            "Warm": "گرم",
+            "Grayscale": "مقیاس خاکستری",
+            "Sepia": "سپیا",
+            "Invert": "معکوس کردن"
         },
         "mention": {
             "noRecordsTemplate": "هیچ رکوردی یافت نشد"

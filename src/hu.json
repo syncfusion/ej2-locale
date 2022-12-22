@@ -3304,7 +3304,22 @@
             "Medium": "Közepes",
             "Large": "Nagy",
             "XLarge": "X nagy",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Finomhangolás",
+            "Brightness": "Fényerősség",
+            "Contrast": "Kontraszt",
+            "Hue": "Színárnyalat",
+            "Saturation": "Telítettség",
+            "Opacity": "Átlátszatlanság",
+            "Blur": "Elhomályosít",
+            "Exposure": "Kitettség",
+            "Filter": "Szűrő",
+            "Chrome": "Króm",
+            "Cold": "Hideg",
+            "Warm": "Meleg",
+            "Grayscale": "Szürkeárnyalatos",
+            "Sepia": "Szépia",
+            "Invert": "Invert"
         },
         "mention": {
             "noRecordsTemplate": "Nincs találat"

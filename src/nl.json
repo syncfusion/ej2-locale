@@ -3304,7 +3304,22 @@
             "Medium": "Medium",
             "Large": "Large",
             "XLarge": "X-Large",
-            "ABC": "abc"
+            "ABC": "abc",
+            "Finetune": "Afstellen",
+            "Brightness": "Helderheid",
+            "Contrast": "Contrast",
+            "Hue": "Tint",
+            "Saturation": "Verzadiging",
+            "Opacity": "ondoorzichtigheid",
+            "Blur": "Vervagen",
+            "Exposure": "Blootstelling",
+            "Filter": "Filter",
+            "Chrome": "Chroom",
+            "Cold": "Koud",
+            "Warm": "Warm",
+            "Grayscale": "Grijstinten",
+            "Sepia": "Sepia",
+            "Invert": "Omkeren"
         },
         "mention": {
             "noRecordsTemplate": "No records found"

@@ -3304,7 +3304,22 @@
             "Medium": "中くらい",
             "Large": "大きい",
             "XLarge": "×ラージ",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "微調整",
+            "Brightness": "輝度",
+            "Contrast": "対比",
+            "Hue": "フエ",
+            "Saturation": "飽和",
+            "Opacity": "不透明度",
+            "Blur": "ぼかし",
+            "Exposure": "曝露",
+            "Filter": "フィルター",
+            "Chrome": "クロム",
+            "Cold": "寒い",
+            "Warm": "暖かい",
+            "Grayscale": "グレースケール",
+            "Sepia": "セピア",
+            "Invert": "反転"
         },
         "mention": {
             "noRecordsTemplate": "レコードが見つかりません"

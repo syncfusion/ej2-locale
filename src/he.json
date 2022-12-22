@@ -3303,7 +3303,22 @@
             "Medium": "בינוני",
             "Large": "Large",
             "XLarge": "X-Large",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "לכוונן",
+            "Brightness": "בְּהִירוּת",
+            "Contrast": "בניגוד",
+            "Hue": "צֶבַע",
+            "Saturation": "רִוּוּי",
+            "Opacity": "אֲטִימוּת",
+            "Blur": "לְטַשׁטֵשׁ",
+            "Exposure": "חשיפה",
+            "Filter": "לְסַנֵן",
+            "Chrome": "כרום",
+            "Cold": "קַר",
+            "Warm": "נעים",
+            "Grayscale": "גווני אפור",
+            "Sepia": "חוּם כֵּהֶה",
+            "Invert": "לַהֲפוֹך"
         },
         "mention": {
             "noRecordsTemplate": "No records found"

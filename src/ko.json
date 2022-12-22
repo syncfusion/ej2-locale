@@ -3304,7 +3304,22 @@
             "Medium": "중간",
             "Large": "크기가 큰",
             "XLarge": "X-대형",
-            "ABC": "알파벳"
+            "ABC": "알파벳",
+            "Finetune": "미세 조정",
+            "Brightness": "명도",
+            "Contrast": "차이",
+            "Hue": "색조",
+            "Saturation": "포화",
+            "Opacity": "불투명",
+            "Blur": "흐림",
+            "Exposure": "노출",
+            "Filter": "필터",
+            "Chrome": "크롬",
+            "Cold": "춥다",
+            "Warm": "따뜻한",
+            "Grayscale": "그레이스케일",
+            "Sepia": "세피아",
+            "Invert": "거꾸로 하다"
         },
         "mention": {
             "noRecordsTemplate": "기록 없음"

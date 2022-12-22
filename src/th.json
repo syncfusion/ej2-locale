@@ -3304,7 +3304,22 @@
             "Medium": "ปานกลาง",
             "Large": "ใหญ่",
             "XLarge": "X-Large",
-            "ABC": "ABC"
+            "ABC": "เอบีซี",
+            "Finetune": "ปรับจูน",
+            "Brightness": "ความสว่าง",
+            "Contrast": "ตัดกัน",
+            "Hue": "เว้",
+            "Saturation": "ความอิ่มตัว",
+            "Opacity": "ความทึบ",
+            "Blur": "เบลอ",
+            "Exposure": "การเปิดรับแสง",
+            "Filter": "กรอง",
+            "Chrome": "โครเมียม",
+            "Cold": "เย็น",
+            "Warm": "อบอุ่น",
+            "Grayscale": "ระดับสีเทา",
+            "Sepia": "ซีเปีย",
+            "Invert": "กลับด้าน"
         },
         "mention": {
             "noRecordsTemplate": "ไม่พบบันทึก"
