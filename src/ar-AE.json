@@ -3303,7 +3303,22 @@
             "Medium": "متوسط",
             "Large": "كبير",
             "XLarge": "X-كبير",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "ضبط دقيق",
+            "Brightness": "سطوع",
+            "Contrast": "التباين",
+            "Hue": "مسحة",
+            "Saturation": "التشبع",
+            "Opacity": "التعتيم",
+            "Blur": "طمس",
+            "Exposure": "مكشوف",
+            "Filter": "منقي",
+            "Chrome": "كروم",
+            "Cold": "البرد",
+            "Warm": "دافئ",
+            "Grayscale": "تدرج الرمادي",
+            "Sepia": "بني داكن",
+            "Invert": "عكس"
         },
         "mention": {
             "noRecordsTemplate": "لا توجد سجلات"

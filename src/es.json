@@ -3370,7 +3370,22 @@
             "Medium": "Medio",
             "Large": "Largo",
             "XLarge": "X-Large",
-            "ABC": "A B C"
+            "ABC": "A B C",
+            "Finetune": "Afinar",
+            "Brightness": "Brillo",
+            "Contrast": "Contraste",
+            "Hue": "Matiz",
+            "Saturation": "Saturación",
+            "Opacity": "Opacidad",
+            "Blur": "Difuminar",
+            "Exposure": "Exposición",
+            "Filter": "Filtrar",
+            "Chrome": "Cromo",
+            "Cold": "Frío",
+            "Warm": "Cálido",
+            "Grayscale": "escala de grises",
+            "Sepia": "Sepia",
+            "Invert": "Invertir"
         },
         "mention": {
             "noRecordsTemplate": "No records found"

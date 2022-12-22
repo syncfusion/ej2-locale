@@ -3304,7 +3304,22 @@
             "Medium": "Srednji",
             "Large": "velika",
             "XLarge": "X-veliki",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Finetune",
+            "Brightness": "Svjetlina",
+            "Contrast": "Kontrast",
+            "Hue": "Nijansa",
+            "Saturation": "Zasićenost",
+            "Opacity": "Neprozirnost",
+            "Blur": "Zamutiti",
+            "Exposure": "Izlaganje",
+            "Filter": "filtar",
+            "Chrome": "Krom",
+            "Cold": "hladno",
+            "Warm": "Topla",
+            "Grayscale": "Sivi tonovi",
+            "Sepia": "Sepija",
+            "Invert": "Preokrenuti"
         },
         "mention": {
             "noRecordsTemplate": "Nema pronađenih zapisa"

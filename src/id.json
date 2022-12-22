@@ -3304,7 +3304,22 @@
             "Medium": "Sedang",
             "Large": "Besar",
             "XLarge": "X-Besar",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Melodi indah",
+            "Brightness": "Kecerahan",
+            "Contrast": "Kontras",
+            "Hue": "Warna",
+            "Saturation": "Kejenuhan",
+            "Opacity": "Kegelapan",
+            "Blur": "Mengaburkan",
+            "Exposure": "Paparan",
+            "Filter": "Saring",
+            "Chrome": "Chrome",
+            "Cold": "Dingin",
+            "Warm": "Hangat",
+            "Grayscale": "Skala abu-abu",
+            "Sepia": "Warna coklat tua",
+            "Invert": "Membalikkan"
         },
         "mention": {
             "noRecordsTemplate": "Tidak ada catatan yang ditemukan"

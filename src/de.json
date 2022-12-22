@@ -3305,7 +3305,22 @@
             "Medium": "Mittel",
             "Large": "Groß",
             "XLarge": "X-Large",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Feinabstimmung",
+            "Brightness": "Helligkeit",
+            "Contrast": "Kontrast",
+            "Hue": "Farbton",
+            "Saturation": "Sättigung",
+            "Opacity": "Opazität",
+            "Blur": "Verwischen",
+            "Exposure": "Belichtung",
+            "Filter": "Filter",
+            "Chrome": "Chrom",
+            "Cold": "Kalt",
+            "Warm": "Warm",
+            "Grayscale": "Graustufen",
+            "Sepia": "Sepia",
+            "Invert": "Umkehren"
         },
         "mention": {
             "noRecordsTemplate": "Keine Aufzeichnungen gefunden"

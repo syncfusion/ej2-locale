@@ -3304,7 +3304,22 @@
             "Medium": "Keskikokoinen",
             "Large": "Suuri",
             "XLarge": "X-suuri",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Hienosäätö",
+            "Brightness": "Kirkkaus",
+            "Contrast": "Kontrasti",
+            "Hue": "Värisävy",
+            "Saturation": "Kylläisyys",
+            "Opacity": "Peittävyys",
+            "Blur": "Hämärtää",
+            "Exposure": "Altistuminen",
+            "Filter": "Suodattaa",
+            "Chrome": "Kromi",
+            "Cold": "Kylmä",
+            "Warm": "Lämmin",
+            "Grayscale": "Harmaasävy",
+            "Sepia": "Seepia",
+            "Invert": "Käänteinen"
         },
         "mention": {
             "noRecordsTemplate": "Merkintöjä ei löydy"

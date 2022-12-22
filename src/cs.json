@@ -3303,7 +3303,22 @@
             "Medium": "Střední",
             "Large": "Velký",
             "XLarge": "X-velký",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Finetune",
+            "Brightness": "Jas",
+            "Contrast": "Kontrast",
+            "Hue": "Odstín",
+            "Saturation": "Nasycení",
+            "Opacity": "Neprůhlednost",
+            "Blur": "Rozmazat",
+            "Exposure": "Vystavení",
+            "Filter": "Filtr",
+            "Chrome": "Chrome",
+            "Cold": "Studený",
+            "Warm": "Teplý",
+            "Grayscale": "Stupně šedi",
+            "Sepia": "Sépie",
+            "Invert": "Invertovat"
         },
         "mention": {
             "noRecordsTemplate": "Nenalezeny žádné záznamy"

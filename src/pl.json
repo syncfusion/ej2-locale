@@ -3304,7 +3304,22 @@
             "Medium": "Średni",
             "Large": "Wielki",
             "XLarge": "X-duży",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Dostroić",
+            "Brightness": "Jasność",
+            "Contrast": "Kontrast",
+            "Hue": "Odcień",
+            "Saturation": "Nasycenie",
+            "Opacity": "Nieprzezroczystość",
+            "Blur": "Plama",
+            "Exposure": "Narażenie",
+            "Filter": "Filtr",
+            "Chrome": "Chrom",
+            "Cold": "Przeziębienie",
+            "Warm": "Ciepły",
+            "Grayscale": "Skala szarości",
+            "Sepia": "Sepia",
+            "Invert": "Odwracać"
         },
         "mention": {
             "noRecordsTemplate": "No records found"

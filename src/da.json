@@ -3304,7 +3304,22 @@
             "Medium": "Medium",
             "Large": "Stor",
             "XLarge": "X-Large",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Finjustering",
+            "Brightness": "Lysstyrke",
+            "Contrast": "Kontrast",
+            "Hue": "Hue",
+            "Saturation": "Mætning",
+            "Opacity": "Gennemsigtighed",
+            "Blur": "Slør",
+            "Exposure": "Eksponering",
+            "Filter": "Filter",
+            "Chrome": "Chrome",
+            "Cold": "Kold",
+            "Warm": "Varm",
+            "Grayscale": "Gråtoner",
+            "Sepia": "Sepia",
+            "Invert": "Inverter"
         },
         "mention": {
             "noRecordsTemplate": "Ingen registreringer fundet"

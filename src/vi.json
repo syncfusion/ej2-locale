@@ -3304,7 +3304,22 @@
             "Medium": "Vừa phải",
             "Large": "Lớn",
             "XLarge": "X-Large",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "tinh chỉnh",
+            "Brightness": "độ sáng",
+            "Contrast": "Tương phản",
+            "Hue": "Huế",
+            "Saturation": "bão hòa",
+            "Opacity": "độ mờ",
+            "Blur": "Mơ hồ",
+            "Exposure": "Sự phơi nhiễm",
+            "Filter": "Lọc",
+            "Chrome": "Trình duyệt Chrome",
+            "Cold": "Lạnh",
+            "Warm": "Ấm",
+            "Grayscale": "thang độ xám",
+            "Sepia": "màu nâu đỏ",
+            "Invert": "Đảo ngược"
         },
         "mention": {
             "noRecordsTemplate": "Không có dữ liệu được tìm thấy"

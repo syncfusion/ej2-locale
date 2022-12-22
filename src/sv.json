@@ -3304,7 +3304,22 @@
             "Medium": "Medium",
             "Large": "Stor",
             "XLarge": "Extra stor",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Finjustera",
+            "Brightness": "Ljusstyrka",
+            "Contrast": "Kontrast",
+            "Hue": "Nyans",
+            "Saturation": "Mättnad",
+            "Opacity": "Opacitet",
+            "Blur": "Fläck",
+            "Exposure": "Exponering",
+            "Filter": "Filtrera",
+            "Chrome": "Krom",
+            "Cold": "Kall",
+            "Warm": "Värma",
+            "Grayscale": "Gråskala",
+            "Sepia": "Sepia",
+            "Invert": "Invertera"
         },
         "mention": {
             "noRecordsTemplate": "Inga uppgifter funna"

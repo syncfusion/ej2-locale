@@ -3304,7 +3304,22 @@
             "Medium": "Orta",
             "Large": "Büyük",
             "XLarge": "X-Large",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "İnce ayar",
+            "Brightness": "Parlaklık",
+            "Contrast": "Zıtlık",
+            "Hue": "renk tonu",
+            "Saturation": "Doyma",
+            "Opacity": "opaklık",
+            "Blur": "Bulanıklık",
+            "Exposure": "Maruziyet",
+            "Filter": "filtre",
+            "Chrome": "Krom",
+            "Cold": "Soğuk",
+            "Warm": "Ilık, hafif sıcak",
+            "Grayscale": "gri tonlama",
+            "Sepia": "Sepya",
+            "Invert": "ters çevir"
         },
         "mention": {
             "noRecordsTemplate": "No records found"

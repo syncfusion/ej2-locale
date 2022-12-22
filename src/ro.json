@@ -3304,7 +3304,22 @@
             "Medium": "Mediu",
             "Large": "Large",
             "XLarge": "X-Large",
-            "ABC": "ABC"
+            "ABC": "ABC",
+            "Finetune": "Ajustare precisă",
+            "Brightness": "Luminozitate",
+            "Contrast": "Contrast",
+            "Hue": "Nuanţă",
+            "Saturation": "Saturare",
+            "Opacity": "Opacitate",
+            "Blur": "Estompa",
+            "Exposure": "Expunere",
+            "Filter": "Filtru",
+            "Chrome": "Crom",
+            "Cold": "Rece",
+            "Warm": "Cald",
+            "Grayscale": "Scara tonurilor de gri",
+            "Sepia": "Sepia",
+            "Invert": "Inversa"
         },
         "mention": {
             "noRecordsTemplate": "No records found"
