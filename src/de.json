@@ -1021,7 +1021,7 @@
         },
         "gantt": {
             "emptyRecord": "Keine Datensätze zum Anzeigen",
-            "id": "ICH WÜRDE",
+            "id": "ID",
             "name": "Name",
             "startDate": "Anfangsdatum",
             "endDate": "Enddatum",
