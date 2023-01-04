@@ -1525,8 +1525,8 @@
             "mdxQuery": "Permintaan MDX",
             "showSubTotals": "Tampilkan sub total",
             "doNotShowSubTotals": "Jangan tampilkan sub total",
-            "showSubTotalsRowsOnly": "Tampilkan hanya sub baris total",
-            "showSubTotalsColumnsOnly": "Tampilkan hanya sub kolom total",
+            "showSubTotalsRowsOnly": "Tampilkan baris Subtotal saja",
+            "showSubTotalsColumnsOnly": "Tampilkan kolom Subtotal saja",
             "showGrandTotals": "Tunjukkan total keseluruhan",
             "doNotShowGrandTotals": "Jangan tampilkan jumlah total",
             "showGrandTotalsRowsOnly": "Tampilkan baris total grand saja",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Buka halaman sebelumnya",
             "goToNextPage": "Pergi ke halaman berikutnya",
             "goToLastPage": "Pergi ke halaman terakhir",
-            "combined": "Pergi ke halaman terakhir",
-            "subTotalPosition": "Gabungan",
-            "auto": "Posisi subtotal"
+            "combined": "Gabungan",
+            "subTotalPosition": "Posisi subtotal",
+            "auto": "Mobil"
         },
         "pivotfieldlist": {
             "staticFieldList": "Daftar Bidang Pivot",

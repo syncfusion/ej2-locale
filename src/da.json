@@ -1524,7 +1524,7 @@
             "svg": "SVG",
             "mdxQuery": "MDX-forespørgsel",
             "showSubTotals": "Vis undertotaler",
-            "doNotShowSubTotals": "Vis ikke undersider",
+            "doNotShowSubTotals": "Vis ikke undertotaler",
             "showSubTotalsRowsOnly": "Vis kun rækker i undertotaler",
             "showSubTotalsColumnsOnly": "Vis kun kolonners undertotal",
             "showGrandTotals": "Vis store totaler",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Gå til forrige side",
             "goToNextPage": "Gå til næste side",
             "goToLastPage": "Gå til sidste side",
-            "combined": "Gå til sidste side",
-            "subTotalPosition": "Kombineret",
-            "auto": "Subtotaler position"
+            "combined": "Kombineret",
+            "subTotalPosition": "Subtotaler position",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot feltliste",

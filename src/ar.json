@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "الانتقال إلى الصفحة السابقة",
             "goToNextPage": "انتقل إلى الصفحة التالية",
             "goToLastPage": "انتقل إلى الصفحة الأخيرة",
-            "combined": "انتقل إلى الصفحة الأخيرة",
-            "subTotalPosition": "مشترك",
-            "auto": "موضع المجاميع الفرعية"
+            "combined": "مشترك",
+            "subTotalPosition": "موضع المجاميع الفرعية",
+            "auto": "تلقاءي"
         },
         "pivotfieldlist": {
             "staticFieldList": "قائمة الحقول المحورية",

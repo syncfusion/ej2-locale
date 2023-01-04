@@ -1525,8 +1525,8 @@
             "mdxQuery": "MDX upit",
             "showSubTotals": "Pokaži pod-zbrojeve",
             "doNotShowSubTotals": "Ne prikazujte pod-zbrojeve",
-            "showSubTotalsRowsOnly": "Prikaži samo retke podbrojeva",
-            "showSubTotalsColumnsOnly": "Prikaži samo stupce podbrojeva",
+            "showSubTotalsRowsOnly": "Prikaži samo retke međuzbrojeva",
+            "showSubTotalsColumnsOnly": "Prikaži samo stupce međuzbrojeva",
             "showGrandTotals": "Pokaži velike zbrojeve",
             "doNotShowGrandTotals": "Ne prikaži velike zbrojeve",
             "showGrandTotalsRowsOnly": "Prikaži samo redne ukupne retke",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Idi na prethodnu stranicu",
             "goToNextPage": "Idi na sljedeću stranicu",
             "goToLastPage": "Idi na posljednju stranicu",
-            "combined": "Idi na posljednju stranicu",
-            "subTotalPosition": "Kombinirano",
-            "auto": "Pozicija međuzbrojeva"
+            "combined": "Kombinirano",
+            "subTotalPosition": "Pozicija međuzbrojeva",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Popis okretnih polja",

@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "תחזור לדף הקודם",
             "goToNextPage": "עבור לדף הבא",
             "goToLastPage": "עבור לדף האחרון",
-            "combined": "עבור לדף האחרון",
-            "subTotalPosition": "מְשׁוּלָב",
-            "auto": "מיקום סכומי ביניים"
+            "combined": "מְשׁוּלָב",
+            "subTotalPosition": "מיקום סכומי ביניים",
+            "auto": "אוטומטי"
         },
         "pivotfieldlist": {
             "staticFieldList": "רשימת שדות ציר",
