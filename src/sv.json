@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Gå till föregående sida",
             "goToNextPage": "Gå till nästa sida",
             "goToLastPage": "Gå till sista sidan",
-            "combined": "Gå till sista sidan",
-            "subTotalPosition": "Kombinerad",
-            "auto": "Delsummor position"
+            "combined": "Kombinerad",
+            "subTotalPosition": "Delsummor position",
+            "auto": "Bil"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Field List",

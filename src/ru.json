@@ -1525,8 +1525,8 @@
             "mdxQuery": "MDX Query",
             "showSubTotals": "Показать промежуточные итоги",
             "doNotShowSubTotals": "Не показывать промежуточные итоги",
-            "showSubTotalsRowsOnly": "Показывать только итоговые строки",
-            "showSubTotalsColumnsOnly": "Показывать только промежуточные столбцы",
+            "showSubTotalsRowsOnly": "Показать только строки промежуточных итогов",
+            "showSubTotalsColumnsOnly": "Показать только столбцы промежуточных итогов",
             "showGrandTotals": "Показать итоги",
             "doNotShowGrandTotals": "Не показывать общие итоги",
             "showGrandTotalsRowsOnly": "Показывать только строки итогов",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Перейти на предыдущую страницу",
             "goToNextPage": "Перейти на следующую страницу",
             "goToLastPage": "Перейти на последнюю страницу",
-            "combined": "Перейти на последнюю страницу",
-            "subTotalPosition": "Комбинированный",
-            "auto": "Позиция промежуточных итогов"
+            "combined": "Комбинированный",
+            "subTotalPosition": "Позиция промежуточных итогов",
+            "auto": "Авто"
         },
         "pivotfieldlist": {
             "staticFieldList": "Список полей Pivot",

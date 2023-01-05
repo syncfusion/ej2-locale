@@ -1525,8 +1525,8 @@
             "mdxQuery": "MDX-spørring",
             "showSubTotals": "Vis undersum",
             "doNotShowSubTotals": "Ikke vis undersummer",
-            "showSubTotalsRowsOnly": "Vis bare ruter i summa",
-            "showSubTotalsColumnsOnly": "Vis bare kolonnene for tototall",
+            "showSubTotalsRowsOnly": "Vis kun delsumsrader",
+            "showSubTotalsColumnsOnly": "Vis kun delsum kolonner",
             "showGrandTotals": "Vis totaltal",
             "doNotShowGrandTotals": "Ikke vis storsatser",
             "showGrandTotalsRowsOnly": "Vis bare totalt antall rader",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Gå til forrige side",
             "goToNextPage": "Gå til neste side",
             "goToLastPage": "Gå til siste side",
-            "combined": "Gå til siste side",
-            "subTotalPosition": "Kombinert",
-            "auto": "Delsummer posisjon"
+            "combined": "Kombinert",
+            "subTotalPosition": "Delsummer posisjon",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot feltliste",

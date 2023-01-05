@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Chuyển đến trang trước",
             "goToNextPage": "Đi đến trang tiếp theo",
             "goToLastPage": "Đi đến trang cuối cùng",
-            "combined": "Tới trang cuối cùng",
-            "subTotalPosition": "kết hợp",
-            "auto": "vị trí tổng phụ"
+            "combined": "kết hợp",
+            "subTotalPosition": "vị trí tổng phụ",
+            "auto": "Tự động"
         },
         "pivotfieldlist": {
             "staticFieldList": "Danh sách trường Pivot",

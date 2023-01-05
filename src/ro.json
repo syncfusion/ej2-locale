@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Mergeți la pagina anterioară",
             "goToNextPage": "Mergeți la pagina următoare",
             "goToLastPage": "Mergeți la ultima pagină",
-            "combined": "Mergeți la ultima pagină",
-            "subTotalPosition": "Combinate",
-            "auto": "Poziția subtotalurilor"
+            "combined": "Combinate",
+            "subTotalPosition": "Poziția subtotalurilor",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista câmpurilor pivot",
