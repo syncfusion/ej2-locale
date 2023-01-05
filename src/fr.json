@@ -1660,9 +1660,9 @@
             "goToPreviousPage": "Aller à la page précédente",
             "goToNextPage": "Aller à la page suivante",
             "goToLastPage": "Aller à la dernière page",
-            "combined": "Aller à la dernière page",
-            "subTotalPosition": "Combiné",
-            "auto": "Position des sous-totaux"
+            "combined": "Combiné",
+            "subTotalPosition": "Position des sous-totaux",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Liste des champs de pivot",

@@ -1525,7 +1525,7 @@
             "mdxQuery": "MDX-kysely",
             "showSubTotals": "Näytä välisummat",
             "doNotShowSubTotals": "Älä näytä välisummia",
-            "showSubTotalsRowsOnly": "Näytä vain alarivit vain",
+            "showSubTotalsRowsOnly": "Näytä vain välisummarivit",
             "showSubTotalsColumnsOnly": "Näytä vain välisummien sarakkeet",
             "showGrandTotals": "Näytä suuret kokonaissummat",
             "doNotShowGrandTotals": "Älä näytä suuria summia",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Siirry edelliselle sivulle",
             "goToNextPage": "Siirry seuraavalle sivulle",
             "goToLastPage": "Siirry viimeiselle sivulle",
-            "combined": "Siirry viimeiselle sivulle",
-            "subTotalPosition": "Yhdistetty",
-            "auto": "Välisumman sijainti"
+            "combined": "Yhdistetty",
+            "subTotalPosition": "Välisumman sijainti",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot-kenttäluettelo",

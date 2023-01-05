@@ -1525,7 +1525,7 @@
             "mdxQuery": "MDX Query",
             "showSubTotals": "Zobraziť medzisúčty",
             "doNotShowSubTotals": "Nezobrazovať medzisúčty",
-            "showSubTotalsRowsOnly": "Zobraziť iba riadky s medzisúčtom",
+            "showSubTotalsRowsOnly": "Zobraziť iba riadky medzisúčtom",
             "showSubTotalsColumnsOnly": "Zobraziť iba stĺpce medzisúčtov",
             "showGrandTotals": "Zobraziť celkové súčty",
             "doNotShowGrandTotals": "Nezobrazovať celkové súčty",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Prejsť na predchádzajúcu stránku",
             "goToNextPage": "Prejdite na ďalšiu stránku",
             "goToLastPage": "Prejdite na poslednú stranu",
-            "combined": "Prejdite na poslednú stranu",
-            "subTotalPosition": "Kombinované",
-            "auto": "Pozícia medzisúčtov"
+            "combined": "Kombinované",
+            "subTotalPosition": "Pozícia medzisúčtov",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Zoznam kontingenčných polí",

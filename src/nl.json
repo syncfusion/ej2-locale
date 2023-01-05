@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Ga naar de vorige pagina",
             "goToNextPage": "Ga naar de volgende pagina",
             "goToLastPage": "Ga naar de laatste pagina",
-            "combined": "Ga naar de laatste pagina",
-            "subTotalPosition": "Gecombineerd",
-            "auto": "Subtotalen positie"
+            "combined": "Gecombineerd",
+            "subTotalPosition": "Subtotalen positie",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lijst met draaivelden",

@@ -1523,8 +1523,8 @@
             "jpeg": "JPEG",
             "svg": "SVG",
             "mdxQuery": "پرس و جو MDX",
-            "showSubTotals": "نمایش تعداد کل",
-            "doNotShowSubTotals": "مبلغ زیر را نشان ندهید",
+            "showSubTotals": "نشان دادن جمع های فرعی",
+            "doNotShowSubTotals": "جمع های فرعی نمایش داده نشود",
             "showSubTotalsRowsOnly": "فقط سطرهای زیر کل را نشان دهید",
             "showSubTotalsColumnsOnly": "فقط ستون های فرعی را نشان دهید",
             "showGrandTotals": "نمایش تعداد کل ها",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "برو به صفحه قبل",
             "goToNextPage": "به صفحه بعد بروید",
             "goToLastPage": "برو به صفحه آخر",
-            "combined": "برو به صفحه آخر",
-            "subTotalPosition": "ترکیب شده",
-            "auto": "موقعیت جمع های فرعی"
+            "combined": "ترکیب شده",
+            "subTotalPosition": "موقعیت جمع های فرعی",
+            "auto": "خودکار"
         },
         "pivotfieldlist": {
             "staticFieldList": "لیست زمینه محوری",

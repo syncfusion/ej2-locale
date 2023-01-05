@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Regresar a la pagina anterior",
             "goToNextPage": "Ir a la página siguiente",
             "goToLastPage": "Ir a la última página",
-            "combined": "Ir a la última página",
-            "subTotalPosition": "Conjunto",
-            "auto": "Posición de subtotales"
+            "combined": "Conjunto",
+            "subTotalPosition": "Posición de subtotales",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista de campos dinámicos",

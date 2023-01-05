@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Zurück zur letzten Seite",
             "goToNextPage": "Gehen Sie zur nächsten Seite",
             "goToLastPage": "Gehen Sie zur letzten Seite",
-            "combined": "Gehen Sie zur letzten Seite",
-            "subTotalPosition": "Kombiniert",
-            "auto": "Zwischensummenposition"
+            "combined": "Kombiniert",
+            "subTotalPosition": "Zwischensumme Position",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot-Feldliste",

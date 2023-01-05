@@ -1526,7 +1526,7 @@
             "showSubTotals": "Pokaż sumy częściowe",
             "doNotShowSubTotals": "Nie pokazuj sum częściowych",
             "showSubTotalsRowsOnly": "Pokaż tylko wiersze sumy częściowej",
-            "showSubTotalsColumnsOnly": "Pokaż tylko sumy częściowe",
+            "showSubTotalsColumnsOnly": "Pokaż tylko kolumny sum częściowych",
             "showGrandTotals": "Pokaż sumy",
             "doNotShowGrandTotals": "Nie pokazuj wielkich sum",
             "showGrandTotalsRowsOnly": "Pokaż tylko wiersze sumy ogólnej",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Wróć do poprzedniej strony",
             "goToNextPage": "Przejdź do następnej strony",
             "goToLastPage": "Idź do ostatniej strony",
-            "combined": "Przejdź do ostatniej strony",
-            "subTotalPosition": "Łączny",
-            "auto": "Pozycja sum częściowych"
+            "combined": "Łączny",
+            "subTotalPosition": "Pozycja sum częściowych",
+            "auto": "Automatyczny"
         },
         "pivotfieldlist": {
             "staticFieldList": "Lista pól przestawnych",

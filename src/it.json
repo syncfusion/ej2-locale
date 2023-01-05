@@ -1523,10 +1523,10 @@
             "jpeg": "JPEG",
             "svg": "SVG",
             "mdxQuery": "Query MDX",
-            "showSubTotals": "Mostra totali parziali",
-            "doNotShowSubTotals": "Non mostrare i totali parziali",
-            "showSubTotalsRowsOnly": "Mostra solo le righe dei totali secondari",
-            "showSubTotalsColumnsOnly": "Mostra solo le colonne dei totali parziali",
+            "showSubTotals": "Mostra subtotali",
+            "doNotShowSubTotals": "Non mostrare subtotali",
+            "showSubTotalsRowsOnly": "Mostra solo le righe dei subtotali",
+            "showSubTotalsColumnsOnly": "Mostra solo colonne subtotale",
             "showGrandTotals": "Mostra totali complessivi",
             "doNotShowGrandTotals": "Non mostrare i totali complessivi",
             "showGrandTotalsRowsOnly": "Mostra solo le righe dei totali complessivi",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Vai alla pagina precedente",
             "goToNextPage": "Vai alla pagina successiva",
             "goToLastPage": "Vai all'ultima pagina",
-            "combined": "Vai all'ultima pagina",
-            "subTotalPosition": "Combinato",
-            "auto": "Posizione subtotali"
+            "combined": "Combinato",
+            "subTotalPosition": "Posizione subtotali",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Elenco campi pivot",

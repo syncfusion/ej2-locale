@@ -1525,7 +1525,7 @@
             "mdxQuery": "MDX lekérdezés",
             "showSubTotals": "Részösszegek megjelenítése",
             "doNotShowSubTotals": "Ne jelenítsen meg részösszegeket",
-            "showSubTotalsRowsOnly": "Csak az összesített sorok megjelenítése",
+            "showSubTotalsRowsOnly": "Csak a részösszeg sorait jelenítse meg",
             "showSubTotalsColumnsOnly": "Csak részösszegű oszlopok megjelenítése",
             "showGrandTotals": "Mutasson nagy összegeket",
             "doNotShowGrandTotals": "Ne mutasson nagy összegeket",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Ugrás az előző oldalra",
             "goToNextPage": "Ugrás a következő oldalra",
             "goToLastPage": "Ugrás az utolsó oldalra",
-            "combined": "Ugrás az utolsó oldalra",
-            "subTotalPosition": "Kombinált",
-            "auto": "Részösszegek pozíciója"
+            "combined": "Kombinált",
+            "subTotalPosition": "Részösszegek pozíciója",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot mezőlista",

@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Önceki sayfaya git",
             "goToNextPage": "Sonraki sayfaya git",
             "goToLastPage": "Son sayfaya git",
-            "combined": "son sayfaya git",
-            "subTotalPosition": "kombine",
-            "auto": "Ara toplam konumu"
+            "combined": "kombine",
+            "subTotalPosition": "Ara toplam konumu",
+            "auto": "Oto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Pivot Alan Listesi",

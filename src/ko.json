@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "이전 페이지로 이동",
             "goToNextPage": "다음 페이지로 이동",
             "goToLastPage": "마지막 페이지로 이동",
-            "combined": "마지막 페이지로 이동",
-            "subTotalPosition": "결합",
-            "auto": "소계 위치"
+            "combined": "결합",
+            "subTotalPosition": "소계 위치",
+            "auto": "자동"
         },
         "pivotfieldlist": {
             "staticFieldList": "피벗 필드 목록",

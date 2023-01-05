@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "转到上一页",
             "goToNextPage": "转到下一页",
             "goToLastPage": "转到最后一页",
-            "combined": "转到最后一页",
-            "subTotalPosition": "联合",
-            "auto": "小计位置"
+            "combined": "联合",
+            "subTotalPosition": "小计位置",
+            "auto": "汽車"
         },
         "pivotfieldlist": {
             "staticFieldList": "樞軸字段列表",

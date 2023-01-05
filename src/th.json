@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "ไปหน้าก่อนหน้า",
             "goToNextPage": "ไปหน้าถัดไป",
             "goToLastPage": "ไปหน้าสุดท้าย",
-            "combined": "ไปที่หน้าสุดท้าย",
-            "subTotalPosition": "รวม",
-            "auto": "ตำแหน่งผลรวมย่อย"
+            "combined": "รวม",
+            "subTotalPosition": "ตำแหน่งผลรวมย่อย",
+            "auto": "รถยนต์"
         },
         "pivotfieldlist": {
             "staticFieldList": "รายการเขตข้อมูล Pivot",

@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "前のページへ",
             "goToNextPage": "次のページへ",
             "goToLastPage": "最後のページへ",
-            "combined": "最後のページへ",
-            "subTotalPosition": "組み合わせた",
-            "auto": "小計位置"
+            "combined": "組み合わせた",
+            "subTotalPosition": "小計位置",
+            "auto": "自動"
         },
         "pivotfieldlist": {
             "staticFieldList": "ピボットフィールドリスト",

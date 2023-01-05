@@ -1523,10 +1523,10 @@
             "jpeg": "JPEG",
             "svg": "SVG",
             "mdxQuery": "Query MDX",
-            "showSubTotals": "Tunjukkan jumlah sub",
-            "doNotShowSubTotals": "Jangan tunjukkan jumlah sub",
-            "showSubTotalsRowsOnly": "Tunjukkan sahaja baris jumlah keseluruhan",
-            "showSubTotalsColumnsOnly": "Tunjukkan sahaja ruang jumlah sub",
+            "showSubTotals": "Tunjukkan subjumlah",
+            "doNotShowSubTotals": "Jangan tunjukkan subjumlah",
+            "showSubTotalsRowsOnly": "Tunjukkan baris subjumlah sahaj",
+            "showSubTotalsColumnsOnly": "Tunjukkan lajur subjumlah sahajab",
             "showGrandTotals": "Tunjukkan jumlah besar",
             "doNotShowGrandTotals": "Jangan tunjukkan jumlah besar",
             "showGrandTotalsRowsOnly": "Tunjukkan sahaja jumlah keseluruhan yang besar",
@@ -1659,9 +1659,9 @@
             "goToPreviousPage": "Pergi ke halaman sebelumnya",
             "goToNextPage": "Pergi ke halaman seterusnya",
             "goToLastPage": "Pergi ke halaman terakhir",
-            "combined": "Pergi ke halaman terakhir",
-            "subTotalPosition": "digabungkan",
-            "auto": "Kedudukan subjumlah"
+            "combined": "digabungkan",
+            "subTotalPosition": "Kedudukan subjumlah",
+            "auto": "Auto"
         },
         "pivotfieldlist": {
             "staticFieldList": "Senarai Medan Pivot",
