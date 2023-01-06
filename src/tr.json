@@ -8,7 +8,7 @@
             "GroupDropArea": "Sütunu gruplandırmak için bir sütun başlığını buraya sürükleyin",
             "UnGroup": "Grubu çözmek için burayı tıklayın",
             "GroupDisable": "Bu sütun için gruplama devre dışı",
-            "FilterbarTitle": "\"s filtre çubuğu hücresi",
+            "FilterbarTitle": " filtre çubuğu hücresi",
             "EmptyDataSourceError": "Sütunları Otomatik Oluşturma Sütun Izgarası'nda dataSource'tan oluşturulduğu için DataSource ilk yüklemede boş olmamalıdır",
             "Add": "Ekle",
             "Edit": "Düzenle",
