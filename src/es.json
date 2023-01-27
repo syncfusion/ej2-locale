@@ -150,7 +150,7 @@
             "editTitle": "Editar detalles de la tarjeta",
             "deleteTitle": "Eliminar tarjeta",
             "deleteContent": "¿Estás seguro de que deseas eliminar esta tarjeta?",
-            "save": "",
+            "save": "Guardar",
             "delete": "Eliminar",
             "cancel": "Cancelar",
             "yes": "si",
