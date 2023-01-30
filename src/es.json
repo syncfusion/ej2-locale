@@ -257,7 +257,7 @@
             "MergeVertically": "Fusionar verticalmente",
             "Unmerge": "Desunir",
             "UnmergeCells": "Desunir Celdas",
-            "SelectMergeType": "Seleccionar tipo de combinación",
+            "SelectMergeType": "Seleccione el tipo de combinación",
             "MergeCellsAlert": "La combinación de celdas solo conservará el valor superior izquierdo (superior). Combinar de todos modos?",
             "PasteMergeAlert": "No podemos hacer eso en una celda de fusión.",
             "Borders": "Bordes",
@@ -628,7 +628,7 @@
             "FiveArrowsColor": "5 flechas (gris)",
             "FiveArrowsGray": "5 flechas (coloreadas)",
             "ThreeTrafficLights1": "3 Semáforos (Sin Borde)",
-            "ThreeTrafficLights2": "3 semáforos (con borde)",
+            "ThreeTrafficLights2": "3 Semáforos (Con Borde)",
             "ThreeSigns": "3 señales",
             "FourTrafficLights": "4 semáforos",
             "RedToBlack": "Rojo a negro",
@@ -876,7 +876,7 @@
             "customRange": "Rango personalizado"
         },
         "timepicker": {
-            "placeholder": "Elegir fecha"
+            "placeholder": "Elegir un fecha"
         },
         "datetimepicker": {
             "today": "Hoy",
@@ -1005,7 +1005,7 @@
             "months": "Mes(es)",
             "years": "Año(s)",
             "every": "cada",
-            "summaryTimes": "veces",
+            "summaryTimes": "vece(s)",
             "summaryOn": "en",
             "summaryUntil": "hasta",
             "summaryRepeat": "Repite",
@@ -1103,7 +1103,7 @@
             "eventMarkers": "Marcadores de eventos",
             "leftTaskLabel": "Etiqueta de tarea izquierda",
             "rightTaskLabel": "Etiqueta de tarea correcta",
-            "timelineCell": "Celda de línea de tiempo",
+            "timelineCell": "Celda de la línea de tiempo",
             "confirmPredecessorDelete": "¿Seguro que quieres eliminar el enlace de dependencia?",
             "unit": "Unidad",
             "work": "Trabajo",
@@ -1111,7 +1111,7 @@
             "unassignedTask": "Tarea no asignada",
             "group": "Grupo",
             "indent": "Sangría",
-            "outdent": "Anular sangría",
+            "outdent": "Eliminar sangría",
             "segments": "Segmentos",
             "splitTask": "Tarea dividida",
             "mergeTask": "Combinar tarea",
