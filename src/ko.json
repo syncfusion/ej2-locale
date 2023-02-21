@@ -93,7 +93,7 @@
             "FilterMenuDialogARIA": "필터 메뉴 대화 상자",
             "ExcelFilterDialogARIA": "Excel 필터 대화 상자",
             "DialogEditARIA": "편집 대화 상자",
-            "ColumnChooserDialogARIA": "열 선택기 대화 상자",
+            "ColumnChooserDialogARIA": "열 선택기",
             "ColumnMenuDialogARIA": "열 메뉴 대화 상자",
             "CustomFilterDialogARIA": "사용자 정의 필터 대화 상자",
             "SortAtoZ": "A부터 Z까지 정렬",
