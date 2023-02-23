@@ -3029,7 +3029,7 @@
             "Yes": "Đúng",
             "No": "Không",
             "Page Break": "Ngắt trang",
-            "Column Break": "Ngắt trang",
+            "Column Break": "Phá vỡ cột",
             "Section Break Next Page": "Ngắt phần (Trang tiếp theo)",
             "Section Break Continuous": "Section Break (Next Page)",
             "Unsupported format": "Định dạng tệp bạn đã chọn không được hỗ trợ. Vui lòng chọn định dạng hợp lệ.",
@@ -3220,8 +3220,8 @@
             "None": "Không có",
             "Borders": "Biên giới",
             "ShowHiddenMarks Tooltip": "Hiển thị các ký tự ẩn như dấu cách, tab, dấu đoạn và dấu ngắt. (Ctrl + *)",
-            "Columns": "Hiển thị các ký tự ẩn như dấu cách, tab, dấu phân đoạn và dấu ngắt. (Ctrl + *)",
-            "Column Break": "Cột"
+            "Columns": "Cột",
+            "Column Break": "Phá vỡ cột"
         },
         "carousel": {
             "nextSlide": "Trang trình bày tiếp theo",

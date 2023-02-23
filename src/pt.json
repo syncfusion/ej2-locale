@@ -3286,8 +3286,8 @@
             "None": "Nenhum",
             "Borders": "Fronteiras",
             "ShowHiddenMarks Tooltip": "Mostre os caracteres ocultos como espaços, tabulação, marcas de parágrafo e quebras.(Ctrl + *)",
-            "Columns": "Mostra os caracteres ocultos como espaços, tabulações, marcas de parágrafo e quebras.(Ctrl + *)",
-            "Column Break": "colunas"
+            "Columns": "Colunas",
+            "Column Break": "Quebra de coluna"
         },
         "carousel": {
             "nextSlide": "Próximo slide",

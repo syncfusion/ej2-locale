@@ -3220,8 +3220,8 @@
             "None": "Egyik sem",
             "Borders": "határok",
             "ShowHiddenMarks Tooltip": "A rejtett karakterek, például szóközök, tabulátorok, bekezdésjelek és törések megjelenítése. (Ctrl + *)",
-            "Columns": "Show the hidden characters like spaces, tab, paragraph marks, and breaks.(Ctrl + *)",
-            "Column Break": "Columns"
+            "Columns": "Oszlopok",
+            "Column Break": "Oszloptörés"
         },
         "carousel": {
             "nextSlide": "Következő dia",

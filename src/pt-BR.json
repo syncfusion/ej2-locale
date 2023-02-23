@@ -2907,7 +2907,7 @@
             "Yes": "Sim",
             "No": "Não",
             "Page Break": "Quebra de página",
-            "Column Break": "Page Break",
+            "Column Break": "Quebra de coluna",
             "Section Break Next Page": "Quebra de Seção (Próxima Página)",
             "Section Break Continuous": "Section Break (Next Page)",
             "Unsupported format": "O formato de arquivo que você selecionou não é compatível. Por favor, escolha um formato válido.",
@@ -3098,8 +3098,8 @@
             "None": "Nenhum",
             "Borders": "Fronteiras",
             "ShowHiddenMarks Tooltip": "Mostre os caracteres ocultos como espaços, tabulação, marcas de parágrafo e quebras.(Ctrl + *)",
-            "Columns": "Show the hidden characters like spaces, tab, paragraph marks, and breaks.(Ctrl + *)",
-            "Column Break": "Columns"
+            "Columns": "Colunas",
+            "Column Break": "Quebra de coluna"
         },
         "carousel": {
             "nextSlide": "Próximo slide",
