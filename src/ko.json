@@ -127,7 +127,9 @@
             "GroupedSortIcon": "그룹화된 열 정렬 ",
             "GroupedDrag": "그룹화된 열 드래그",
             "GroupCaption": " 그룹 캡션 셀입니다",
-            "CheckBoxLabel": "체크박스"
+            "CheckBoxLabel": "체크박스",
+            "Expanded": "퍼지는",
+            "Collapsed": "축소됨"
         },
         "pager": {
             "currentPageInfo": "{1} 페이지 중 {0}",

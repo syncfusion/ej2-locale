@@ -127,7 +127,9 @@
             "GroupedSortIcon": "sortere den grupperte kolonnen ",
             "GroupedDrag": "Dra den grupperte kolonnen",
             "GroupCaption": " er gruppetekstcelle",
-            "CheckBoxLabel": "avmerkingsboksen"
+            "CheckBoxLabel": "avmerkingsboksen",
+            "Expanded": "Utvidet",
+            "Collapsed": "Kollapset"
         },
         "pager": {
             "currentPageInfo": "{0} av {1} sider",

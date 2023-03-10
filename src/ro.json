@@ -127,7 +127,9 @@
             "GroupedSortIcon": "sortați coloana grupată ",
             "GroupedDrag": "Trageți coloana grupată",
             "GroupCaption": " este celula subtitrării grupului",
-            "CheckBoxLabel": "Caseta de bifat"
+            "CheckBoxLabel": "Caseta de bifat",
+            "Expanded": "Extins",
+            "Collapsed": "S-a prăbușit"
         },
         "pager": {
             "currentPageInfo": "{0} din {1} pagini",

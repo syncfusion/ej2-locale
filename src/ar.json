@@ -127,7 +127,9 @@
             "GroupedSortIcon": "قم بفرز العمود المجمع ",
             "GroupedDrag": "اسحب العمود المجمع",
             "GroupCaption": " هي خلية تسمية توضيحية جماعية",
-            "CheckBoxLabel": "خانة الاختيار"
+            "CheckBoxLabel": "خانة الاختيار",
+            "Expanded": "موسع",
+            "Collapsed": "انهار"
         },
         "pager": {
             "currentPageInfo": "{0} من {1} صفحة",

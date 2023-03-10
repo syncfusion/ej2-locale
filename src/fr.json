@@ -127,7 +127,9 @@
             "GroupedSortIcon": "trier la colonne groupée ",
             "GroupedDrag": "Faites glisser la colonne groupée",
             "GroupCaption": " est une cellule de légende de groupe",
-            "CheckBoxLabel": "case à cocher"
+            "CheckBoxLabel": "case à cocher",
+            "Expanded": "Étendue",
+            "Collapsed": "S'est effondré"
         },
         "pager": {
             "currentPageInfo": "{0} de {1} pages",

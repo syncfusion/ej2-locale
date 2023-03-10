@@ -127,7 +127,9 @@
             "GroupedSortIcon": "lajittele ryhmitelty sarake ",
             "GroupedDrag": "Vedä ryhmiteltyä saraketta",
             "GroupCaption": " on ryhmäkuvaussolu",
-            "CheckBoxLabel": "valintaruutu"
+            "CheckBoxLabel": "valintaruutu",
+            "Expanded": "Laajennettu",
+            "Collapsed": "Romahtanut"
         },
         "pager": {
             "currentPageInfo": "{0} {1} sivusta",

@@ -127,7 +127,9 @@
             "GroupedSortIcon": "מיין את העמודה המקובצת ",
             "GroupedDrag": "גרור את העמודה המקובצת",
             "GroupCaption": " הוא תא כיתוב קבוצתי",
-            "CheckBoxLabel": "תיבת סימון"
+            "CheckBoxLabel": "תיבת סימון",
+            "Expanded": "מוּרחָב",
+            "Collapsed": "תצוגה מכווצת"
         },
         "pager": {
             "currentPageInfo": "{0} מתוך {1} עמודים",

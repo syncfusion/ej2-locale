@@ -127,7 +127,9 @@
             "GroupedSortIcon": "posortuj zgrupowaną kolumnę ",
             "GroupedDrag": "Przeciągnij zgrupowaną kolumnę",
             "GroupCaption": " jest komórka napisów grupowych",
-            "CheckBoxLabel": "pole wyboru"
+            "CheckBoxLabel": "pole wyboru",
+            "Expanded": "Rozszerzony",
+            "Collapsed": "Zwinięty"
         },
         "pager": {
             "currentPageInfo": "{0} z {1} stron",

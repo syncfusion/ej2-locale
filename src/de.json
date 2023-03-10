@@ -127,7 +127,9 @@
             "GroupedSortIcon": "sortieren Sie die gruppierte Spalte ",
             "GroupedDrag": "Ziehen Sie die gruppierte Spalte",
             "GroupCaption": " ist eine Gruppenunterschriftszelle",
-            "CheckBoxLabel": "Kontrollkästchen"
+            "CheckBoxLabel": "Kontrollkästchen",
+            "Expanded": "Erweitert",
+            "Collapsed": "Zusammengebrochen"
         },
         "pager": {
             "currentPageInfo": "{0} von {1} Seiten",

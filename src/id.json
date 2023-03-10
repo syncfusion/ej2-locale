@@ -127,7 +127,9 @@
             "GroupedSortIcon": "urutkan kolom yang dikelompokkan ",
             "GroupedDrag": "Seret kolom yang dikelompokkan",
             "GroupCaption": " adalah sel groupcaption",
-            "CheckBoxLabel": "kotak centang"
+            "CheckBoxLabel": "kotak centang",
+            "Expanded": "Diperluas",
+            "Collapsed": "Runtuh"
         },
         "pager": {
             "currentPageInfo": "{0} dari {1} halaman",

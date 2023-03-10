@@ -127,7 +127,9 @@
             "GroupedSortIcon": "sortera den grupperade kolumnen ",
             "GroupedDrag": "Dra den grupperade kolumnen",
             "GroupCaption": " är grupptextcell",
-            "CheckBoxLabel": "kryssruta"
+            "CheckBoxLabel": "kryssruta",
+            "Expanded": "Expanderat",
+            "Collapsed": "Kollapsade"
         },
         "pager": {
             "currentPageInfo": "{0} av {1} sidor",

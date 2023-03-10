@@ -127,7 +127,9 @@
             "GroupedSortIcon": "ordenar la columna agrupada ",
             "GroupedDrag": "Arrastre la columna agrupada",
             "GroupCaption": " es celda de subtítulos de grupo",
-            "CheckBoxLabel": "casilla de verificación"
+            "CheckBoxLabel": "casilla de verificación",
+            "Expanded": "Expandida",
+            "Collapsed": "Contraída"
         },
         "pager": {
             "currentPageInfo": "{0} de {1} páginas",

@@ -127,7 +127,9 @@
             "GroupedSortIcon": "ستون گروه بندی شده را مرتب کنید ",
             "GroupedDrag": "ستون گروه بندی شده را بکشید",
             "GroupCaption": " سلول زیرنویس گروهی است",
-            "CheckBoxLabel": "چک باکس"
+            "CheckBoxLabel": "چک باکس",
+            "Expanded": "منبسط",
+            "Collapsed": "فرو ریخت"
         },
         "pager": {
             "currentPageInfo": "{0} از 1 {صفحه",

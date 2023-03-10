@@ -127,7 +127,9 @@
             "GroupedSortIcon": "sortirati grupirani stupac ",
             "GroupedDrag": "Povucite grupirani stupac",
             "GroupCaption": " je ćelija naslova grupe",
-            "CheckBoxLabel": "potvrdni okvir"
+            "CheckBoxLabel": "potvrdni okvir",
+            "Expanded": "Prošireno",
+            "Collapsed": "Srušeno"
         },
         "pager": {
             "currentPageInfo": "{0} od {1} stranica",

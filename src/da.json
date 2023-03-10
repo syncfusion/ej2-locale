@@ -127,7 +127,9 @@
             "GroupedSortIcon": "sortere den grupperede kolonne ",
             "GroupedDrag": "Træk den grupperede kolonne",
             "GroupCaption": " er gruppetekstcelle",
-            "CheckBoxLabel": "afkrydsningsfeltet"
+            "CheckBoxLabel": "afkrydsningsfeltet",
+            "Expanded": "Udvidet",
+            "Collapsed": "Kollapsede"
         },
         "pager": {
             "currentPageInfo": "{0} af {1} sider",
