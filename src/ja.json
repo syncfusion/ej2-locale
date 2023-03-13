@@ -127,7 +127,9 @@
             "GroupedSortIcon": "グループ化された列を並べ替える ",
             "GroupedDrag": "グループ化された列をドラッグします",
             "GroupCaption": " グループキャプションセルです",
-            "CheckBoxLabel": "チェックボックス"
+            "CheckBoxLabel": "チェックボックス",
+            "Expanded": "エキスパンド",
+            "Collapsed": "折りたたまれた"
         },
         "pager": {
             "currentPageInfo": "{0}ページのうち{1}ページ",

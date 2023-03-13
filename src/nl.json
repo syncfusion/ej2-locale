@@ -127,7 +127,9 @@
             "GroupedSortIcon": "sorteer de gegroepeerde kolom ",
             "GroupedDrag": "Sleep de gegroepeerde kolom",
             "GroupCaption": " is groupcaption cel",
-            "CheckBoxLabel": "selectievakje"
+            "CheckBoxLabel": "selectievakje",
+            "Expanded": "uitgebreid",
+            "Collapsed": "Ingestort"
         },
         "pager": {
             "currentPageInfo": "{0} van {1} pagina's",

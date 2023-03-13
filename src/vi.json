@@ -127,7 +127,9 @@
             "GroupedSortIcon": "sort the grouped column ",
             "GroupedDrag": "sắp xếp cột được nhóm lại",
             "GroupCaption": " là ô mã hóa nhóm",
-            "CheckBoxLabel": "hộp kiểm"
+            "CheckBoxLabel": "hộp kiểm",
+            "Expanded": "mở rộng",
+            "Collapsed": "Đã thu gọn"
         },
         "pager": {
             "currentPageInfo": "{0} trong số {1} trang",

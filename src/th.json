@@ -127,7 +127,9 @@
             "GroupedSortIcon": "จัดเรียงคอลัมน์ที่จัดกลุ่ม ",
             "GroupedDrag": "ลากคอลัมน์ที่จัดกลุ่ม",
             "GroupCaption": " เป็น groupcaption เซลล์",
-            "CheckBoxLabel": "ช่องทำเครื่องหมาย"
+            "CheckBoxLabel": "ช่องทำเครื่องหมาย",
+            "Expanded": "ขยาย",
+            "Collapsed": "ยุบ"
         },
         "pager": {
             "currentPageInfo": "หน้า {0} จาก {1} หน้า",

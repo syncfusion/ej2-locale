@@ -127,7 +127,9 @@
             "GroupedSortIcon": "对分组的列进行排序 ",
             "GroupedDrag": "拖动分组的列",
             "GroupCaption": " 是组字幕单元格",
-            "CheckBoxLabel": "复选框"
+            "CheckBoxLabel": "复选框",
+            "Expanded": "展开",
+            "Collapsed": "倒塌"
         },
         "pager": {
             "currentPageInfo": "{0}頁中的{0}頁",

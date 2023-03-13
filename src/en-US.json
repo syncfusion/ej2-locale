@@ -127,7 +127,9 @@
             "GroupedSortIcon": "sort the grouped column ",
             "GroupedDrag": "Drag the grouped column",
             "GroupCaption": " is groupcaption cell",
-            "CheckBoxLabel": "checkbox"
+            "CheckBoxLabel": "checkbox",
+            "Expanded": "Expanded",
+            "Collapsed": "Collapsed"
         },
         "pager": {
             "currentPageInfo": "{0} of {1} pages",

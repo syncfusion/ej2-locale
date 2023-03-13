@@ -127,7 +127,9 @@
             "GroupedSortIcon": "rendezze a csoportosított oszlopot ",
             "GroupedDrag": "Húzza a csoportosított oszlopot",
             "GroupCaption": " csoportfelirat cella",
-            "CheckBoxLabel": "jelölőnégyzetet"
+            "CheckBoxLabel": "jelölőnégyzetet",
+            "Expanded": "Kiterjesztett",
+            "Collapsed": "Összeomlott"
         },
         "pager": {
             "currentPageInfo": "{1} oldal {0}",

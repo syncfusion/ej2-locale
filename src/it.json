@@ -127,7 +127,9 @@
             "GroupedSortIcon": "ordina la colonna raggruppata ",
             "GroupedDrag": "Trascina la colonna raggruppata",
             "GroupCaption": " è una cella di didascalia di gruppo",
-            "CheckBoxLabel": "casella di controllo"
+            "CheckBoxLabel": "casella di controllo",
+            "Expanded": "Allargata",
+            "Collapsed": "Crollato"
         },
         "pager": {
             "currentPageInfo": "{0} di {1} pagine",

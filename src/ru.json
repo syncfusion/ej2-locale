@@ -127,7 +127,9 @@
             "GroupedSortIcon": "сортировать сгруппированный столбец ",
             "GroupedDrag": "Перетащите сгруппированный столбец",
             "GroupCaption": " ячейка группового заголовка",
-            "CheckBoxLabel": "флажок"
+            "CheckBoxLabel": "флажок",
+            "Expanded": "Расширенный",
+            "Collapsed": "Свернуто"
         },
         "pager": {
             "currentPageInfo": "{0} из {1} страниц",

@@ -127,7 +127,9 @@
             "GroupedSortIcon": "gruplandırılmış sütunu sırala ",
             "GroupedDrag": "Gruplandırılmış sütunu sürükleyin",
             "GroupCaption": " grup yazısı hücresidir",
-            "CheckBoxLabel": "onay kutusu"
+            "CheckBoxLabel": "onay kutusu",
+            "Expanded": "Genişletilmiş",
+            "Collapsed": "çöktü"
         },
         "pager": {
             "currentPageInfo": "{1} sayfanın {0}",

@@ -127,7 +127,9 @@
             "GroupedSortIcon": "seřadit seskupený sloupec ",
             "GroupedDrag": "Přetáhněte seskupený sloupec",
             "GroupCaption": " je buňka pro popis skupin",
-            "CheckBoxLabel": "zaškrtávací políčko"
+            "CheckBoxLabel": "zaškrtávací políčko",
+            "Expanded": "Rozšířený",
+            "Collapsed": "Zhroucený"
         },
         "pager": {
             "currentPageInfo": "{0} z {1} stránek",
