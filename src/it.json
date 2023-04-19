@@ -3047,7 +3047,7 @@
             "Yes": "sì",
             "No": "No",
             "Page Break": "Interruzione di pagina",
-            "Column Break": "Page Break",
+            "Column Break": "Interruzione di colonna",
             "Section Break Next Page": "Interruzione di sezione (pagina successiva)",
             "Section Break Continuous": "Section Break (Next Page)",
             "Unsupported format": "Il formato file selezionato non è supportato. Si prega di scegliere un formato valido.",
@@ -3240,8 +3240,8 @@
             "None": "Nessuno",
             "Borders": "frontiere",
             "ShowHiddenMarks Tooltip": "Mostra i caratteri nascosti come spazi, tabulazione, segni di paragrafo e interruzioni.(Ctrl + *)",
-            "Columns": "Show the hidden characters like spaces, tab, paragraph marks, and breaks.(Ctrl + *)",
-            "Column Break": "Columns"
+            "Columns": "Colonne",
+            "Column Break": "Interruzione di colonna"
         },
         "carousel": {
             "nextSlide": "Prossima diapositiva",

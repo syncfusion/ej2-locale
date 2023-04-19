@@ -3046,7 +3046,7 @@
             "Yes": "Ja",
             "No": "Nej",
             "Page Break": "Sidbrytning",
-            "Column Break": "Page Break",
+            "Column Break": "Kolumnbrytning",
             "Section Break Next Page": "Avsnittsbrytning (nästa sida)",
             "Section Break Continuous": "Section Break (Next Page)",
             "Unsupported format": "Filformatet du har valt stöds inte. Välj ett giltigt format.",
@@ -3056,8 +3056,8 @@
             "Presets": "Förinställningar",
             "Columns": "Kolumner",
             "Split your text into two or more columns": "Dela upp din text i två eller flera kolumner",
-            "Line between column": "Split your text into two or more columns",
-            "Width and Spacing": "Linje mellan kolumn",
+            "Line between column": "Linje mellan kolumn",
+            "Width and Spacing": "Bredd och avstånd",
             "Equal column width": "Lika kolumnbredd",
             "Column": "Kolumn",
             "Paste Content Dialog": "Due to browser’s security policy, paste from system clipboard is restricted. Alternatively use the keyboard shortcut",
@@ -3239,8 +3239,8 @@
             "None": "Ingen",
             "Borders": "Gränser",
             "ShowHiddenMarks Tooltip": "Visa de dolda tecknen som mellanslag, tabb, stycketecken och brytningar.(Ctrl + *)",
-            "Columns": "Show the hidden characters like spaces, tab, paragraph marks, and breaks.(Ctrl + *)",
-            "Column Break": "Columns"
+            "Columns": "Kolumner",
+            "Column Break": "Kolumnbrytning"
         },
         "carousel": {
             "nextSlide": "Nästa bild",

@@ -3239,8 +3239,8 @@
             "None": "Nici unul",
             "Borders": "Frontiere",
             "ShowHiddenMarks Tooltip": "Afișați caracterele ascunse, cum ar fi spații, tabulație, semne de paragraf și pauze. (Ctrl + *)",
-            "Columns": "Afișați caracterele ascunse, cum ar fi spații, tabulație, semne de paragraf și pauze. (Ctrl + *)",
-            "Column Break": "Coloane"
+            "Columns": "Coloane",
+            "Column Break": "Pauza de coloană"
         },
         "carousel": {
             "nextSlide": "Următorul slide",

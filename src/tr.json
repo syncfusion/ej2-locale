@@ -3046,7 +3046,7 @@
             "Yes": "Evet",
             "No": "Hayır",
             "Page Break": "Sayfa sonu",
-            "Column Break": "Page Break",
+            "Column Break": "Sütun Arası",
             "Section Break Next Page": "Bölüm Sonu (Sonraki Sayfa)",
             "Section Break Continuous": "Section Break (Next Page)",
             "Unsupported format": "Seçtiğiniz dosya biçimi desteklenmiyor. Lütfen geçerli bir format seçin.",
@@ -3239,8 +3239,8 @@
             "None": "Hiçbiri",
             "Borders": "Sınırlar",
             "ShowHiddenMarks Tooltip": "Boşluk, sekme, paragraf işaretleri ve sonlar gibi gizli karakterleri gösterin.(Ctrl + *)",
-            "Columns": "Show the hidden characters like spaces, tab, paragraph marks, and breaks.(Ctrl + *)",
-            "Column Break": "Sütunlar"
+            "Columns": "Sütunlar",
+            "Column Break": "Sütun Arası"
         },
         "carousel": {
             "nextSlide": "Sonraki slayt",

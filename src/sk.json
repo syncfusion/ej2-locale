@@ -3239,8 +3239,8 @@
             "None": "žiadne",
             "Borders": "hranice",
             "ShowHiddenMarks Tooltip": "Zobrazte skryté znaky, ako sú medzery, tabulátor, značky odsekov a zlomy. (Ctrl + *)",
-            "Columns": "Zobrazte skryté znaky, ako sú medzery, tabulátor, značky odsekov a zlomy. (Ctrl + *)",
-            "Column Break": "Stĺpce"
+            "Columns": "Stĺpce",
+            "Column Break": "Zalomenie stĺpca"
         },
         "carousel": {
             "nextSlide": "Ďalšia snímka",

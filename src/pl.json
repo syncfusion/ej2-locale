@@ -3239,8 +3239,8 @@
             "None": "Nic",
             "Borders": "Granice",
             "ShowHiddenMarks Tooltip": "Pokaż ukryte znaki, takie jak spacje, tabulatory, znaki akapitu i przerwy. (Ctrl + *)",
-            "Columns": "Pokaż ukryte znaki, takie jak spacje, tabulatory, znaki akapitu i przerwy. (Ctrl + *)",
-            "Column Break": "Kolumny"
+            "Columns": "Kolumny",
+            "Column Break": "Przerwa w kolumnie"
         },
         "carousel": {
             "nextSlide": "Następny slajd",
