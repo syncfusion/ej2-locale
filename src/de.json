@@ -617,6 +617,10 @@
             "ClearHyperlinks": "Hyperlinks löschen",
             "Image": "Bild",
             "ConditionalFormatting": "Bedingte Formatierung",
+            "Directional": "Gerichtet",
+            "Shapes": "Formen",
+            "Indicators": "Indikatoren",
+            "Ratings": "Bewertungen",
             "BlueDataBar": "Blaue Datenleiste",
             "GreenDataBar": "Grüne Datenleiste",
             "RedDataBar": "Rote Datenleiste",
@@ -746,6 +750,9 @@
             "CustomFormat": "Benutzerdefinierte Zahlenformate",
             "CustomFormatPlaceholder": "Geben Sie ein benutzerdefiniertes Format ein oder wählen Sie es aus",
             "CustomFormatTypeList": "Art",
+            "AddCurrentSelection": "Aktuelle Auswahl zum Filter hinzufügen",
+            "Close": "Schließen",
+            "MoreOptions": "Mehr Optionen",
             "CellReferenceTypoError": "Wir haben einen Tippfehler in Ihrem Zellbezug gefunden. Möchten Sie diesen Verweis wie folgt korrigieren?"
         },
         "filemanager": {
@@ -3064,6 +3071,9 @@
             "Column": "Spalte",
             "Paste Content Dialog": "Aufgrund der Sicherheitsrichtlinie des Browsers ist das Einfügen aus der Zwischenablage des Systems eingeschränkt. Alternativ verwenden Sie die Tastenkombination",
             "Paste CheckBox Content Dialog": "Nicht mehr anzeigen",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "Sie können Text nur mit bestimmten Stilen formatieren.",
             "Table Of Contents": "Inhaltsverzeichnis"
         },

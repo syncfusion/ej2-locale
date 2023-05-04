@@ -617,6 +617,10 @@
             "ClearHyperlinks": "ล้างการเชื่อมโยงหลายมิติ",
             "Image": "ภาพ",
             "ConditionalFormatting": "การจัดรูปแบบตามเงื่อนไข",
+            "Directional": "ทิศทาง",
+            "Shapes": "รูปร่าง",
+            "Indicators": "ตัวบ่งชี้",
+            "Ratings": "การให้คะแนน",
             "BlueDataBar": "แถบข้อมูลสีน้ำเงิน",
             "GreenDataBar": "แถบข้อมูลสีเขียว",
             "RedDataBar": "แถบข้อมูลสีแดง",
@@ -746,6 +750,9 @@
             "CustomFormat": "รูปแบบตัวเลขที่กำหนดเอง",
             "CustomFormatPlaceholder": "พิมพ์หรือเลือกรูปแบบที่กำหนดเอง",
             "CustomFormatTypeList": "พิมพ์",
+            "AddCurrentSelection": "เพิ่มการเลือกปัจจุบันเพื่อกรอง",
+            "Close": "ปิด",
+            "MoreOptions": "ตัวเลือกเพิ่มเติม",
             "CellReferenceTypoError": "เราพบการพิมพ์ผิดในการอ้างอิงเซลล์ของคุณ คุณต้องการแก้ไขการอ้างอิงนี้ดังต่อไปนี้หรือไม่?"
         },
         "filemanager": {
@@ -3062,6 +3069,9 @@
             "Column": "คอลัมน์",
             "Paste Content Dialog": "เนื่องจากนโยบายความปลอดภัยของเบราว์เซอร์ การวางจากคลิปบอร์ดของระบบจึงถูกจำกัด หรือใช้แป้นพิมพ์ลัด",
             "Paste CheckBox Content Dialog": "ไม่ต้องแสดงอีก",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "คุณสามารถจัดรูปแบบข้อความด้วยสไตล์บางอย่างเท่านั้น",
             "Ignore all": "ไม่สนใจทั้งหมด"
         },

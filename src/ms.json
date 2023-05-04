@@ -617,6 +617,10 @@
             "ClearHyperlinks": "Kosongkan Hiperpautan",
             "Image": "Imej",
             "ConditionalFormatting": "Pemformatan Bersyarat",
+            "Directional": "arah",
+            "Shapes": "bentuk",
+            "Indicators": "Penunjuk",
+            "Ratings": "Penilaian",
             "BlueDataBar": "Bar Data Biru",
             "GreenDataBar": "Bar Data Hijau",
             "RedDataBar": "Bar Data Merah",
@@ -746,6 +750,9 @@
             "CustomFormat": "Format Nombor Tersuai",
             "CustomFormatPlaceholder": "Taip atau Pilih format tersuai",
             "CustomFormatTypeList": "taip",
+            "AddCurrentSelection": "Tambahkan pilihan semasa untuk ditapis",
+            "Close": "tutup",
+            "MoreOptions": "Lebih Banyak Pilihan",
             "CellReferenceTypoError": "Kami mendapati kesilapan menaip dalam rujukan sel anda. Adakah anda ingin membetulkan rujukan ini seperti berikut?"
         },
         "filemanager": {
@@ -3062,6 +3069,9 @@
             "Column": "Kolum",
             "Paste Content Dialog": "Disebabkan dasar keselamatan penyemak imbas, tampal dari papan keratan sistem adalah terhad. Sebagai alternatif, gunakan pintasan papan kekunci",
             "Paste CheckBox Content Dialog": "Jangan tunjukkan lagi",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "Anda boleh memformat teks hanya dengan gaya tertentu",
             "Ignore all": "Abaikan semua"
         },

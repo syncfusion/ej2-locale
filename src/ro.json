@@ -617,6 +617,10 @@
             "ClearHyperlinks": "Ștergeți hyperlinkurile",
             "Image": "Imagine",
             "ConditionalFormatting": "Formatarea condițională",
+            "Directional": "Direcțional",
+            "Shapes": "Forme",
+            "Indicators": "Indicatori",
+            "Ratings": "Evaluări",
             "BlueDataBar": "Bara albastră de date",
             "GreenDataBar": "Bara de date verde",
             "RedDataBar": "Bara roșie de date",
@@ -746,6 +750,9 @@
             "CustomFormat": "Formate personalizate de numere",
             "CustomFormatPlaceholder": "Tastați sau Selectați un format personalizat",
             "CustomFormatTypeList": "Tip",
+            "AddCurrentSelection": "Adăugați selecția curentă pentru a filtra",
+            "Close": "Închide",
+            "MoreOptions": "Mai multe opțiuni",
             "CellReferenceTypoError": "Am găsit o greșeală de tipar în referința celulei tale. Doriți să corectați această referință după cum urmează?"
         },
         "filemanager": {
@@ -3062,6 +3069,9 @@
             "Column": "Coloană",
             "Paste Content Dialog": "Due to browser’s security policy, paste from system clipboard is restricted. Alternatively use the keyboard shortcut",
             "Paste CheckBox Content Dialog": "Don't show again",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "Puteți formata textul doar cu anumite stiluri.",
             "Ignore all": "Ignora tot"
         },

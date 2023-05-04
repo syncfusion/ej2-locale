@@ -617,6 +617,10 @@
             "ClearHyperlinks": "하이퍼링크 지우기",
             "Image": "영상",
             "ConditionalFormatting": "조건부 서식",
+            "Directional": "방향",
+            "Shapes": "모양",
+            "Indicators": "지표",
+            "Ratings": "등급",
             "BlueDataBar": "파란색 데이터 막대",
             "GreenDataBar": "녹색 데이터 막대",
             "RedDataBar": "빨간색 데이터 막대",
@@ -746,6 +750,9 @@
             "CustomFormat": "사용자 지정 숫자 형식",
             "CustomFormatPlaceholder": "사용자 지정 형식 입력 또는 선택",
             "CustomFormatTypeList": "유형",
+            "AddCurrentSelection": "현재 선택 항목을 필터에 추가",
+            "Close": "닫다",
+            "MoreOptions": "추가 옵션",
             "CellReferenceTypoError": "셀 참조에서 오타를 찾았습니다. 이 참조를 다음과 같이 수정하시겠습니까?"
         },
         "filemanager": {
@@ -3062,6 +3069,9 @@
             "Column": "열",
             "Paste Content Dialog": "Due to browser’s security policy, paste from system clipboard is restricted. Alternatively use the keyboard shortcut",
             "Paste CheckBox Content Dialog": "Don't show again",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "특정 스타일로만 텍스트 서식을 지정할 수 있습니다.",
             "Ignore all": "전부다 무시해라"
         },

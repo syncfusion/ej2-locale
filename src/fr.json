@@ -617,6 +617,10 @@
             "ClearHyperlinks": "Effacer les hyperliens",
             "Image": "Image",
             "ConditionalFormatting": "Mise en forme conditionnelle",
+            "Directional": "Directionnel",
+            "Shapes": "Formes",
+            "Indicators": "Indicateurs",
+            "Ratings": "Notes",
             "BlueDataBar": "Barre de données bleue",
             "GreenDataBar": "Barre de données verte",
             "RedDataBar": "Barre de données rouge",
@@ -746,6 +750,9 @@
             "CustomFormat": "Formats de nombre personnalisés",
             "CustomFormatPlaceholder": "Tapez ou sélectionnez un format personnalisé",
             "CustomFormatTypeList": "Taper",
+            "AddCurrentSelection": "Ajouter la sélection actuelle au filtre",
+            "Close": "Fermer",
+            "MoreOptions": "Plus d'options",
             "CellReferenceTypoError": "Nous avons trouvé une faute de frappe dans votre référence de cellule. Voulez-vous corriger cette référence comme suit ?"
         },
         "filemanager": {
@@ -3068,6 +3075,9 @@
             "Column": "Colonne",
             "Paste Content Dialog": "En raison de la politique de sécurité du navigateur, le collage à partir du presse-papiers du système est limité. Sinon, utilisez le raccourci clavier",
             "Paste CheckBox Content Dialog": "Ne plus afficher",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "Vous ne pouvez formater le texte qu'avec certains styles.",
             "ok": "Valider"
         },

@@ -617,6 +617,10 @@
             "ClearHyperlinks": "Obrišite hiperveze",
             "Image": "Slika",
             "ConditionalFormatting": "Uvjetno oblikovanje",
+            "Directional": "Usmjereni",
+            "Shapes": "Oblici",
+            "Indicators": "Indikatori",
+            "Ratings": "Ocjene",
             "BlueDataBar": "Plava podatkovna traka",
             "GreenDataBar": "Zelena podatkovna traka",
             "RedDataBar": "Crvena podatkovna traka",
@@ -746,6 +750,9 @@
             "CustomFormat": "Prilagođeni formati brojeva",
             "CustomFormatPlaceholder": "Upišite ili odaberite prilagođeni format",
             "CustomFormatTypeList": "Tip",
+            "AddCurrentSelection": "Dodaj trenutni odabir u filter",
+            "Close": "Zatvoriti",
+            "MoreOptions": "Više mogućnosti",
             "CellReferenceTypoError": "Pronašli smo pogrešku u vašoj referenci ćelije. Želite li ispraviti ovu referencu na sljedeći način?"
         },
         "filemanager": {
@@ -3062,6 +3069,9 @@
             "Column": "Stupac",
             "Paste Content Dialog": "Zbog sigurnosne politike preglednika, lijepljenje iz međuspremnika sustava je ograničeno. Alternativno koristite tipkovni prečac",
             "Paste CheckBox Content Dialog": "Ne prikazuj više",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "Tekst možete oblikovati samo određenim stilovima",
             "Ignore all": "Zanemari sve"
         },
