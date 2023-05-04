@@ -617,6 +617,10 @@
             "ClearHyperlinks": "נקה היפר-קישורים",
             "Image": "תמונה",
             "ConditionalFormatting": "עיצוב מותנה",
+            "Directional": "כִּוּוּנִי",
+            "Shapes": "צורות",
+            "Indicators": "אינדיקטורים",
+            "Ratings": "דירוגים",
             "BlueDataBar": "סרגל נתונים כחול",
             "GreenDataBar": "סרגל נתונים ירוק",
             "RedDataBar": "סרגל נתונים אדום",
@@ -746,6 +750,9 @@
             "CustomFormat": "פורמטים מותאמים אישית של מספרים",
             "CustomFormatPlaceholder": "הקלד או בחר פורמט מותאם אישית",
             "CustomFormatTypeList": "סוּג",
+            "AddCurrentSelection": "הוסף את הבחירה הנוכחית לסינון",
+            "Close": "סגור",
+            "MoreOptions": "אפשרויות נוספות",
             "CellReferenceTypoError": "מצאנו שגיאת הקלדה בהפניה לתא שלך. האם ברצונך לתקן התייחסות זו באופן הבא?"
         },
         "filemanager": {
@@ -3061,6 +3068,9 @@
             "Column": "טור",
             "Paste Content Dialog": "Due to browser’s security policy, paste from system clipboard is restricted. Alternatively use the keyboard shortcut",
             "Paste CheckBox Content Dialog": "Don't show again",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "ניתן לעצב טקסט רק עם סגנונות מסוימים.",
             "Ignore all": "התעלם מהכל"
         },

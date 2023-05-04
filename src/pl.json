@@ -617,6 +617,10 @@
             "ClearHyperlinks": "Wyczyść hiperłącza",
             "Image": "Obraz",
             "ConditionalFormatting": "Formatowanie warunkowe",
+            "Directional": "Kierunkowy",
+            "Shapes": "Kształty",
+            "Indicators": "Wskaźniki",
+            "Ratings": "Oceny",
             "BlueDataBar": "Niebieski pasek danych",
             "GreenDataBar": "Zielony pasek danych",
             "RedDataBar": "Czerwony pasek danych",
@@ -746,6 +750,9 @@
             "CustomFormat": "Niestandardowe formaty liczb",
             "CustomFormatPlaceholder": "Wpisz lub wybierz format niestandardowy",
             "CustomFormatTypeList": "Rodzaj",
+            "AddCurrentSelection": "Dodaj bieżący wybór do filtrowania",
+            "Close": "Zamknąć",
+            "MoreOptions": "Więcej możliwości",
             "CellReferenceTypoError": "Znaleźliśmy literówkę w odwołaniu do Twojej komórki. Czy chcesz poprawić to odniesienie w następujący sposób?"
         },
         "filemanager": {
@@ -3062,6 +3069,9 @@
             "Column": "Kolumna",
             "Paste Content Dialog": "Ze względu na politykę bezpieczeństwa przeglądarki wklejanie ze schowka systemowego jest ograniczone. Alternatywnie użyj skrótu klawiaturowego",
             "Paste CheckBox Content Dialog": "Nie pokazuj więcej",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "Możesz formatować tekst tylko w określonych stylach.",
             "Ignore all": "Ignorować wszystko"
         },

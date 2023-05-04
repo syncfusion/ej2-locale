@@ -617,6 +617,10 @@
             "ClearHyperlinks": "清除超链接",
             "Image": "图片",
             "ConditionalFormatting": "条件格式",
+            "Directional": "方向性",
+            "Shapes": "形状",
+            "Indicators": "指标",
+            "Ratings": "收视率",
             "BlueDataBar": "蓝色数据栏",
             "GreenDataBar": "绿色数据栏",
             "RedDataBar": "红色数据条",
@@ -746,6 +750,9 @@
             "CustomFormat": "自定义数字格式",
             "CustomFormatPlaceholder": "键入或选择自定义格式",
             "CustomFormatTypeList": "类型",
+            "AddCurrentSelection": "将当前选择添加到过滤器",
+            "Close": "关闭",
+            "MoreOptions": "更多的选择",
             "CellReferenceTypoError": "我们在您的单元格引用中发现了拼写错误。是否要按如下方式更正此引用？"
         },
         "filemanager": {
@@ -3064,6 +3071,9 @@
             "Column": "柱子",
             "Paste Content Dialog": "Due to browser’s security policy, paste from system clipboard is restricted. Alternatively use the keyboard shortcut",
             "Paste CheckBox Content Dialog": "不再显示",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "您只能使用某些樣式設置文本格式。",
             "Ignore all": "忽略所有"
         },

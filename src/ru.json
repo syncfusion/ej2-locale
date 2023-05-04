@@ -617,6 +617,10 @@
             "ClearHyperlinks": "Очистить гиперссылки",
             "Image": "Изображение",
             "ConditionalFormatting": "Условное форматирование",
+            "Directional": "Направленный",
+            "Shapes": "Формы",
+            "Indicators": "Индикаторы",
+            "Ratings": "Рейтинги",
             "BlueDataBar": "Синяя панель данных",
             "GreenDataBar": "Зеленая полоса данных",
             "RedDataBar": "Красная полоса данных",
@@ -746,6 +750,9 @@
             "CustomFormat": "Пользовательские числовые форматы",
             "CustomFormatPlaceholder": "Введите или выберите пользовательский формат",
             "CustomFormatTypeList": "Тип",
+            "AddCurrentSelection": "Добавить текущий выбор в фильтр",
+            "Close": "Закрывать",
+            "MoreOptions": "Больше вариантов",
             "CellReferenceTypoError": "Мы обнаружили опечатку в вашей ссылке на ячейку. Вы хотите исправить эту ссылку следующим образом?"
         },
         "filemanager": {
@@ -3062,6 +3069,9 @@
             "Column": "Столбец",
             "Paste Content Dialog": "Из-за политики безопасности браузера вставка из системного буфера обмена ограничена. В качестве альтернативы используйте сочетание клавиш",
             "Paste CheckBox Content Dialog": "Больше не показывать",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "Вы можете форматировать текст только с определенными стилями.",
             "Ignore all": "Игнорировать все"
         },

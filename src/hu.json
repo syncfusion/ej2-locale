@@ -617,6 +617,10 @@
             "ClearHyperlinks": "Hiperhivatkozások törlése",
             "Image": "Kép",
             "ConditionalFormatting": "Feltételes formázás",
+            "Directional": "Irány",
+            "Shapes": "Alakzatok",
+            "Indicators": "Mutatók",
+            "Ratings": "Értékelések",
             "BlueDataBar": "Kék adatsáv",
             "GreenDataBar": "Zöld adatsáv",
             "RedDataBar": "Piros adatsáv",
@@ -746,6 +750,9 @@
             "CustomFormat": "Egyedi számformátumok",
             "CustomFormatPlaceholder": "Írjon be vagy válasszon egy egyéni formátumot",
             "CustomFormatTypeList": "típus",
+            "AddCurrentSelection": "Az aktuális kijelölés hozzáadása a szűréshez",
+            "Close": "Bezárás",
+            "MoreOptions": "Több lehetőség",
             "CellReferenceTypoError": "Elírási hibát találtunk a cellahivatkozásában. Szeretné ezt a hivatkozást az alábbiak szerint javítani?"
         },
         "filemanager": {
@@ -3062,6 +3069,9 @@
             "Column": "Oszlopok",
             "Paste Content Dialog": "Due to browser’s security policy, paste from system clipboard is restricted. Alternatively use the keyboard shortcut",
             "Paste CheckBox Content Dialog": "Don't show again",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "A szöveget csak bizonyos stílusokkal formázhatja",
             "Ignore all": "Mindent figyelmen kívül hagy"
         },

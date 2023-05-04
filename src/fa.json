@@ -617,6 +617,10 @@
             "ClearHyperlinks": "پاک کردن هایپرلینک ها",
             "Image": "تصویر",
             "ConditionalFormatting": "قالب بندی شرطی",
+            "Directional": "جهت دار",
+            "Shapes": "شکل ها",
+            "Indicators": "شاخص ها",
+            "Ratings": "رتبه بندی ها",
             "BlueDataBar": "نوار داده آبی",
             "GreenDataBar": "نوار داده سبز",
             "RedDataBar": "نوار داده قرمز",
@@ -746,6 +750,9 @@
             "CustomFormat": "فرمت های اعداد سفارشی",
             "CustomFormatPlaceholder": "یک قالب سفارشی را تایپ یا انتخاب کنید",
             "CustomFormatTypeList": "تایپ کنید",
+            "AddCurrentSelection": "انتخاب فعلی را به فیلتر اضافه کنید",
+            "Close": "بستن",
+            "MoreOptions": "گزینه های بیشتر",
             "CellReferenceTypoError": "ما یک اشتباه تایپی در مرجع سلول شما پیدا کردیم. آیا می خواهید این مرجع را به صورت زیر تصحیح کنید؟"
         },
         "filemanager": {
@@ -2940,6 +2947,9 @@
             "Column": "ستون",
             "Paste Content Dialog": "به دلیل خط مشی امنیتی مرورگر، چسباندن از کلیپ بورد سیستم محدود شده است. یا از میانبر صفحه کلید استفاده کنید",
             "Paste CheckBox Content Dialog": "دیگر نشان نده",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "شما می توانید متن را فقط با سبک های خاصی قالب بندی کنید."
         },
         "documenteditorcontainer": {

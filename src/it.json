@@ -617,6 +617,10 @@
             "ClearHyperlinks": "Cancella collegamenti ipertestuali",
             "Image": "Immagine",
             "ConditionalFormatting": "Formattazione condizionale",
+            "Directional": "Direzionale",
+            "Shapes": "Forme",
+            "Indicators": "Indicatori",
+            "Ratings": "Giudizi",
             "BlueDataBar": "Barra dei dati blu",
             "GreenDataBar": "Barra dati verde",
             "RedDataBar": "Barra dei dati rossa",
@@ -746,6 +750,9 @@
             "CustomFormat": "Formati numerici personalizzati",
             "CustomFormatPlaceholder": "Digita o seleziona un formato personalizzato",
             "CustomFormatTypeList": "Tipo",
+            "AddCurrentSelection": "Aggiungi la selezione corrente al filtro",
+            "Close": "Vicino",
+            "MoreOptions": "Più opzioni",
             "CellReferenceTypoError": "Abbiamo trovato un errore di battitura nel riferimento del tuo cellulare. Vuoi correggere questo riferimento come segue?"
         },
         "filemanager": {
@@ -3063,6 +3070,9 @@
             "Column": "Colonne",
             "Paste Content Dialog": "A causa della politica di sicurezza del browser, l'incolla dagli appunti di sistema è limitato. In alternativa usa la scorciatoia da tastiera",
             "Paste CheckBox Content Dialog": "Non mostrare più",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "È possibile formattare il testo solo con determinati stili.",
             "Ignore all": "Ignora tutto"
         },

@@ -617,6 +617,10 @@
             "ClearHyperlinks": "Limpar hiperlinks",
             "Image": "Imagem",
             "ConditionalFormatting": "Formatação condicional",
+            "Directional": "Direcional",
+            "Shapes": "formas",
+            "Indicators": "Indicadores",
+            "Ratings": "avaliações",
             "BlueDataBar": "Barra de Dados Azul",
             "GreenDataBar": "Barra de Dados Verde",
             "RedDataBar": "Barra de dados vermelha",
@@ -746,6 +750,9 @@
             "CustomFormat": "Formatos de número personalizados",
             "CustomFormatPlaceholder": "Digite ou selecione um formato personalizado",
             "CustomFormatTypeList": "Tipo",
+            "AddCurrentSelection": "Adicionar seleção atual ao filtro",
+            "Close": "Fechar",
+            "MoreOptions": "Mais opções",
             "CellReferenceTypoError": "Encontramos um erro de digitação na referência do seu celular. Deseja corrigir esta referência da seguinte forma?"
         },
         "filemanager": {
@@ -2940,6 +2947,9 @@
             "Column": "Equal column width",
             "Paste Content Dialog": "Devido à política de segurança do navegador, colar da área de transferência do sistema é restrito. Como alternativa, use o atalho de teclado",
             "Paste CheckBox Content Dialog": "Não mostrar novamente",
+            "The top/bottom margins are too large for the page height in some sections.": "The top/bottom margins are too large for the page height in some sections.",
+            "Column width cannot be less than 36 pt.": "Column width cannot be less than 36 pt.",
+            "Left and right margins.": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "You may format text only with certain styles": "Você pode formatar o texto apenas com certos estilos.",
             "Ignore all": "Ignore tudo"
         },
