@@ -1,3 +1,4 @@
+const fs=require('fs');
 const https = require('https')
 const gulp = require('gulp')
 gulp.task('Localization-Translator', async function (done) {
