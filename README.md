@@ -64,3 +64,23 @@ import * as EJ2_LOCALE from "../../node_modules/@syncfusion/ej2-locale/src/de.js
 L10n.load({ de: EJ2_LOCALE.de });
 setCulture("de");
 ```
+
+### How to generate report of untranslated word and translate text can be translated.
+
+#### To generate report :
+
+Run the gulp task **Localization-Untranslated-Report** to create a report of all the cultures' untranslated text. It will give a report of each file's individual untranslated text that is there, broken down by component wise.
+
+```
+  gulp Localization-Untranslated-Report
+
+```
+
+#### To translate untranslated text
+
+Run the gulp task :**Localization-Translator** to generate a new culture files with the translated text of which can be translated to other culture.
+
+```
+  gulp Localization-Translator
+
+```
