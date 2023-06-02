@@ -4,7 +4,7 @@ const gulp = require('gulp')
 /**
  * Gulp task to generate report of text not translated component wise
  */
-gulp.task('Localization-Translator', async function (done) {
+gulp.task('Localization-Untranslated-Report', async function (done) {
   let HtmlReport =
     `<style>
   table {border-collapse: collapse;}
@@ -50,6 +50,43 @@ gulp.task('Localization-Translator', async function (done) {
   }
   catch (e) {
     console.log('error')
+  }
+  done();
+})
+/**
+ * Task to translate text which can be translated
+ */
+gulp.task('Localization-Translator', async function (done) {
+  const list = ['ar-AE', 'ar', 'cs', 'da', 'de', 'es', 'fa', 'fi', 'fr', 'he', 'hr', 'hu', 'id', 'is', 'it', 'ja', 'ko', 'ms', 'nb', 'nl', 'pl', 'pt-BR', 'pt', 'ro', 'ru', 'sk', 'sv', 'th', 'tr', 'vi', 'zh']
+  const English = require(process.cwd() + '/src/en-US.json');
+  var componetslist= English['en-US'];
+  const array=Object.keys(componetslist);
+  for (let i = 0; i < list.length; i++) {
+    const OtherLang = require(process.cwd()+ '/src/' + list[i] + '.json');
+    for (let j = 0; j < array.length; j++) {
+      var jsonValues1 = English['en-US'][array[j]];
+      var jsonValues2 = OtherLang[list[i]][array[j]];
+      const keys1 = Object.keys(jsonValues1);
+      for (const key of keys1) {
+        if (jsonValues1[key] === jsonValues2[key]) {
+          var textToTranslate = jsonValues2[key];
+          var targetLanguage = list[i];
+          let translatedText = await translateText(textToTranslate, targetLanguage);
+          if (translatedText != textToTranslate) {
+            jsonValues2[key] = translatedText;
+          }
+        }
+      }
+    }
+    const filePath =process.cwd()+ '/src/' + list[i] + '.json';
+    const jsonString = JSON.stringify(OtherLang, null, 2);
+    fs.writeFile(filePath, jsonString, (err) => {
+      if (err) {
+        console.error(list[i] + ":" + ' Error writing to JSON file:', err);
+        return;
+      }
+      console.log(list[i] + ":" + ' JSON object translated written to file successfully!');
+    });
   }
   done();
 })
