@@ -288,7 +288,7 @@
             "Open": "打開",
             "SaveAs": "另存為",
             "ExcelXlsx": "微軟Excel",
-            "ExcelXls": "Microsoft Excel 97-2003",
+            "ExcelXls": "微软 Excel 97-2003",
             "CSV": "逗號分隔值",
             "FormulaBar": "公式欄",
             "Sort": "分類",
@@ -686,7 +686,7 @@
             "MaterialDark": "材料暗",
             "FabricDark": "深色面料",
             "HighContrast": "高对比度",
-            "BootstrapDark": "BootstrapDark",
+            "BootstrapDark": "Bootstrap黑暗",
             "Bootstrap4": "Bootstrap4",
             "Bootstrap5Dark": "引导程序4",
             "Bootstrap5": "Bootstrap5 暗",
@@ -804,7 +804,7 @@
             "Button-Replace": "更換",
             "Button-Skip": "跳躍",
             "ApplyAll-Label": "對所有當前項目執行此操作",
-            "KB": "KB",
+            "KB": "知识库",
             "Access-Message": "{0}無法訪問。您需要權限才能執行{1}操作。",
             "Network-Error": "NetworkError：无法在XMLHTTP上发送请求：无法加载",
             "Server-Error": "ServerError：来自的无效响应"
@@ -1110,7 +1110,7 @@
             "formats": "格式",
             "sourcecode": "代碼查看",
             "preview": "預習",
-            "viewside": "ViewSide",
+            "viewside": "视面",
             "insertCode": "插入代碼",
             "linkText": "顯示文字",
             "linkTooltipLabel": "標題",
@@ -1319,9 +1319,15 @@
             "True": "真正",
             "False": "假"
         },
-        "barcode": {},
-        "datamatrix": {},
-        "qrcode": {},
+        "barcode": {
+            
+        },
+        "datamatrix": {
+            
+        },
+        "qrcode": {
+            
+        },
         "pivotview": {
             "grandTotal": "累計",
             "total": "總",
@@ -1461,7 +1467,7 @@
             "reportName": "報告名稱：",
             "pdf": "PDF格式",
             "excel": "電子表格",
-            "csv": "CSV",
+            "csv": "CSV文件",
             "png": "PNG",
             "jpeg": "JPEG格式",
             "svg": "SVG",
@@ -1492,7 +1498,7 @@
             "emptyInput": "輸入一個值",
             "newReportConfirm": "是否要保存更改以報告？",
             "emptyReportName": "輸入報告名稱",
-            "qtr": "Qtr",
+            "qtr": "季度",
             "null": "空值",
             "undefined": "未定義",
             "groupOutOfRange": "超出範圍",
@@ -1806,7 +1812,7 @@
             "Zoom out text": "縮小",
             "Selection text": "選拔",
             "Pan text": "泛",
-            "Print text": "打印",          
+            "Print text": "打印",
             "Search text": "搜索",
             "Annotation Edit text": "編輯註釋",
             "FormDesigner Edit text": "添加和编辑表单域",
@@ -1959,16 +1965,16 @@
             "Void": "空白",
             "Preliminary Results": "初步结果",
             "Information Only": "仅供参考",
-            "in": "in",
-            "m": "m",
+            "in": "在",
+            "m": "米",
             "ft_in": "ft_in",
-            "ft": "ft",
+            "ft": "英尺",
             "p": "p",
-            "cm": "cm",
-            "mm": "mm",
-            "pt": "pt",
-            "cu": "cu",
-            "sq": "sq",
+            "cm": "厘米",
+            "mm": "毫米",
+            "pt": "点",
+            "cu": "铜",
+            "sq": "平方米",
             "Initial": "最初的"
         },
         "diagram": {
@@ -1992,7 +1998,9 @@
             "save": "保存",
             "cancel": "取消"
         },
-        "drawing": {},
+        "drawing": {
+            
+        },
         "drop-down-base": {
             "noRecordsTemplate": "沒有找到記錄",
             "actionFailureTemplate": "請求失敗"
@@ -2160,7 +2168,7 @@
             "Arabic": "阿拉伯",
             "UpRoman": "UpRoman",
             "LowRoman": "低羅馬",
-            "UpLetter": "UpLetter",
+            "UpLetter": "上信",
             "LowLetter": "低信",
             "Number": "數",
             "Leading zero": "前導零",
@@ -2416,9 +2424,9 @@
             "SingleWavy": "单波",
             "DoubleWavy": "双波",
             "Inset": "插图",
-            "DashLargeGap": "DashLargeGap",
+            "DashLargeGap": "破折号大缺口",
             "Dot": "点",
-            "DashDotDot": "DashDotDot",
+            "DashDotDot": "点点滴滴",
             "Triple": "三倍",
             "ThinThickThinSmallGap": "薄厚薄小间隙",
             "ThinThickThinMediumGap": "薄厚薄中间隙",

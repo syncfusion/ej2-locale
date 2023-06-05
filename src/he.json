@@ -681,8 +681,8 @@
             "ChartType": "סוג תרשים",
             "Material": "חוֹמֶר",
             "Fabric": "בד",
-            "Bootstrap": "Bootstrap",
-            "HighContrastLight": "HighContrastLight",
+            "Bootstrap": "אתחול",
+            "HighContrastLight": "High ContrastLight",
             "MaterialDark": "חומר כהה",
             "FabricDark": "FabricDark",
             "HighContrast": "ניגודיות גבוה",
@@ -1209,7 +1209,7 @@
             "formatsOLListLowerAlpha": "תחתון אלפא",
             "formatsOLListUpperAlpha": "עליון אלפא",
             "formatsOLListLowerRoman": "תחתון רומאן",
-            "formatsOLListUpperRoman": "UpperRoman",
+            "formatsOLListUpperRoman": "רומן עליון",
             "formatsOLListLowerGreek": "יוון התחתונה",
             "formatsULListDisc": "דיסק",
             "formatsULListCircle": "מעגל",
@@ -1319,9 +1319,15 @@
             "True": "נָכוֹן",
             "False": "שֶׁקֶר"
         },
-        "barcode": {},
-        "datamatrix": {},
-        "qrcode": {},
+        "barcode": {
+            
+        },
+        "datamatrix": {
+            
+        },
+        "qrcode": {
+            
+        },
         "pivotview": {
             "grandTotal": "סכום סופי",
             "total": "סה\"כ",
@@ -1959,16 +1965,16 @@
             "Void": "בָּטֵל",
             "Preliminary Results": "תוצאות ראשוניות",
             "Information Only": "מידע בלבד",
-            "in": "in",
-            "m": "m",
+            "in": "ב",
+            "m": "M",
             "ft_in": "",
             "ft": "ft",
-            "p": "p",
-            "cm": "cm",
-            "mm": "mm",
+            "p": "ע",
+            "cm": "ס\"מ",
+            "mm": "מ\"מ",
             "pt": "pt",
             "cu": "cu",
-            "sq": "sq",
+            "sq": "מ\"ר",
             "Initial": "התחלתי"
         },
         "diagram": {
@@ -1992,7 +1998,9 @@
             "save": "להציל",
             "cancel": "בטל"
         },
-        "drawing": {},
+        "drawing": {
+            
+        },
         "drop-down-base": {
             "noRecordsTemplate": "לא נמצאו שיאים",
             "actionFailureTemplate": "הבקשה נכשלה"
@@ -2123,7 +2131,7 @@
             "Number of columns": "מספר העמודות",
             "Number of rows": "מספר שורות",
             "Text to display": "טקסט לתצוגה",
-            "ScreenTip text": "Text to display",
+            "ScreenTip text": "טקסט לתצוגה",
             "Address": "כתובת",
             "Insert Hyperlink": "הכנס היפר-קישור",
             "Edit Hyperlink": "ערוך את היפר-קישור",
@@ -2158,7 +2166,7 @@
             "Tab character": "תו כרטיסייה",
             "Space": "שטח",
             "Arabic": "ערבית",
-            "UpRoman": "UpRoman",
+            "UpRoman": "למעלה רומן",
             "LowRoman": "LowRoman",
             "UpLetter": "UpLetter",
             "LowLetter": "LowLetter",
@@ -2386,7 +2394,7 @@
             "Form Fields": "שדות טופס",
             "Fillin enabled": "מילוי מופעל",
             "Multiple Comment": "אנא פרסם את תגובתך",
-            "InsertFootnote": "InsertFootnote",
+            "InsertFootnote": "הכנס הערת שוליים",
             "InsertEndnote": "InsertEndnote",
             "Footnote": "הערת שוליים",
             "Endnote": "הערת סיום",
@@ -2625,7 +2633,6 @@
             "previousSlide": "שקופית קודמת",
             "slide": "שקופית",
             "slideShow": "הצגת שקופיות"
-            
         }
     }
 }
