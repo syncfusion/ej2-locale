@@ -1304,7 +1304,7 @@
       "date": "Veuillez entrer une date valide.",
       "dateIso": "Veuillez saisir une date valide (ISO).",
       "creditcard": "Veuillez entrer un numéro de carte valide",
-      "number": "S'il vous plait, entrez un nombre valide.",
+      "number": "S'il vous plaît, entrez un nombre valide.",
       "digits": "Merci de n'entrer que des chiffres.",
       "maxLength": "Veuillez ne pas saisir plus de {0} caractères.",
       "minLength": "Veuillez saisir au moins {0} caractères.",
