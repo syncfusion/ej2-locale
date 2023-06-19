@@ -79,7 +79,7 @@ gulp.task('Localization-Translator', async function (done) {
       }
     }
     const filePath =process.cwd()+ '/src/' + list[i] + '.json';
-    const jsonString = JSON.stringify(OtherLang, null, 2);
+    const jsonString = JSON.stringify(OtherLang, null, 4);
     fs.writeFile(filePath, jsonString, (err) => {
       if (err) {
         console.error(list[i] + ":" + ' Error writing to JSON file:', err);
