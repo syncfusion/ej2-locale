@@ -757,15 +757,15 @@
       "Shapes": "الأشكال",
       "Indicators": "المؤشرات",
       "Ratings": "التقييمات",
-      "InvalidFormulaError": "التقييمات",
-      "InvalidArguments": "وجدنا أنك كتبت صيغة غير صالحة.",
-      "EmptyExpression": "لقد اكتشفنا أنك قمت بكتابة صيغة تحتوي على وسيطات غير صالحة.",
-      "MismatchedParenthesis": "لقد وجدنا أنك كتبت صيغة بتعبير فارغ.",
-      "ImproperFormula": "لقد اكتشفنا أنك قمت بكتابة صيغة تحتوي على قوس فتح أو إغلاق واحد أو أكثر مفقود.",
-      "WrongNumberOfArguments": "وجدنا أنك كتبت صيغة غير صحيحة.",
-      "Requires3Arguments": "لقد اكتشفنا أنك قمت بكتابة صيغة تحتوي على عدد خاطئ من الوسائط.",
-      "MismatchedStringQuotes": "لقد وجدنا أنك كتبت صيغة تتطلب 3 وسائط.",
-      "FormulaCircularRef": "لقد اكتشفنا أنك كتبت صيغة تحتوي على علامات اقتباس غير متطابقة."
+      "InvalidFormulaError": "وجدنا أنك كتبت صيغة غير صالحة.",
+      "InvalidArguments": "لقد اكتشفنا أنك كتبت صيغة تحتوي على وسيطات غير صالحة.",
+      "EmptyExpression": "لقد وجدنا أنك كتبت صيغة بتعبير فارغ.",
+      "MismatchedParenthesis": "لقد اكتشفنا أنك قمت بكتابة صيغة تحتوي على قوس فتح أو إغلاق واحد أو أكثر مفقود.",
+      "ImproperFormula": "وجدنا أنك كتبت صيغة غير صحيحة.",
+      "WrongNumberOfArguments": "لقد اكتشفنا أنك قمت بكتابة صيغة تحتوي على عدد خاطئ من الوسائط.",
+      "Requires3Arguments": "لقد وجدنا أنك كتبت صيغة تتطلب 3 وسائط.",
+      "MismatchedStringQuotes": "لقد اكتشفنا أنك كتبت صيغة تحتوي على علامات اقتباس غير متطابقة.",
+      "FormulaCircularRef": "لقد وجدنا أنك كتبت صيغة بمرجع دائري."
     },
     "filemanager": {
       "NewFolder": "ملف جديد",
@@ -2553,15 +2553,15 @@
       "Paste CheckBox Content Dialog": "لا تظهر مرة أخرى",
       "The top/bottom margins are too large for the page height in some sections.": "الهوامش العلوية / السفلية كبيرة جدًا بالنسبة لارتفاع الصفحة في بعض الأقسام.",
       "Column width cannot be less than 36 pt.": "لا يمكن أن يكون عرض العمود أقل من 36 نقطة.",
-      "Left and right margins.": "الإعدادات التي اخترتها للهوامش اليمنى واليسرى أو تباعد الأعمدة أو المسافات البادئة للمخطط كبيرة جدًا بالنسبة لعرض الصفحة في نفس الأقسام.",
-      "The address of this site is not valid. Check the address and try again.": "الإعدادات التي اخترتها للهوامش اليمنى واليسرى، أو تباعد الأعمدة، أو المسافات البادئة للرسم البياني كبيرة جدًا بالنسبة لعرض الصفحة في نفس الأقسام.",
-      "Alt Text": "عنوان هذا الموقع غير صالح. ",
-      "Title": "نص بديل",
-      "Description": "عنوان",
-      "Left and right margins": "الإعدادات التي اخترتها للهوامش اليمنى واليسرى أو تباعد الأعمدة أو المسافات البادئة للمخطط كبيرة جدًا بالنسبة لعرض الصفحة في نفس الأقسام.",
-      "Number of rows must be between 1 and 32767.": "يجب أن يكون عدد الصفوف بين 1 و 32767.",
-      "Number of columns must be between 1 and 63.": "يجب أن يتراوح عدد الأعمدة بين 1 و 63.",
-      "You may format text only with certain styles": "يمكنك تنسيق النص بأنماط معينة فقط."
+      "Left and right margins.": "الإعدادات التي اخترتها للهوامش اليمنى واليسرى، أو تباعد الأعمدة، أو المسافات البادئة للرسم البياني كبيرة جدًا بالنسبة لعرض الصفحة في نفس الأقسام.",
+      "The address of this site is not valid. Check the address and try again.": "عنوان هذا الموقع غير صالح. ",
+      "Alt Text": "نص بديل",
+      "Title": "عنوان",
+      "Description": "وصف",
+      "Left and right margins": "الإعدادات التي اخترتها للهوامش اليمنى واليسرى، أو تباعد الأعمدة، أو المسافات البادئة للرسم البياني كبيرة جدًا بالنسبة لعرض الصفحة في نفس الأقسام.",
+      "Number of rows must be between 1 and 32767.": "يجب أن يكون عدد الصفوف بين 1 و32767.",
+      "Number of columns must be between 1 and 63.": "يجب أن يتراوح عدد الأعمدة بين 1 و63.",
+      "You may format text only with certain styles": "لا يجوز لك تنسيق النص إلا باستخدام أنماط معينة."
     },
     "documenteditorcontainer": {
       "New": "جديد",
@@ -2740,9 +2740,9 @@
       "Columns": "الأعمدة",
       "Column Break": "فاصل العمود",
       "Alternate Text": "نص بديل",
-      "The address of this site is not valid. Check the address and try again.": "نص بديل",
-      "OK": "عنوان هذا الموقع غير صالح. ",
-      "Information": "نعم"
+      "The address of this site is not valid. Check the address and try again.": "عنوان هذا الموقع غير صالح. ",
+      "OK": "نعم",
+      "Information": "معلومة"
     },
     "carousel": {
       "nextSlide": "الشريحة التالية",

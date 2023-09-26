@@ -757,15 +757,15 @@
       "Shapes": "Alakzatok",
       "Indicators": "Mutatók",
       "Ratings": "Értékelések",
-      "InvalidFormulaError": "Értékelések",
-      "InvalidArguments": "Azt találtuk, hogy érvénytelen képletet írt be.",
-      "EmptyExpression": "Azt találtuk, hogy egy képletet írt be érvénytelen argumentumokkal.",
-      "MismatchedParenthesis": "Azt találtuk, hogy egy képletet írt be üres kifejezéssel.",
-      "ImproperFormula": "Azt találtuk, hogy olyan képletet írt be, amelyből egy vagy több hiányzó nyitó vagy záró zárójel.",
-      "WrongNumberOfArguments": "Azt találtuk, hogy egy képletet írt be, amely helytelen.",
-      "Requires3Arguments": "Azt találtuk, hogy rossz számú argumentumot tartalmazó képletet írt be.",
-      "MismatchedStringQuotes": "Azt találtuk, hogy olyan képletet írt be, amelyhez 3 argumentum szükséges.",
-      "FormulaCircularRef": "Azt találtuk, hogy egy képletet írt be nem egyező idézőjelekkel."
+      "InvalidFormulaError": "Azt találtuk, hogy érvénytelen képletet írt be.",
+      "InvalidArguments": "Azt találtuk, hogy egy képletet írt be érvénytelen argumentumokkal.",
+      "EmptyExpression": "Azt találtuk, hogy egy képletet írt be üres kifejezéssel.",
+      "MismatchedParenthesis": "Azt találtuk, hogy olyan képletet írt be, amelyből egy vagy több hiányzik a nyitó vagy záró zárójel.",
+      "ImproperFormula": "Azt találtuk, hogy egy képletet írt be, amely helytelen.",
+      "WrongNumberOfArguments": "Azt találtuk, hogy rossz számú argumentumot tartalmazó képletet írt be.",
+      "Requires3Arguments": "Azt találtuk, hogy olyan képletet írt be, amelyhez 3 argumentum szükséges.",
+      "MismatchedStringQuotes": "Azt találtuk, hogy egy képletet írt be nem egyező idézőjelekkel.",
+      "FormulaCircularRef": "Azt találtuk, hogy körkörös hivatkozással írt képletet."
     },
     "filemanager": {
       "NewFolder": "Új mappa",
@@ -2554,14 +2554,14 @@
       "The top/bottom margins are too large for the page height in some sections.": "A felső/alsó margók egyes részeken túl nagyok az oldalmagassághoz képest.",
       "Column width cannot be less than 36 pt.": "Az oszlop szélessége nem lehet kisebb 36 pontnál.",
       "Left and right margins.": "A bal és a jobb margóhoz, az oszlopközökhöz vagy a bekezdések behúzásához választott beállítások túl nagyok az oldalszélességhez ugyanazon szakaszokban.",
-      "The address of this site is not valid. Check the address and try again.": "A bal és a jobb margóhoz, az oszlopközökhöz vagy a bekezdések behúzásához választott beállítások túl nagyok az oldalszélességhez ugyanazon szakaszokban.",
-      "Alt Text": "Ennek az oldalnak a címe nem érvényes. ",
-      "Title": "Alt szöveg",
-      "Description": "Cím",
+      "The address of this site is not valid. Check the address and try again.": "Ennek az oldalnak a címe nem érvényes. ",
+      "Alt Text": "Alt szöveg",
+      "Title": "Cím",
+      "Description": "Leírás",
       "Left and right margins": "A bal és jobb margóhoz, az oszlopközhöz vagy a bekezdés behúzásához választott beállítások túl nagyok az oldalszélességhez ugyanazon szakaszokban.",
       "Number of rows must be between 1 and 32767.": "A sorok számának 1 és 32767 között kell lennie.",
       "Number of columns must be between 1 and 63.": "Az oszlopok számának 1 és 63 között kell lennie.",
-      "You may format text only with certain styles": "A szöveget csak bizonyos stílusokkal formázhatja",
+      "You may format text only with certain styles": "A szöveget csak bizonyos stílusokkal formázhatja.",
       "Ignore all": "Mindent figyelmen kívül hagy"
     },
     "documenteditorcontainer": {
@@ -2741,9 +2741,9 @@
       "Columns": "Oszlopok",
       "Column Break": "Oszloptörés",
       "Alternate Text": "Alternatív szöveg",
-      "The address of this site is not valid. Check the address and try again.": "Alternatív szöveg",
-      "OK": "Ennek az oldalnak a címe nem érvényes. ",
-      "Information": "rendben"
+      "The address of this site is not valid. Check the address and try again.": "Ennek az oldalnak a címe nem érvényes. ",
+      "OK": "rendben",
+      "Information": "Információ"
     },
     "carousel": {
       "nextSlide": "Következő dia",

@@ -757,15 +757,15 @@
       "Shapes": "Former",
       "Indicators": "Indikatorer",
       "Ratings": "Vurderinger",
-      "InvalidFormulaError": "Vurderinger",
-      "InvalidArguments": "Vi fant ut at du skrev inn en formel som er ugyldig.",
-      "EmptyExpression": "Vi fant ut at du skrev inn en formel med ugyldige argumenter.",
-      "MismatchedParenthesis": "Vi fant ut at du skrev inn en formel med et tomt uttrykk.",
-      "ImproperFormula": "Vi fant ut at du skrev inn en formel med en eller flere manglende åpnings- eller lukkeparenteser.",
-      "WrongNumberOfArguments": "Vi fant ut at du skrev inn en formel som er feil.",
-      "Requires3Arguments": "Vi fant ut at du skrev inn en formel med feil antall argumenter.",
-      "MismatchedStringQuotes": "Vi fant ut at du skrev inn en formel som krever 3 argumenter.",
-      "FormulaCircularRef": "Vi fant ut at du skrev inn en formel med anførselstegn som ikke samsvarer."
+      "InvalidFormulaError": "Vi fant ut at du skrev inn en formel som er ugyldig.",
+      "InvalidArguments": "Vi fant ut at du skrev inn en formel med ugyldige argumenter.",
+      "EmptyExpression": "Vi fant ut at du skrev inn en formel med et tomt uttrykk.",
+      "MismatchedParenthesis": "Vi fant ut at du skrev inn en formel med en eller flere manglende åpnings- eller lukkeparenteser.",
+      "ImproperFormula": "Vi fant ut at du skrev inn en formel som er feil.",
+      "WrongNumberOfArguments": "Vi fant ut at du skrev inn en formel med feil antall argumenter.",
+      "Requires3Arguments": "Vi fant ut at du skrev inn en formel som krever 3 argumenter.",
+      "MismatchedStringQuotes": "Vi fant ut at du skrev inn en formel med anførselstegn som ikke samsvarer.",
+      "FormulaCircularRef": "Vi fant ut at du skrev inn en formel med en sirkulær referanse."
     },
     "filemanager": {
       "NewFolder": "Ny mappe",
@@ -2554,14 +2554,14 @@
       "The top/bottom margins are too large for the page height in some sections.": "Topp-/bunnmargene er for store for sidehøyden i enkelte deler.",
       "Column width cannot be less than 36 pt.": "Kolonnebredden kan ikke være mindre enn 36 pt.",
       "Left and right margins.": "Innstillingene du valgte for venstre og høyre marger, kolonneavstand eller avsnittsinnrykk er for store for sidebredden i samme deler.",
-      "The address of this site is not valid. Check the address and try again.": "Innstillingene du valgte for venstre og høyre marg, kolonneavstand eller avsnittsinnrykk er for store for sidebredden i samme deler.",
-      "Alt Text": "Adressen til dette nettstedet er ikke gyldig. ",
-      "Title": "Alt tekst",
-      "Description": "Tittel",
-      "Left and right margins": "Innstillingene du valgte for venstre og høyre marg, kolonneavstand eller avsnittsinnrykk er for store for sidebredden i samme deler.",
+      "The address of this site is not valid. Check the address and try again.": "Adressen til dette nettstedet er ikke gyldig. ",
+      "Alt Text": "Alt tekst",
+      "Title": "Tittel",
+      "Description": "Beskrivelse",
+      "Left and right margins": "Innstillingene du valgte for venstre og høyre marger, kolonneavstand eller avsnittsinnrykk er for store for sidebredden i samme deler.",
       "Number of rows must be between 1 and 32767.": "Antall rader må være mellom 1 og 32767.",
       "Number of columns must be between 1 and 63.": "Antall kolonner må være mellom 1 og 63.",
-      "You may format text only with certain styles": "Du kan bare formatere tekst med bestemte stiler.",
+      "You may format text only with certain styles": "Du kan kun formatere tekst med visse stiler.",
       "Ignore all": "Ignorer alt"
     },
     "documenteditorcontainer": {
@@ -2741,9 +2741,9 @@
       "Columns": "Kolonner",
       "Column Break": "Kolonnepause",
       "Alternate Text": "Alternativ tekst",
-      "The address of this site is not valid. Check the address and try again.": "Alternativ tekst",
-      "OK": "Adressen til dette nettstedet er ikke gyldig. ",
-      "Information": "OK"
+      "The address of this site is not valid. Check the address and try again.": "Adressen til dette nettstedet er ikke gyldig. ",
+      "OK": "OK",
+      "Information": "Informasjon"
     },
     "carousel": {
       "nextSlide": "Neste lysbilde",

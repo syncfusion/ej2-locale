@@ -757,15 +757,15 @@
       "Shapes": "formas",
       "Indicators": "Indicadores",
       "Ratings": "Calificaciones",
-      "InvalidFormulaError": "Calificaciones",
-      "InvalidArguments": "Descubrimos que usted escribió una fórmula que no es válida.",
-      "EmptyExpression": "Descubrimos que escribió una fórmula con argumentos no válidos.",
-      "MismatchedParenthesis": "Descubrimos que escribiste una fórmula con una expresión vacía.",
-      "ImproperFormula": "Descubrimos que escribió una fórmula a la que le faltaban uno o más paréntesis de apertura o cierre.",
-      "WrongNumberOfArguments": "Descubrimos que usted escribió una fórmula incorrecta.",
-      "Requires3Arguments": "Descubrimos que escribiste una fórmula con una cantidad incorrecta de argumentos.",
-      "MismatchedStringQuotes": "Descubrimos que escribiste una fórmula que requiere 3 argumentos.",
-      "FormulaCircularRef": "Descubrimos que escribiste una fórmula con comillas que no coinciden."
+      "InvalidFormulaError": "Descubrimos que usted escribió una fórmula que no es válida.",
+      "InvalidArguments": "Descubrimos que escribió una fórmula con argumentos no válidos.",
+      "EmptyExpression": "Descubrimos que escribiste una fórmula con una expresión vacía.",
+      "MismatchedParenthesis": "Descubrimos que escribió una fórmula a la que le faltaban uno o más paréntesis de apertura o cierre.",
+      "ImproperFormula": "Descubrimos que usted escribió una fórmula incorrecta.",
+      "WrongNumberOfArguments": "Descubrimos que escribiste una fórmula con una cantidad incorrecta de argumentos.",
+      "Requires3Arguments": "Descubrimos que escribiste una fórmula que requiere 3 argumentos.",
+      "MismatchedStringQuotes": "Descubrimos que escribiste una fórmula con comillas que no coinciden.",
+      "FormulaCircularRef": "Descubrimos que escribiste una fórmula con una referencia circular."
     },
     "filemanager": {
       "NewFolder": "Nueva carpeta",
@@ -2553,15 +2553,15 @@
       "Paste CheckBox Content Dialog": "no volver a mostrar",
       "The top/bottom margins are too large for the page height in some sections.": "Los márgenes superior/inferior son demasiado grandes para la altura de la página en algunas secciones.",
       "Column width cannot be less than 36 pt.": "El ancho de columna no puede ser inferior a 36 pt.",
-      "Left and right margins.": "La configuración que eligió para los márgenes izquierdo y derecho, el espacio entre columnas o las sangrías de párrafo son demasiado grandes para el ancho de página en las mismas secciones.",
-      "The address of this site is not valid. Check the address and try again.": "Las configuraciones que eligió para los márgenes izquierdo y derecho, el espaciado de columnas o las sangrías de párrafos son demasiado grandes para el ancho de la página en las mismas secciones.",
-      "Alt Text": "La dirección de este sitio no es válida. ",
-      "Title": "Texto alternativo",
-      "Description": "Título",
-      "Left and right margins": "La configuración que eligió para los márgenes izquierdo y derecho, el espacio entre columnas o las sangrías de párrafo son demasiado grandes para el ancho de página en las mismas secciones.",
+      "Left and right margins.": "Las configuraciones que eligió para los márgenes izquierdo y derecho, el espaciado de columnas o las sangrías de párrafos son demasiado grandes para el ancho de la página en las mismas secciones.",
+      "The address of this site is not valid. Check the address and try again.": "La dirección de este sitio no es válida. ",
+      "Alt Text": "Texto alternativo",
+      "Title": "Título",
+      "Description": "Descripción",
+      "Left and right margins": "Las configuraciones que eligió para los márgenes izquierdo y derecho, el espaciado de columnas o las sangrías de párrafos son demasiado grandes para el ancho de la página en las mismas secciones.",
       "Number of rows must be between 1 and 32767.": "El número de filas debe estar entre 1 y 32767.",
       "Number of columns must be between 1 and 63.": "El número de columnas debe estar entre 1 y 63.",
-      "You may format text only with certain styles": "Puede formatear texto solo con ciertos estilos."
+      "You may format text only with certain styles": "Puede formatear el texto sólo con ciertos estilos."
     },
     "documenteditorcontainer": {
       "New": "Nuevo",
@@ -2740,9 +2740,9 @@
       "Columns": "columnas",
       "Column Break": "Salto de columna",
       "Alternate Text": "Texto alternativo",
-      "The address of this site is not valid. Check the address and try again.": "Texto alternativo",
-      "OK": "La dirección de este sitio no es válida. ",
-      "Information": "DE ACUERDO"
+      "The address of this site is not valid. Check the address and try again.": "La dirección de este sitio no es válida. ",
+      "OK": "DE ACUERDO",
+      "Information": "Información"
     },
     "carousel": {
       "nextSlide": "Siguiente diapositiva",

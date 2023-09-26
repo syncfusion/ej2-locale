@@ -757,15 +757,15 @@
       "Shapes": "Forme",
       "Indicators": "Indicatori",
       "Ratings": "Evaluări",
-      "InvalidFormulaError": "Evaluări",
-      "InvalidArguments": "Am constatat că ați introdus o formulă nevalidă.",
-      "EmptyExpression": "Am constatat că ați introdus o formulă cu argumente nevalide.",
-      "MismatchedParenthesis": "Am descoperit că ați introdus o formulă cu o expresie goală.",
-      "ImproperFormula": "Am descoperit că ați introdus o formulă cu una sau mai multe paranteze de deschidere sau de închidere lipsă.",
-      "WrongNumberOfArguments": "Am constatat că ați introdus o formulă necorespunzătoare.",
-      "Requires3Arguments": "Am descoperit că ați introdus o formulă cu un număr greșit de argumente.",
-      "MismatchedStringQuotes": "Am descoperit că ați introdus o formulă care necesită 3 argumente.",
-      "FormulaCircularRef": "Am descoperit că ați introdus o formulă cu ghilimele nepotrivite."
+      "InvalidFormulaError": "Am constatat că ați introdus o formulă nevalidă.",
+      "InvalidArguments": "Am constatat că ați introdus o formulă cu argumente nevalide.",
+      "EmptyExpression": "Am descoperit că ați introdus o formulă cu o expresie goală.",
+      "MismatchedParenthesis": "Am constatat că ați introdus o formulă cu una sau mai multe paranteze de deschidere sau de închidere lipsă.",
+      "ImproperFormula": "Am constatat că ați introdus o formulă necorespunzătoare.",
+      "WrongNumberOfArguments": "Am descoperit că ați introdus o formulă cu un număr greșit de argumente.",
+      "Requires3Arguments": "Am descoperit că ați introdus o formulă care necesită 3 argumente.",
+      "MismatchedStringQuotes": "Am descoperit că ați introdus o formulă cu ghilimele nepotrivite.",
+      "FormulaCircularRef": "Am descoperit că ați introdus o formulă cu o referință circulară."
     },
     "filemanager": {
       "NewFolder": "Dosar nou",
@@ -2555,14 +2555,14 @@
       "The top/bottom margins are too large for the page height in some sections.": "Marginile de sus/de jos sunt prea mari pentru înălțimea paginii în unele secțiuni.",
       "Column width cannot be less than 36 pt.": "Lățimea coloanei nu poate fi mai mică de 36 de puncte.",
       "Left and right margins.": "Setările pe care le-ați ales pentru marginile din stânga și din dreapta, spațierea coloanelor sau indentarea paragrafelor sunt prea mari pentru lățimea paginii din aceleași secțiuni.",
-      "The address of this site is not valid. Check the address and try again.": "Setările pe care le-ați ales pentru marginile din stânga și din dreapta, spațierea coloanelor sau indentarea paragrafelor sunt prea mari pentru lățimea paginii din aceleași secțiuni.",
-      "Alt Text": "Adresa acestui site nu este valabilă. ",
-      "Title": "Alt text",
-      "Description": "Titlu",
+      "The address of this site is not valid. Check the address and try again.": "Adresa acestui site nu este valabilă. ",
+      "Alt Text": "Alt text",
+      "Title": "Titlu",
+      "Description": "Descriere",
       "Left and right margins": "Setările pe care le-ați ales pentru marginile din stânga și din dreapta, spațierea coloanelor sau indentarea paragrafelor sunt prea mari pentru lățimea paginii din aceleași secțiuni.",
       "Number of rows must be between 1 and 32767.": "Numărul de rânduri trebuie să fie între 1 și 32767.",
       "Number of columns must be between 1 and 63.": "Numărul de coloane trebuie să fie între 1 și 63.",
-      "You may format text only with certain styles": "Puteți formata textul doar cu anumite stiluri.",
+      "You may format text only with certain styles": "Puteți formata textul numai cu anumite stiluri.",
       "Ignore all": "Ignora tot"
     },
     "documenteditorcontainer": {
@@ -2742,9 +2742,9 @@
       "Columns": "Coloane",
       "Column Break": "Pauza de coloană",
       "Alternate Text": "Text alternativ",
-      "The address of this site is not valid. Check the address and try again.": "Text alternativ",
-      "OK": "Adresa acestui site nu este valabilă. ",
-      "Information": "Bine"
+      "The address of this site is not valid. Check the address and try again.": "Adresa acestui site nu este valabilă. ",
+      "OK": "Bine",
+      "Information": "informație"
     },
     "carousel": {
       "nextSlide": "Următorul slide",

@@ -757,15 +757,15 @@
       "Shapes": "צורות",
       "Indicators": "אינדיקטורים",
       "Ratings": "דירוגים",
-      "InvalidFormulaError": "דירוגים",
-      "InvalidArguments": "גילינו שהקלדת נוסחה שאינה חוקית.",
-      "EmptyExpression": "מצאנו שהקלדת נוסחה עם ארגומנטים לא חוקיים.",
-      "MismatchedParenthesis": "מצאנו שהקלדת נוסחה עם ביטוי ריק.",
-      "ImproperFormula": "מצאנו שהקלדת נוסחה עם סוגרי פתיחה או סגירה חסר אחד או יותר.",
-      "WrongNumberOfArguments": "גילינו שהקלדת נוסחה שאינה תקינה.",
-      "Requires3Arguments": "מצאנו שהקלדת נוסחה עם מספר שגוי של ארגומנטים.",
-      "MismatchedStringQuotes": "מצאנו שהקלדת נוסחה הדורשת 3 ארגומנטים.",
-      "FormulaCircularRef": "מצאנו שהקלדת נוסחה עם מרכאות לא תואמות."
+      "InvalidFormulaError": "מצאנו שהקלדת נוסחה שאינה חוקית.",
+      "InvalidArguments": "מצאנו שהקלדת נוסחה עם ארגומנטים לא חוקיים.",
+      "EmptyExpression": "מצאנו שהקלדת נוסחה עם ביטוי ריק.",
+      "MismatchedParenthesis": "מצאנו שהקלדת נוסחה עם סוגרי פתיחה או סגירה חסר אחד או יותר.",
+      "ImproperFormula": "גילינו שהקלדת נוסחה שאינה תקינה.",
+      "WrongNumberOfArguments": "מצאנו שהקלדת נוסחה עם מספר שגוי של ארגומנטים.",
+      "Requires3Arguments": "מצאנו שהקלדת נוסחה הדורשת 3 ארגומנטים.",
+      "MismatchedStringQuotes": "מצאנו שהקלדת נוסחה עם מרכאות לא תואמות.",
+      "FormulaCircularRef": "מצאנו שהקלדת נוסחה עם הפניה מעגלית."
     },
     "filemanager": {
       "NewFolder": "תיקייה חדשה",
@@ -2554,14 +2554,14 @@
       "The top/bottom margins are too large for the page height in some sections.": "השוליים העליונים/התחתונים גדולים מדי לגובה העמוד בחלקים מסוימים.",
       "Column width cannot be less than 36 pt.": "רוחב העמודה לא יכול להיות פחות מ-36 נק'.",
       "Left and right margins.": "ההגדרות שבחרת עבור השוליים השמאלי והימני, מרווח העמודות או כניסות פיסקה גדולות מדי עבור רוחב העמוד באותם חלקים.",
-      "The address of this site is not valid. Check the address and try again.": "ההגדרות שבחרת עבור השוליים השמאלי והימני, מרווח העמודות או כניסות פיסקה גדולות מדי עבור רוחב העמוד באותם חלקים.",
-      "Alt Text": "הכתובת של אתר זה אינה חוקית. ",
-      "Title": "טקסט חלופי",
-      "Description": "כותרת",
-      "Left and right margins": "ההגדרות שבחרת עבור השוליים השמאלי והימני, מרווח העמודות או כניסות פיסקה גדולות מדי עבור רוחב העמוד באותם קטעים.",
+      "The address of this site is not valid. Check the address and try again.": "הכתובת של אתר זה אינה חוקית. ",
+      "Alt Text": "טקסט חלופי",
+      "Title": "כותרת",
+      "Description": "תיאור",
+      "Left and right margins": "ההגדרות שבחרת עבור השוליים השמאלי והימני, מרווח העמודות או כניסות פיסקה גדולות מדי עבור רוחב העמוד באותם חלקים.",
       "Number of rows must be between 1 and 32767.": "מספר השורות חייב להיות בין 1 ל-32767.",
       "Number of columns must be between 1 and 63.": "מספר העמודות חייב להיות בין 1 ל-63.",
-      "You may format text only with certain styles": "ניתן לעצב טקסט רק עם סגנונות מסוימים.",
+      "You may format text only with certain styles": "אתה יכול לעצב טקסט רק עם סגנונות מסוימים.",
       "Ignore all": "התעלם מהכל"
     },
     "documenteditorcontainer": {
@@ -2741,9 +2741,9 @@
       "Columns": "עמודות",
       "Column Break": "שבירת עמודות",
       "Alternate Text": "טקסט חלופי",
-      "The address of this site is not valid. Check the address and try again.": "טקסט חלופי",
-      "OK": "הכתובת של אתר זה אינה חוקית. ",
-      "Information": "בסדר"
+      "The address of this site is not valid. Check the address and try again.": "הכתובת של אתר זה אינה חוקית. ",
+      "OK": "בסדר",
+      "Information": "מֵידָע"
     },
     "carousel": {
       "nextSlide": "השקף הבא",
