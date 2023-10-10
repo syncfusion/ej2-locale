@@ -933,6 +933,7 @@
             "cancelButton": "Anulare",
             "deleteButton": "Șterge",
             "recurrence": "recurență",
+            "recurringEvent": "Eveniment recurent",
             "wrongPattern": "Modelul de recurență nu este valid.",
             "seriesChangeAlert": "Doriți să anulați modificările aduse unor instanțe specifice ale acestei serii și să o potriviți din nou la întreaga serie?",
             "createError": "Durata evenimentului trebuie să fie mai scurtă decât cât de des are loc. Scurtați durata sau modificați modelul de recurență în editorul de evenimente de recurență.",

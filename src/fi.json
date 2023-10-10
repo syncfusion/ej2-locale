@@ -933,6 +933,7 @@
             "cancelButton": "Peruuttaa",
             "deleteButton": "Poistaa",
             "recurrence": "Toistuminen",
+            "recurringEvent": "Toistuva tapahtuma",
             "wrongPattern": "Toistokuvio ei kelpaa.",
             "seriesChangeAlert": "Haluatko peruuttaa tämän sarjan tiettyihin ilmentymiin tehdyt muutokset ja sovittaa sen uudelleen koko sarjaan?",
             "createError": "Tapahtuman keston on oltava lyhyempi kuin kuinka usein se tapahtuu. Lyhennä kestoa tai muuta toistuvuuskuviota toistotapahtumaeditorissa.",

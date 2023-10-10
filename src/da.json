@@ -933,6 +933,7 @@
             "cancelButton": "Afbestille",
             "deleteButton": "Slet",
             "recurrence": "Tilbagevenden",
+            "recurringEvent": "Tilbagevendende begivenhed",
             "wrongPattern": "Gentagelsesmønsteret er ikke gyldigt.",
             "seriesChangeAlert": "Vil du annullere ændringerne, der er foretaget i bestemte tilfælde af denne serie, og matche den til hele serien igen?",
             "createError": "Begivenhedens varighed skal være kortere end hvor ofte den forekommer. Forkort varigheden, eller ændre gentagelsesmønsteret i redigeringen af ​​tilbagevendelsesbegivenhed.",

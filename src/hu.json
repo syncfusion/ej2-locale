@@ -933,6 +933,7 @@
             "cancelButton": "Megszünteti",
             "deleteButton": "Töröl",
             "recurrence": "Ismétlődés",
+            "recurringEvent": "Ismétlődő esemény",
             "wrongPattern": "A visszatérési minta nem érvényes.",
             "seriesChangeAlert": "Vissza akarja vonni a sorozat egyes példányaira elvégzett módosításokat, és újra összevetni az egész sorozattal?",
             "createError": "Az esemény időtartamának rövidebbnek kell lennie, mint az előfordulásának gyakorisága. Rövidítse le az időtartamot, vagy változtassa meg a visszatérési mintázatot a visszatérési esemény szerkesztőben.",

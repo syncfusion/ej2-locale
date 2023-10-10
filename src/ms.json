@@ -933,6 +933,7 @@
             "cancelButton": "Batalkan",
             "deleteButton": "Padam",
             "recurrence": "Pengulangan",
+            "recurringEvent": "Peristiwa Berulang",
             "wrongPattern": "Corak pengulangan tidak sah.",
             "seriesChangeAlert": "Adakah anda mahu membatalkan perubahan yang dibuat kepada contoh tertentu dalam siri ini dan padankannya ke siri keseluruhan lagi?",
             "createError": "Tempoh acara mestilah lebih pendek daripada berapa kerap berlaku. Mempersendakan tempoh, atau menukar pola berulang dalam editor acara ulangan.",

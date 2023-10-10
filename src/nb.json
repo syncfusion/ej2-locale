@@ -933,6 +933,7 @@
             "cancelButton": "Avbryt",
             "deleteButton": "Slett",
             "recurrence": "Tilbakefall",
+            "recurringEvent": "Gjentakende hendelse",
             "wrongPattern": "Gjentagelsesmønsteret er ikke gyldig.",
             "seriesChangeAlert": "Vil du avbryte endringene som er gjort i spesifikke forekomster av denne serien og matche den til hele serien igjen?",
             "createError": "Arrangementets varighet må være kortere enn hvor ofte den oppstår. Forkort varigheten, eller endre gjentakelsesmønsteret i redigeringen av tilbakefallshendelser.",

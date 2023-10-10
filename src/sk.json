@@ -933,6 +933,7 @@
             "cancelButton": "Zrušiť",
             "deleteButton": "delete",
             "recurrence": "opakovanie",
+            "recurringEvent": "Opakujúca sa udalosť",
             "wrongPattern": "Vzor opakovania nie je platný.",
             "seriesChangeAlert": "Chcete zrušiť zmeny vykonané v konkrétnych prípadoch tejto série a znova ich priradiť k celej sérii?",
             "createError": "Trvanie udalosti musí byť kratšie, ako často sa koná. Skráťte trvanie alebo zmeňte model opakovania v editore udalostí opakovania.",

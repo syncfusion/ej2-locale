@@ -933,6 +933,7 @@
             "cancelButton": "Otkazati",
             "deleteButton": "Izbrisati",
             "recurrence": "vraćanje",
+            "recurringEvent": "Događaj koji se ponavlja",
             "wrongPattern": "Obrazac recidiva nije valjan.",
             "seriesChangeAlert": "Želite li otkazati promjene učinjene na određenim primjercima ove serije i ponovno ih uskladiti s cijelom serijom?",
             "createError": "Trajanje događaja mora biti kraće od onog koliko često se događaj događa. Skratite trajanje ili promijenite obrazac ponavljanja u uređivaču događaja ponavljanja.",

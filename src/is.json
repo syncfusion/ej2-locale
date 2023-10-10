@@ -881,6 +881,7 @@
             "cancelButton": "Hætta við",
             "deleteButton": "Eyða",
             "recurrence": "Endurkoma",
+            "recurringEvent": "Endurtekinn viðburður",
             "wrongPattern": "Endurtekningarmynstrið er ekki gilt.",
             "seriesChangeAlert": "Viltu hætta við breytingarnar sem gerðar voru á tilteknum tilfellum þessarar seríu og passa hana við alla seríuna aftur?",
             "createError": "Lengd atviksins verður að vera styttri en hversu oft hann á sér stað. Styttu tímalengdina eða breyttu endurtekningarmynstrinu í endurtekningartilvikaritilinum.",

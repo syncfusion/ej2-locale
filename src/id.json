@@ -933,6 +933,7 @@
             "cancelButton": "Membatalkan",
             "deleteButton": "Menghapus",
             "recurrence": "Kambuh",
+            "recurringEvent": "Acara Berulang",
             "wrongPattern": "Pola perulangan tidak valid.",
             "seriesChangeAlert": "Apakah Anda ingin membatalkan perubahan yang dibuat untuk contoh spesifik seri ini dan mencocokkannya dengan seluruh seri lagi?",
             "createError": "Durasi acara harus lebih pendek dari seberapa sering itu terjadi. Persingkat durasi, atau ubah pola perulangan di editor acara perulangan.",

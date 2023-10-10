@@ -933,6 +933,7 @@
             "cancelButton": "Annuleren",
             "deleteButton": "verwijderknop",
             "recurrence": "Herhaling",
+            "recurringEvent": "Terugkerende gebeurtenis",
             "wrongPattern": "Het herhalingspatroon is niet geldig.",
             "seriesChangeAlert": "Wilt u de wijzigingen annuleren die zijn aangebracht in specifieke exemplaren van deze serie en deze opnieuw koppelen aan de hele serie?",
             "createError": "De duur van het evenement moet korter zijn dan hoe vaak het voorkomt. Kort de duur in of wijzig het terugkeerpatroon in de terugkeereditor.",
