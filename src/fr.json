@@ -933,6 +933,7 @@
             "cancelButton": "Annuler",
             "deleteButton": "Effacer",
             "recurrence": "Récurrence",
+            "recurringEvent": "Événement récurrent",
             "wrongPattern": "Le modèle de récurrence n'est pas valide.",
             "seriesChangeAlert": "Voulez-vous annuler les modifications apportées à des instances spécifiques de cette série et les associer à nouveau à l'ensemble de la série ?",
             "createError": "La durée de l'événement doit être plus courte que sa fréquence. Raccourcissez la durée ou modifiez le modèle de récurrence dans l'éditeur d'événements de récurrence.",

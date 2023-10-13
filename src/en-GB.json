@@ -933,6 +933,7 @@
             "cancelButton": "Cancel",
             "deleteButton": "Delete",
             "recurrence": "Recurrence",
+            "recurringEvent": "Recurring event",
             "wrongPattern": "The recurrence pattern is not valid.",
             "seriesChangeAlert": "Do you want to cancel the changes made to specific instances of this series and match it to the whole series again?",
             "createError": "The duration of the event must be shorter than how frequently it occurs. Shorten the duration, or change the recurrence pattern in the recurrence event editor.",

@@ -933,6 +933,7 @@
             "cancelButton": "Hủy bỏ",
             "deleteButton": "Xóa bỏ",
             "recurrence": "Sự tái xuất",
+            "recurringEvent": "Sự kiện tái phát",
             "wrongPattern": "Mẫu tái phát không hợp lệ.",
             "seriesChangeAlert": "Bạn có muốn hủy các thay đổi được thực hiện cho các phiên bản cụ thể của chuỗi này và khớp lại với toàn bộ chuỗi không?",
             "createError": "Thời gian của sự kiện phải ngắn hơn tần suất xảy ra. Rút ngắn thời lượng hoặc thay đổi mẫu lặp lại trong trình chỉnh sửa sự kiện lặp lại.",

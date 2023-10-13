@@ -933,6 +933,7 @@
             "cancelButton": "Cancelar",
             "deleteButton": "Excluir",
             "recurrence": "Recorrência",
+            "recurringEvent": "Evento recorrente",
             "wrongPattern": "O padrão de recorrência não é válido.",
             "seriesChangeAlert": "Deseja cancelar as alterações feitas em instâncias específicas desta série e associá-las à série inteira novamente?",
             "createError": "A duração do evento deve ser menor que a frequência com que ele ocorre. Diminua a duração ou altere o padrão de recorrência no editor de eventos de recorrência.",

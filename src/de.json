@@ -933,6 +933,7 @@
             "cancelButton": "Stornieren",
             "deleteButton": "Löschen",
             "recurrence": "Wiederholung",
+            "recurringEvent": "Wiederkehrendes Ereignis",
             "wrongPattern": "Das Wiederholungsmuster ist nicht gültig.",
             "seriesChangeAlert": "Möchten Sie die an bestimmten Instanzen dieser Serie vorgenommenen Änderungen verwerfen und erneut mit der gesamten Serie abgleichen?",
             "createError": "Die Dauer des Ereignisses muss kürzer sein als die Häufigkeit des Ereignisses. Verkürzen Sie die Dauer oder ändern Sie das Wiederholungsmuster im Wiederholungsereignis-Editor.",

@@ -933,6 +933,7 @@
             "cancelButton": "取消",
             "deleteButton": "删除",
             "recurrence": "循环",
+            "recurringEvent": "重复事件",
             "wrongPattern": "重複發生模式無效。",
             "seriesChangeAlert": "您是否要取消對此系列特定實例所做的更改，然後再次將其與整個系列匹配？",
             "createError": "事件的持續時間必須短於其發生的頻率。縮短持續時間，或更改重複事件編輯器中的重複發生模式。",

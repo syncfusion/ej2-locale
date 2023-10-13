@@ -933,6 +933,7 @@
             "cancelButton": "Annulla",
             "deleteButton": "Elimina",
             "recurrence": "ricorrenza",
+            "recurringEvent": "Evento ricorrente",
             "wrongPattern": "Il modello di ricorrenza non è valido.",
             "seriesChangeAlert": "Vuoi annullare le modifiche apportate a istanze specifiche di questa serie e abbinarle nuovamente all'intera serie?",
             "createError": "La durata dell'evento deve essere inferiore alla frequenza con cui si verifica. Ridurre la durata o modificare il modello di ricorrenza nell'editor degli eventi di ricorrenza.",

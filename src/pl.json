@@ -933,6 +933,7 @@
             "cancelButton": "Anuluj",
             "deleteButton": "Usunąć",
             "recurrence": "Nawrót",
+            "recurringEvent": "Powtarzające się wydarzenie",
             "wrongPattern": "Wzorzec powtarzania się jest nieprawidłowy.",
             "seriesChangeAlert": "Czy chcesz anulować zmiany wprowadzone w określonych wystąpieniach tej serii i ponownie dopasować ją do całej serii?",
             "createError": "Czas trwania wydarzenia musi być krótszy niż częstotliwość jego występowania. Skróć czas trwania lub zmień wzorzec cyklu w edytorze zdarzeń cyklicznych.",

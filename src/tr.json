@@ -933,6 +933,7 @@
             "cancelButton": "İptal etmek",
             "deleteButton": "Sil",
             "recurrence": "yinelenme",
+            "recurringEvent": "Tekrar eden olay",
             "wrongPattern": "Yineleme düzeni geçerli değil.",
             "seriesChangeAlert": "Bu serinin belirli örneklerinde yapılan değişiklikleri iptal edip tekrar tüm seriyle eşleştirmek istiyor musunuz?",
             "createError": "Etkinliğin süresi, gerçekleşme sıklığından daha kısa olmalıdır. Süreyi kısaltın veya yineleme etkinliği düzenleyicisinde yineleme düzenini değiştirin.",

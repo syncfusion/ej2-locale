@@ -933,6 +933,7 @@
             "cancelButton": "Annullera",
             "deleteButton": "Radera",
             "recurrence": "Upprepning",
+            "recurringEvent": "Återkommande händelse",
             "wrongPattern": "Återfallsmönstret är inte giltigt.",
             "seriesChangeAlert": "Vill du avbryta ändringarna i specifika instanser i den här serien och matcha den till hela serien igen?",
             "createError": "Händelsens varaktighet måste vara kortare än hur ofta den inträffar. Förkorta varaktigheten eller ändra återfallsmönstret i redigeraren för återfallshändelser.",

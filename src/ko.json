@@ -933,6 +933,7 @@
             "cancelButton": "취소",
             "deleteButton": "지우다",
             "recurrence": "회귀",
+            "recurringEvent": "반복 이벤트",
             "wrongPattern": "반복 패턴이 유효하지 않습니다.",
             "seriesChangeAlert": "이 시리즈의 특정 인스턴스에 대한 변경 사항을 취소하고 전체 시리즈와 다시 일치 시키려고합니까?",
             "createError": "이벤트 기간은 발생 빈도보다 짧아야합니다. 지속 시간을 줄이거 나 반복 이벤트 편집기에서 반복 패턴을 변경하십시오.",
