@@ -783,7 +783,7 @@
       "View": "Vue",
       "Details": "Détails",
       "SelectAll": "Tout sélectionner",
-      "Open": "Ouvert",
+      "Open": "Ouvrir",
       "Tooltip-NewFolder": "Nouveau dossier",
       "Tooltip-Upload": "Télécharger",
       "Tooltip-Delete": "Supprimer",
@@ -2570,7 +2570,7 @@
     },
     "documenteditorcontainer": {
       "New": "Nouveau",
-      "Open": "Ouvert",
+      "Open": "Ouvrir",
       "Undo": "annuler",
       "Redo": "Refaire",
       "Image": "Image",
