@@ -1274,7 +1274,8 @@
       "pasteEmbeddedCodeHere": "ここに埋め込みコードを貼り付けます",
       "emojiPickerTypeToFind": "検索する文字を入力してください",
       "emojiPickerNoResultFound": "結果が見つかりません",
-      "emojiPickerTrySomethingElse": "何か別のことを試してみる"
+      "emojiPickerTrySomethingElse": "何か別のことを試してみる",
+      "imageAriaLabel": "新しいウィンドウで開きます"
     },
     "colorpicker": {
       "Apply": "適用する",

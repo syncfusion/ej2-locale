@@ -1274,7 +1274,8 @@
       "pasteEmbeddedCodeHere": "Dán mã nhúng vào đây",
       "emojiPickerTypeToFind": "Nhập để tìm",
       "emojiPickerNoResultFound": "không có kết quả nào được tìm thấy",
-      "emojiPickerTrySomethingElse": "Hãy thử một cái gì đó khác"
+      "emojiPickerTrySomethingElse": "Hãy thử một cái gì đó khác",
+      "imageAriaLabel": "Mở trong cửa sổ mới"
     },
     "colorpicker": {
       "Apply": "Ứng dụng",

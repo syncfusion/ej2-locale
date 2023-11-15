@@ -1274,7 +1274,8 @@
       "pasteEmbeddedCodeHere": "Lim inn innebygd kode her",
       "emojiPickerTypeToFind": "Skriv for å finne",
       "emojiPickerNoResultFound": "Ingen resultater",
-      "emojiPickerTrySomethingElse": "Prøv noe annet"
+      "emojiPickerTrySomethingElse": "Prøv noe annet",
+      "imageAriaLabel": "Åpne i nytt vindu"
     },
     "colorpicker": {
       "Apply": "Søke om",

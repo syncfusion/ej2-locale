@@ -1274,7 +1274,8 @@
       "pasteEmbeddedCodeHere": "Illessze be a beágyazott kódot ide",
       "emojiPickerTypeToFind": "Írja be a kereséshez",
       "emojiPickerNoResultFound": "Nincs találat",
-      "emojiPickerTrySomethingElse": "Próbálj ki valami mást"
+      "emojiPickerTrySomethingElse": "Próbálj ki valami mást",
+      "imageAriaLabel": "Megnyitás új ablakban"
     },
     "colorpicker": {
       "Apply": "Alkalmaz",

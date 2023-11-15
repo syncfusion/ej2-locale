@@ -1274,7 +1274,8 @@
       "pasteEmbeddedCodeHere": "Tampal Kod Terbenam di sini",
       "emojiPickerTypeToFind": "Taip untuk mencari",
       "emojiPickerNoResultFound": "Tiada keputusan dijumpai",
-      "emojiPickerTrySomethingElse": "Cuba sesuatu yang lain"
+      "emojiPickerTrySomethingElse": "Cuba sesuatu yang lain",
+      "imageAriaLabel": "Buka dalam tetingkap baharu"
     },
     "colorpicker": {
       "Apply": "Sapukan",

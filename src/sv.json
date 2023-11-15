@@ -1274,7 +1274,8 @@
       "pasteEmbeddedCodeHere": "Klistra in inbäddad kod här",
       "emojiPickerTypeToFind": "Skriv för att hitta",
       "emojiPickerNoResultFound": "Inga resultat funna",
-      "emojiPickerTrySomethingElse": "Prova något annat"
+      "emojiPickerTrySomethingElse": "Prova något annat",
+      "imageAriaLabel": "Öppna i nytt fönster"
     },
     "colorpicker": {
       "Apply": "Tillämpa",

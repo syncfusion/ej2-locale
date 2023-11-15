@@ -1274,7 +1274,8 @@
       "pasteEmbeddedCodeHere": "Вставьте встроенный код сюда",
       "emojiPickerTypeToFind": "Введите, чтобы найти",
       "emojiPickerNoResultFound": "результатов не найдено",
-      "emojiPickerTrySomethingElse": "Попробуйте что-нибудь другое"
+      "emojiPickerTrySomethingElse": "Попробуйте что-нибудь другое",
+      "imageAriaLabel": "Открыть в новом окне"
     },
     "colorpicker": {
       "Apply": "Подать заявление",

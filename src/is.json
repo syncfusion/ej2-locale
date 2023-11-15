@@ -1222,7 +1222,8 @@
       "pasteEmbeddedCodeHere": "Límdu innbyggðan kóða hér",
       "emojiPickerTypeToFind": "Sláðu inn til að finna",
       "emojiPickerNoResultFound": "Engar niðurstöður fundust",
-      "emojiPickerTrySomethingElse": "Prófaðu eitthvað annað"
+      "emojiPickerTrySomethingElse": "Prófaðu eitthvað annað",
+      "imageAriaLabel": "Opna í nýjum glugga"
     },
     "colorpicker": {
       "Apply": "Sækja um",

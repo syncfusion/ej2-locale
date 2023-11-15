@@ -1274,7 +1274,8 @@
       "pasteEmbeddedCodeHere": "Ovdje zalijepite ugrađeni kod",
       "emojiPickerTypeToFind": "Upišite za pronalaženje",
       "emojiPickerNoResultFound": "Nema rezultata",
-      "emojiPickerTrySomethingElse": "Pokušajte nešto drugo"
+      "emojiPickerTrySomethingElse": "Pokušajte nešto drugo",
+      "imageAriaLabel": "Otvori u novom prozoru"
     },
     "colorpicker": {
       "Apply": "primijeniti",

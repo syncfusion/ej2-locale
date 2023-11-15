@@ -1274,7 +1274,8 @@
       "pasteEmbeddedCodeHere": "Tempel Kode Tersemat di sini",
       "emojiPickerTypeToFind": "Ketik untuk menemukan",
       "emojiPickerNoResultFound": "Tidak ada hasil yang ditemukan",
-      "emojiPickerTrySomethingElse": "Cobalah sesuatu yang lain"
+      "emojiPickerTrySomethingElse": "Cobalah sesuatu yang lain",
+      "imageAriaLabel": "Buka di jendela baru"
     },
     "colorpicker": {
       "Apply": "Menerapkan",

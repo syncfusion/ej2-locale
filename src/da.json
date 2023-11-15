@@ -1274,7 +1274,8 @@
       "pasteEmbeddedCodeHere": "Indsæt Embedded Code her",
       "emojiPickerTypeToFind": "Skriv for at finde",
       "emojiPickerNoResultFound": "Ingen resultater fundet",
-      "emojiPickerTrySomethingElse": "Prøv noget andet"
+      "emojiPickerTrySomethingElse": "Prøv noget andet",
+      "imageAriaLabel": "Åbn i nyt vindue"
     },
     "colorpicker": {
       "Apply": "ansøge",
