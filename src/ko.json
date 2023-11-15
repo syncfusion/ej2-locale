@@ -1275,7 +1275,7 @@
       "emojiPickerTypeToFind": "찾으려면 입력",
       "emojiPickerNoResultFound": "검색 결과가 없습니다",
       "emojiPickerTrySomethingElse": "다른 것을 시도하십시오",
-      "imageAriaLabel": "새 창에서 열기"
+      "linkAriaLabel": "새 창에서 열기"
     },
     "colorpicker": {
       "Apply": "대다",

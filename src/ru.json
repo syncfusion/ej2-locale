@@ -1275,7 +1275,7 @@
       "emojiPickerTypeToFind": "Введите, чтобы найти",
       "emojiPickerNoResultFound": "результатов не найдено",
       "emojiPickerTrySomethingElse": "Попробуйте что-нибудь другое",
-      "imageAriaLabel": "Открыть в новом окне"
+      "linkAriaLabel": "Открыть в новом окне"
     },
     "colorpicker": {
       "Apply": "Подать заявление",

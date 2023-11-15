@@ -1223,7 +1223,7 @@
       "emojiPickerTypeToFind": "Sláðu inn til að finna",
       "emojiPickerNoResultFound": "Engar niðurstöður fundust",
       "emojiPickerTrySomethingElse": "Prófaðu eitthvað annað",
-      "imageAriaLabel": "Opna í nýjum glugga"
+      "linkAriaLabel": "Opna í nýjum glugga"
     },
     "colorpicker": {
       "Apply": "Sækja um",

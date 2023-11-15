@@ -1275,7 +1275,7 @@
       "emojiPickerTypeToFind": "Bulmak için yazın",
       "emojiPickerNoResultFound": "Sonuç bulunamadı",
       "emojiPickerTrySomethingElse": "başka bir şey dene",
-      "imageAriaLabel": "Yeni pencerede aç"
+      "linkAriaLabel": "Yeni pencerede aç"
     },
     "colorpicker": {
       "Apply": "Uygulamak",

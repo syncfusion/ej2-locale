@@ -1275,7 +1275,7 @@
       "emojiPickerTypeToFind": "พิมพ์เพื่อค้นหา",
       "emojiPickerNoResultFound": "ไม่พบผลลัพธ์",
       "emojiPickerTrySomethingElse": "ลองอย่างอื่น",
-      "imageAriaLabel": "เปิดหน้าต่างใหม่"
+      "linkAriaLabel": "เปิดหน้าต่างใหม่"
     },
     "colorpicker": {
       "Apply": "ใช้",

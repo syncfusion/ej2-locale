@@ -1275,7 +1275,7 @@
       "emojiPickerTypeToFind": "Ak chcete nájsť, zadajte",
       "emojiPickerNoResultFound": "Neboli nájdené žiadne výsledky",
       "emojiPickerTrySomethingElse": "Skúste niečo iné",
-      "imageAriaLabel": "Otvoriť v novom okne"
+      "linkAriaLabel": "Otvoriť v novom okne"
     },
     "colorpicker": {
       "Apply": "platiť",

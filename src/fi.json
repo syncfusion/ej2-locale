@@ -1275,7 +1275,7 @@
       "emojiPickerTypeToFind": "Kirjoita löytääksesi",
       "emojiPickerNoResultFound": "Ei tuloksia",
       "emojiPickerTrySomethingElse": "Kokeile jotain muuta",
-      "imageAriaLabel": "Avaa uudessa ikkunassa"
+      "linkAriaLabel": "Avaa uudessa ikkunassa"
     },
     "colorpicker": {
       "Apply": "Käytä",

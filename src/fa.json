@@ -1275,7 +1275,7 @@
       "emojiPickerTypeToFind": "برای پیدا کردن تایپ کنید",
       "emojiPickerNoResultFound": "نتیجه ای پیدا نشد",
       "emojiPickerTrySomethingElse": "چیز دیگری را امتحان کنید",
-      "imageAriaLabel": "باز کردن در پنجره جدید"
+      "linkAriaLabel": "باز کردن در پنجره جدید"
     },
     "colorpicker": {
       "Apply": "درخواست دادن",

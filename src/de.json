@@ -1277,7 +1277,7 @@
       "emojiPickerTypeToFind": "Geben Sie „Suchen“ ein",
       "emojiPickerNoResultFound": "keine Ergebnisse gefunden",
       "emojiPickerTrySomethingElse": "Versuchen Sie etwas anderes",
-      "imageAriaLabel": "In einem neuen Fenster öffnen"
+      "linkAriaLabel": "In einem neuen Fenster öffnen"
     },
     "colorpicker": {
       "Apply": "Übernehmen",

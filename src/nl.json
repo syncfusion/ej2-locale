@@ -1275,7 +1275,7 @@
           "emojiPickerTypeToFind": "Typ om te vinden",
           "emojiPickerNoResultFound": "geen resultaten gevonden",
           "emojiPickerTrySomethingElse": "Probeer iets anders",
-          "imageAriaLabel": "Openen in een nieuw venster"
+          "linkAriaLabel": "Openen in een nieuw venster"
       },
       "colorpicker": {
           "Apply": "Toepassen",
