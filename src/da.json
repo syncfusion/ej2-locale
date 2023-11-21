@@ -1275,7 +1275,8 @@
       "emojiPickerTypeToFind": "Skriv for at finde",
       "emojiPickerNoResultFound": "Ingen resultater fundet",
       "emojiPickerTrySomethingElse": "Prøv noget andet",
-      "linkAriaLabel": "Åbn i nyt vindue"
+      "linkAriaLabel": "Åbn i nyt vindue",
+      "ImageLinkAriaLabel": "Åbn i nyt vindue"
     },
     "colorpicker": {
       "Apply": "ansøge",
