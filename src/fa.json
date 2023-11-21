@@ -1274,7 +1274,9 @@
       "pasteEmbeddedCodeHere": "کد جاسازی شده را اینجا بچسبانید",
       "emojiPickerTypeToFind": "برای پیدا کردن تایپ کنید",
       "emojiPickerNoResultFound": "نتیجه ای پیدا نشد",
-      "emojiPickerTrySomethingElse": "چیز دیگری را امتحان کنید"
+      "emojiPickerTrySomethingElse": "چیز دیگری را امتحان کنید",
+      "linkAriaLabel": "باز کردن در پنجره جدید",
+      "ImageLinkAriaLabel": "باز کردن در پنجره جدید"
     },
     "colorpicker": {
       "Apply": "درخواست دادن",

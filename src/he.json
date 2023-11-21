@@ -1274,7 +1274,9 @@
       "pasteEmbeddedCodeHere": "הדבק כאן קוד מוטבע",
       "emojiPickerTypeToFind": "הקלד כדי למצוא",
       "emojiPickerNoResultFound": "לא נמצאו תוצאות",
-      "emojiPickerTrySomethingElse": "נסה משהו אחר"
+      "emojiPickerTrySomethingElse": "נסה משהו אחר",
+      "linkAriaLabel": "פתח בחלון חדש",
+      "ImageLinkAriaLabel": "פתח בחלון חדש"
     },
     "colorpicker": {
       "Apply": "להגיש מועמדות",

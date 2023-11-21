@@ -1274,7 +1274,9 @@
       "pasteEmbeddedCodeHere": "Incolla qui il codice incorporato",
       "emojiPickerTypeToFind": "Digita per trovare",
       "emojiPickerNoResultFound": "nessun risultato trovato",
-      "emojiPickerTrySomethingElse": "Prova qualcos'altro"
+      "emojiPickerTrySomethingElse": "Prova qualcos'altro",
+      "linkAriaLabel": "Apri in una nuova finestra",
+      "ImageLinkAriaLabel": "Apri in una nuova finestra"
     },
     "colorpicker": {
       "Apply": "Applicare",

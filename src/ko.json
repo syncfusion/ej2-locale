@@ -1274,7 +1274,9 @@
       "pasteEmbeddedCodeHere": "여기에 임베디드 코드 붙여넣기",
       "emojiPickerTypeToFind": "찾으려면 입력",
       "emojiPickerNoResultFound": "검색 결과가 없습니다",
-      "emojiPickerTrySomethingElse": "다른 것을 시도하십시오"
+      "emojiPickerTrySomethingElse": "다른 것을 시도하십시오",
+      "linkAriaLabel": "새 창에서 열기",
+      "ImageLinkAriaLabel": "새 창에서 열기"
     },
     "colorpicker": {
       "Apply": "대다",

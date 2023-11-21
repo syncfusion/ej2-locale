@@ -1274,7 +1274,9 @@
       "pasteEmbeddedCodeHere": "Sem vložte vložený kód",
       "emojiPickerTypeToFind": "Zadejte a vyhledejte",
       "emojiPickerNoResultFound": "Nebyly nalezeny žádné výsledky",
-      "emojiPickerTrySomethingElse": "Zkuste něco jiného"
+      "emojiPickerTrySomethingElse": "Zkuste něco jiného",
+      "linkAriaLabel": "Otevři v novém okně",
+      "ImageLinkAriaLabel": "Otevři v novém okně"
     },
     "colorpicker": {
       "Apply": "Aplikovat",
