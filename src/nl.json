@@ -1274,8 +1274,7 @@
           "pasteEmbeddedCodeHere": "Plak hier de ingesloten code",
           "emojiPickerTypeToFind": "Typ om te vinden",
           "emojiPickerNoResultFound": "geen resultaten gevonden",
-          "emojiPickerTrySomethingElse": "Probeer iets anders",
-          "linkAriaLabel": "Openen in een nieuw venster"
+          "emojiPickerTrySomethingElse": "Probeer iets anders"
       },
       "colorpicker": {
           "Apply": "Toepassen",

@@ -1274,8 +1274,7 @@
       "pasteEmbeddedCodeHere": "Liitä upotettu koodi tähän",
       "emojiPickerTypeToFind": "Kirjoita löytääksesi",
       "emojiPickerNoResultFound": "Ei tuloksia",
-      "emojiPickerTrySomethingElse": "Kokeile jotain muuta",
-      "linkAriaLabel": "Avaa uudessa ikkunassa"
+      "emojiPickerTrySomethingElse": "Kokeile jotain muuta"
     },
     "colorpicker": {
       "Apply": "Käytä",

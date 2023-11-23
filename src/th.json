@@ -1274,8 +1274,7 @@
       "pasteEmbeddedCodeHere": "วางรหัสฝังตัวที่นี่",
       "emojiPickerTypeToFind": "พิมพ์เพื่อค้นหา",
       "emojiPickerNoResultFound": "ไม่พบผลลัพธ์",
-      "emojiPickerTrySomethingElse": "ลองอย่างอื่น",
-      "linkAriaLabel": "เปิดหน้าต่างใหม่"
+      "emojiPickerTrySomethingElse": "ลองอย่างอื่น"
     },
     "colorpicker": {
       "Apply": "ใช้",
