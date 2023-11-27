@@ -129,7 +129,8 @@
       "GroupCaption": " csoportfelirat cella",
       "CheckBoxLabel": "jelölőnégyzetet",
       "Expanded": "Kiterjesztett",
-      "Collapsed": "Összeomlott"
+      "Collapsed": "Összeomlott",
+      "SelectAllCheckbox": "Jelölje be az Összes jelölőnégyzetet"
     },
     "pager": {
       "currentPageInfo": "{1} oldal {0}",

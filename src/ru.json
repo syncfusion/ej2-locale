@@ -129,7 +129,8 @@
       "GroupCaption": " ячейка группового заголовка",
       "CheckBoxLabel": "флажок",
       "Expanded": "Расширенный",
-      "Collapsed": "Свернуто"
+      "Collapsed": "Свернуто",
+      "SelectAllCheckbox": "Флажок «Выбрать все»"
     },
     "pager": {
       "currentPageInfo": "{0} из {1} страниц",

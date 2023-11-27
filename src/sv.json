@@ -129,7 +129,8 @@
       "GroupCaption": " är grupptextcell",
       "CheckBoxLabel": "kryssruta",
       "Expanded": "Expanderat",
-      "Collapsed": "Kollapsade"
+      "Collapsed": "Kollapsade",
+      "SelectAllCheckbox": "Markera kryssrutan Alla"
     },
     "pager": {
       "currentPageInfo": "{0} av {1} sidor",

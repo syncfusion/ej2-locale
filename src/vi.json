@@ -129,7 +129,8 @@
       "GroupCaption": " là ô mã hóa nhóm",
       "CheckBoxLabel": "hộp kiểm",
       "Expanded": "mở rộng",
-      "Collapsed": "Đã thu gọn"
+      "Collapsed": "Đã thu gọn",
+      "SelectAllCheckbox": "Chọn tất cả hộp kiểm"
     },
     "pager": {
       "currentPageInfo": "{0} trong số {1} trang",

@@ -129,7 +129,8 @@
       "GroupCaption": " je ćelija naslova grupe",
       "CheckBoxLabel": "potvrdni okvir",
       "Expanded": "Prošireno",
-      "Collapsed": "Srušeno"
+      "Collapsed": "Srušeno",
+      "SelectAllCheckbox": "Odaberite potvrdni okvir Sve"
     },
     "pager": {
       "currentPageInfo": "{0} od {1} stranica",

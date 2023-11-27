@@ -129,7 +129,8 @@
       "GroupCaption": " grup yazısı hücresidir",
       "CheckBoxLabel": "onay kutusu",
       "Expanded": "Genişletilmiş",
-      "Collapsed": "çöktü"
+      "Collapsed": "çöktü",
+      "SelectAllCheckbox": "Tümünü Seç Onay Kutusu"
     },
     "pager": {
       "currentPageInfo": "{1} sayfanın {0}",

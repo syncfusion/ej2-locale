@@ -129,7 +129,8 @@
       "GroupCaption": " adalah sel groupcaption",
       "CheckBoxLabel": "kotak centang",
       "Expanded": "Diperluas",
-      "Collapsed": "Runtuh"
+      "Collapsed": "Runtuh",
+      "SelectAllCheckbox": "Pilih Semua Kotak Centang"
     },
     "pager": {
       "currentPageInfo": "{0} dari {1} halaman",

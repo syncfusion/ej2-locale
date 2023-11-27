@@ -129,7 +129,8 @@
           "GroupCaption": " is groupcaption cel",
           "CheckBoxLabel": "selectievakje",
           "Expanded": "uitgebreid",
-          "Collapsed": "Ingestort"
+          "Collapsed": "Ingestort",
+          "SelectAllCheckbox": "Selecteer Alles"
       },
       "pager": {
           "currentPageInfo": "{0} van {1} pagina's",

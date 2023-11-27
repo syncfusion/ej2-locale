@@ -129,7 +129,8 @@
       "GroupCaption": " سلول زیرنویس گروهی است",
       "CheckBoxLabel": "چک باکس",
       "Expanded": "منبسط",
-      "Collapsed": "فرو ریخت"
+      "Collapsed": "فرو ریخت",
+      "SelectAllCheckbox": "همه کادر را انتخاب کنید"
     },
     "pager": {
       "currentPageInfo": "{0} از 1 {صفحه",

@@ -129,7 +129,8 @@
       "GroupCaption": " je buňka pro popis skupin",
       "CheckBoxLabel": "zaškrtávací políčko",
       "Expanded": "Rozšírené",
-      "Collapsed": "Zrútené"
+      "Collapsed": "Zrútené",
+      "SelectAllCheckbox": "Začiarknite políčko Všetky"
     },
     "pager": {
       "currentPageInfo": "{0} z {1} stránok",

@@ -129,7 +129,8 @@
       "GroupCaption": " on ryhmäkuvaussolu",
       "CheckBoxLabel": "valintaruutu",
       "Expanded": "Laajennettu",
-      "Collapsed": "Romahtanut"
+      "Collapsed": "Romahtanut",
+      "SelectAllCheckbox": "Valitse Kaikki -valintaruutu"
     },
     "pager": {
       "currentPageInfo": "{0} {1} sivusta",

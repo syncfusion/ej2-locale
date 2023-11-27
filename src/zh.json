@@ -129,7 +129,8 @@
       "GroupCaption": " 是组字幕单元格",
       "CheckBoxLabel": "复选框",
       "Expanded": "展开",
-      "Collapsed": "倒塌"
+      "Collapsed": "倒塌",
+      "SelectAllCheckbox": "选择全部复选框"
     },
     "pager": {
       "currentPageInfo": "{0}頁中的{0}頁",

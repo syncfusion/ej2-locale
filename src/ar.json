@@ -129,7 +129,8 @@
       "GroupCaption": " هي خلية تسمية توضيحية جماعية",
       "CheckBoxLabel": "خانة الاختيار",
       "Expanded": "موسع",
-      "Collapsed": "انهار"
+      "Collapsed": "انهار",
+      "SelectAllCheckbox": "حدد خانة الاختيار الكل"
     },
     "pager": {
       "currentPageInfo": "{0} من {1} صفحة",

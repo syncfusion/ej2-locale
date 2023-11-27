@@ -129,7 +129,8 @@
       "GroupCaption": " est une cellule de légende de groupe",
       "CheckBoxLabel": "case à cocher",
       "Expanded": "Étendue",
-      "Collapsed": "S'est effondré"
+      "Collapsed": "S'est effondré",
+      "SelectAllCheckbox": "Case à cocher Sélectionner tout"
     },
     "pager": {
       "currentPageInfo": "{0} de {1} pages",

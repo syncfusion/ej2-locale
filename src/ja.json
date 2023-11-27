@@ -129,7 +129,8 @@
       "GroupCaption": " グループキャプションセルです",
       "CheckBoxLabel": "チェックボックス",
       "Expanded": "エキスパンド",
-      "Collapsed": "折りたたまれた"
+      "Collapsed": "折りたたまれた",
+      "SelectAllCheckbox": "すべて選択チェックボックス"
     },
     "pager": {
       "currentPageInfo": "{0}ページのうち{1}ページ",

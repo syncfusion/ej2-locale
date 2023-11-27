@@ -84,7 +84,8 @@
       "CustomFilterDatePlaceHolder": "Veldu dagsetningu",
       "AND": "OG",
       "OR": "EÐA",
-      "ShowRowsWhere": "Sýna línur þar sem:"
+      "ShowRowsWhere": "Sýna línur þar sem:",
+      "SelectAllCheckbox": "Veldu allt gátreit"
     },
     "pager": {
       "currentPageInfo": "{0} af {1} síðum",

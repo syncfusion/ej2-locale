@@ -129,7 +129,8 @@
       "GroupCaption": " 그룹 캡션 셀입니다",
       "CheckBoxLabel": "체크박스",
       "Expanded": "퍼지는",
-      "Collapsed": "축소됨"
+      "Collapsed": "축소됨",
+      "SelectAllCheckbox": "모든 체크박스 선택"
     },
     "pager": {
       "currentPageInfo": "{1} 페이지 중 {0}",

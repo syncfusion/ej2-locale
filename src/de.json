@@ -129,7 +129,8 @@
       "GroupCaption": " ist eine Gruppenunterschriftszelle",
       "CheckBoxLabel": "Kontrollkästchen",
       "Expanded": "Erweitert",
-      "Collapsed": "Zusammengebrochen"
+      "Collapsed": "Zusammengebrochen",
+      "SelectAllCheckbox": "Kontrollkästchen „Alle auswählen“."
     },
     "pager": {
       "currentPageInfo": "{0} von {1} Seiten",

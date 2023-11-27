@@ -129,7 +129,8 @@
       "GroupCaption": " jest komórka napisów grupowych",
       "CheckBoxLabel": "pole wyboru",
       "Expanded": "Rozszerzony",
-      "Collapsed": "Zwinięty"
+      "Collapsed": "Zwinięty",
+      "SelectAllCheckbox": "Zaznacz pole wyboru Wszystkie"
     },
     "pager": {
       "currentPageInfo": "{0} z {1} stron",
