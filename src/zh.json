@@ -1277,7 +1277,9 @@
       "pasteEmbeddedCodeHere": "将嵌入代码粘贴到此处",
       "emojiPickerTypeToFind": "键入以查找",
       "emojiPickerNoResultFound": "未找到结果",
-      "emojiPickerTrySomethingElse": "尝试别的东西"
+      "emojiPickerTrySomethingElse": "尝试别的东西",
+      "linkAriaLabel": "在新窗口中打开",
+      "ImageLinkAriaLabel": "在新窗口中打开"
     },
     "colorpicker": {
       "Apply": "應用",

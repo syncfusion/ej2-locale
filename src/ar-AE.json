@@ -1275,7 +1275,9 @@
       "pasteEmbeddedCodeHere": "الصق التعليمات البرمجية المضمنة هنا",
       "emojiPickerTypeToFind": "اكتب للبحث",
       "emojiPickerNoResultFound": "لم يتم العثور على نتائج",
-      "emojiPickerTrySomethingElse": "جرب شيئًا آخر"
+      "emojiPickerTrySomethingElse": "جرب شيئًا آخر",
+      "linkAriaLabel": "افتح في نافذة جديدة",
+      "ImageLinkAriaLabel": "افتح في نافذة جديدة"
     },
     "colorpicker": {
       "Apply": "تطبيق",
