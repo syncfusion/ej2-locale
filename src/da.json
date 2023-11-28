@@ -129,7 +129,8 @@
       "GroupCaption": " er gruppetekstcelle",
       "CheckBoxLabel": "afkrydsningsfeltet",
       "Expanded": "Udvidet",
-      "Collapsed": "Kollapsede"
+      "Collapsed": "Kollapsede",
+      "SelectAllCheckbox": "Marker afkrydsningsfeltet Alle"
     },
     "pager": {
       "currentPageInfo": "{0} af {1} sider",

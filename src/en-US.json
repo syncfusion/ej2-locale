@@ -129,7 +129,8 @@
             "GroupCaption": " is groupcaption cell",
             "CheckBoxLabel": "checkbox",
             "Expanded": "Expanded",
-            "Collapsed": "Collapsed"
+            "Collapsed": "Collapsed",
+            "SelectAllCheckbox": "Select all checkbox"
         },
         "pager": {
             "currentPageInfo": "{0} of {1} pages",

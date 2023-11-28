@@ -129,7 +129,8 @@
       "GroupCaption": " é célula de legenda de grupo",
       "CheckBoxLabel": "caixa de seleção",
       "Expanded": "Expandida",
-      "Collapsed": "Desabou"
+      "Collapsed": "Desabou",
+      "SelectAllCheckbox": "Caixa de seleção Selecionar tudo"
     },
     "pager": {
       "currentPageInfo": "{0} de {1} páginas",

@@ -129,7 +129,8 @@
       "GroupCaption": " este celula subtitrării grupului",
       "CheckBoxLabel": "Caseta de bifat",
       "Expanded": "Extins",
-      "Collapsed": "S-a prăbușit"
+      "Collapsed": "S-a prăbușit",
+      "SelectAllCheckbox": "Selectați caseta de selectare Toate"
     },
     "pager": {
       "currentPageInfo": "{0} din {1} pagini",

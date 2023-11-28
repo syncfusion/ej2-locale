@@ -129,7 +129,8 @@
       "GroupCaption": " er gruppetekstcelle",
       "CheckBoxLabel": "avmerkingsboksen",
       "Expanded": "Utvidet",
-      "Collapsed": "Kollapset"
+      "Collapsed": "Kollapset",
+      "SelectAllCheckbox": "Merk av for Alle"
     },
     "pager": {
       "currentPageInfo": "{0} av {1} sider",

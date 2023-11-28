@@ -129,7 +129,8 @@
       "GroupCaption": " เป็น groupcaption เซลล์",
       "CheckBoxLabel": "ช่องทำเครื่องหมาย",
       "Expanded": "ขยาย",
-      "Collapsed": "ยุบ"
+      "Collapsed": "ยุบ",
+      "SelectAllCheckbox": "เลือกช่องทำเครื่องหมายทั้งหมด"
     },
     "pager": {
       "currentPageInfo": "หน้า {0} จาก {1} หน้า",

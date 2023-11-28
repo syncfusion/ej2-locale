@@ -129,7 +129,8 @@
       "GroupCaption": " es celda de subtítulos de grupo",
       "CheckBoxLabel": "casilla de verificación",
       "Expanded": "Expandida",
-      "Collapsed": "Contraída"
+      "Collapsed": "Contraída",
+      "SelectAllCheckbox": "Seleccionar todo Casilla de verificación"
     },
     "pager": {
       "currentPageInfo": "{0} de {1} páginas",
