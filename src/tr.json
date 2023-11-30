@@ -1275,7 +1275,9 @@
       "pasteEmbeddedCodeHere": "Gömülü Kodu buraya yapıştırın",
       "emojiPickerTypeToFind": "Bulmak için yazın",
       "emojiPickerNoResultFound": "Sonuç bulunamadı",
-      "emojiPickerTrySomethingElse": "başka bir şey dene"
+      "emojiPickerTrySomethingElse": "başka bir şey dene",
+      "linkAriaLabel": "Yeni pencerede aç",
+      "ImageLinkAriaLabel": "Yeni pencerede aç"
     },
     "colorpicker": {
       "Apply": "Uygulamak",

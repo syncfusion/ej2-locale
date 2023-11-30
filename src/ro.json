@@ -1275,7 +1275,9 @@
       "pasteEmbeddedCodeHere": "Lipiți codul încorporat aici",
       "emojiPickerTypeToFind": "Tastați pentru a găsi",
       "emojiPickerNoResultFound": "Nici un rezultat gasit",
-      "emojiPickerTrySomethingElse": "Încearcă altceva"
+      "emojiPickerTrySomethingElse": "Încearcă altceva",
+      "linkAriaLabel": "Deschide într-o fereastră nouă",
+      "ImageLinkAriaLabel": "Deschide într-o fereastră nouă"
     },
     "colorpicker": {
       "Apply": "aplica",
