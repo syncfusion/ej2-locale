@@ -168,7 +168,8 @@
       "no": "Nem",
       "close": "Bezárás",
       "noCard": "Nincs megjeleníthető kártya",
-      "unassigned": "Kiosztatlan"
+      "unassigned": "Kiosztatlan",
+      "cards": "Kart"
     },
     "dropdowns": {
       "noRecordsTemplate": "Nincs találat",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Azt találtuk, hogy rossz számú argumentumot tartalmazó képletet írt be.",
       "Requires3Arguments": "Azt találtuk, hogy olyan képletet írt be, amelyhez 3 argumentum szükséges.",
       "MismatchedStringQuotes": "Azt találtuk, hogy egy képletet írt be nem egyező idézőjelekkel.",
-      "FormulaCircularRef": "Azt találtuk, hogy körkörös hivatkozással írt képletet."
+      "FormulaCircularRef": "Azt találtuk, hogy körkörös hivatkozással írt képletet.",
+      "LOOKUP": "Megkeres egy értéket egy sor vagy oszlop tartományán belül, majd egy sor vagy oszlop tartományán belül ugyanabban a pozícióban lévő értéket ad vissza.",
+      "HLOOKUP": "Megkeresi az értéket az értéktáblázat felső sorában, majd visszaadja az értéket ugyanabban az oszlopban, mint az Ön által megadott táblázatsor.",
+      "VLOOKUP": "Megkeresi a megadott értéket a keresési tartomány első oszlopában, és visszaadja a megfelelő értéket a sor második oszlopában.",
+      "NOT": "A megadott logikai kifejezés ellentétét adja vissza.",
+      "EOMONTH": "A hónap utolsó napját adja vissza, amely megfelel az eredetileg megadott kezdő dátum előtti vagy utáni hónapok megadott számának.",
+      "SQRT": "Egy pozitív szám négyzetgyökét adja eredményül.",
+      "ROUNDDOWN": "Kerekítse a számot nullára.",
+      "RSQ": "Az ismert_y és ismert_x adatpontok alapján négyzetes Pearson-szorzat-momentum korrelációs együtthatót ad vissza.",
+      "ExternalWorkbook": "Az importált Excel-fájl egy külső munkafüzetre mutató hivatkozást tartalmaz."
     },
     "filemanager": {
       "NewFolder": "Új mappa",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "A sorok számának 1 és 32767 között kell lennie.",
       "Number of columns must be between 1 and 63.": "Az oszlopok számának 1 és 63 között kell lennie.",
       "You may format text only with certain styles": "A szöveget csak bizonyos stílusokkal formázhatja.",
-      "Ignore all": "Mindent figyelmen kívül hagy"
+      "Ignore all": "Mindent figyelmen kívül hagy",
+      "Apply": "Fokozatosan",
+      "Decimal": "egy tizedesjegyig",
+      "Bar": "Magok",
+      "Leader": "Rendszergazdák",
+      "Tab": "Kifizetetlen számlák",
+      "BookMarkList": "Dokumentumkönyvjelzők listája.",
+      "TabMarkList": "Lapok listája egy bekezdésben.",
+      "Tab stop position": "lemez terület",
+      "Default tab stops": "Gokart szabvány",
+      "Tab stops to be cleared": "Cserélhető kártyák",
+      "Tabs": "Lap ablak",
+      "Set": "használat",
+      "Clear": "átlátszó",
+      "Clear All": "Mindet törölni",
+      "Move From": "tól től",
+      "Move To": "Mérges",
+      "Notes Options": "Megjegyzés opciók",
+      "Paste Content CheckBox": "Ne mutatkozz be többé",
+      "Left Indent": "Kommunikációs labda",
+      "Right Indent": "A helyes tanfolyam",
+      "Hanging Indent": "Mindenkinek megvan a maga szerepe",
+      "First Line Indent": "Az első a sor behúzása.",
+      "Left Margin": "bal sarok",
+      "Right Margin": "jobb kut",
+      "Top Margin": "a fej",
+      "Bottom Margin": "ravasz",
+      "Left Tab": "bal oldali fül",
+      "Right Tab": "jobb oldali fül",
+      "Center Tab": "központi jelző",
+      "Decimal Tab": "Állatok vágása",
+      "Bar Tab": "Comilvi",
+      "Move Table Column": "Táblázatoszlop áthelyezése"
     },
     "documenteditorcontainer": {
       "New": "Új",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "Alternatív szöveg",
       "The address of this site is not valid. Check the address and try again.": "Ennek az oldalnak a címe nem érvényes. ",
       "OK": "rendben",
-      "Information": "Információ"
+      "Information": "Információ",
+      "Spelling": "semmi semmi",
+      "Link to Previous": "Előző link",
+      "Link to PreviousTooltip": "Kapcsolja össze ezt a részt az előző szakasz fejlécével vagy láblécével",
+      "Page Breaks": "a lapok végén",
+      "Section Breaks": "A hadosztály összeomlik",
+      "Column": "Ossza meg",
+      "Next Page": "következő oldal",
+      "Continuous": "üzleti"
     },
     "carousel": {
       "nextSlide": "Következő dia",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "Az eldobott fájl nem támogatott.",
       "Yes": "Igen",
       "No": "Nem",
-      "DropText": "Dobd ide a képedet vagy"
+      "DropText": "Dobd ide a képedet vagy",
+      "ImageErrorDialogHeader": "Hiba a kép kiválasztásakor",
+      "ImageErrorDialogContent": "Csak válassza ki a megnyitni kívánt képet.",
+      "Straighten": "éri el a határidőt",
+      "NoOutline": "Nincs vázlat",
+      "Clone": "Hasonló",
+      "Delete": "elpusztítani"
     },
     "mention": {
       "noRecordsTemplate": "Nincs találat"

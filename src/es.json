@@ -168,7 +168,8 @@
       "no": "No",
       "close": "Cerrar",
       "noCard": "No hay tarjetas para mostrar",
-      "unassigned": "Sin asignar"
+      "unassigned": "Sin asignar",
+      "cards": "Mapa"
     },
     "dropdowns": {
       "noRecordsTemplate": "No se encontraron registros",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Descubrimos que escribiste una fórmula con una cantidad incorrecta de argumentos.",
       "Requires3Arguments": "Descubrimos que escribiste una fórmula que requiere 3 argumentos.",
       "MismatchedStringQuotes": "Descubrimos que escribiste una fórmula con comillas que no coinciden.",
-      "FormulaCircularRef": "Descubrimos que escribiste una fórmula con una referencia circular."
+      "FormulaCircularRef": "Descubrimos que escribiste una fórmula con una referencia circular.",
+      "LOOKUP": "Encuentra un valor en un rango de una sola fila o una sola columna y luego devuelve un valor de la misma posición en un rango de una sola fila o una sola columna.",
+      "HLOOKUP": "Encuentra el valor en la fila superior de la matriz de valores y luego devuelve el valor en la misma columna de la fila de la matriz que especifica.",
+      "VLOOKUP": "Busca el valor especificado en la primera columna del rango de búsqueda y devuelve un valor coincidente de otra columna en la misma fila.",
+      "NOT": "Devuelve el inverso de la expresión lógica especificada.",
+      "EOMONTH": "Devuelve el último día del mes que es el número de meses especificado antes o después de la fecha de inicio especificada al principio.",
+      "SQRT": "Devuelve la raíz cuadrada de un número positivo.",
+      "ROUNDDOWN": "Redondea el número a cero.",
+      "RSQ": "Devuelve el cuadrado del coeficiente de correlación instantánea del producto de Pearson en función de los puntos de datos en conocido_y y conocido_x.",
+      "ExternalWorkbook": "El archivo de Excel importado contiene un vínculo a un libro de trabajo externo."
     },
     "filemanager": {
       "NewFolder": "Nueva carpeta",
@@ -2564,7 +2574,39 @@
       "Left and right margins": "Las configuraciones que eligió para los márgenes izquierdo y derecho, el espaciado de columnas o las sangrías de párrafos son demasiado grandes para el ancho de la página en las mismas secciones.",
       "Number of rows must be between 1 and 32767.": "El número de filas debe estar entre 1 y 32767.",
       "Number of columns must be between 1 and 63.": "El número de columnas debe estar entre 1 y 63.",
-      "You may format text only with certain styles": "Puede formatear el texto sólo con ciertos estilos."
+      "You may format text only with certain styles": "Puede formatear el texto sólo con ciertos estilos.",
+      "Apply": "Progresivo",
+      "Decimal": "Decimal",
+      "Bar": "Barricada",
+      "Leader": "Gerente",
+      "Tab": "Facturas sin pagar",
+      "BookMarkList": "Una lista de marcadores en un documento.",
+      "TabMarkList": "Una lista de tabulaciones en un párrafo.",
+      "Tab stop position": "Posición de tabulación",
+      "Default tab stops": "Mapa estándar",
+      "Tab stops to be cleared": "Tarjetas para borrar",
+      "Tabs": "ventana de pestaña",
+      "Set": "reclutamiento",
+      "Clear": "Transparente",
+      "Clear All": "Elimina todo",
+      "Move From": "Ir desde",
+      "Move To": "Transferido a",
+      "Notes Options": "Opciones de nota",
+      "Paste Content CheckBox": "No vuelvas a aparecer",
+      "Left Indent": "Bola enlazadora",
+      "Right Indent": "Periodo correcto",
+      "Hanging Indent": "Desplazamiento colgante",
+      "First Line Indent": "La primera es la sangría de línea.",
+      "Left Margin": "Esquina izquierda",
+      "Right Margin": "esquina derecha",
+      "Top Margin": "borde superior",
+      "Bottom Margin": "Borde inferior",
+      "Left Tab": "Pestaña izquierda",
+      "Right Tab": "pestaña derecha",
+      "Center Tab": "marcador central",
+      "Decimal Tab": "corte de animales",
+      "Bar Tab": "placa de goma",
+      "Move Table Column": "Mover una columna de la tabla"
     },
     "documenteditorcontainer": {
       "New": "Nuevo",
@@ -2745,7 +2787,15 @@
       "Alternate Text": "Texto alternativo",
       "The address of this site is not valid. Check the address and try again.": "La dirección de este sitio no es válida. ",
       "OK": "DE ACUERDO",
-      "Information": "Información"
+      "Information": "Información",
+      "Spelling": "ortografía, ortografía",
+      "Link to Previous": "Enlace a antes",
+      "Link to PreviousTooltip": "Vincular esta sección al encabezado o pie de página de la sección anterior",
+      "Page Breaks": "Fin de paginas",
+      "Section Breaks": "La división se derrumba",
+      "Column": "Dividir",
+      "Next Page": "Siguiente página",
+      "Continuous": "coherente"
     },
     "carousel": {
       "nextSlide": "Siguiente diapositiva",
@@ -2879,7 +2929,13 @@
       "AlertDialogContent": "El archivo eliminado no es compatible.",
       "Yes": "Sí",
       "No": "No",
-      "DropText": "Deja tu imagen aquí o"
+      "DropText": "Deja tu imagen aquí o",
+      "ImageErrorDialogHeader": "Error al seleccionar la imagen",
+      "ImageErrorDialogContent": "Seleccione solo una imagen para abrir.",
+      "Straighten": "Fecha límite",
+      "NoOutline": "Sin contornos",
+      "Clone": "Clon",
+      "Delete": "exterminar"
     },
     "mention": {
       "noRecordsTemplate": "No se encontraron registros"

@@ -168,7 +168,8 @@
       "no": "Ei",
       "close": "نزدیک",
       "noCard": "Ei näytettäviä kortteja",
-      "unassigned": "Määrittämättä"
+      "unassigned": "Määrittämättä",
+      "cards": "Kartta"
     },
     "dropdowns": {
       "noRecordsTemplate": "Merkintöjä ei löydy",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Huomasimme, että kirjoitit kaavan, jossa on väärä määrä argumentteja.",
       "Requires3Arguments": "Huomasimme, että kirjoitit kaavan, joka vaatii 3 argumenttia.",
       "MismatchedStringQuotes": "Huomasimme, että kirjoitit kaavan, jossa lainausmerkit eivät täsmää.",
-      "FormulaCircularRef": "Huomasimme, että kirjoitit kaavan, jossa on pyöreä viittaus."
+      "FormulaCircularRef": "Huomasimme, että kirjoitit kaavan, jossa on pyöreä viittaus.",
+      "LOOKUP": "Etsii arvon yhden rivin tai yhden sarakkeen alueelta ja palauttaa sitten arvon samasta sijainnista yksirivisellä tai yhden sarakkeen alueella.",
+      "HLOOKUP": "Etsii arvon arvotaulukon ylimmältä riviltä ja palauttaa sitten arvon määrittämäsi taulukon rivin samassa sarakkeessa.",
+      "VLOOKUP": "Etsii määritettyä arvoa hakualueen ensimmäisestä sarakkeesta ja palauttaa vastaavan arvon toisesta saman rivin sarakkeesta.",
+      "NOT": "Palauttaa määritetyn loogisen lausekkeen käänteisarvon.",
+      "EOMONTH": "Palauttaa kuukauden viimeisen päivän, joka on määritetty määrä kuukausia ennen tai jälkeen alun perin määritettyä aloituspäivää.",
+      "SQRT": "Palauttaa positiivisen luvun neliöjuuren.",
+      "ROUNDDOWN": "Pyöristä luku nollaan.",
+      "RSQ": "Palauttaa Pearson-tuotteen momentin neliökorrelaatiokertoimen tunnettujen_y- ja tunnettujen_x-tietopisteiden perusteella.",
+      "ExternalWorkbook": "Tuotu Excel-tiedosto sisältää linkin ulkoiseen työkirjaan."
     },
     "filemanager": {
       "NewFolder": "Uusi kansio",
@@ -2564,7 +2574,39 @@
       "Left and right margins": "Vasemmalle ja oikealle marginaalille, sarakevälille tai kappaleen sisennyksille valitsemasi asetukset ovat liian suuria sivun leveydelle samoissa osioissa.",
       "Number of rows must be between 1 and 32767.": "Rivien lukumäärän on oltava välillä 1–32 767.",
       "Number of columns must be between 1 and 63.": "Sarakkeiden lukumäärän on oltava 1–63.",
-      "You may format text only with certain styles": "Voit muotoilla tekstiä vain tietyillä tyyleillä."
+      "You may format text only with certain styles": "Voit muotoilla tekstiä vain tietyillä tyyleillä.",
+      "Apply": "progressiivinen",
+      "Decimal": "desimaali",
+      "Bar": "pato",
+      "Leader": "manageri",
+      "Tab": "Maksamattomat laskut",
+      "BookMarkList": "Luettelo asiakirjan kirjanmerkeistä.",
+      "TabMarkList": "Luettelo kappaleessa olevista arkeista.",
+      "Tab stop position": "Levyn sijainti",
+      "Default tab stops": "Vakiokartta",
+      "Tab stops to be cleared": "Poistettavat kortit",
+      "Tabs": "Välilehti-ikkuna",
+      "Set": "Käyttää",
+      "Clear": "läpinäkyvä",
+      "Clear All": "Poista kaikki",
+      "Move From": "alkaen",
+      "Move To": "muutti",
+      "Notes Options": "Huomautus vaihtoehdot",
+      "Paste Content CheckBox": "Älä näy uudelleen",
+      "Left Indent": "Sidepallo",
+      "Right Indent": "Oikea kurssi",
+      "Hanging Indent": "Rulla roikkuu",
+      "First Line Indent": "Ensimmäinen on rivin sisennys.",
+      "Left Margin": "vasen kulma",
+      "Right Margin": "oikea kulma",
+      "Top Margin": "yläreuna",
+      "Bottom Margin": "alareuna",
+      "Left Tab": "Vasen välilehti",
+      "Right Tab": "Oikea välilehti",
+      "Center Tab": "Keskusilmaisin",
+      "Decimal Tab": "Eläinten leikkaaminen",
+      "Bar Tab": "Kumilevy",
+      "Move Table Column": "Siirrä taulukon saraketta"
     },
     "documenteditorcontainer": {
       "New": "Uusi",
@@ -2745,7 +2787,15 @@
       "Alternate Text": "Vaihtoehtoinen teksti",
       "The address of this site is not valid. Check the address and try again.": "Tämän sivuston osoite ei ole kelvollinen. ",
       "OK": "OK",
-      "Information": "Tiedot"
+      "Information": "Tiedot",
+      "Spelling": "Toivoa, toivoa",
+      "Link to Previous": "edellinen linkki",
+      "Link to PreviousTooltip": "Linkitä tämä osio edellisen osion ylä- tai alatunnisteeseen",
+      "Page Breaks": "sivujen lopussa",
+      "Section Breaks": "Divisioona romahtaa",
+      "Column": "jakaa",
+      "Next Page": "seuraava sivu",
+      "Continuous": "yritys"
     },
     "carousel": {
       "nextSlide": "Seuraava dia",
@@ -2879,7 +2929,13 @@
       "AlertDialogContent": "Pudotettua tiedostoa ei tueta.",
       "Yes": "Joo",
       "No": "Ei",
-      "DropText": "Pudota kuvasi tähän tai"
+      "DropText": "Pudota kuvasi tähän tai",
+      "ImageErrorDialogHeader": "Virhe kuvan valinnassa",
+      "ImageErrorDialogContent": "Valitse vain avattava kuva.",
+      "Straighten": "Saavuta määräaikaan",
+      "NoOutline": "Ei ääriviivaa",
+      "Clone": "Samanlaisia",
+      "Delete": "Tuhota"
     },
     "mention": {
       "noRecordsTemplate": "Merkintöjä ei löydy"

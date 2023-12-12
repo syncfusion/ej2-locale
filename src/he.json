@@ -168,7 +168,8 @@
       "no": "לא",
       "close": "סגור",
       "noCard": "אין קלפים להצגה",
-      "unassigned": "לא הוקצה"
+      "unassigned": "לא הוקצה",
+      "cards": "קארט"
     },
     "dropdowns": {
       "noRecordsTemplate": "לא נמצאו שיאים",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "מצאנו שהקלדת נוסחה עם מספר שגוי של ארגומנטים.",
       "Requires3Arguments": "מצאנו שהקלדת נוסחה הדורשת 3 ארגומנטים.",
       "MismatchedStringQuotes": "מצאנו שהקלדת נוסחה עם מרכאות לא תואמות.",
-      "FormulaCircularRef": "מצאנו שהקלדת נוסחה עם הפניה מעגלית."
+      "FormulaCircularRef": "מצאנו שהקלדת נוסחה עם הפניה מעגלית.",
+      "LOOKUP": "מוצא ערך בטווח של שורה אחת או עמודה אחת, ולאחר מכן מחזיר ערך באותו מיקום בטווח של שורה אחת או עמודה אחת.",
+      "HLOOKUP": "מוצא את הערך בשורה העליונה של טבלת הערכים, ולאחר מכן מחזיר את הערך באותה עמודה כמו שורת הטבלה שציינת.",
+      "VLOOKUP": "מחפש את הערך שצוין בעמודה הראשונה של טווח החיפוש ומחזיר את הערך התואם בעמודה השנייה של אותה שורה.",
+      "NOT": "מחזירה את ההפך של הביטוי הלוגי שצוין.",
+      "EOMONTH": "מחזירה את היום האחרון של החודש המתאים למספר החודשים שצוין לפני או אחרי תאריך ההתחלה שצוין במקור.",
+      "SQRT": "מחזירה את השורש הריבועי של מספר חיובי.",
+      "ROUNDDOWN": "עיגל את המספר לאפס.",
+      "RSQ": "מחזירה את מקדם המתאם הריבועי של רגע המוצר של פירסון בהינתן נקודות הנתונים הידוע_y ו-known_x.",
+      "ExternalWorkbook": "קובץ האקסל המיובא מכיל קישור לחוברת עבודה חיצונית."
     },
     "filemanager": {
       "NewFolder": "תיקייה חדשה",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "מספר השורות חייב להיות בין 1 ל-32767.",
       "Number of columns must be between 1 and 63.": "מספר העמודות חייב להיות בין 1 ל-63.",
       "You may format text only with certain styles": "אתה יכול לעצב טקסט רק עם סגנונות מסוימים.",
-      "Ignore all": "התעלם מהכל"
+      "Ignore all": "התעלם מהכל",
+      "Apply": "פּרוֹגרֵסִיבִי",
+      "Decimal": "למקום עשרוני אחד",
+      "Bar": "פאטו",
+      "Leader": "מנהלים",
+      "Tab": "חשבונות לא משולמים",
+      "BookMarkList": "רשימה של סימניות מסמכים.",
+      "TabMarkList": "רשימת גיליונות בפסקה.",
+      "Tab stop position": "מיקום הדיסק",
+      "Default tab stops": "תקן קארט",
+      "Tab stops to be cleared": "כרטיסים נשלפים",
+      "Tabs": "חלון עם כרטיסיות",
+      "Set": "להשתמש",
+      "Clear": "שָׁקוּף",
+      "Clear All": "מחק הכל",
+      "Move From": "מאז",
+      "Move To": "נִרגָשׁ",
+      "Notes Options": "הערה אפשרויות",
+      "Paste Content CheckBox": "אל תציג את עצמך יותר",
+      "Left Indent": "כדור תקשורת",
+      "Right Indent": "הקורס הנכון",
+      "Hanging Indent": "הגליל תלוי",
+      "First Line Indent": "הראשון הוא הזחה של קו.",
+      "Left Margin": "פינה שמאלית",
+      "Right Margin": "זווית נכונה",
+      "Top Margin": "רֹאשׁ",
+      "Bottom Margin": "ערמומי",
+      "Left Tab": "לשונית שמאלית",
+      "Right Tab": "כרטיסייה ימנית",
+      "Center Tab": "מחוון מרכזי",
+      "Decimal Tab": "חיתוך חיות",
+      "Bar Tab": "קומילווי",
+      "Move Table Column": "הזז עמודת טבלה"
     },
     "documenteditorcontainer": {
       "New": "חדש",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "טקסט חלופי",
       "The address of this site is not valid. Check the address and try again.": "הכתובת של אתר זה אינה חוקית. ",
       "OK": "בסדר",
-      "Information": "מֵידָע"
+      "Information": "מֵידָע",
+      "Spelling": "מקווה, מקווה",
+      "Link to Previous": "קישור קודם",
+      "Link to PreviousTooltip": "קשר את הקטע הזה לכותרת העליונה או התחתונה של הסעיף הקודם",
+      "Page Breaks": "בסוף העמודים",
+      "Section Breaks": "החלוקה קורסת",
+      "Column": "לַחֲלוֹק",
+      "Next Page": "עמוד הבא",
+      "Continuous": "עֵסֶק"
     },
     "carousel": {
       "nextSlide": "השקף הבא",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "הקובץ שנשמט אינו נתמך.",
       "Yes": "כן",
       "No": "לא",
-      "DropText": "שחרר את התמונה שלך כאן או"
+      "DropText": "שחרר את התמונה שלך כאן או",
+      "ImageErrorDialogHeader": "שגיאה בבחירת תמונה",
+      "ImageErrorDialogContent": "פשוט בחר את התמונה לפתיחה.",
+      "Straighten": "להגיע למועד האחרון",
+      "NoOutline": "אין מתווה",
+      "Clone": "דוֹמֶה",
+      "Delete": "להרוס"
     },
     "mention": {
       "noRecordsTemplate": "לא נמצאו שיאים"

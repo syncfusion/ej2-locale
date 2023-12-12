@@ -168,7 +168,8 @@
       "no": "Nein",
       "close": "Schließen",
       "noCard": "Keine Karten zum Anzeigen",
-      "unassigned": "Nicht zugewiesen"
+      "unassigned": "Nicht zugewiesen",
+      "cards": "Karte"
     },
     "dropdowns": {
       "noRecordsTemplate": "Keine Datensätze gefunden",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Wir haben festgestellt, dass Sie eine Formel mit einer falschen Anzahl an Argumenten eingegeben haben.",
       "Requires3Arguments": "Wir haben festgestellt, dass Sie eine Formel eingegeben haben, die drei Argumente erfordert.",
       "MismatchedStringQuotes": "Wir haben festgestellt, dass Sie eine Formel mit nicht übereinstimmenden Anführungszeichen eingegeben haben.",
-      "FormulaCircularRef": "Wir haben festgestellt, dass Sie eine Formel mit einem Zirkelbezug eingegeben haben."
+      "FormulaCircularRef": "Wir haben festgestellt, dass Sie eine Formel mit einem Zirkelbezug eingegeben haben.",
+      "LOOKUP": "Sucht einen Wert in einem einzeiligen oder einspaltigen Bereich und gibt dann einen Wert von derselben Position in einem einzeiligen oder einspaltigen Bereich zurück.",
+      "HLOOKUP": "Sucht den Wert in der obersten Zeile des Wertearrays und gibt dann den Wert in derselben Spalte der Zeile im von Ihnen angegebenen Array zurück.",
+      "VLOOKUP": "Sucht nach dem angegebenen Wert in der ersten Spalte des Suchbereichs und gibt einen passenden Wert aus einer anderen Spalte in derselben Zeile zurück.",
+      "NOT": "Gibt die Umkehrung des angegebenen logischen Ausdrucks zurück.",
+      "EOMONTH": "Gibt den letzten Tag des Monats zurück, der die angegebene Anzahl von Monaten vor oder nach dem am Anfang angegebenen Startdatum liegt.",
+      "SQRT": "Gibt die Quadratwurzel einer positiven Zahl zurück.",
+      "ROUNDDOWN": "Rundet die Zahl auf Null ab.",
+      "RSQ": "Gibt das Quadrat des momentanen Korrelationskoeffizienten des Pearson-Produkts basierend auf den Datenpunkten in „known_y“ und „known_x“ zurück.",
+      "ExternalWorkbook": "Die importierte Excel-Datei enthält einen Link zu einer externen Arbeitsmappe."
     },
     "filemanager": {
       "NewFolder": "Neuer Ordner",
@@ -2567,7 +2577,39 @@
       "Number of rows must be between 1 and 32767.": "Die Anzahl der Zeilen muss zwischen 1 und 32767 liegen.",
       "Number of columns must be between 1 and 63.": "Die Anzahl der Spalten muss zwischen 1 und 63 liegen.",
       "You may format text only with certain styles": "Sie können Text nur mit bestimmten Stilen formatieren.",
-      "Table Of Contents": "Inhaltsverzeichnis"
+      "Table Of Contents": "Inhaltsverzeichnis",
+      "Apply": "Progressiv",
+      "Decimal": "Dezimal",
+      "Bar": "Straßensperre",
+      "Leader": "Manager",
+      "Tab": "Unbezahlte Rechnung",
+      "BookMarkList": "Eine Liste von Lesezeichen in einem Dokument",
+      "TabMarkList": "Eine Liste von Tabstopps in einem Absatz",
+      "Tab stop position": "Tabstoppposition",
+      "Default tab stops": "Standardkarte",
+      "Tab stops to be cleared": "Karten zum Löschen",
+      "Tabs": "Tab-Fenster",
+      "Set": "Rekrutierung",
+      "Clear": "Transparent",
+      "Clear All": "Alles löschen",
+      "Move From": "Gehe von",
+      "Move To": "Übertragen an",
+      "Notes Options": "Notizoptionen",
+      "Paste Content CheckBox": "Nicht mehr auftauchen",
+      "Left Indent": "Linker Ball",
+      "Right Indent": "Richtiger Zeitraum",
+      "Hanging Indent": "Hängender Versatz",
+      "First Line Indent": "Der erste ist der Zeileneinzug",
+      "Left Margin": "Linke Ecke",
+      "Right Margin": "Rechte Ecke",
+      "Top Margin": "Oberkante",
+      "Bottom Margin": "Unterkante",
+      "Left Tab": "Linke Registerkarte",
+      "Right Tab": "Rechte Registerkarte",
+      "Center Tab": "Zentrales Lesezeichen",
+      "Decimal Tab": "Tiere kort",
+      "Bar Tab": "Gummiplatte",
+      "Move Table Column": "Verschieben Sie eine Tabellenspalte"
     },
     "documenteditorcontainer": {
       "New": "Neu",
@@ -2748,7 +2790,15 @@
       "Alternate Text": "Alternativer Text",
       "The address of this site is not valid. Check the address and try again.": "Die Adresse dieser Website ist ungültig. ",
       "OK": "OK",
-      "Information": "Information"
+      "Information": "Information",
+      "Spelling": "Rechtschreibung",
+      "Link to Previous": "Link zu früher",
+      "Link to PreviousTooltip": "Verknüpfen Sie diesen Abschnitt mit der Kopf- oder Fußzeile des vorherigen Abschnitts",
+      "Page Breaks": "Ende der Seiten",
+      "Section Breaks": "Die Division bricht zusammen",
+      "Column": "Spalte",
+      "Next Page": "Nächste Seite",
+      "Continuous": "kohärent"
     },
     "carousel": {
       "nextSlide": "Nächste Folie",
@@ -2882,7 +2932,13 @@
       "AlertDialogContent": "Die abgelegte Datei wird nicht unterstützt.",
       "Yes": "Ja",
       "No": "NEIN",
-      "DropText": "Legen Sie Ihr Bild hier ab oder"
+      "DropText": "Legen Sie Ihr Bild hier ab oder",
+      "ImageErrorDialogHeader": "Fehler beim Auswählen des Bildes",
+      "ImageErrorDialogContent": "Wählen Sie nur ein Bild zum Öffnen aus.",
+      "Straighten": "Termin",
+      "NoOutline": "Keine Umrisse",
+      "Clone": "Klonen",
+      "Delete": "ausrotten"
     },
     "mention": {
       "noRecordsTemplate": "Keine Aufzeichnungen gefunden"

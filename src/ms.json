@@ -168,7 +168,8 @@
       "no": "Tidak",
       "close": "Tutup",
       "noCard": "Tiada kad untuk dipaparkan",
-      "unassigned": "Tidak ditugaskan"
+      "unassigned": "Tidak ditugaskan",
+      "cards": "bakul membeli-belah"
     },
     "dropdowns": {
       "noRecordsTemplate": "Tiada rekod dijumpai",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Kami mendapati bahawa anda menaip formula dengan bilangan argumen yang salah.",
       "Requires3Arguments": "Kami mendapati bahawa anda menaip formula yang memerlukan 3 argumen.",
       "MismatchedStringQuotes": "Kami mendapati bahawa anda menaip formula dengan petikan yang tidak sepadan.",
-      "FormulaCircularRef": "Kami mendapati bahawa anda menaip formula dengan rujukan bulat."
+      "FormulaCircularRef": "Kami mendapati bahawa anda menaip formula dengan rujukan bulat.",
+      "LOOKUP": "Mencari nilai dalam julat baris atau lajur dan mengembalikan nilai pada kedudukan yang sama dalam julat baris atau lajur.",
+      "HLOOKUP": "Mencari nilai dalam baris atas jadual nilai dan mengembalikan nilai dalam lajur yang sama pada baris jadual yang ditentukan.",
+      "VLOOKUP": "Mencari nilai yang dinyatakan dalam lajur pertama julat carian dan mengembalikan nilai yang sepadan dalam lajur kedua baris.",
+      "NOT": "Mengembalikan songsangan bagi ungkapan Boolean yang ditentukan.",
+      "EOMONTH": "Mengembalikan hari terakhir bulan sebelum dan selepas bilangan bulan yang ditentukan dari tarikh mula yang ditentukan pertama.",
+      "SQRT": "Mengembalikan punca kuasa dua nombor positif.",
+      "ROUNDDOWN": "Membundarkan nombor kepada 0.",
+      "RSQ": "Mengembalikan pekali korelasi momen produk Pearson kuasa dua berdasarkan titik data dikenali_y dan diketahui_x.",
+      "ExternalWorkbook": "Fail Excel yang diimport mengandungi pautan ke buku kerja luaran."
     },
     "filemanager": {
       "NewFolder": "Fail baharu",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "Bilangan baris mestilah antara 1 dan 32767.",
       "Number of columns must be between 1 and 63.": "Bilangan lajur mestilah antara 1 dan 63.",
       "You may format text only with certain styles": "Anda boleh memformat teks hanya dengan gaya tertentu.",
-      "Ignore all": "Abaikan semua"
+      "Ignore all": "Abaikan semua",
+      "Apply": "perlahan-lahan dan mudah",
+      "Decimal": "Titik perpuluhan tempat pertama",
+      "Bar": "separuh",
+      "Leader": "pentadbir sistem",
+      "Tab": "Invois tertunggak",
+      "BookMarkList": "Senarai dokumen yang dipaparkan.",
+      "TabMarkList": "Menyenaraikan halaman perenggan.",
+      "Tab stop position": "ruang cakera",
+      "Default tab stops": "Go-kart yang luar biasa",
+      "Tab stops to be cleared": "kad yang boleh diganti",
+      "Tabs": "tetingkap tab",
+      "Set": "penggunaan",
+      "Clear": "telus",
+      "Clear All": "memadam semua",
+      "Move From": "dan",
+      "Move To": "kemarahan",
+      "Notes Options": "Semak pilihan",
+      "Paste Content CheckBox": "Jangan muncul lagi.",
+      "Left Indent": "bidang komunikasi",
+      "Right Indent": "kursus yang betul",
+      "Hanging Indent": "setiap orang ada peranan masing-masing",
+      "First Line Indent": "Yang pertama ialah lenturan garisan.",
+      "Left Margin": "Yu Zuo",
+      "Right Margin": "bagus bagus",
+      "Top Margin": "penguji",
+      "Bottom Margin": "hidup",
+      "Left Tab": "telinga kiri",
+      "Right Tab": "telinga kanan",
+      "Center Tab": "penunjuk pusat",
+      "Decimal Tab": "penyembelihan haiwan",
+      "Bar Tab": "Comil B",
+      "Move Table Column": "Alihkan lajur dalam jadual"
     },
     "documenteditorcontainer": {
       "New": "Baru",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "Teks Ganti",
       "The address of this site is not valid. Check the address and try again.": "Alamat tapak ini tidak sah. ",
       "OK": "okey",
-      "Information": "Maklumat"
+      "Information": "Maklumat",
+      "Spelling": "tiada apa",
+      "Link to Previous": "pautan sebelumnya",
+      "Link to PreviousTooltip": "Pautkan bahagian ini ke pengepala atau pengaki bahagian sebelumnya",
+      "Page Breaks": "di hujung halaman",
+      "Section Breaks": "Sektor ini sedang merudum",
+      "Column": "berkongsi ini",
+      "Next Page": "muka surat seterusnya",
+      "Continuous": "kerja"
     },
     "carousel": {
       "nextSlide": "Slaid seterusnya",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "Fail yang digugurkan tidak disokong.",
       "Yes": "ya",
       "No": "Tidak",
-      "DropText": "Letakkan imej anda di sini atau"
+      "DropText": "Letakkan imej anda di sini atau",
+      "ImageErrorDialogHeader": "Ralat pemilihan imej",
+      "ImageErrorDialogContent": "Hanya pilih imej yang anda mahu buka.",
+      "Straighten": "memenuhi tarikh akhir",
+      "NoOutline": "Tidak ada garis besar.",
+      "Clone": "metafora",
+      "Delete": "memusnahkan"
     },
     "mention": {
       "noRecordsTemplate": "Tiada rekod dijumpai"

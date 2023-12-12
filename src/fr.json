@@ -168,7 +168,8 @@
       "no": "Non",
       "close": "Fermer",
       "noCard": "Aucune carte à afficher",
-      "unassigned": "Non attribué"
+      "unassigned": "Non attribué",
+      "cards": "Carte"
     },
     "dropdowns": {
       "noRecordsTemplate": "Aucun enregistrement trouvé",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Nous avons constaté que vous avez saisi une formule avec un nombre incorrect d'arguments.",
       "Requires3Arguments": "Nous avons constaté que vous avez tapé une formule qui nécessite 3 arguments.",
       "MismatchedStringQuotes": "Nous avons constaté que vous aviez saisi une formule avec des guillemets incompatibles.",
-      "FormulaCircularRef": "Nous avons constaté que vous aviez tapé une formule avec une référence circulaire."
+      "FormulaCircularRef": "Nous avons constaté que vous aviez tapé une formule avec une référence circulaire.",
+      "LOOKUP": "Recherche une valeur dans une plage à une seule ligne ou à une seule colonne, puis renvoie une valeur au même emplacement dans une plage à une seule ligne ou à une seule colonne.",
+      "HLOOKUP": "Recherche la valeur dans la ligne supérieure du tableau de valeurs, puis renvoie la valeur dans la même colonne que la ligne du tableau que vous avez spécifiée.",
+      "VLOOKUP": "Recherche la valeur spécifiée dans la première colonne de la plage de recherche et renvoie la valeur correspondante dans la deuxième colonne de la même ligne.",
+      "NOT": "Renvoie l'inverse de l'expression logique spécifiée.",
+      "EOMONTH": "Renvoie le dernier jour du mois correspondant au nombre de mois spécifié avant ou après la date de début initialement spécifiée.",
+      "SQRT": "Renvoie la racine carrée d'un nombre positif.",
+      "ROUNDDOWN": "Arrondissez le nombre à zéro.",
+      "RSQ": "Renvoie le coefficient de corrélation quadratique du moment du produit Pearson en fonction des points de données known_y et known_x.",
+      "ExternalWorkbook": "Le fichier Excel importé contient un lien vers un classeur externe."
     },
     "filemanager": {
       "NewFolder": "Nouveau dossier",
@@ -2569,7 +2579,39 @@
       "Number of rows must be between 1 and 32767.": "Le nombre de lignes doit être compris entre 1 et 32 767.",
       "Number of columns must be between 1 and 63.": "Le nombre de colonnes doit être compris entre 1 et 63.",
       "You may format text only with certain styles": "Vous ne pouvez formater le texte qu'avec certains styles.",
-      "ok": "Valider"
+      "ok": "Valider",
+      "Apply": "progressive",
+      "Decimal": "à une décimale",
+      "Bar": "pato",
+      "Leader": "gestionnaires",
+      "Tab": "Factures impayées",
+      "BookMarkList": "Une liste de signets de documents.",
+      "TabMarkList": "Liste des feuilles dans le paragraphe.",
+      "Tab stop position": "Emplacement du disque",
+      "Default tab stops": "Carte standard",
+      "Tab stops to be cleared": "Cartes amovibles",
+      "Tabs": "Fenêtre à onglets",
+      "Set": "Utiliser",
+      "Clear": "transparent",
+      "Clear All": "supprimer tout",
+      "Move From": "depuis",
+      "Move To": "déplacé",
+      "Notes Options": "Options de remarque",
+      "Paste Content CheckBox": "Ne te présente plus",
+      "Left Indent": "Boule de communication",
+      "Right Indent": "Le bon cours",
+      "Hanging Indent": "Le rouleau pend",
+      "First Line Indent": "Le premier est l’indentation de ligne.",
+      "Left Margin": "coin gauche",
+      "Right Margin": "angle droit",
+      "Top Margin": "tête",
+      "Bottom Margin": "pied",
+      "Left Tab": "Onglet gauche",
+      "Right Tab": "Onglet droit",
+      "Center Tab": "Indicateur central",
+      "Decimal Tab": "Couper des animaux",
+      "Bar Tab": "Kumilevy",
+      "Move Table Column": "Déplacer une colonne du tableau"
     },
     "documenteditorcontainer": {
       "New": "Nouveau",
@@ -2750,7 +2792,15 @@
       "Alternate Text": "Texte alternatif",
       "The address of this site is not valid. Check the address and try again.": "L'adresse de ce site n'est pas valide. ",
       "OK": "D'ACCORD",
-      "Information": "Information"
+      "Information": "Information",
+      "Spelling": "Espoir, espoir",
+      "Link to Previous": "lien précédent",
+      "Link to PreviousTooltip": "Liez cette section à l'en-tête ou au pied de page de la section précédente",
+      "Page Breaks": "à la fin des pages",
+      "Section Breaks": "La division s'effondre",
+      "Column": "partager",
+      "Next Page": "page suivante",
+      "Continuous": "entreprise"
     },
     "carousel": {
       "nextSlide": "Diapositive suivante",
@@ -2884,7 +2934,13 @@
       "AlertDialogContent": "Le fichier supprimé n'est pas pris en charge.",
       "Yes": "Oui",
       "No": "Non",
-      "DropText": "Déposez votre image ici ou"
+      "DropText": "Déposez votre image ici ou",
+      "ImageErrorDialogHeader": "Erreur lors de la sélection de l'image",
+      "ImageErrorDialogContent": "Sélectionnez simplement l’image à ouvrir.",
+      "Straighten": "Atteindre la date limite",
+      "NoOutline": "Pas de contour",
+      "Clone": "Similaire",
+      "Delete": "Détruire"
     },
     "mention": {
       "noRecordsTemplate": "Aucun enregistrement trouvé"

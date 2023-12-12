@@ -168,7 +168,8 @@
       "no": "番号",
       "close": "閉じる",
       "noCard": "表示するカードがありません",
-      "unassigned": "未割り当て"
+      "unassigned": "未割り当て",
+      "cards": "カート"
     },
     "dropdowns": {
       "noRecordsTemplate": "レコードが見つかりません",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "間違った数の引数を含む数式を入力したことがわかりました。",
       "Requires3Arguments": "3 つの引数を必要とする数式を入力したことがわかりました。",
       "MismatchedStringQuotes": "引用符が一致しない数式を入力したことがわかりました。",
-      "FormulaCircularRef": "循環参照を含む数式を入力したことがわかりました。"
+      "FormulaCircularRef": "循環参照を含む数式を入力したことがわかりました。",
+      "LOOKUP": "行または列の範囲内の値を検索し、行または列の範囲内の同じ位置にある値を返します。",
+      "HLOOKUP": "値テーブルの最上行の値を検索し、指定されたテーブル行の同じ列の値を返します。",
+      "VLOOKUP": "検索範囲の最初の列で指定された値を検索し、行の 2 列目の対応する値を返します。",
+      "NOT": "指定されたブール式の逆数を返します。",
+      "EOMONTH": "最初に指定された開始日から指定された月数前または後の月の最後の日を返します。",
+      "SQRT": "正の数の平方根を返します。",
+      "ROUNDDOWN": "数値をゼロに丸めます。",
+      "RSQ": "known_y および known_x データ ポイントに基づいて、二乗ピアソン積モーメント相関係数を返します。",
+      "ExternalWorkbook": "インポートされた Excel ファイルには、外部ワークブックへのリンクが含まれています。"
     },
     "filemanager": {
       "NewFolder": "新しいフォルダー",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "行数は 1 ～ 32767 でなければなりません。",
       "Number of columns must be between 1 and 63.": "列数は 1 ～ 63 でなければなりません。",
       "You may format text only with certain styles": "特定のスタイルでのみテキストを書式設定できます。",
-      "Ignore all": "すべて無視"
+      "Ignore all": "すべて無視",
+      "Apply": "ゆっくりと簡単に",
+      "Decimal": "小数点第1位付き",
+      "Bar": "セミ",
+      "Leader": "システム管理者",
+      "Tab": "未払いの請求書",
+      "BookMarkList": "マークされたドキュメントのリスト。",
+      "TabMarkList": "段落内のページをリストします。",
+      "Tab stop position": "ディスク領域",
+      "Default tab stops": "普通ではないゴーカート",
+      "Tab stops to be cleared": "交換可能なカード",
+      "Tabs": "タブウィンドウ",
+      "Set": "使用法",
+      "Clear": "透明",
+      "Clear All": "すべてを削除します",
+      "Move From": "そして",
+      "Move To": "怒り",
+      "Notes Options": "オプションを確認してください",
+      "Paste Content CheckBox": "二度と現れないでください",
+      "Left Indent": "コミュニケーション分野",
+      "Right Indent": "正しいコース",
+      "Hanging Indent": "誰もが果たすべき役割を持っています",
+      "First Line Indent": "1つ目はラインの曲がりです。",
+      "Left Margin": "左隅",
+      "Right Margin": "良い良い",
+      "Top Margin": "テスタ",
+      "Bottom Margin": "オンにする",
+      "Left Tab": "左の耳",
+      "Right Tab": "右耳",
+      "Center Tab": "中央インジケーター",
+      "Decimal Tab": "動物の屠殺",
+      "Bar Tab": "コミルヴィ",
+      "Move Table Column": "テーブルの列を移動する"
     },
     "documenteditorcontainer": {
       "New": "新着",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "代替テキスト",
       "The address of this site is not valid. Check the address and try again.": "このサイトのアドレスは無効です。",
       "OK": "わかりました",
-      "Information": "情報"
+      "Information": "情報",
+      "Spelling": "何でもありません",
+      "Link to Previous": "前のリンク",
+      "Link to PreviousTooltip": "このセクションを前のセクションのヘッダーまたはフッターにリンクします",
+      "Page Breaks": "ページの最後に",
+      "Section Breaks": "この部門は崩壊しました",
+      "Column": "これを共有",
+      "Next Page": "次のページ",
+      "Continuous": "仕事"
     },
     "carousel": {
       "nextSlide": "次のスライド",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "ドロップされたファイルはサポートされていません。",
       "Yes": "はい",
       "No": "いいえ",
-      "DropText": "ここに画像をドロップするか、"
+      "DropText": "ここに画像をドロップするか、",
+      "ImageErrorDialogHeader": "画像選択エラー",
+      "ImageErrorDialogContent": "開きたい画像を選択するだけです。",
+      "Straighten": "期限を守る",
+      "NoOutline": "輪郭が無い",
+      "Clone": "比喩",
+      "Delete": "破壊する"
     },
     "mention": {
       "noRecordsTemplate": "レコードが見つかりません"

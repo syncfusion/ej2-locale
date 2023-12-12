@@ -168,7 +168,8 @@
       "no": "Ne",
       "close": "Zavřít",
       "noCard": "Žádné karty k zobrazení",
-      "unassigned": "Nepřiřazeno"
+      "unassigned": "Nepřiřazeno",
+      "cards": "karty"
     },
     "dropdowns": {
       "noRecordsTemplate": "Nenalezeny žádné záznamy",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Zjistili jsme, že jste zadali vzorec s nesprávným počtem argumentů.",
       "Requires3Arguments": "Zjistili jsme, že jste zadali vzorec, který vyžaduje 3 argumenty.",
       "MismatchedStringQuotes": "Zjistili jsme, že jste zadali vzorec s nesprávnými uvozovkami.",
-      "FormulaCircularRef": "Zjistili jsme, že jste zadali vzorec s kruhovým odkazem."
+      "FormulaCircularRef": "Zjistili jsme, že jste zadali vzorec s kruhovým odkazem.",
+      "LOOKUP": "Vyhledá hodnotu v rozsahu jednoho řádku nebo jednoho sloupce a poté vrátí hodnotu ze stejné pozice v druhém rozsahu jednoho řádku nebo jednoho sloupce.",
+      "HLOOKUP": "Najde hodnotu v horním řádku pole hodnot a poté vrátí hodnotu ve stejném sloupci řádku v poli, které zadáte.",
+      "VLOOKUP": "Vyhledá zadanou hodnotu v prvním sloupci rozsahu hledání a vrátí odpovídající hodnotu z jiného sloupce ve stejném řádku.",
+      "NOT": "Vrátí inverzní hodnotu zadaného logického výrazu.",
+      "EOMONTH": "Vrátí poslední den měsíce, který představuje zadaný počet měsíců před nebo po počátečním datu uvedeném na začátku.",
+      "SQRT": "Vrátí druhou odmocninu kladného čísla.",
+      "ROUNDDOWN": "Zaokrouhlí číslo dolů směrem k nule.",
+      "RSQ": "Vrátí druhou mocninu okamžitého korelačního koeficientu Pearsonova součinu na základě datových bodů ve známých_y a známých_x.",
+      "ExternalWorkbook": "Importovaný soubor Excel obsahuje odkaz na externí sešit."
     },
     "filemanager": {
       "NewFolder": "Nová složka",
@@ -2564,7 +2574,39 @@
       "Left and right margins": "Nastavení, která jste zvolili pro levý a pravý okraj, mezery mezi sloupci nebo odsazení odstavce, jsou příliš velká na šířku stránky ve stejných sekcích.",
       "Number of rows must be between 1 and 32767.": "Počet řádků musí být mezi 1 a 32767.",
       "Number of columns must be between 1 and 63.": "Počet sloupců musí být mezi 1 a 63.",
-      "You may format text only with certain styles": "Text můžete formátovat pouze pomocí určitých stylů."
+      "You may format text only with certain styles": "Text můžete formátovat pouze pomocí určitých stylů.",
+      "Apply": "Progresivní",
+      "Decimal": "Desetinné číslo",
+      "Bar": "zátaras",
+      "Leader": "Vůdce",
+      "Tab": "Nezaplacená faktura",
+      "BookMarkList": "Seznam záložek v dokumentu",
+      "TabMarkList": "Seznam zarážek tabulátoru v odstavci",
+      "Tab stop position": "Poloha zarážky tabulátoru",
+      "Default tab stops": "Výchozí karty",
+      "Tab stops to be cleared": "Karty k vymazání",
+      "Tabs": "Okna karet",
+      "Set": "najímání",
+      "Clear": "Průhledná",
+      "Clear All": "Smazat všechny",
+      "Move From": "Jít z",
+      "Move To": "Přenést do",
+      "Notes Options": "Možnosti poznámek",
+      "Paste Content CheckBox": "Už se neukazuj",
+      "Left Indent": "Levá odrážka",
+      "Right Indent": "Pravá odrážka",
+      "Hanging Indent": "Závěsné odsazení",
+      "First Line Indent": "První je odsazení řádku",
+      "Left Margin": "Levý okraj",
+      "Right Margin": "Pravý okraj",
+      "Top Margin": "Horní okraj",
+      "Bottom Margin": "Spodní okraj",
+      "Left Tab": "Levá záložka",
+      "Right Tab": "Pravá záložka",
+      "Center Tab": "Centrální záložka",
+      "Decimal Tab": "Desítková karta",
+      "Bar Tab": "Panel karet",
+      "Move Table Column": "Přesunout sloupec tabulky"
     },
     "documenteditorcontainer": {
       "New": "Nový",
@@ -2745,7 +2787,15 @@
       "Alternate Text": "Alternativní text",
       "The address of this site is not valid. Check the address and try again.": "Adresa tohoto webu není platná. ",
       "OK": "OK",
-      "Information": "Informace"
+      "Information": "Informace",
+      "Spelling": "Pravopis",
+      "Link to Previous": "Odkaz na předchozí",
+      "Link to PreviousTooltip": "Propojte tuto sekci se záhlavím nebo zápatím předchozí sekce",
+      "Page Breaks": "Konce stránek",
+      "Section Breaks": "Přestávky oddílů",
+      "Column": "sloupec",
+      "Next Page": "Další stránka",
+      "Continuous": "kontinuální"
     },
     "carousel": {
       "nextSlide": "Další snímek",
@@ -2879,7 +2929,13 @@
       "AlertDialogContent": "Zahozený soubor není podporován.",
       "Yes": "Ano",
       "No": "Ne",
-      "DropText": "Sem vložte svůj obrázek nebo"
+      "DropText": "Sem vložte svůj obrázek nebo",
+      "ImageErrorDialogHeader": "Chyba při výběru obrázku",
+      "ImageErrorDialogContent": "Vyberte prosím pouze jeden obrázek k otevření.",
+      "Straighten": "souhlas",
+      "NoOutline": "Žádné obrysy",
+      "Clone": "klonování",
+      "Delete": "vytřít"
     },
     "mention": {
       "noRecordsTemplate": "Nenalezeny žádné záznamy"

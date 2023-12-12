@@ -168,7 +168,8 @@
       "no": "لا",
       "close": "قريب",
       "noCard": "لا توجد بطاقات لعرضها",
-      "unassigned": "غير معين"
+      "unassigned": "غير معين",
+      "cards": "بطاقات"
     },
     "dropdowns": {
       "noRecordsTemplate": "لا توجد سجلات",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "لقد اكتشفنا أنك قمت بكتابة صيغة تحتوي على عدد خاطئ من الوسائط.",
       "Requires3Arguments": "لقد وجدنا أنك كتبت صيغة تتطلب 3 وسائط.",
       "MismatchedStringQuotes": "لقد اكتشفنا أنك كتبت صيغة تحتوي على علامات اقتباس غير متطابقة.",
-      "FormulaCircularRef": "لقد وجدنا أنك كتبت صيغة بمرجع دائري."
+      "FormulaCircularRef": "لقد وجدنا أنك كتبت صيغة بمرجع دائري.",
+      "LOOKUP": "يبحث عن قيمة في نطاق من صف واحد أو عمود واحد، ثم يُرجع قيمة من نفس الموضع في نطاق ثانٍ من صف واحد أو عمود واحد.",
+      "HLOOKUP": "يبحث عن قيمة في الصف العلوي من صفيف القيم ثم يُرجع قيمة في نفس العمود من صف في الصفيف الذي تحدده.",
+      "VLOOKUP": "يبحث عن قيمة محددة في العمود الأول من نطاق البحث ويعيد القيمة المقابلة من عمود مختلف داخل نفس الصف.",
+      "NOT": "إرجاع معكوس التعبير المنطقي المحدد.",
+      "EOMONTH": "إرجاع اليوم الأخير من الشهر الذي يمثل عددًا محددًا من الأشهر قبل أو بعد تاريخ البدء المقدم في البداية.",
+      "SQRT": "إرجاع الجذر التربيعي لعدد موجب.",
+      "ROUNDDOWN": "لتقريب رقم للأسفل باتجاه الصفر.",
+      "RSQ": "إرجاع مربع معامل الارتباط اللحظي لمنتج Pearson استنادًا إلى نقاط البيانات فيknown_y's وknown_x's.",
+      "ExternalWorkbook": "يحتوي ملف Excel المستورد على مرجع مصنف خارجي."
     },
     "filemanager": {
       "NewFolder": "ملف جديد",
@@ -2566,7 +2576,39 @@
       "Left and right margins": "الإعدادات التي اخترتها للهوامش اليمنى واليسرى، أو تباعد الأعمدة، أو المسافات البادئة للرسم البياني كبيرة جدًا بالنسبة لعرض الصفحة في نفس الأقسام.",
       "Number of rows must be between 1 and 32767.": "يجب أن يكون عدد الصفوف بين 1 و32767.",
       "Number of columns must be between 1 and 63.": "يجب أن يتراوح عدد الأعمدة بين 1 و63.",
-      "You may format text only with certain styles": "لا يجوز لك تنسيق النص إلا باستخدام أنماط معينة."
+      "You may format text only with certain styles": "لا يجوز لك تنسيق النص إلا باستخدام أنماط معينة.",
+      "Apply": "يتقدم",
+      "Decimal": "عدد عشري",
+      "Bar": "حاجِز",
+      "Leader": "قائد",
+      "Tab": "فاتورة غير مدفوعة",
+      "BookMarkList": "قائمة الإشارات المرجعية في المستند",
+      "TabMarkList": "قائمة علامات الجدولة في الفقرة",
+      "Tab stop position": "موضع توقف علامة التبويب",
+      "Default tab stops": "علامات التبويب الافتراضية",
+      "Tab stops to be cleared": "علامات التبويب المراد مسحها",
+      "Tabs": "نوافذ التبويب",
+      "Set": "تعيين",
+      "Clear": "واضح",
+      "Clear All": "امسح الكل",
+      "Move From": "انتقل من",
+      "Move To": "الانتقال إلى",
+      "Notes Options": "خيارات الملاحظات",
+      "Paste Content CheckBox": "لا تظهر مرة أخرى",
+      "Left Indent": "المسافة البادئة اليسرى",
+      "Right Indent": "المسافة البادئة اليمنى",
+      "Hanging Indent": "المسافة البادئة المعلقة",
+      "First Line Indent": "الأولى المسافة البادئة للسطر",
+      "Left Margin": "الهامش الأيسر",
+      "Right Margin": "الهامش الأيمن",
+      "Top Margin": "الهامش العلوي",
+      "Bottom Margin": "الهامش السفلي",
+      "Left Tab": "علامة التبويب اليسرى",
+      "Right Tab": "علامة التبويب اليمنى",
+      "Center Tab": "علامة التبويب المركزية",
+      "Decimal Tab": "علامة التبويب العشرية",
+      "Bar Tab": "شريط التبويب",
+      "Move Table Column": "نقل عمود الجدول"
     },
     "documenteditorcontainer": {
       "New": "جديد",
@@ -2747,7 +2789,15 @@
       "Alternate Text": "نص بديل",
       "The address of this site is not valid. Check the address and try again.": "عنوان هذا الموقع غير صالح. ",
       "OK": "نعم",
-      "Information": "معلومة"
+      "Information": "معلومة",
+      "Spelling": "الإملائية",
+      "Link to Previous": "رابط إلى السابق",
+      "Link to PreviousTooltip": "اربط هذا القسم برأس أو تذييل القسم السابق",
+      "Page Breaks": "فواصل الصفحة",
+      "Section Breaks": "فواصل القسم",
+      "Column": "عمود",
+      "Next Page": "الصفحة التالية",
+      "Continuous": "مستمر"
     },
     "carousel": {
       "nextSlide": "الشريحة التالية",
@@ -2881,7 +2931,13 @@
       "AlertDialogContent": "الملف المسقط غير مدعوم.",
       "Yes": "نعم",
       "No": "لا",
-      "DropText": "قم بإسقاط صورتك هنا أو"
+      "DropText": "قم بإسقاط صورتك هنا أو",
+      "ImageErrorDialogHeader": "خطأ في اختيار الصورة",
+      "ImageErrorDialogContent": "الرجاء تحديد صورة واحدة فقط لفتحها.",
+      "Straighten": "موافقة",
+      "NoOutline": "لا الخطوط العريضة",
+      "Clone": "استنساخ",
+      "Delete": "يمسح"
     },
     "mention": {
       "noRecordsTemplate": "لا توجد سجلات"

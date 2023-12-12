@@ -168,7 +168,8 @@
       "no": "Ingen",
       "close": "Tæt",
       "noCard": "Ingen kort at vise",
-      "unassigned": "Ikke tildelt"
+      "unassigned": "Ikke tildelt",
+      "cards": "kort"
     },
     "dropdowns": {
       "noRecordsTemplate": "Ingen poster fundet",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Vi fandt ud af, at du har indtastet en formel med et forkert antal argumenter.",
       "Requires3Arguments": "Vi fandt ud af, at du har indtastet en formel, som kræver 3 argumenter.",
       "MismatchedStringQuotes": "Vi fandt ud af, at du har indtastet en formel med uoverensstemmende anførselstegn.",
-      "FormulaCircularRef": "Vi fandt ud af, at du har skrevet en formel med en cirkulær reference."
+      "FormulaCircularRef": "Vi fandt ud af, at du har skrevet en formel med en cirkulær reference.",
+      "LOOKUP": "Finder en værdi i et område med én række eller én kolonne og returnerer derefter en værdi fra den samme position i et område på én række eller én kolonne.",
+      "HLOOKUP": "Finder værdien i den øverste række af arrayet af værdier og returnerer derefter værdien i den samme kolonne i rækken i arrayet, som du angiver.",
+      "VLOOKUP": "Søger efter den angivne værdi i den første kolonne i søgeområdet og returnerer en matchende værdi fra en anden kolonne i samme række.",
+      "NOT": "Returnerer det inverse af det angivne logiske udtryk.",
+      "EOMONTH": "Returnerer den sidste dag i måneden, der er det angivne antal måneder før eller efter startdatoen angivet i begyndelsen.",
+      "SQRT": "Returnerer kvadratroden af ​​et positivt tal.",
+      "ROUNDDOWN": "Runder tallet ned mod nul.",
+      "RSQ": "Returnerer kvadratet af den øjeblikkelige Pearson-produktkorrelationskoefficient baseret på datapunkterne i kendt_y og kendt_x.",
+      "ExternalWorkbook": "Den importerede Excel-fil indeholder et link til en ekstern projektmappe."
     },
     "filemanager": {
       "NewFolder": "Ny mappe",
@@ -2564,7 +2574,39 @@
       "Left and right margins": "Indstillinger, du har valgt for venstre og højre margen, spalteafstand eller afsnitsindrykninger, er for store til sidebredden i samme afsnit.",
       "Number of rows must be between 1 and 32767.": "Antallet af rækker skal være mellem 1 og 32767.",
       "Number of columns must be between 1 and 63.": "Antallet af kolonner skal være mellem 1 og 63.",
-      "You may format text only with certain styles": "Du må kun formatere tekst med bestemte stilarter."
+      "You may format text only with certain styles": "Du må kun formatere tekst med bestemte stilarter.",
+      "Apply": "Progressiv",
+      "Decimal": "Decimal",
+      "Bar": "vejspærring",
+      "Leader": "Leder",
+      "Tab": "Ubetalt faktura",
+      "BookMarkList": "En liste over bogmærker i et dokument",
+      "TabMarkList": "En liste over tabulatorstop i et afsnit",
+      "Tab stop position": "Tabstopposition",
+      "Default tab stops": "Standardkort",
+      "Tab stops to be cleared": "Kort der skal ryddes",
+      "Tabs": "Fanevinduer",
+      "Set": "rekruttering",
+      "Clear": "Gennemsigtig",
+      "Clear All": "Slet alt",
+      "Move From": "Gå fra",
+      "Move To": "Overfør til",
+      "Notes Options": "Bemærk muligheder",
+      "Paste Content CheckBox": "Mød ikke op mere",
+      "Left Indent": "Venstre kugle",
+      "Right Indent": "Højre punktum",
+      "Hanging Indent": "Hængende offset",
+      "First Line Indent": "Den første er linjeindrykning",
+      "Left Margin": "Venstre kant",
+      "Right Margin": "Højre kant",
+      "Top Margin": "Øverste kant",
+      "Bottom Margin": "Nederste kant",
+      "Left Tab": "Venstre fane",
+      "Right Tab": "Højre fane",
+      "Center Tab": "Centralt bogmærke",
+      "Decimal Tab": "Tiere kort",
+      "Bar Tab": "Gummi panel",
+      "Move Table Column": "Flyt en tabelkolonne"
     },
     "documenteditorcontainer": {
       "New": "Ny",
@@ -2745,7 +2787,15 @@
       "Alternate Text": "Alternativ tekst",
       "The address of this site is not valid. Check the address and try again.": "Adressen på dette websted er ikke gyldig. ",
       "OK": "Okay",
-      "Information": "Information"
+      "Information": "Information",
+      "Spelling": "Stavning",
+      "Link to Previous": "Link til tidligere",
+      "Link to PreviousTooltip": "Knyt dette afsnit til sidehovedet eller sidefoden i det forrige afsnit",
+      "Page Breaks": "Sidernes slutning",
+      "Section Breaks": "Division går i stykker",
+      "Column": "kolonne",
+      "Next Page": "Næste side",
+      "Continuous": "sammenhængende"
     },
     "carousel": {
       "nextSlide": "Næste slide",
@@ -2879,7 +2929,13 @@
       "AlertDialogContent": "Den tabte fil understøttes ikke.",
       "Yes": "Ja",
       "No": "Ingen",
-      "DropText": "Smid dit billede her eller"
+      "DropText": "Smid dit billede her eller",
+      "ImageErrorDialogHeader": "Fejl ved valg af billede",
+      "ImageErrorDialogContent": "Vælg kun ét billede for at åbne.",
+      "Straighten": "aftale",
+      "NoOutline": "Ingen konturer",
+      "Clone": "kloning",
+      "Delete": "udrydde"
     },
     "mention": {
       "noRecordsTemplate": "Ingen registreringer fundet"
