@@ -116,7 +116,8 @@
       "no": "Nei",
       "close": "Loka",
       "noCard": "Engin kort til að sýna",
-      "unassigned": "Óúthlutað"
+      "unassigned": "Óúthlutað",
+      "cards": "kart"
     },
     "dropdowns": {
       "noRecordsTemplate": "Engar færslur fundust",
@@ -714,7 +715,16 @@
       "WrongNumberOfArguments": "Við komumst að því að þú slóst inn formúlu með röngum fjölda frumbreyta.",
       "Requires3Arguments": "Við komumst að því að þú slóst inn formúlu sem krefst 3 rök.",
       "MismatchedStringQuotes": "Við komumst að því að þú slóst inn formúlu með gæsalappum sem ekki passa.",
-      "FormulaCircularRef": "Við komumst að því að þú slóst inn formúlu með hringlaga tilvísun."
+      "FormulaCircularRef": "Við komumst að því að þú slóst inn formúlu með hringlaga tilvísun.",
+      "LOOKUP": "Finnur gildi í línu- eða dálkasviði og skilar gildinu í sömu stöðu í línu- eða dálkasviðinu.",
+      "HLOOKUP": "Finnur gildið í efstu röð gildistöflunnar og skilar gildinu í sama dálki og töflulínan sem þú tilgreinir.",
+      "VLOOKUP": "Finnur tilgreint gildi í fyrsta dálki leitarsviðsins og skilar samsvarandi gildi í öðrum dálki línunnar.",
+      "NOT": "Skilar andhverfu tilgreindrar Boolean tjáningar.",
+      "EOMONTH": "Skilar síðasta degi mánaðarins sem samsvarar tilgreindum fjölda mánaða fyrir eða eftir upphaflega tilgreinda upphafsdagsetningu.",
+      "SQRT": "Skilar kvaðratrót af jákvæðri tölu.",
+      "ROUNDDOWN": "Rundaðu töluna að núll.",
+      "RSQ": "Skilar fylgnistuðli Pearson vörustundar í öðru veldi byggt á þekktum_y og þekktum_x gagnapunktum.",
+      "ExternalWorkbook": "Innflutta Excel skráin inniheldur tengla á ytri vinnubækur."
     },
     "filemanager": {
       "NewFolder": "Ný mappa",
@@ -2387,7 +2397,39 @@
       "Left and right margins": "Stillingar sem þú valdir fyrir vinstri og hægri spássíur, dálkabil eða innskot efnisgreinar eru of stórar fyrir síðubreiddina í sömu hlutum.",
       "Number of rows must be between 1 and 32767.": "Fjöldi lína verður að vera á milli 1 og 32767.",
       "Number of columns must be between 1 and 63.": "Fjöldi dálka verður að vera á milli 1 og 63.",
-      "You may format text only with certain styles": "Þú getur aðeins sniðið texta með ákveðnum stílum."
+      "You may format text only with certain styles": "Þú getur aðeins sniðið texta með ákveðnum stílum.",
+      "Apply": "Hægt og rólega",
+      "Decimal": "með einum aukastaf",
+      "Bar": "Fræ",
+      "Leader": "Kerfisstjóri",
+      "Tab": "Ógreiddir reikningar",
+      "BookMarkList": "Listi yfir bókamerki skjala.",
+      "TabMarkList": "Listaðu síður í einni málsgrein.",
+      "Tab stop position": "disksvæði",
+      "Default tab stops": "Venjulegur go-kart",
+      "Tab stops to be cleared": "Skiptanleg kort",
+      "Tabs": "flipa glugga",
+      "Set": "nota",
+      "Clear": "gagnsæ",
+      "Clear All": "fjarlægja allt",
+      "Move From": "frá",
+      "Move To": "Reiður",
+      "Notes Options": "Athugaðu valmöguleika",
+      "Paste Content CheckBox": "Ekki kynna þig aftur",
+      "Left Indent": "Samskiptasvið",
+      "Right Indent": "Rétt námskeið",
+      "Hanging Indent": "Allir hafa hlutverki að gegna",
+      "First Line Indent": "Hið fyrsta er ferill línunnar.",
+      "Left Margin": "vinstra hornið",
+      "Right Margin": "betur vel",
+      "Top Margin": "höfuð",
+      "Bottom Margin": "kveikja",
+      "Left Tab": "vinstra eyra",
+      "Right Tab": "hægra eyra",
+      "Center Tab": "miðlægur vísir",
+      "Decimal Tab": "Dýraslátrun",
+      "Bar Tab": "Comilvi",
+      "Move Table Column": "Færa töfludálka"
     },
     "documenteditorcontainer": {
       "New": "Nýtt",
@@ -2568,7 +2610,15 @@
       "Alternate Text": "Varatexti",
       "The address of this site is not valid. Check the address and try again.": "Heimilisfang þessarar síðu er ekki gilt. ",
       "OK": "Allt í lagi",
-      "Information": "Upplýsingar"
+      "Information": "Upplýsingar",
+      "Spelling": "það er ekki neitt",
+      "Link to Previous": "Fyrri hlekkur",
+      "Link to PreviousTooltip": "Tengdu þennan hluta við hausinn eða fótinn á fyrri hlutanum",
+      "Page Breaks": "aftast á síðunni",
+      "Section Breaks": "Þessi deild hrundi",
+      "Column": "Deildu þessu",
+      "Next Page": "næsta síða",
+      "Continuous": "viðskipti"
     },
     "carousel": {
       "nextSlide": "Næsta glæra",
@@ -2702,7 +2752,13 @@
       "AlertDialogContent": "Skráin sem var sleppt er ekki studd.",
       "Yes": "Já",
       "No": "Nei",
-      "DropText": "Slepptu myndinni þinni hér eða"
+      "DropText": "Slepptu myndinni þinni hér eða",
+      "ImageErrorDialogHeader": "Villa við að velja mynd",
+      "ImageErrorDialogContent": "Veldu bara myndina sem þú vilt opna.",
+      "Straighten": "ná frestinum",
+      "NoOutline": "Það er engin útlína",
+      "Clone": "Svipað",
+      "Delete": "að eyðileggja"
     },
     "mention": {
       "noRecordsTemplate": "Engar færslur fundust"

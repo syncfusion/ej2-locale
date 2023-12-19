@@ -168,7 +168,8 @@
       "no": "No",
       "close": "Vicino",
       "noCard": "Nessuna scheda da visualizzare",
-      "unassigned": "Non assegnato"
+      "unassigned": "Non assegnato",
+      "cards": "kart"
     },
     "dropdowns": {
       "noRecordsTemplate": "Nessun record trovato",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Abbiamo scoperto che hai digitato una formula con un numero errato di argomenti.",
       "Requires3Arguments": "Abbiamo scoperto che hai digitato una formula che richiede 3 argomenti.",
       "MismatchedStringQuotes": "Abbiamo scoperto che hai digitato una formula con virgolette non corrispondenti.",
-      "FormulaCircularRef": "Abbiamo scoperto che hai digitato una formula con un riferimento circolare."
+      "FormulaCircularRef": "Abbiamo scoperto che hai digitato una formula con un riferimento circolare.",
+      "LOOKUP": "Trova un valore in un intervallo di righe o colonne e restituisce il valore nella stessa posizione nell'intervallo di righe o colonne.",
+      "HLOOKUP": "Trova il valore nella riga superiore della tabella dei valori e restituisce il valore nella stessa colonna della riga della tabella specificata.",
+      "VLOOKUP": "Trova il valore specificato nella prima colonna dell'intervallo di ricerca e restituisce il valore corrispondente nella seconda colonna della riga.",
+      "NOT": "Restituisce l'inverso dell'espressione booleana specificata.",
+      "EOMONTH": "Restituisce l'ultimo giorno del mese corrispondente al numero specificato di mesi prima o dopo la data di inizio originariamente specificata.",
+      "SQRT": "Restituisce la radice quadrata di un numero positivo.",
+      "ROUNDDOWN": "Arrotondare il numero a zero.",
+      "RSQ": "Restituisce il coefficiente di correlazione del momento del prodotto Pearson quadrato in base ai punti dati y_noto e x_noto.",
+      "ExternalWorkbook": "Il file Excel importato contiene collegamenti a cartelle di lavoro esterne."
     },
     "filemanager": {
       "NewFolder": "Nuova cartella",
@@ -2566,7 +2576,39 @@
       "Number of rows must be between 1 and 32767.": "Il numero di righe deve essere compreso tra 1 e 32767.",
       "Number of columns must be between 1 and 63.": "Il numero di colonne deve essere compreso tra 1 e 63.",
       "You may format text only with certain styles": "Puoi formattare il testo solo con determinati stili.",
-      "Ignore all": "Ignora tutto"
+      "Ignore all": "Ignora tutto",
+      "Apply": "Lento e facile",
+      "Decimal": "con una cifra decimale",
+      "Bar": "Semi",
+      "Leader": "Gestore di sistema",
+      "Tab": "Fatture non pagate",
+      "BookMarkList": "Elenco dei documenti contrassegnati.",
+      "TabMarkList": "Elenca le pagine in un paragrafo.",
+      "Tab stop position": "zona del disco",
+      "Default tab stops": "Un normale go-kart",
+      "Tab stops to be cleared": "Carte intercambiabili",
+      "Tabs": "finestra della scheda",
+      "Set": "utilizzo",
+      "Clear": "trasparente",
+      "Clear All": "Rimuovi tutto",
+      "Move From": "da",
+      "Move To": "Arrabbiato",
+      "Notes Options": "Controlla le opzioni",
+      "Paste Content CheckBox": "Non presentarti più",
+      "Left Indent": "Campo della comunicazione",
+      "Right Indent": "Il corso giusto",
+      "Hanging Indent": "Ognuno ha un ruolo da svolgere",
+      "First Line Indent": "Il primo è la curva della linea.",
+      "Left Margin": "l'angolo sinistro",
+      "Right Margin": "meglio bene",
+      "Top Margin": "Testa",
+      "Bottom Margin": "accendere",
+      "Left Tab": "orecchio sinistro",
+      "Right Tab": "orecchio destro",
+      "Center Tab": "indicatore centrale",
+      "Decimal Tab": "Macellazione di animali",
+      "Bar Tab": "Comilvi",
+      "Move Table Column": "Sposta le colonne della tabella"
     },
     "documenteditorcontainer": {
       "New": "Nuovo",
@@ -2747,7 +2789,15 @@
       "Alternate Text": "Testo alternato",
       "The address of this site is not valid. Check the address and try again.": "L'indirizzo di questo sito non è valido. ",
       "OK": "OK",
-      "Information": "Informazione"
+      "Information": "Informazione",
+      "Spelling": "Non è niente",
+      "Link to Previous": "Collegamento precedente",
+      "Link to PreviousTooltip": "Collega questa sezione all'intestazione o al piè di pagina della sezione precedente",
+      "Page Breaks": "alla fine della pagina",
+      "Section Breaks": "Questo dipartimento è crollato",
+      "Column": "Condividi questo",
+      "Next Page": "pagina successiva",
+      "Continuous": "Attività commerciale"
     },
     "carousel": {
       "nextSlide": "Prossima diapositiva",
@@ -2881,7 +2931,13 @@
       "AlertDialogContent": "Il file rilasciato non è supportato.",
       "Yes": "SÌ",
       "No": "NO",
-      "DropText": "Rilascia la tua immagine qui o"
+      "DropText": "Rilascia la tua immagine qui o",
+      "ImageErrorDialogHeader": "Errore nella selezione dell'immagine",
+      "ImageErrorDialogContent": "Seleziona semplicemente l'immagine che desideri aprire.",
+      "Straighten": "rispettare la scadenza",
+      "NoOutline": "Non c'è alcun contorno",
+      "Clone": "Simile",
+      "Delete": "distruggere"
     },
     "mention": {
       "noRecordsTemplate": "Nessun record trovato"

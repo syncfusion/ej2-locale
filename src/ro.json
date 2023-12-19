@@ -168,7 +168,8 @@
       "no": "Nu",
       "close": "Închide",
       "noCard": "Fără cărți de afișat",
-      "unassigned": "Neatribuit"
+      "unassigned": "Neatribuit",
+      "cards": "cart"
     },
     "dropdowns": {
       "noRecordsTemplate": "Nu au fost găsite",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Am descoperit că ați introdus o formulă cu un număr greșit de argumente.",
       "Requires3Arguments": "Am descoperit că ați introdus o formulă care necesită 3 argumente.",
       "MismatchedStringQuotes": "Am descoperit că ați introdus o formulă cu ghilimele nepotrivite.",
-      "FormulaCircularRef": "Am descoperit că ați introdus o formulă cu o referință circulară."
+      "FormulaCircularRef": "Am descoperit că ați introdus o formulă cu o referință circulară.",
+      "LOOKUP": "Găsește o valoare într-un interval de rânduri sau coloane și returnează o valoare în aceeași locație într-un interval de rânduri sau coloane.",
+      "HLOOKUP": "Găsește o valoare în rândul de sus al unui tabel de valori și returnează o valoare în aceeași coloană cu rândul specificat al tabelului.",
+      "VLOOKUP": "Găsește valoarea specificată în prima coloană a intervalului de căutare și returnează valoarea corespunzătoare în a doua coloană a rândului.",
+      "NOT": "Returnează inversul expresiei logice specificate.",
+      "EOMONTH": "Returnează ultima zi a lunii înainte și după un anumit număr de luni de la prima dată de începere specificată.",
+      "SQRT": "Returnează rădăcina pătrată a unui număr pozitiv.",
+      "ROUNDDOWN": "Rotunjiți numărul la 0.",
+      "RSQ": "Returnează coeficientul de corelație al momentului produs Pearson la pătrat pe baza punctelor de date cunoscute_y și cunoscute_x.",
+      "ExternalWorkbook": "Fișierul Excel importat conține link-uri către registre de lucru externe."
     },
     "filemanager": {
       "NewFolder": "Dosar nou",
@@ -2566,7 +2576,39 @@
       "Number of rows must be between 1 and 32767.": "Numărul de rânduri trebuie să fie între 1 și 32767.",
       "Number of columns must be between 1 and 63.": "Numărul de coloane trebuie să fie între 1 și 63.",
       "You may format text only with certain styles": "Puteți formata textul numai cu anumite stiluri.",
-      "Ignore all": "Ignora tot"
+      "Ignore all": "Ignora tot",
+      "Apply": "încet și ușor",
+      "Decimal": "Prima zecimală",
+      "Bar": "jumătate",
+      "Leader": "Administrator de sistem",
+      "Tab": "Facturi restante",
+      "BookMarkList": "Lista documentelor afișate.",
+      "TabMarkList": "Afișează paginile paragrafelor.",
+      "Tab stop position": "Spatiu pe disc",
+      "Default tab stops": "Kartingul este fantastic",
+      "Tab stops to be cleared": "card înlocuibil",
+      "Tabs": "fereastra filei",
+      "Set": "a folosi",
+      "Clear": "telefon",
+      "Clear All": "Curata tot",
+      "Move From": "C",
+      "Move To": "De aceea",
+      "Notes Options": "Verificați opțiunile",
+      "Paste Content CheckBox": "Nu mai apărea.",
+      "Left Indent": "domeniul comunicarii",
+      "Right Indent": "curs corect",
+      "Hanging Indent": "fiecare are un rol",
+      "First Line Indent": "Prima este îndoirea liniei.",
+      "Left Margin": "Yu Zuo",
+      "Right Margin": "Prune de zahăr",
+      "Top Margin": "senzor",
+      "Bottom Margin": "prezentare",
+      "Left Tab": "trăiesc ucho",
+      "Right Tab": "urechea dreapta",
+      "Center Tab": "indicator central",
+      "Decimal Tab": "sacrificarea animalelor",
+      "Bar Tab": "Komil B",
+      "Move Table Column": "Mutarea coloanelor într-un tabel"
     },
     "documenteditorcontainer": {
       "New": "Nou",
@@ -2747,7 +2789,15 @@
       "Alternate Text": "Text alternativ",
       "The address of this site is not valid. Check the address and try again.": "Adresa acestui site nu este valabilă. ",
       "OK": "Bine",
-      "Information": "informație"
+      "Information": "informație",
+      "Spelling": "utilizator",
+      "Link to Previous": "linkul anterior",
+      "Link to PreviousTooltip": "Conectați această secțiune la antetul sau subsolul secțiunii anterioare",
+      "Page Breaks": "la sfârşitul paginii",
+      "Section Breaks": "Acest sector invadează",
+      "Column": "Imparte asta",
+      "Next Page": "pagina următoare",
+      "Continuous": "A munci"
     },
     "carousel": {
       "nextSlide": "Următorul slide",
@@ -2881,7 +2931,13 @@
       "AlertDialogContent": "Fișierul aruncat nu este acceptat.",
       "Yes": "da",
       "No": "Nu",
-      "DropText": "Aruncă imaginea ta aici sau"
+      "DropText": "Aruncă imaginea ta aici sau",
+      "ImageErrorDialogHeader": "Eroare de selectare a imaginii",
+      "ImageErrorDialogContent": "Doar selectați imaginea pe care doriți să o deschideți.",
+      "Straighten": "respectarea termenului limită",
+      "NoOutline": "Nu există nicio prevedere.",
+      "Clone": "metaforă",
+      "Delete": "distruge"
     },
     "mention": {
       "noRecordsTemplate": "Nu au fost găsite"

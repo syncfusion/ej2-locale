@@ -168,7 +168,8 @@
       "no": "Não",
       "close": "Fechar",
       "noCard": "Nenhum card para exibir",
-      "unassigned": "Não atribuído"
+      "unassigned": "Não atribuído",
+      "cards": "carrinho"
     },
     "dropdowns": {
       "noRecordsTemplate": "Nenhum registro foi encontrado",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Descobrimos que você digitou uma fórmula com um número errado de argumentos.",
       "Requires3Arguments": "Descobrimos que você digitou uma fórmula que requer 3 argumentos.",
       "MismatchedStringQuotes": "Descobrimos que você digitou uma fórmula com aspas incompatíveis.",
-      "FormulaCircularRef": "Descobrimos que você digitou uma fórmula com referência circular."
+      "FormulaCircularRef": "Descobrimos que você digitou uma fórmula com referência circular.",
+      "LOOKUP": "Encontra um valor em um intervalo de linhas ou colunas e retorna um valor no mesmo local em um intervalo de linhas ou colunas.",
+      "HLOOKUP": "Encontra um valor na linha superior de uma tabela de valores e retorna um valor na mesma coluna da linha especificada da tabela.",
+      "VLOOKUP": "Encontra o valor especificado na primeira coluna do intervalo de pesquisa e retorna o valor correspondente na segunda coluna da linha.",
+      "NOT": "Retorna o inverso da expressão lógica especificada.",
+      "EOMONTH": "Retorna o último dia do mês antes e depois de um número especificado de meses a partir da primeira data de início especificada.",
+      "SQRT": "Retorna a raiz quadrada de um número positivo.",
+      "ROUNDDOWN": "Arredonde o número para 0.",
+      "RSQ": "Retorna o coeficiente de correlação de momento do produto de Pearson ao quadrado com base nos pontos de dados conhecidos_y e conhecidos_x.",
+      "ExternalWorkbook": "O arquivo Excel importado contém links para pastas de trabalho externas."
     },
     "filemanager": {
       "NewFolder": "Nova pasta",
@@ -2444,7 +2454,39 @@
       "Number of rows must be between 1 and 32767.": "O número de linhas deve estar entre 1 e 32.767.",
       "Number of columns must be between 1 and 63.": "O número de colunas deve estar entre 1 e 63.",
       "You may format text only with certain styles": "Você pode formatar texto apenas com determinados estilos.",
-      "Ignore all": "Ignore tudo"
+      "Ignore all": "Ignore tudo",
+      "Apply": "lenta e facilmente",
+      "Decimal": "A primeira casa decimal",
+      "Bar": "metade",
+      "Leader": "Administrador do sistema",
+      "Tab": "Faturas pendentes",
+      "BookMarkList": "Lista de documentos exibidos.",
+      "TabMarkList": "Mostra páginas de parágrafos.",
+      "Tab stop position": "espaço em disco",
+      "Default tab stops": "Kart fantástico",
+      "Tab stops to be cleared": "cartão substituível",
+      "Tabs": "janela da guia",
+      "Set": "usar",
+      "Clear": "telefone",
+      "Clear All": "Limpar tudo",
+      "Move From": "C",
+      "Move To": "Por isso",
+      "Notes Options": "Verifique as opções",
+      "Paste Content CheckBox": "Não apareça novamente.",
+      "Left Indent": "campo de comunicação",
+      "Right Indent": "curso correto",
+      "Hanging Indent": "todo mundo tem um papel",
+      "First Line Indent": "A primeira é a flexão da linha.",
+      "Left Margin": "Yu Zuo",
+      "Right Margin": "bom Bom",
+      "Top Margin": "sensor",
+      "Bottom Margin": "breve",
+      "Left Tab": "viver ucho",
+      "Right Tab": "orelha direita",
+      "Center Tab": "indicador central",
+      "Decimal Tab": "abate de animais",
+      "Bar Tab": "Komil B",
+      "Move Table Column": "Movendo colunas em uma tabela"
     },
     "documenteditorcontainer": {
       "New": "Novo",
@@ -2625,7 +2667,15 @@
       "Alternate Text": "Texto alternativo",
       "The address of this site is not valid. Check the address and try again.": "O endereço deste site não é válido. ",
       "OK": "OK",
-      "Information": "Informação"
+      "Information": "Informação",
+      "Spelling": "Nick",
+      "Link to Previous": "ligação anterior",
+      "Link to PreviousTooltip": "Vincule esta seção ao cabeçalho ou rodapé da seção anterior",
+      "Page Breaks": "no final da página",
+      "Section Breaks": "Esse setor está invadindo",
+      "Column": "Compartilhar isso",
+      "Next Page": "próxima página",
+      "Continuous": "Trabalhar"
     },
     "carousel": {
       "nextSlide": "Próximo slide",
@@ -2759,7 +2809,13 @@
       "AlertDialogContent": "O arquivo descartado não é compatível.",
       "Yes": "Sim",
       "No": "Não",
-      "DropText": "Deixe sua imagem aqui ou"
+      "DropText": "Deixe sua imagem aqui ou",
+      "ImageErrorDialogHeader": "Erro de seleção de imagem",
+      "ImageErrorDialogContent": "Basta selecionar a imagem que deseja abrir.",
+      "Straighten": "cumprindo o prazo",
+      "NoOutline": "Não há disposição.",
+      "Clone": "metáfora",
+      "Delete": "destruir"
     },
     "mention": {
       "noRecordsTemplate": "Nenhum registro foi encontrado"

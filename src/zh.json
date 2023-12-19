@@ -133,7 +133,7 @@
       "SelectAllCheckbox": "选择全部复选框"
     },
     "pager": {
-      "currentPageInfo": "{0}頁中的{0}頁",
+      "currentPageInfo": "第{0}頁／共{1}頁",
       "totalItemsInfo": "（{0}個項目）",
       "firstPageTooltip": "轉到第一頁",
       "lastPageTooltip": "轉到最後一頁",
@@ -168,7 +168,8 @@
       "no": "沒有",
       "close": "关",
       "noCard": "没有可显示的卡片",
-      "unassigned": "未分配"
+      "unassigned": "未分配",
+      "cards": "运输"
     },
     "dropdowns": {
       "noRecordsTemplate": "沒有找到記錄",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "我们发现您输入的公式参数数量错误。",
       "Requires3Arguments": "我们发现您输入的公式需要 3 个参数。",
       "MismatchedStringQuotes": "我们发现您输入的公式的引号不匹配。",
-      "FormulaCircularRef": "我们发现您输入的公式带有循环引用。"
+      "FormulaCircularRef": "我们发现您输入的公式带有循环引用。",
+      "LOOKUP": "查找一组行或列中的值",
+      "HLOOKUP": "查找值表顶行中的值并返回与指定表行同一列中的值。",
+      "VLOOKUP": "在搜索范围的第一列中搜索指定值。",
+      "NOT": "返回指定布尔表达式的反数。",
+      "EOMONTH": "返回从指定的初始开始日期开始的指定月数之前和之后的月份的最后一天。",
+      "SQRT": "返回正数的平方根。",
+      "ROUNDDOWN": "将数字四舍五入为 0。",
+      "RSQ": "返回基于数据点“known_y”和“known_x”的皮尔逊积矩相关系数的平方。",
+      "ExternalWorkbook": "导入的 Excel 文件包含外部工作簿的链接。"
     },
     "filemanager": {
       "NewFolder": "新建文件夾",
@@ -2568,7 +2578,39 @@
       "Number of columns must be between 1 and 63.": "列数必须介于 1 到 63 之间。",
       "": "The top/bottom margins are too large for the page height in some sections.",
       "You may format text only with certain styles": "您只能使用某些样式来设置文本格式。",
-      "Ignore all": "忽略所有"
+      "Ignore all": "忽略所有",
+      "Apply": "缓慢而轻松",
+      "Decimal": "第一个小数位",
+      "Bar": "和一半",
+      "Leader": "操作",
+      "Tab": "逾期账户",
+      "BookMarkList": "显示文档列表",
+      "TabMarkList": "显示段落页",
+      "Tab stop position": "磁盘空间",
+      "Default tab stops": "卡丁车比赛太棒了。",
+      "Tab stops to be cleared": "补卡",
+      "Tabs": "选项卡窗口",
+      "Set": "使用",
+      "Clear": "电话",
+      "Clear All": "删除所有内容",
+      "Move From": "S",
+      "Move To": "因为",
+      "Notes Options": "查看选项",
+      "Paste Content CheckBox": "他没有再出现。",
+      "Left Indent": "通讯行业",
+      "Right Indent": "正确路线",
+      "Hanging Indent": "每个人都有自己的角色",
+      "First Line Indent": "首先是弯曲线条。",
+      "Left Margin": "玉塔",
+      "Right Margin": "倾倒",
+      "Top Margin": "传感器",
+      "Bottom Margin": "演讲",
+      "Left Tab": "我在你耳边",
+      "Right Tab": "右耳",
+      "Center Tab": "中央屏幕",
+      "Decimal Tab": "死去的动物",
+      "Bar Tab": "卡米尔·B.",
+      "Move Table Column": "移动表中的列"
     },
     "documenteditorcontainer": {
       "New": "新的",
@@ -2749,7 +2791,15 @@
       "Alternate Text": "替代文本",
       "The address of this site is not valid. Check the address and try again.": "该网站的地址无效。",
       "OK": "好的",
-      "Information": "信息"
+      "Information": "信息",
+      "Spelling": "用户",
+      "Link to Previous": "上一个链接",
+      "Link to PreviousTooltip": "将此部分链接到上一部分的页眉或页脚。",
+      "Page Breaks": "在页面底部",
+      "Section Breaks": "这片区域被占领了。",
+      "Column": "分享",
+      "Next Page": "另一张脸",
+      "Continuous": "工作"
     },
     "carousel": {
       "nextSlide": "下一张幻灯片",
@@ -2883,7 +2933,13 @@
       "AlertDialogContent": "不支持删除的文件。",
       "Yes": "是的",
       "No": "不",
-      "DropText": "将您的图片拖放到此处或"
+      "DropText": "将您的图片拖放到此处或",
+      "ImageErrorDialogHeader": "选择图像时出错。",
+      "ImageErrorDialogContent": "只需选择您要打开的图像即可。",
+      "Straighten": "难的",
+      "NoOutline": "不需要",
+      "Clone": "隐喻",
+      "Delete": "破坏"
     },
     "mention": {
       "noRecordsTemplate": "没有找到记录"

@@ -168,7 +168,8 @@
       "no": "Tidak",
       "close": "Menutup",
       "noCard": "Tidak ada kartu untuk ditampilkan",
-      "unassigned": "Belum ditetapkan"
+      "unassigned": "Belum ditetapkan",
+      "cards": "kart"
     },
     "dropdowns": {
       "noRecordsTemplate": "Tidak Ditemukan Catatan",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Kami menemukan bahwa Anda mengetik rumus dengan jumlah argumen yang salah.",
       "Requires3Arguments": "Kami menemukan bahwa Anda mengetikkan rumus yang memerlukan 3 argumen.",
       "MismatchedStringQuotes": "Kami menemukan bahwa Anda mengetikkan rumus dengan tanda kutip yang tidak cocok.",
-      "FormulaCircularRef": "Kami menemukan bahwa Anda mengetikkan rumus dengan referensi melingkar."
+      "FormulaCircularRef": "Kami menemukan bahwa Anda mengetikkan rumus dengan referensi melingkar.",
+      "LOOKUP": "Menemukan nilai dalam rentang baris atau kolom dan mengembalikan nilai pada posisi yang sama dalam rentang baris atau kolom.",
+      "HLOOKUP": "Menemukan nilai di baris atas tabel nilai dan mengembalikan nilai di kolom yang sama dengan baris tabel yang Anda tentukan.",
+      "VLOOKUP": "Menemukan nilai yang ditentukan di kolom pertama rentang pencarian dan mengembalikan nilai yang sesuai di kolom kedua baris.",
+      "NOT": "Mengembalikan kebalikan dari ekspresi boolean yang ditentukan.",
+      "EOMONTH": "Mengembalikan hari terakhir pada bulan yang sesuai dengan jumlah bulan tertentu sebelum atau sesudah tanggal mulai yang ditentukan semula.",
+      "SQRT": "Mengembalikan akar kuadrat dari angka positif.",
+      "ROUNDDOWN": "Bulatkan angkanya menjadi nol.",
+      "RSQ": "Mengembalikan koefisien korelasi momen produk Pearson yang dikuadratkan berdasarkan titik data diketahui_y dan diketahui_x.",
+      "ExternalWorkbook": "File Excel yang diimpor berisi link ke buku kerja eksternal."
     },
     "filemanager": {
       "NewFolder": "Folder baru",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "Jumlah baris harus antara 1 dan 32767.",
       "Number of columns must be between 1 and 63.": "Jumlah kolom harus antara 1 dan 63.",
       "You may format text only with certain styles": "Anda hanya boleh memformat teks dengan gaya tertentu.",
-      "Ignore all": "Abaikan semua"
+      "Ignore all": "Abaikan semua",
+      "Apply": "Perlahan-lahan",
+      "Decimal": "ke satu tempat desimal",
+      "Bar": "Biji",
+      "Leader": "Administrator sistem",
+      "Tab": "Tagihan yang belum dibayar",
+      "BookMarkList": "Daftar penanda dokumen.",
+      "TabMarkList": "Daftar halaman dalam satu paragraf.",
+      "Tab stop position": "daerah disk",
+      "Default tab stops": "Standar go-kart",
+      "Tab stops to be cleared": "Kartu yang dapat dipertukarkan",
+      "Tabs": "jendela tab",
+      "Set": "menggunakan",
+      "Clear": "transparan",
+      "Clear All": "Hapus semua",
+      "Move From": "dari",
+      "Move To": "Marah",
+      "Notes Options": "Opsi catatan",
+      "Paste Content CheckBox": "Jangan perkenalkan dirimu lagi",
+      "Left Indent": "Bola komunikasi",
+      "Right Indent": "Kursus yang tepat",
+      "Hanging Indent": "Setiap orang mempunyai peran untuk dimainkan",
+      "First Line Indent": "Yang pertama adalah lekukan garis.",
+      "Left Margin": "sudut kiri",
+      "Right Margin": "lebih baik dengan baik",
+      "Top Margin": "kepala",
+      "Bottom Margin": "pemicu",
+      "Left Tab": "telinga kiri",
+      "Right Tab": "telinga kanan",
+      "Center Tab": "indikator sentral",
+      "Decimal Tab": "Pembantaian hewan",
+      "Bar Tab": "Comilvi",
+      "Move Table Column": "Pindahkan kolom tabel"
     },
     "documenteditorcontainer": {
       "New": "Baru",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "Teks alternatif",
       "The address of this site is not valid. Check the address and try again.": "Alamat situs ini tidak valid. ",
       "OK": "OKE",
-      "Information": "Informasi"
+      "Information": "Informasi",
+      "Spelling": "tidak ada apa-apa",
+      "Link to Previous": "Tautan sebelumnya",
+      "Link to PreviousTooltip": "Tautkan bagian ini ke header atau footer bagian sebelumnya",
+      "Page Breaks": "di akhir halaman",
+      "Section Breaks": "Perpecahan ini runtuh",
+      "Column": "bagikan ini",
+      "Next Page": "halaman selanjutnya",
+      "Continuous": "bisnis"
     },
     "carousel": {
       "nextSlide": "Slide selanjut nya",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "File yang dijatuhkan tidak didukung.",
       "Yes": "Ya",
       "No": "TIDAK",
-      "DropText": "Letakkan gambar Anda di sini atau"
+      "DropText": "Letakkan gambar Anda di sini atau",
+      "ImageErrorDialogHeader": "Kesalahan memilih gambar",
+      "ImageErrorDialogContent": "Cukup pilih gambar yang ingin Anda buka.",
+      "Straighten": "mencapai batas waktu",
+      "NoOutline": "Tidak ada garis besarnya",
+      "Clone": "Serupa",
+      "Delete": "untuk menghancurkan"
     },
     "mention": {
       "noRecordsTemplate": "Tidak ada catatan yang ditemukan"

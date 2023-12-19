@@ -168,7 +168,8 @@
       "no": "Ne",
       "close": "Zatvoriti",
       "noCard": "Nema kartica za prikaz",
-      "unassigned": "Neraspoređeno"
+      "unassigned": "Neraspoređeno",
+      "cards": "Kart"
     },
     "dropdowns": {
       "noRecordsTemplate": "Nije pronađen niti jedan zapis",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Otkrili smo da ste upisali formulu s pogrešnim brojem argumenata.",
       "Requires3Arguments": "Otkrili smo da ste upisali formulu koja zahtijeva 3 argumenta.",
       "MismatchedStringQuotes": "Otkrili smo da ste upisali formulu s neusklađenim navodnicima.",
-      "FormulaCircularRef": "Otkrili smo da ste upisali formulu s kružnom referencom."
+      "FormulaCircularRef": "Otkrili smo da ste upisali formulu s kružnom referencom.",
+      "LOOKUP": "Pronalazi vrijednost unutar raspona od jednog retka ili stupca, a zatim vraća vrijednost na istoj poziciji unutar raspona od jednog retka ili stupca.",
+      "HLOOKUP": "Pronalazi vrijednost u gornjem retku tablice vrijednosti, a zatim vraća vrijednost u istom stupcu kao redak tablice koji ste naveli.",
+      "VLOOKUP": "Pretražuje navedenu vrijednost u prvom stupcu raspona pretraživanja i vraća odgovarajuću vrijednost u drugom stupcu tog retka.",
+      "NOT": "Vraća suprotno od navedenog logičkog izraza.",
+      "EOMONTH": "Vraća posljednji dan u mjesecu koji odgovara navedenom broju mjeseci prije ili nakon izvorno navedenog početnog datuma.",
+      "SQRT": "Vraća kvadratni korijen pozitivnog broja.",
+      "ROUNDDOWN": "Zaokružite broj na nulu.",
+      "RSQ": "Vraća koeficijent korelacije momenta Pearsonovog proizvoda na kvadrat s obzirom na podatkovne točke known_y i known_x.",
+      "ExternalWorkbook": "Uvezena Excel datoteka sadrži vezu na vanjsku radnu knjigu."
     },
     "filemanager": {
       "NewFolder": "Nova mapa",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "Broj redaka mora biti između 1 i 32767.",
       "Number of columns must be between 1 and 63.": "Broj stupaca mora biti između 1 i 63.",
       "You may format text only with certain styles": "Tekst možete oblikovati samo određenim stilovima.",
-      "Ignore all": "Zanemari sve"
+      "Ignore all": "Zanemari sve",
+      "Apply": "Progresivno",
+      "Decimal": "na jednu decimalu",
+      "Bar": "Fatu",
+      "Leader": "Administratori",
+      "Tab": "Neplaćeni računi",
+      "BookMarkList": "Popis knjižnih oznaka dokumenata.",
+      "TabMarkList": "Popis listova u paragrafu.",
+      "Tab stop position": "mjesto diska",
+      "Default tab stops": "Karting standard",
+      "Tab stops to be cleared": "Izmjenjive kartice",
+      "Tabs": "Prozor s karticama",
+      "Set": "koristiti",
+      "Clear": "transparentan",
+      "Clear All": "Izbriši sve",
+      "Move From": "od",
+      "Move To": "Ljut",
+      "Notes Options": "Mogućnosti bilješke",
+      "Paste Content CheckBox": "Nemoj se više predstavljati",
+      "Left Indent": "Komunikacijska lopta",
+      "Right Indent": "Pravi tečaj",
+      "Hanging Indent": "Rola visi",
+      "First Line Indent": "Prvi je uvlačenje linije.",
+      "Left Margin": "lijevi kut",
+      "Right Margin": "pravi kut",
+      "Top Margin": "glavu",
+      "Bottom Margin": "lukav",
+      "Left Tab": "lijevi jezičak",
+      "Right Tab": "desni jezičak",
+      "Center Tab": "središnji indikator",
+      "Decimal Tab": "Rezanje životinja",
+      "Bar Tab": "Comilvi",
+      "Move Table Column": "Premjesti stupac tablice"
     },
     "documenteditorcontainer": {
       "New": "Novi",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "Zamjenski tekst",
       "The address of this site is not valid. Check the address and try again.": "Adresa ove stranice nije važeća. ",
       "OK": "u redu",
-      "Information": "Informacija"
+      "Information": "Informacija",
+      "Spelling": "nada, nada",
+      "Link to Previous": "Prethodni link",
+      "Link to PreviousTooltip": "Povežite ovaj odjeljak sa zaglavljem ili podnožjem prethodnog odjeljka",
+      "Page Breaks": "na kraju stranica",
+      "Section Breaks": "Podjela se ruši",
+      "Column": "dijeliti",
+      "Next Page": "sljedeća stranica",
+      "Continuous": "poslovanje"
     },
     "carousel": {
       "nextSlide": "Sljedeći slajd",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "Ispuštena datoteka nije podržana.",
       "Yes": "Da",
       "No": "Ne",
-      "DropText": "Ispustite svoju sliku ovdje ili"
+      "DropText": "Ispustite svoju sliku ovdje ili",
+      "ImageErrorDialogHeader": "Pogreška pri odabiru slike",
+      "ImageErrorDialogContent": "Samo odaberite sliku za otvaranje.",
+      "Straighten": "doći do roka",
+      "NoOutline": "Nema obrisa",
+      "Clone": "Sličan",
+      "Delete": "uništiti"
     },
     "mention": {
       "noRecordsTemplate": "Nema pronađenih zapisa"

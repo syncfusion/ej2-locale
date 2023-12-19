@@ -168,7 +168,8 @@
       "no": "Nei",
       "close": "Lukk",
       "noCard": "Ingen kort å vise",
-      "unassigned": "Ikke tildelt"
+      "unassigned": "Ikke tildelt",
+      "cards": "handlekurv"
     },
     "dropdowns": {
       "noRecordsTemplate": "Ingen opptak funnet",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Vi fant ut at du skrev inn en formel med feil antall argumenter.",
       "Requires3Arguments": "Vi fant ut at du skrev inn en formel som krever 3 argumenter.",
       "MismatchedStringQuotes": "Vi fant ut at du skrev inn en formel med anførselstegn som ikke samsvarer.",
-      "FormulaCircularRef": "Vi fant ut at du skrev inn en formel med en sirkulær referanse."
+      "FormulaCircularRef": "Vi fant ut at du skrev inn en formel med en sirkulær referanse.",
+      "LOOKUP": "Finner en verdi i et område med rader eller kolonner og returnerer verdien på samme posisjon i rekke- eller kolonneområdet.",
+      "HLOOKUP": "Finner verdien i den øverste raden i verditabellen og returnerer verdien i samme kolonne på den angitte tabellraden.",
+      "VLOOKUP": "Finner verdien spesifisert i den første kolonnen i søkeområdet og returnerer den tilsvarende verdien i den andre kolonnen i raden.",
+      "NOT": "Returnerer inversen av det angitte boolske uttrykket.",
+      "EOMONTH": "Returnerer den siste dagen i måneden før og etter det angitte antallet måneder fra den første angitte startdatoen.",
+      "SQRT": "Returnerer kvadratroten av et positivt tall.",
+      "ROUNDDOWN": "Avrund tallet til 0.",
+      "RSQ": "Returnerer den kvadrerte Pearson-produktmomentkorrelasjonskoeffisienten basert på kjente_y og kjente_x datapunkter.",
+      "ExternalWorkbook": "Den importerte Excel-filen inneholder lenker til eksterne arbeidsbøker."
     },
     "filemanager": {
       "NewFolder": "Ny mappe",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "Antall rader må være mellom 1 og 32767.",
       "Number of columns must be between 1 and 63.": "Antall kolonner må være mellom 1 og 63.",
       "You may format text only with certain styles": "Du kan kun formatere tekst med visse stiler.",
-      "Ignore all": "Ignorer alt"
+      "Ignore all": "Ignorer alt",
+      "Apply": "sakte og enkelt",
+      "Decimal": "Første plass desimaltegn",
+      "Bar": "halv",
+      "Leader": "Systemadministrator",
+      "Tab": "Forfalte fakturaer",
+      "BookMarkList": "Liste over dokumenter som vises.",
+      "TabMarkList": "Viser avsnittssider.",
+      "Tab stop position": "diskplass",
+      "Default tab stops": "Fantastisk gokart",
+      "Tab stops to be cleared": "utskiftbart kort",
+      "Tabs": "fanevinduet",
+      "Set": "bruk",
+      "Clear": "telus",
+      "Clear All": "slette alle",
+      "Move From": "og",
+      "Move To": "sinne",
+      "Notes Options": "Sjekk alternativene",
+      "Paste Content CheckBox": "Ikke møt opp igjen.",
+      "Left Indent": "kommunikasjonsfelt",
+      "Right Indent": "riktig kurs",
+      "Hanging Indent": "alle har sin egen rolle",
+      "First Line Indent": "Den første er linjebøyning.",
+      "Left Margin": "Yu Zuo",
+      "Right Margin": "bra bra",
+      "Top Margin": "sensor",
+      "Bottom Margin": "liv",
+      "Left Tab": "venstre øre",
+      "Right Tab": "høyre øre",
+      "Center Tab": "sentral indikator",
+      "Decimal Tab": "slakting av dyr",
+      "Bar Tab": "Comil B",
+      "Move Table Column": "Flytt kolonner i en tabell"
     },
     "documenteditorcontainer": {
       "New": "Ny",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "Alternativ tekst",
       "The address of this site is not valid. Check the address and try again.": "Adressen til dette nettstedet er ikke gyldig. ",
       "OK": "OK",
-      "Information": "Informasjon"
+      "Information": "Informasjon",
+      "Spelling": "ingenting",
+      "Link to Previous": "forrige lenke",
+      "Link to PreviousTooltip": "Koble denne delen til topp- eller bunnteksten til forrige del",
+      "Page Breaks": "på slutten av siden",
+      "Section Breaks": "Denne sektoren kollapser",
+      "Column": "dele denne",
+      "Next Page": "neste side",
+      "Continuous": "arbeid"
     },
     "carousel": {
       "nextSlide": "Neste lysbilde",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "Den slettede filen støttes ikke.",
       "Yes": "Ja",
       "No": "Nei",
-      "DropText": "Slipp bildet ditt her eller"
+      "DropText": "Slipp bildet ditt her eller",
+      "ImageErrorDialogHeader": "Bildevalgfeil",
+      "ImageErrorDialogContent": "Bare velg bildet du vil åpne.",
+      "Straighten": "overholde fristen",
+      "NoOutline": "Det er ingen disposisjon.",
+      "Clone": "metafor",
+      "Delete": "ødelegge"
     },
     "mention": {
       "noRecordsTemplate": "Ingen opptak funnet"

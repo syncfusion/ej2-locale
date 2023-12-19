@@ -168,7 +168,8 @@
       "no": "Hayır",
       "close": "Kapat",
       "noCard": "Görüntülenecek kart yok",
-      "unassigned": "Atanmamış"
+      "unassigned": "Atanmamış",
+      "cards": "Ulaşım"
     },
     "dropdowns": {
       "noRecordsTemplate": "Kayıt bulunamadı",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Yanlış sayıda bağımsız değişken içeren bir formül yazdığınızı tespit ettik.",
       "Requires3Arguments": "3 bağımsız değişken gerektiren bir formül yazdığınızı tespit ettik.",
       "MismatchedStringQuotes": "Eşleşmeyen tırnak işaretleri içeren bir formül yazdığınızı tespit ettik.",
-      "FormulaCircularRef": "Dairesel başvuruya sahip bir formül yazdığınızı tespit ettik."
+      "FormulaCircularRef": "Dairesel başvuruya sahip bir formül yazdığınızı tespit ettik.",
+      "LOOKUP": "Bir dizi satır veya sütunda değerleri bulun ",
+      "HLOOKUP": "Değer tablosunun en üst satırındaki değeri bulur ve belirtilen tablo satırıyla aynı sütundaki değeri döndürür.",
+      "VLOOKUP": "Arama aralığının ilk sütununda belirtilen değeri arar. ",
+      "NOT": "Belirtilen Boolean ifadesinin tersini döndürür.",
+      "EOMONTH": "Belirtilen ilk başlangıç ​​tarihinden itibaren, belirtilen sayıda aydan önceki ve sonraki ayın son gününü döndürür.",
+      "SQRT": "Pozitif bir sayının karekökünü döndürür.",
+      "ROUNDDOWN": "Sayıları 0'a yuvarlar.",
+      "RSQ": "\"Bilinen_y\" ve \"bilinen_x\" veri noktalarına dayalı olarak Pearson moment çarpımı korelasyon katsayısının karesini döndürür.",
+      "ExternalWorkbook": "İçe aktarılan Excel dosyası, harici çalışma kitaplarına bağlantılar içerir."
     },
     "filemanager": {
       "NewFolder": "Yeni dosya",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "Satır sayısı 1 ile 32767 arasında olmalıdır.",
       "Number of columns must be between 1 and 63.": "Sütun sayısı 1 ile 63 arasında olmalıdır.",
       "You may format text only with certain styles": "Metni yalnızca belirli stillerle biçimlendirebilirsiniz.",
-      "Ignore all": "Hepsini Yoksay"
+      "Ignore all": "Hepsini Yoksay",
+      "Apply": "yavaş ve kolay",
+      "Decimal": "ilk ondalık basamak",
+      "Bar": "yarım",
+      "Leader": "Yönetici",
+      "Tab": "Vadesi geçmiş hesaplar",
+      "BookMarkList": "Görüntülenen belgelerin listesi",
+      "TabMarkList": "Paragraf sayfasını göster",
+      "Tab stop position": "disk alanı",
+      "Default tab stops": "Kart yarışı muhteşem.",
+      "Tab stops to be cleared": "değiştirme kartı",
+      "Tabs": "Sekme penceresi",
+      "Set": "Kullanım",
+      "Clear": "telefon",
+      "Clear All": "Hepsini sil",
+      "Move From": "S",
+      "Move To": "Çünkü",
+      "Notes Options": "Seçenekleri kontrol et",
+      "Paste Content CheckBox": "Bir daha görünmedi.",
+      "Left Indent": "İletişim sektörü",
+      "Right Indent": "doğru rota",
+      "Hanging Indent": "Herkesin bir rolü var",
+      "First Line Indent": "Birincisi çizgileri bükmek.",
+      "Left Margin": "Yu Zuo",
+      "Right Margin": "şeker erik",
+      "Top Margin": "sensör",
+      "Bottom Margin": "Sunum",
+      "Left Tab": "ben senin kulağındayım",
+      "Right Tab": "sağ kulak",
+      "Center Tab": "Merkezi gösterge",
+      "Decimal Tab": "ölü hayvan",
+      "Bar Tab": "Camille B.",
+      "Move Table Column": "Tablodaki sütunları taşıma"
     },
     "documenteditorcontainer": {
       "New": "Yeni",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "Alternatif yazı",
       "The address of this site is not valid. Check the address and try again.": "Bu sitenin adresi geçerli değil. ",
       "OK": "TAMAM",
-      "Information": "Bilgi"
+      "Information": "Bilgi",
+      "Spelling": "kullanıcı",
+      "Link to Previous": "önceki bağlantı",
+      "Link to PreviousTooltip": "Bu bölümü önceki bölümün üstbilgisine veya altbilgisine bağlayın.",
+      "Page Breaks": "sayfanın sonunda",
+      "Section Breaks": "Bu sektör işgal edildi.",
+      "Column": "Paylaşmak",
+      "Next Page": "Başka bir yüz",
+      "Continuous": "iş"
     },
     "carousel": {
       "nextSlide": "Sonraki slayt",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "Bırakılan dosya desteklenmiyor.",
       "Yes": "Evet",
       "No": "HAYIR",
-      "DropText": "Resminizi buraya bırakın veya"
+      "DropText": "Resminizi buraya bırakın veya",
+      "ImageErrorDialogHeader": "Resim seçilirken bir hata oluştu.",
+      "ImageErrorDialogContent": "Açmak istediğiniz resmi seçmeniz yeterli.",
+      "Straighten": "durum",
+      "NoOutline": "gereklilik yok",
+      "Clone": "metafor",
+      "Delete": "yok etmek"
     },
     "mention": {
       "noRecordsTemplate": "kayıt bulunamadı"

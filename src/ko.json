@@ -168,7 +168,8 @@
       "no": "아니",
       "close": "닫기",
       "noCard": "표시 할 카드가 없습니다.",
-      "unassigned": "할당되지 않음"
+      "unassigned": "할당되지 않음",
+      "cards": "장바구니"
     },
     "dropdowns": {
       "noRecordsTemplate": "기록 없음",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "인수 개수가 잘못된 수식을 입력한 것으로 나타났습니다.",
       "Requires3Arguments": "3개의 인수가 필요한 수식을 입력한 것으로 나타났습니다.",
       "MismatchedStringQuotes": "따옴표가 일치하지 않는 수식을 입력한 것으로 나타났습니다.",
-      "FormulaCircularRef": "순환 참조가 포함된 수식을 입력한 것으로 나타났습니다."
+      "FormulaCircularRef": "순환 참조가 포함된 수식을 입력한 것으로 나타났습니다.",
+      "LOOKUP": "행이나 열의 범위내의 값을 검색해, 행 또는 열의 범위내의 같은 위치에 있는 값을 돌려줍니다.",
+      "HLOOKUP": "값 테이블의 최상위 행의 값을 검색해, 지정된 테이블행의 같은 열의 값을 돌려줍니다.",
+      "VLOOKUP": "검색 범위의 최초의 열로 지정된 값을 검색해, 행의 2 열째의 대응하는 값을 돌려줍니다.",
+      "NOT": "지정된 부울 표현식의 역수를 반환합니다.",
+      "EOMONTH": "최초로 지정된 시작일로부터 지정된 월수 전후의 달의 마지막 날을 돌려줍니다.",
+      "SQRT": "양수의 제곱근을 돌려줍니다.",
+      "ROUNDDOWN": "숫자를 0으로 반올림합니다.",
+      "RSQ": "known_y 및 known_x 데이터 포인트를 기반으로 제곱 피어슨 곱 모멘트 상관 계수를 반환합니다.",
+      "ExternalWorkbook": "가져온 Excel 파일에는 외부 통합 문서에 대한 링크가 포함되어 있습니다."
     },
     "filemanager": {
       "NewFolder": "새 폴더",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "행 수는 1에서 32767 사이여야 합니다.",
       "Number of columns must be between 1 and 63.": "열 수는 1에서 63 사이여야 합니다.",
       "You may format text only with certain styles": "특정 스타일로만 텍스트 서식을 지정할 수 있습니다.",
-      "Ignore all": "전부다 무시해라"
+      "Ignore all": "전부다 무시해라",
+      "Apply": "천천히 쉽게",
+      "Decimal": "소수점 1위",
+      "Bar": "세미",
+      "Leader": "시스템 관리자",
+      "Tab": "미결제 인보이스",
+      "BookMarkList": "표시된 문서 목록.",
+      "TabMarkList": "단락의 페이지를 나열합니다.",
+      "Tab stop position": "디스크 공간",
+      "Default tab stops": "평범하지 않은 고 카트",
+      "Tab stops to be cleared": "교체 가능한 카드",
+      "Tabs": "탭 창",
+      "Set": "용법",
+      "Clear": "투명한",
+      "Clear All": "모두 삭제",
+      "Move From": "그리고",
+      "Move To": "분노",
+      "Notes Options": "옵션 확인",
+      "Paste Content CheckBox": "다시 나타나지 마라.",
+      "Left Indent": "커뮤니케이션 분야",
+      "Right Indent": "올바른 코스",
+      "Hanging Indent": "모두가 해야 할 역할을",
+      "First Line Indent": "첫 번째는 라인의 굽힘입니다.",
+      "Left Margin": "유 주오",
+      "Right Margin": "좋은 좋은",
+      "Top Margin": "테스터",
+      "Bottom Margin": "켜기",
+      "Left Tab": "왼쪽 귀",
+      "Right Tab": "오른쪽 귀",
+      "Center Tab": "중앙 표시기",
+      "Decimal Tab": "동물 도살",
+      "Bar Tab": "코밀비",
+      "Move Table Column": "테이블의 열 이동"
     },
     "documenteditorcontainer": {
       "New": "새로운",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "대체 텍스트",
       "The address of this site is not valid. Check the address and try again.": "이 사이트의 주소가 유효하지 않습니다. ",
       "OK": "좋아요",
-      "Information": "정보"
+      "Information": "정보",
+      "Spelling": "아무것도",
+      "Link to Previous": "이전 링크",
+      "Link to PreviousTooltip": "이 섹션을 이전 섹션의 머리글 또는 바닥글에 연결",
+      "Page Breaks": "페이지 끝에",
+      "Section Breaks": "이 부문은 붕괴",
+      "Column": "이것을 공유",
+      "Next Page": "다음 페이지",
+      "Continuous": "작업"
     },
     "carousel": {
       "nextSlide": "다음 슬라이드",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "삭제된 파일은 지원되지 않습니다.",
       "Yes": "예",
       "No": "아니요",
-      "DropText": "여기에 이미지를 놓거나"
+      "DropText": "여기에 이미지를 놓거나",
+      "ImageErrorDialogHeader": "이미지 선택 오류",
+      "ImageErrorDialogContent": "열려는 이미지를 선택하기만 하면 됩니다.",
+      "Straighten": "기한을 지키다",
+      "NoOutline": "윤곽이 없다.",
+      "Clone": "은유",
+      "Delete": "파괴하다"
     },
     "mention": {
       "noRecordsTemplate": "기록 없음"

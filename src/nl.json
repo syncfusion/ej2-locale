@@ -168,7 +168,8 @@
           "no": "Nee",
           "close": "Dichtbij",
           "noCard": "Geen kaarten om weer te geven",
-          "unassigned": "Niet toegewezen"
+          "unassigned": "Niet toegewezen",
+          "cards": "winkelmand"
       },
       "dropdowns": {
           "noRecordsTemplate": "Geen verslagen gevonden",
@@ -766,7 +767,16 @@
           "WrongNumberOfArguments": "We hebben vastgesteld dat u een formule met een verkeerd aantal argumenten heeft getypt.",
           "Requires3Arguments": "We hebben vastgesteld dat u een formule heeft getypt waarvoor drie argumenten nodig zijn.",
           "MismatchedStringQuotes": "We hebben vastgesteld dat u een formule met niet-overeenkomende aanhalingstekens heeft getypt.",
-          "FormulaCircularRef": "We hebben vastgesteld dat u een formule met een cirkelverwijzing heeft getypt."
+          "FormulaCircularRef": "We hebben vastgesteld dat u een formule met een cirkelverwijzing heeft getypt.",
+          "LOOKUP": "Zoekt een waarde in een bereik van rijen of kolommen en retourneert de waarde op dezelfde positie in het rij- of kolombereik.",
+          "HLOOKUP": "Vindt de waarde in de bovenste rij van de waardentabel en retourneert de waarde in dezelfde kolom van de opgegeven tabelrij.",
+          "VLOOKUP": "Vindt de waarde die is opgegeven in de eerste kolom van het zoekbereik en retourneert de overeenkomstige waarde in de tweede kolom van de rij.",
+          "NOT": "Retourneert de inverse van de opgegeven Booleaanse expressie.",
+          "EOMONTH": "Retourneert de laatste dag van de maand vóór en na het opgegeven aantal maanden vanaf de eerste opgegeven startdatum.",
+          "SQRT": "Retourneert de vierkantswortel van een positief getal.",
+          "ROUNDDOWN": "Rond het getal af op 0.",
+          "RSQ": "Retourneert de gekwadrateerde Pearson-productmomentcorrelatiecoëfficiënt op basis van bekende_y- en bekende_x-gegevenspunten.",
+          "ExternalWorkbook": "Het geïmporteerde Excel-bestand bevat koppelingen naar externe werkmappen."
       },
       "filemanager": {
           "NewFolder": "Nieuwe map",
@@ -2564,7 +2574,39 @@
           "Left and right margins": "De instellingen die u hebt gekozen voor de linker- en rechtermarge, de kolomafstand of de alinea-inspringingen zijn te groot voor de paginabreedte in dezelfde secties.",
           "Number of rows must be between 1 and 32767.": "Het aantal rijen moet tussen 1 en 32767 liggen.",
           "Number of columns must be between 1 and 63.": "Het aantal kolommen moet tussen 1 en 63 liggen.",
-          "You may format text only with certain styles": "U kunt tekst alleen met bepaalde stijlen opmaken."
+          "You may format text only with certain styles": "U kunt tekst alleen met bepaalde stijlen opmaken.",
+          "Apply": "langzaam en gemakkelijk",
+          "Decimal": "Eerste plaats decimaalteken",
+          "Bar": "half",
+          "Leader": "Systeem administrator",
+          "Tab": "Achterstallige facturen",
+          "BookMarkList": "Lijst met weergegeven documenten.",
+          "TabMarkList": "Toont alineapagina's.",
+          "Tab stop position": "schijfruimte",
+          "Default tab stops": "Fantastische kart",
+          "Tab stops to be cleared": "vervangbare kaart",
+          "Tabs": "het tabbladvenster",
+          "Set": "gebruik",
+          "Clear": "tel",
+          "Clear All": "Verwijder alles",
+          "Move From": "En",
+          "Move To": "daar",
+          "Notes Options": "Controleer de opties",
+          "Paste Content CheckBox": "Kom niet meer opdagen.",
+          "Left Indent": "communicatie veld",
+          "Right Indent": "juiste koers",
+          "Hanging Indent": "iedereen heeft zijn eigen rol",
+          "First Line Indent": "De eerste is lijnbuigen.",
+          "Left Margin": "Yu Zuo",
+          "Right Margin": "goed Goed",
+          "Top Margin": "sensor",
+          "Bottom Margin": "woon",
+          "Left Tab": "linker oor",
+          "Right Tab": "rechter oor",
+          "Center Tab": "centrale indicator",
+          "Decimal Tab": "slachten van dieren",
+          "Bar Tab": "Comil B",
+          "Move Table Column": "Kolommen in een tabel verplaatsen"
       },
       "documenteditorcontainer": {
           "New": "Nieuw",
@@ -2745,7 +2787,15 @@
           "Alternate Text": "Alternatieve tekst",
           "The address of this site is not valid. Check the address and try again.": "Het adres van deze site is niet geldig. ",
           "OK": "OK",
-          "Information": "Informatie"
+          "Information": "Informatie",
+          "Spelling": "Niets",
+          "Link to Previous": "vorige link",
+          "Link to PreviousTooltip": "Koppel deze sectie aan de kop- of voettekst van de vorige sectie",
+          "Page Breaks": "aan het einde van de pagina",
+          "Section Breaks": "Deze sector is aan het instorten",
+          "Column": "deel dit",
+          "Next Page": "volgende bladzijde",
+          "Continuous": "werk"
       },
       "carousel": {
           "nextSlide": "Volgende dia",
@@ -2879,7 +2929,13 @@
         "AlertDialogContent": "Het verwijderde bestand wordt niet ondersteund.",
         "Yes": "Ja",
         "No": "Nee",
-        "DropText": "Zet je afbeelding hier neer of"
+        "DropText": "Zet je afbeelding hier neer of",
+        "ImageErrorDialogHeader": "Fout bij beeldselectie",
+        "ImageErrorDialogContent": "Selecteer gewoon de afbeelding die u wilt openen.",
+        "Straighten": "de deadline halen",
+        "NoOutline": "Er is geen dispositie.",
+        "Clone": "metafoor",
+        "Delete": "vernietigen"
       },
       "mention": {
           "noRecordsTemplate": "Geen verslagen gevonden"

@@ -168,7 +168,8 @@
       "no": "Không",
       "close": "Đóng",
       "noCard": "Không có thẻ để hiển thị",
-      "unassigned": "Chưa giao"
+      "unassigned": "Chưa giao",
+      "cards": "Chuyên chở"
     },
     "dropdowns": {
       "noRecordsTemplate": "Không có dữ liệu được tìm thấy",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Chúng tôi nhận thấy rằng bạn đã nhập một công thức có số lượng đối số sai.",
       "Requires3Arguments": "Chúng tôi nhận thấy rằng bạn đã nhập một công thức yêu cầu 3 đối số.",
       "MismatchedStringQuotes": "Chúng tôi nhận thấy rằng bạn đã nhập một công thức có dấu ngoặc kép không khớp.",
-      "FormulaCircularRef": "Chúng tôi nhận thấy rằng bạn đã nhập công thức có tham chiếu vòng tròn."
+      "FormulaCircularRef": "Chúng tôi nhận thấy rằng bạn đã nhập công thức có tham chiếu vòng tròn.",
+      "LOOKUP": "Tìm giá trị trong một tập hợp hàng hoặc cột",
+      "HLOOKUP": "Tìm giá trị ở hàng trên cùng của bảng giá trị và trả về giá trị trong cùng cột với hàng của bảng đã chỉ định.",
+      "VLOOKUP": "Tìm kiếm giá trị được chỉ định trong cột đầu tiên của phạm vi tìm kiếm.",
+      "NOT": "Trả về nghịch đảo của biểu thức Boolean đã chỉ định.",
+      "EOMONTH": "Trả về ngày cuối cùng của tháng trước và sau số tháng đã chỉ định, bắt đầu từ ngày bắt đầu ban đầu đã chỉ định.",
+      "SQRT": "Trả về căn bậc hai của một số dương.",
+      "ROUNDDOWN": "Làm tròn số về 0.",
+      "RSQ": "Trả về bình phương của hệ số tương quan thời điểm tích Pearson dựa trên các điểm dữ liệu \"known_y\" và \"known_x\".",
+      "ExternalWorkbook": "Tệp Excel đã nhập chứa các liên kết đến sổ làm việc bên ngoài."
     },
     "filemanager": {
       "NewFolder": "Thư mục mới",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "Số hàng phải nằm trong khoảng từ 1 đến 32767.",
       "Number of columns must be between 1 and 63.": "Số cột phải nằm trong khoảng từ 1 đến 63.",
       "You may format text only with certain styles": "Bạn chỉ có thể định dạng văn bản với một số kiểu nhất định.",
-      "Ignore all": "Bỏ qua tất cả"
+      "Ignore all": "Bỏ qua tất cả",
+      "Apply": "chậm và dễ dàng",
+      "Decimal": "chữ số thập phân đầu tiên",
+      "Bar": "và một nửa",
+      "Leader": "Điều hành",
+      "Tab": "tài khoản quá hạn",
+      "BookMarkList": "Danh sách tài liệu hiển thị",
+      "TabMarkList": "Hiển thị trang đoạn văn",
+      "Tab stop position": "không gian đĩa",
+      "Default tab stops": "Đua xe Kart thật tuyệt vời.",
+      "Tab stops to be cleared": "Thẻ thay thế",
+      "Tabs": "cửa sổ tab",
+      "Set": "Sử dụng",
+      "Clear": "Điện thoại",
+      "Clear All": "Xóa mọi thứ",
+      "Move From": "S",
+      "Move To": "Bởi vì",
+      "Notes Options": "Kiểm tra các tùy chọn",
+      "Paste Content CheckBox": "Anh ấy đã không xuất hiện nữa.",
+      "Left Indent": "ngành truyền thông",
+      "Right Indent": "đúng tuyến đường",
+      "Hanging Indent": "Mọi người đều có một vai trò",
+      "First Line Indent": "Đầu tiên là uốn cong các đường.",
+      "Left Margin": "Ngọc Tả",
+      "Right Margin": "kẹo bòn bon",
+      "Top Margin": "cảm biến",
+      "Bottom Margin": "Bài thuyết trình",
+      "Left Tab": "Tôi đang ở trong tai bạn",
+      "Right Tab": "tai phải",
+      "Center Tab": "màn hình trung tâm",
+      "Decimal Tab": "động vật chết",
+      "Bar Tab": "Camille B.",
+      "Move Table Column": "Di chuyển các cột trong bảng"
     },
     "documenteditorcontainer": {
       "New": "Mới",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "Văn bản thay thế",
       "The address of this site is not valid. Check the address and try again.": "Địa chỉ của trang web này không hợp lệ. ",
       "OK": "ĐƯỢC RỒI",
-      "Information": "Thông tin"
+      "Information": "Thông tin",
+      "Spelling": "người dùng",
+      "Link to Previous": "liên kết trước đó",
+      "Link to PreviousTooltip": "Liên kết phần này với đầu trang hoặc chân trang của phần trước.",
+      "Page Breaks": "ở cuối trang",
+      "Section Breaks": "Khu vực này đã bị chiếm đóng.",
+      "Column": "Chia sẻ",
+      "Next Page": "một khuôn mặt khác",
+      "Continuous": "công việc"
     },
     "carousel": {
       "nextSlide": "Trang trình bày tiếp theo",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "Tệp bị rơi không được hỗ trợ.",
       "Yes": "Đúng",
       "No": "KHÔNG",
-      "DropText": "Thả hình ảnh của bạn ở đây hoặc"
+      "DropText": "Thả hình ảnh của bạn ở đây hoặc",
+      "ImageErrorDialogHeader": "Đã xảy ra lỗi khi chọn hình ảnh.",
+      "ImageErrorDialogContent": "Chỉ cần chọn hình ảnh bạn muốn mở.",
+      "Straighten": "cứng",
+      "NoOutline": "không có yêu cầu",
+      "Clone": "ẩn dụ",
+      "Delete": "hủy hoại"
     },
     "mention": {
       "noRecordsTemplate": "Không có dữ liệu được tìm thấy"

@@ -168,7 +168,8 @@
       "no": "Nej",
       "close": "Stänga",
       "noCard": "Inga kort att visa",
-      "unassigned": "Otilldelad"
+      "unassigned": "Otilldelad",
+      "cards": "transport"
     },
     "dropdowns": {
       "noRecordsTemplate": "Inga uppgifter funna",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Vi upptäckte att du skrev en formel med fel antal argument.",
       "Requires3Arguments": "Vi upptäckte att du skrev en formel som kräver 3 argument.",
       "MismatchedStringQuotes": "Vi upptäckte att du skrev en formel med citattecken som inte matchar.",
-      "FormulaCircularRef": "Vi upptäckte att du skrev en formel med en cirkulär referens."
+      "FormulaCircularRef": "Vi upptäckte att du skrev en formel med en cirkulär referens.",
+      "LOOKUP": "Söker efter ett värde i ett intervall av rader eller kolumner och returnerar ett värde på samma plats i ett intervall av rader eller kolumner.",
+      "HLOOKUP": "Hittar värdet i den översta raden i värdetabellen och returnerar värdet i samma kolumn som den angivna tabellraden.",
+      "VLOOKUP": "Söker efter det angivna värdet i den första kolumnen i sökintervallet och returnerar motsvarande värde i den andra kolumnen i raden.",
+      "NOT": "Returnerar inversen av det angivna booleska uttrycket.",
+      "EOMONTH": "Returnerar den sista dagen i månaden före och efter det angivna antalet månader från det angivna första startdatumet.",
+      "SQRT": "Returnerar kvadratroten ur ett positivt tal.",
+      "ROUNDDOWN": "Avrunda talet till 0.",
+      "RSQ": "Returnerar kvadraten på Pearsons produktmomentkorrelationskoefficient baserat på datapunkterna \"känd_y\" och \"känd_x\".",
+      "ExternalWorkbook": "Den importerade Excel-filen innehåller länkar till externa arbetsböcker."
     },
     "filemanager": {
       "NewFolder": "Ny mapp",
@@ -2566,7 +2576,39 @@
       "Number of rows must be between 1 and 32767.": "Antalet rader måste vara mellan 1 och 32767.",
       "Number of columns must be between 1 and 63.": "Antalet kolumner måste vara mellan 1 och 63.",
       "You may format text only with certain styles": "Du får endast formatera text med vissa stilar.",
-      "Ignore all": "Ignorera alla"
+      "Ignore all": "Ignorera alla",
+      "Apply": "långsamt och lätt",
+      "Decimal": "Första decimalen",
+      "Bar": "halv",
+      "Leader": "Systemadministratör",
+      "Tab": "Förfallna konton",
+      "BookMarkList": "Lista över visade dokument.",
+      "TabMarkList": "Visa styckesidor.",
+      "Tab stop position": "Disk utrymme",
+      "Default tab stops": "Karting är fantastiskt",
+      "Tab stops to be cleared": "ersättningskort",
+      "Tabs": "flikfönstret",
+      "Set": "användningen",
+      "Clear": "telefon",
+      "Clear All": "Ta bort allt",
+      "Move From": "S",
+      "Move To": "Därför att",
+      "Notes Options": "Kontrollera alternativen",
+      "Paste Content CheckBox": "Den dök inte upp igen.",
+      "Left Indent": "kommunikationssektorn",
+      "Right Indent": "rätt kurs",
+      "Hanging Indent": "alla har en roll",
+      "First Line Indent": "Den första är linjeböjning.",
+      "Left Margin": "Yu Zuo",
+      "Right Margin": "Socker plommon",
+      "Top Margin": "sensorer",
+      "Bottom Margin": "presentation",
+      "Left Tab": "Jag lever öra",
+      "Right Tab": "höger öra",
+      "Center Tab": "central indikator",
+      "Decimal Tab": "döda djur",
+      "Bar Tab": "Kamil B",
+      "Move Table Column": "Flytta kolumner i en tabell"
     },
     "documenteditorcontainer": {
       "New": "Ny",
@@ -2747,7 +2789,15 @@
       "Alternate Text": "Alternativ text",
       "The address of this site is not valid. Check the address and try again.": "Adressen till denna webbplats är inte giltig. ",
       "OK": "OK",
-      "Information": "Information"
+      "Information": "Information",
+      "Spelling": "användare",
+      "Link to Previous": "föregående länk",
+      "Link to PreviousTooltip": "Länka det här avsnittet till sidhuvudet eller sidfoten i föregående avsnitt.",
+      "Page Breaks": "på botten av sidan",
+      "Section Breaks": "Denna sektor är invasiv",
+      "Column": "Dela det",
+      "Next Page": "En annan sida",
+      "Continuous": "Arbete"
     },
     "carousel": {
       "nextSlide": "Nästa bild",
@@ -2881,7 +2931,13 @@
       "AlertDialogContent": "Den tappade filen stöds inte.",
       "Yes": "Ja",
       "No": "Nej",
-      "DropText": "Släpp din bild här eller"
+      "DropText": "Släpp din bild här eller",
+      "ImageErrorDialogHeader": "Fel vid val av bild",
+      "ImageErrorDialogContent": "Välj bara bilden du vill öppna.",
+      "Straighten": "villkor",
+      "NoOutline": "Det finns ingen bestämmelse.",
+      "Clone": "liknelse",
+      "Delete": "att förstöra"
     },
     "mention": {
       "noRecordsTemplate": "Inga uppgifter funna"

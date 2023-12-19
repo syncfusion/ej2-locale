@@ -168,7 +168,8 @@
       "no": "žiadny",
       "close": "Zavrieť",
       "noCard": "Žiadne karty na zobrazenie",
-      "unassigned": "Nepriradený"
+      "unassigned": "Nepriradený",
+      "cards": "vozík"
     },
     "dropdowns": {
       "noRecordsTemplate": "Nenašli sa žiadne záznamy",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Zistili sme, že ste zadali vzorec s nesprávnym počtom argumentov.",
       "Requires3Arguments": "Zistili sme, že ste zadali vzorec, ktorý vyžaduje 3 argumenty.",
       "MismatchedStringQuotes": "Zistili sme, že ste zadali vzorec s nezhodnými úvodzovkami.",
-      "FormulaCircularRef": "Zistili sme, že ste zadali vzorec s kruhovým odkazom."
+      "FormulaCircularRef": "Zistili sme, že ste zadali vzorec s kruhovým odkazom.",
+      "LOOKUP": "Vyhľadá hodnotu v rozsahu riadkov alebo stĺpcov a vráti hodnotu na rovnakom mieste v rozsahu riadkov alebo stĺpcov.",
+      "HLOOKUP": "Vyhľadá hodnotu v hornom riadku tabuľky hodnôt a vráti hodnotu v rovnakom stĺpci ako zadaný riadok tabuľky.",
+      "VLOOKUP": "Vyhľadá zadanú hodnotu v prvom stĺpci rozsahu vyhľadávania a vráti zodpovedajúcu hodnotu v druhom stĺpci riadka.",
+      "NOT": "Vráti inverziu zadaného booleovského výrazu.",
+      "EOMONTH": "Vráti posledný deň mesiaca pred a po zadanom počte mesiacov od zadaného prvého počiatočného dátumu.",
+      "SQRT": "Vráti druhú odmocninu kladného čísla.",
+      "ROUNDDOWN": "Zaokrúhlite číslo na 0.",
+      "RSQ": "Vráti druhú mocninu Pearsonovho súčinového momentového korelačného koeficientu na základe údajových bodov „známy_y“ a „známy_x“.",
+      "ExternalWorkbook": "Importovaný súbor Excel obsahuje prepojenia na externé zošity."
     },
     "filemanager": {
       "NewFolder": "Nový priečinok",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "Počet riadkov musí byť medzi 1 a 32767.",
       "Number of columns must be between 1 and 63.": "Počet stĺpcov musí byť medzi 1 a 63.",
       "You may format text only with certain styles": "Text môžete formátovať iba pomocou určitých štýlov.",
-      "Ignore all": "Ignorovať všetko"
+      "Ignore all": "Ignorovať všetko",
+      "Apply": "pomaly a ľahko",
+      "Decimal": "Prvé desatinné miesto",
+      "Bar": "polovicu",
+      "Leader": "Systémový administrátor",
+      "Tab": "Účty po splatnosti",
+      "BookMarkList": "Zoznam zobrazených dokumentov.",
+      "TabMarkList": "Zobraziť strany odsekov.",
+      "Tab stop position": "Miesto na disku",
+      "Default tab stops": "Karting je fantastický",
+      "Tab stops to be cleared": "náhradná karta",
+      "Tabs": "okno karty",
+      "Set": "použitie",
+      "Clear": "telefón",
+      "Clear All": "Vymazať všetko",
+      "Move From": "S",
+      "Move To": "Pretože",
+      "Notes Options": "Skontrolujte možnosti",
+      "Paste Content CheckBox": "Znova sa to neobjavilo.",
+      "Left Indent": "komunikačný sektor",
+      "Right Indent": "správny kurz",
+      "Hanging Indent": "každý má svoju rolu",
+      "First Line Indent": "Prvým je ohyb linky.",
+      "Left Margin": "Yu Zuo",
+      "Right Margin": "Cukrové slivky",
+      "Top Margin": "senzory",
+      "Bottom Margin": "prezentácia",
+      "Left Tab": "žijem ucho",
+      "Right Tab": "pravé ucho",
+      "Center Tab": "centrálny ukazovateľ",
+      "Decimal Tab": "zabíjanie zvierat",
+      "Bar Tab": "Kamil B",
+      "Move Table Column": "Presúvanie stĺpcov v tabuľke"
     },
     "documenteditorcontainer": {
       "New": "Nový",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "Alternatívny text",
       "The address of this site is not valid. Check the address and try again.": "Adresa tejto stránky nie je platná. ",
       "OK": "OK",
-      "Information": "Informácie"
+      "Information": "Informácie",
+      "Spelling": "užívateľ",
+      "Link to Previous": "predchádzajúci odkaz",
+      "Link to PreviousTooltip": "Prepojte túto sekciu s hlavičkou alebo pätou predchádzajúcej sekcie.",
+      "Page Breaks": "na konci stránky",
+      "Section Breaks": "Tento sektor je invázny",
+      "Column": "Zdieľajte to",
+      "Next Page": "Ďalšia strana",
+      "Continuous": "Práca"
     },
     "carousel": {
       "nextSlide": "Ďalšia snímka",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "Vynechaný súbor nie je podporovaný.",
       "Yes": "Áno",
       "No": "Nie",
-      "DropText": "Sem vložte svoj obrázok alebo"
+      "DropText": "Sem vložte svoj obrázok alebo",
+      "ImageErrorDialogHeader": "Chyba pri výbere obrázka",
+      "ImageErrorDialogContent": "Stačí vybrať obrázok, ktorý chcete otvoriť.",
+      "Straighten": "termíny",
+      "NoOutline": "Neexistuje žiadne ustanovenie.",
+      "Clone": "metafora",
+      "Delete": "zničiť"
     },
     "mention": {
       "noRecordsTemplate": "Nenašli sa žiadne záznamy"

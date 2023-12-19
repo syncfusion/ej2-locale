@@ -168,7 +168,8 @@
             "no": "No",
             "close": "Close",
             "noCard": "No cards to display",
-            "unassigned": "Unassigned"
+            "unassigned": "Unassigned",
+            "cards": "Cards"
         },
         "dropdowns": {
             "noRecordsTemplate": "No Records Found",
@@ -766,7 +767,16 @@
 	    "WrongNumberOfArguments": "We found that you typed a formula with a wrong number of arguments.",
 	    "Requires3Arguments": "We found that you typed a formula which requires 3 arguments.",
 	    "MismatchedStringQuotes": "We found that you typed a formula with a mismatched quotes.",
-	    "FormulaCircularRef": "We found that you typed a formula with a circular reference."
+            "FormulaCircularRef": "We found that you typed a formula with a circular reference.",
+            "LOOKUP": "Looks for a value in a one-row or one-column range, then returns a value from the same position in a second one-row or one-column range.",
+            "HLOOKUP": "Looks for a value in the top row of the array of values and then returns a value in the same column from a row in the array that you specify.",
+            "VLOOKUP": "Looks for a specific value in the first column of a lookup range and returns a corresponding value from a different column within the same row.",
+            "NOT": "Returns the inverse of a given logical expression.",
+            "EOMONTH": "Returns the last day of the month that is a specified number of months before or after an initially supplied start date.",
+            "SQRT": "Returns the square root of a positive number.",
+            "ROUNDDOWN": "Rounds a number down, toward zero.",
+            "RSQ": "Returns the square of the Pearson product moment correlation coefficient based on data points in known_y's and known_x's.",
+            "ExternalWorkbook": "An imported excel file contains an external workbook reference. Do you want to import that file?"
         },
         "filemanager": {
             "NewFolder": "New folder",
@@ -2567,7 +2577,39 @@
             "Left and right margins": "Settings you chose for the left and right margins, column spacing, or pargraph indents are too large for the page width in same secitions.",
             "Number of rows must be between 1 and 32767.": "Number of rows must be between 1 and 32767.",
             "Number of columns must be between 1 and 63.": "Number of columns must be between 1 and 63.",
-            "You may format text only with certain styles": "You may format text only with certain styles."
+            "You may format text only with certain styles": "You may format text only with certain styles.",
+            "Apply": "Apply",
+            "Decimal": "Decimal",
+            "Bar": "Bar",
+            "Leader": "Leader",
+            "Tab": "Tab",
+            "BookMarkList": "List of bookmarks in the document",
+            "TabMarkList": "List of tab stops in the paragraph",
+            "Tab stop position": "Tab stop position",
+            "Default tab stops": "Default tab stops",
+            "Tab stops to be cleared": "Tab stops to be cleared",
+            "Tabs": "Tabs",
+            "Set": "Set",
+            "Clear": "Clear",
+            "Clear All": "Clear All",
+            "Move From": "Move From",
+            "Move To": "Move To",
+            "Notes Options": "Notes Options",
+            "Paste Content CheckBox": "Don't show again",
+            "Left Indent": "Left Indent",
+            "Right Indent": "Right Indent",
+            "Hanging Indent": "Hanging Indent",
+            "First Line Indent": "First Line Indent",
+            "Left Margin": "Left Margin",
+            "Right Margin": "Right Margin",
+            "Top Margin": "Top Margin",
+            "Bottom Margin": "Bottom Margin",
+            "Left Tab": "Left Tab",
+            "Right Tab": "Right Tab",
+            "Center Tab": "Center Tab",
+            "Decimal Tab": "Decimal Tab",
+            "Bar Tab": "Bar Tab",
+            "Move Table Column": "Move Table Column"
         },
         "documenteditorcontainer": {
             "New": "New",
@@ -2748,7 +2790,15 @@
             "Alternate Text": "Alternate Text",
             "The address of this site is not valid. Check the address and try again.": "The address of this site is not valid. Check the address and try again.",
             "OK": "OK",
-            "Information": "Information"
+            "Information": "Information",
+            "Spelling": "Spelling",
+            "Link to Previous": "Link to Previous",
+            "Link to PreviousTooltip": "Link this section with previous section header or footer",
+            "Page Breaks": "Page Breaks",
+            "Section Breaks": "Section Breaks",
+            "Column": "Column",
+            "Next Page": "Next Page",
+            "Continuous": "Continuous"
         },
         "carousel": {
             "nextSlide": "Next slide",
@@ -2882,7 +2932,13 @@
 	    "AlertDialogHeader": "Unsupported file",
 	    "AlertDialogContent": "The dropped file is unsupported.",
 	    "Yes": "Yes",
-	    "No": "No"
+            "No": "No",
+            "ImageErrorDialogHeader": "Image Selection Error",
+            "ImageErrorDialogContent": "Please select only one image to open.",
+            "Straighten": "Straighten",
+            "NoOutline": "No outline",
+            "Clone": "Clone",
+            "Delete": "Delete"
         },
         "mention": {
             "noRecordsTemplate": "No records found"

@@ -168,7 +168,8 @@
       "no": "Nie",
       "close": "Blisko",
       "noCard": "Brak kart do wyświetlenia",
-      "unassigned": "Nieprzypisany"
+      "unassigned": "Nieprzypisany",
+      "cards": "wózek sklepowy"
     },
     "dropdowns": {
       "noRecordsTemplate": "Nic nie znaleziono",
@@ -766,7 +767,16 @@
       "WrongNumberOfArguments": "Odkryliśmy, że wpisałeś formułę z nieprawidłową liczbą argumentów.",
       "Requires3Arguments": "Ustaliliśmy, że wpisałeś formułę wymagającą 3 argumentów.",
       "MismatchedStringQuotes": "Odkryliśmy, że wpisałeś formułę z niedopasowanymi cudzysłowami.",
-      "FormulaCircularRef": "Ustaliliśmy, że wpisałeś formułę z odwołaniem cyklicznym."
+      "FormulaCircularRef": "Ustaliliśmy, że wpisałeś formułę z odwołaniem cyklicznym.",
+      "LOOKUP": "Znajduje wartość w zakresie wierszy lub kolumn i zwraca wartość w tym samym miejscu w zakresie wierszy lub kolumn.",
+      "HLOOKUP": "Znajduje wartość w górnym wierszu tabeli wartości i zwraca wartość w tej samej kolumnie określonego wiersza tabeli.",
+      "VLOOKUP": "Znajduje wartość określoną w pierwszej kolumnie zakresu wyszukiwania i zwraca odpowiadającą wartość w drugiej kolumnie wiersza.",
+      "NOT": "Zwraca odwrotność określonego wyrażenia logicznego.",
+      "EOMONTH": "Zwraca ostatni dzień miesiąca przed i po określonej liczbie miesięcy od pierwszej określonej daty początkowej.",
+      "SQRT": "Zwraca pierwiastek kwadratowy z liczby dodatniej.",
+      "ROUNDDOWN": "Zaokrąglij liczbę do 0.",
+      "RSQ": "Zwraca kwadratowy współczynnik korelacji momentu iloczynu Pearsona na podstawie punktów danych znane_y i znane_x.",
+      "ExternalWorkbook": "Zaimportowany plik Excel zawiera łącza do zewnętrznych skoroszytów."
     },
     "filemanager": {
       "NewFolder": "Nowy folder",
@@ -2565,7 +2575,39 @@
       "Number of rows must be between 1 and 32767.": "Liczba wierszy musi mieścić się w przedziale od 1 do 32767.",
       "Number of columns must be between 1 and 63.": "Liczba kolumn musi mieścić się w przedziale od 1 do 63.",
       "You may format text only with certain styles": "Tekst można formatować tylko przy użyciu określonych stylów.",
-      "Ignore all": "Ignorować wszystko"
+      "Ignore all": "Ignorować wszystko",
+      "Apply": "powoli i łatwo",
+      "Decimal": "Pierwsze miejsce po przecinku",
+      "Bar": "połowa",
+      "Leader": "Administrator systemu",
+      "Tab": "Zaległe faktury",
+      "BookMarkList": "Lista wyświetlonych dokumentów.",
+      "TabMarkList": "Pokazuje strony akapitów.",
+      "Tab stop position": "miejsca na dysku",
+      "Default tab stops": "Fantastyczny gokart",
+      "Tab stops to be cleared": "wymienna karta",
+      "Tabs": "okno zakładki",
+      "Set": "używać",
+      "Clear": "tel",
+      "Clear All": "Wyczyść wszystko",
+      "Move From": "W",
+      "Move To": "Tam",
+      "Notes Options": "Sprawdź opcje",
+      "Paste Content CheckBox": "Nie pokazuj się więcej.",
+      "Left Indent": "pole komunikacyjne",
+      "Right Indent": "właściwy kurs",
+      "Hanging Indent": "każdy ma swoją rolę",
+      "First Line Indent": "Pierwszym z nich jest zginanie linii.",
+      "Left Margin": "Yu Zuo",
+      "Right Margin": "dobrze dobrze",
+      "Top Margin": "czujnik",
+      "Bottom Margin": "wkrótce",
+      "Left Tab": "lewe ucho",
+      "Right Tab": "prawe ucho",
+      "Center Tab": "wskaźnik centralny",
+      "Decimal Tab": "uboju zwierząt",
+      "Bar Tab": "Komil B",
+      "Move Table Column": "Przenoszenie kolumn w tabeli"
     },
     "documenteditorcontainer": {
       "New": "Nowy",
@@ -2746,7 +2788,15 @@
       "Alternate Text": "Alternatywny tekst",
       "The address of this site is not valid. Check the address and try again.": "Adres tej witryny jest nieprawidłowy. ",
       "OK": "OK",
-      "Information": "Informacja"
+      "Information": "Informacja",
+      "Spelling": "Nic",
+      "Link to Previous": "poprzedni link",
+      "Link to PreviousTooltip": "Połącz tę sekcję z nagłówkiem lub stopką poprzedniej sekcji",
+      "Page Breaks": "na końcu strony",
+      "Section Breaks": "Ten sektor upada",
+      "Column": "Udostępnij to",
+      "Next Page": "Następna strona",
+      "Continuous": "praca"
     },
     "carousel": {
       "nextSlide": "Następny slajd",
@@ -2880,7 +2930,13 @@
       "AlertDialogContent": "Upuszczony plik nie jest obsługiwany.",
       "Yes": "Tak",
       "No": "NIE",
-      "DropText": "Upuść swój obraz tutaj lub"
+      "DropText": "Upuść swój obraz tutaj lub",
+      "ImageErrorDialogHeader": "Błąd wyboru obrazu",
+      "ImageErrorDialogContent": "Po prostu wybierz obraz, który chcesz otworzyć.",
+      "Straighten": "dotrzymanie terminu",
+      "NoOutline": "Nie ma dyspozycji.",
+      "Clone": "metafora",
+      "Delete": "zniszczyć"
     },
     "mention": {
       "noRecordsTemplate": "Nic nie znaleziono"
