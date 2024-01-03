@@ -2112,8 +2112,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Nessun record trovato",
       "actionFailureTemplate": "Richiesta fallita",
-      "overflowCountTemplate": "+ $ {count} altro ..",
-      "totalCountTemplate": "$ {count} selezionato"
+      "overflowCountTemplate": "+ ${count} altro ..",
+      "totalCountTemplate": "${count} selezionato"
     },
     "documenteditor": {
       "Table": "Tabella",

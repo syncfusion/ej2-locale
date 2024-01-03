@@ -2111,8 +2111,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "לא נמצאו שיאים",
       "actionFailureTemplate": "בקשה נכשלה",
-      "overflowCountTemplate": "+ $ {count} נוספים ..",
-      "totalCountTemplate": "נבחרה $ {count}"
+      "overflowCountTemplate": "+ ${count} נוספים ..",
+      "totalCountTemplate": "נבחרה ${count}"
     },
     "documenteditor": {
       "Table": "שולחן",

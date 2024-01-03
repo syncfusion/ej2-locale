@@ -2111,8 +2111,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Nenalezeny žádné záznamy",
       "actionFailureTemplate": "Požadavek selhal",
-      "overflowCountTemplate": "+ $ {count} další ..",
-      "totalCountTemplate": "Vybráno $ {count}"
+      "overflowCountTemplate": "+ ${count} další ..",
+      "totalCountTemplate": "Vybráno ${count}"
     },
     "documenteditor": {
       "Table": "Stůl",

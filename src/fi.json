@@ -2111,8 +2111,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Merkintöjä ei löydy",
       "actionFailureTemplate": "Pyyntö epäonnistui",
-      "overflowCountTemplate": "+ $ {count} muuta ..",
-      "totalCountTemplate": "$ {count} valittu"
+      "overflowCountTemplate": "+ ${count} muuta ..",
+      "totalCountTemplate": "${count} valittu"
     },
     "documenteditor": {
       "Table": "Pöytä",

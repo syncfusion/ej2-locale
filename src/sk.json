@@ -2112,7 +2112,7 @@
       "noRecordsTemplate": "Nenašli sa žiadne záznamy",
       "actionFailureTemplate": "Žiadosť zlyhala",
       "overflowCountTemplate": "+ ďalšie {$}",
-      "totalCountTemplate": "Je vybratých $ {count}"
+      "totalCountTemplate": "Je vybratých ${count}"
     },
     "documenteditor": {
       "Table": "stôl",

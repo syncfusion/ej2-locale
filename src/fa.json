@@ -1990,8 +1990,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "هیچ سوابقی یافت نشد",
       "actionFailureTemplate": "درخواست ناموفق بود",
-      "overflowCountTemplate": "+ $ {count} بیشتر ..",
-      "totalCountTemplate": "$ {count} انتخاب شد"
+      "overflowCountTemplate": "+ ${count} بیشتر ..",
+      "totalCountTemplate": "${count} انتخاب شد"
     },
     "documenteditor": {
       "Table": "جدول",

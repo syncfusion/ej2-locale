@@ -174,10 +174,10 @@
     "dropdowns": {
       "noRecordsTemplate": "Tiada rekod dijumpai",
       "actionFailureTemplate": "Permintaan Gagal",
-      "overflowCountTemplate": "+ $ {count} lagi ..",
+      "overflowCountTemplate": "+ ${count} lagi ..",
       "selectAllText": "Pilih semua",
       "unSelectAllText": "Nyahpilih Semua",
-      "totalCountTemplate": "$ {count} dipilih"
+      "totalCountTemplate": "${count} dipilih"
     },
     "drop-down-list": {
       "noRecordsTemplate": "Tiada rekod dijumpai",
@@ -194,10 +194,10 @@
     "multi-select": {
       "noRecordsTemplate": "Tiada rekod dijumpai",
       "actionFailureTemplate": "Permintaan Gagal",
-      "overflowCountTemplate": "+ $ {count} lagi ..",
+      "overflowCountTemplate": "+ ${count} lagi ..",
       "selectAllText": "Pilih semua",
       "unSelectAllText": "Nyahpilih Semua",
-      "totalCountTemplate": "$ {count} dipilih"
+      "totalCountTemplate": "${count} dipilih"
     },
     "listbox": {
       "noRecordsTemplate": "Tiada rekod dijumpai",
@@ -2112,7 +2112,7 @@
       "noRecordsTemplate": "Tiada rekod dijumpai",
       "actionFailureTemplate": "Permintaan gagal",
       "overflowCountTemplate": "+ $ {hitung} lagi ..",
-      "totalCountTemplate": "$ {count} dipilih"
+      "totalCountTemplate": "${count} dipilih"
     },
     "documenteditor": {
       "Table": "Jadual",

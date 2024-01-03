@@ -2112,8 +2112,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Nu au fost găsite",
       "actionFailureTemplate": "Cerere nereusita",
-      "overflowCountTemplate": "+ $ {count} mai mult ..",
-      "totalCountTemplate": "$ {count} selectat"
+      "overflowCountTemplate": "+ ${count} mai mult ..",
+      "totalCountTemplate": "${count} selectat"
     },
     "documenteditor": {
       "Table": "Masa",

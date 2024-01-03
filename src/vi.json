@@ -2111,8 +2111,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Không có dữ liệu được tìm thấy",
       "actionFailureTemplate": "Yêu cầu không thành công",
-      "overflowCountTemplate": "+ $ {count} khác ..",
-      "totalCountTemplate": "$ {count} đã được chọn"
+      "overflowCountTemplate": "+ ${count} khác ..",
+      "totalCountTemplate": "${count} đã được chọn"
     },
     "documenteditor": {
       "Table": "Bàn",

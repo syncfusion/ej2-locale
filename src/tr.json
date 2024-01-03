@@ -2111,8 +2111,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "kayıt bulunamadı",
       "actionFailureTemplate": "İstek başarısız oldu",
-      "overflowCountTemplate": "+ $ {count} tane daha ..",
-      "totalCountTemplate": "$ {count} seçildi"
+      "overflowCountTemplate": "+ ${count} tane daha ..",
+      "totalCountTemplate": "${count} seçildi"
     },
     "documenteditor": {
       "Table": "tablo",

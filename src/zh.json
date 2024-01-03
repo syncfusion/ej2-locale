@@ -2113,8 +2113,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "沒有找到記錄",
       "actionFailureTemplate": "請求失敗",
-      "overflowCountTemplate": "+ $ {count}更多..",
-      "totalCountTemplate": "已選擇$ {count}個"
+      "overflowCountTemplate": "+ ${count}更多..",
+      "totalCountTemplate": "已選擇${count}個"
     },
     "documenteditor": {
       "Table": "表",

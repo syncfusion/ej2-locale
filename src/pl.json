@@ -2111,8 +2111,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Nic nie znaleziono",
       "actionFailureTemplate": "Żądanie nie powiodło się",
-      "overflowCountTemplate": "+ {count} $ więcej ...",
-      "totalCountTemplate": "Wybrano $ {count}"
+      "overflowCountTemplate": "+ ${count} więcej ...",
+      "totalCountTemplate": "Wybrano ${count}"
     },
     "documenteditor": {
       "Table": "Stół",

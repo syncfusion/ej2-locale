@@ -2111,8 +2111,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Ni najdenih zapisov",
       "actionFailureTemplate": "Zahteva ni uspela",
-      "overflowCountTemplate": "+ $ {count} več ..",
-      "totalCountTemplate": "$ {count} je izbrano"
+      "overflowCountTemplate": "+ ${count} več ..",
+      "totalCountTemplate": "${count} je izbrano"
     },
     "documenteditor": {
       "Table": "Stol",

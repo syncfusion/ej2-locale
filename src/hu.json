@@ -2111,8 +2111,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Nincs találat",
       "actionFailureTemplate": "Kérés sikertelen",
-      "overflowCountTemplate": "+ további $ {count} ..",
-      "totalCountTemplate": "$ {count} kiválasztva"
+      "overflowCountTemplate": "+ további ${count} ..",
+      "totalCountTemplate": "${count} kiválasztva"
     },
     "documenteditor": {
       "Table": "asztal",

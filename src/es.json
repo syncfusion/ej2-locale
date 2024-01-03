@@ -2114,8 +2114,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "No se encontraron registros",
       "actionFailureTemplate": "Solicitud fallida",
-      "overflowCountTemplate": "+ $ {count} más ...",
-      "totalCountTemplate": "$ {count} seleccionados"
+      "overflowCountTemplate": "+ ${count} más ...",
+      "totalCountTemplate": "${count} seleccionados"
     },
     "documenteditor": {
       "Table": "Mesa",
