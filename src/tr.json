@@ -1828,8 +1828,8 @@
       "selectGroup": "Grupları seçin",
       "of": "nın-nin",
       "removeCalculatedField": "Bu hesaplanan alanı silmek istediğinizden emin misiniz?",
-      "yes": "Bu hesaplanan alanı silmek istediğinizden emin misiniz?",
-      "no": "Evet",
+      "yes": "Evet",
+      "no": "Hayır",
       "None": "Numara"
     },
     "pdfviewer": {

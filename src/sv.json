@@ -1828,9 +1828,9 @@
       "selectGroup": "Välj grupper",
       "of": "av",
       "removeCalculatedField": "Är du säker på att du vill ta bort det beräknade fältet?",
-      "yes": "Är du säker på att du vill ta bort det här beräknade fältet?",
-      "no": "Ja",
-      "None": "Nej"
+      "yes": "Ja",
+      "no": "Nej",
+      "None": "Ingen"
     },
     "pdfviewer": {
       "PdfViewer": "﻿PDF-visare",

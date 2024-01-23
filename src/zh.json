@@ -1830,9 +1830,9 @@
       "selectGroup": "選擇組",
       "of": "的",
       "removeCalculatedField": "您確定要刪除此計算字段嗎？",
-      "yes": "您确定要删除此计算字段吗？",
-      "no": "是的",
-      "None": "不"
+      "yes": "是",
+      "no": "沒有",
+      "None": "没有任何"
     },
     "pdfviewer": {
       "PdfViewer": "PDF查看器",

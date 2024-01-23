@@ -1828,9 +1828,9 @@
       "selectGroup": "Chọn nhóm",
       "of": "của",
       "removeCalculatedField": "Bạn có chắc chắn muốn xóa trường được tính toán này?",
-      "yes": "Bạn có chắc chắn muốn xóa trường được tính toán này không?",
-      "no": "Đúng",
-      "None": "Không"
+      "yes": "Đúng",
+      "no": "Không",
+      "None": "Không có"
     },
     "pdfviewer": {
       "PdfViewer": "﻿Trình xem PDF",

@@ -1828,9 +1828,9 @@
       "selectGroup": "Vyberte skupiny",
       "of": "z",
       "removeCalculatedField": "Naozaj chcete odstrániť toto vypočítané pole?",
-      "yes": "Naozaj chcete odstrániť toto vypočítané pole?",
-      "no": "Áno",
-      "None": "nie"
+      "yes": "Áno",
+      "no": "žiadny",
+      "None": "žiadne"
     },
     "pdfviewer": {
       "PdfViewer": "﻿Prehliadač PDF",

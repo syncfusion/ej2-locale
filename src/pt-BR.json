@@ -1828,9 +1828,9 @@
       "selectGroup": "Selecionar grupos",
       "of": "do",
       "removeCalculatedField": "Tem certeza de que deseja excluir este campo calculado?",
-      "yes": "Tem certeza de que deseja excluir este campo calculado?",
-      "no": "Sim",
-      "None": "Não"
+      "yes": "sim",
+      "no": "Não",
+      "None": "Nenhum"
     },
     "pdfviewer": {
       "PdfViewer": "﻿Visualizador de PDF",

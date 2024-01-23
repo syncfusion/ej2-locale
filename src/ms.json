@@ -1828,9 +1828,9 @@
       "selectGroup": "Pilih kumpulan",
       "of": "daripada",
       "removeCalculatedField": "Adakah anda pasti mahu memadamkan medan yang dikira ini?",
-      "yes": "Adakah anda pasti mahu memadamkan medan terkira ini?",
-      "no": "ya",
-      "None": "Tidak"
+      "yes": "Ya",
+      "no": "Tidak",
+      "None": "tiada"
     },
     "pdfviewer": {
       "PdfViewer": "Pemapar PDF",
