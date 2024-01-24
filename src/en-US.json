@@ -1830,9 +1830,9 @@
             "selectGroup": "Select groups",
             "of": "of",
             "removeCalculatedField": "Are you sure you want to delete this calculated field?",
-            "yes": "Are you sure you want to delete this calculated field?",
-            "no": "Yes",
-            "None": "No"
+            "yes": "Yes",
+            "no": "No",
+            "None": "None"
         },
         "pdfviewer": {
             "PdfViewer": "PDF Viewer",

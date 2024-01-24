@@ -1828,9 +1828,9 @@
       "selectGroup": "Selectați grupuri",
       "of": "de",
       "removeCalculatedField": "Sigur doriți să ștergeți acest câmp calculat?",
-      "yes": "Sigur doriți să ștergeți acest câmp calculat?",
-      "no": "da",
-      "None": "Nu"
+      "Yes": "da",
+      "No": "Nu",
+      "None": "Nici unul"
     },
     "pdfviewer": {
       "PdfViewer": "﻿PDF Viewer",

@@ -1828,9 +1828,9 @@
       "selectGroup": "Wybierz grupy",
       "of": "z",
       "removeCalculatedField": "Czy na pewno chcesz usunąć to pole obliczeniowe?",
-      "yes": "Czy na pewno chcesz usunąć to pole obliczeniowe?",
-      "no": "tak",
-      "None": "Nie"
+      "yes": "tak",
+      "no": "Nie",
+      "None": "Żaden"
     },
     "pdfviewer": {
       "PdfViewer": "﻿Przeglądarka plików PDF",

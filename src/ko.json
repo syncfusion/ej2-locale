@@ -1828,9 +1828,9 @@
       "selectGroup": "그룹 선택",
       "of": "의",
       "removeCalculatedField": "이 계산 된 필드를 삭제 하시겠습니까?",
-      "yes": "이 계산된 필드를 삭제하시겠습니까?",
-      "no": "예",
-      "None": "아니요"
+      "yes": "예",
+      "no": "아니",
+      "None": "없음"
     },
     "pdfviewer": {
       "PdfViewer": "PDF 뷰어",

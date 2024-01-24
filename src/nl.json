@@ -1828,9 +1828,9 @@
           "selectGroup": "Selecteer groepen",
           "of": "van",
           "removeCalculatedField": "Weet u zeker dat u dit berekende veld wilt Verwijder?",
-          "yes": "Weet u zeker dat u dit berekende veld wilt verwijderen?",
-          "no": "Ja",
-          "None": "Nee"
+          "yes": "Ja",
+          "no": "Nee",
+          "None": "Geen"
       },
       "pdfviewer": {
           "PdfViewer": "PDF-viewer",

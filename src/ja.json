@@ -1828,9 +1828,9 @@
       "selectGroup": "グループを選択",
       "of": "の",
       "removeCalculatedField": "この計算フィールドを削除してもよろしいですか？",
-      "yes": "この計算フィールドを削除してもよろしいですか？",
-      "no": "はい",
-      "None": "いいえ"
+      "yes": "はい",
+      "no": "番号",
+      "None": "なし"
     },
     "pdfviewer": {
       "PdfViewer": "PDFビューアー",
