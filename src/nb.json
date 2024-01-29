@@ -1209,7 +1209,7 @@
       "tableRows": "Rad",
       "tableColumns": "Kolonne",
       "tableCellHorizontalAlign": "Tabellcelle Horisontal justering",
-      "tableCellVerticalAlign": "Vertikal justering",
+      "tableCellVerticalAlign": "Tabell Vertical Align",
       "createTable": "Lag tabell",
       "removeTable": "Fjern tabellen",
       "tableHeader": "Overskriftsrad",

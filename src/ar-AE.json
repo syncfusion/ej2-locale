@@ -1209,7 +1209,7 @@
       "tableRows": "صف",
       "tableColumns": "عمود",
       "tableCellHorizontalAlign": "خلية الجدول الأفقي محاذاة",
-      "tableCellVerticalAlign": "محاذاة عمودية",
+      "tableCellVerticalAlign": "المحاذاة العمودية للجدول",
       "createTable": "اصنع جدول",
       "removeTable": "إزالة الجدول",
       "tableHeader": "مقدمة الصف",

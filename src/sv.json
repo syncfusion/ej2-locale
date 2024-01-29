@@ -1209,7 +1209,7 @@
       "tableRows": "Rad",
       "tableColumns": "Kolumn",
       "tableCellHorizontalAlign": "Tabellcells horisontell justering",
-      "tableCellVerticalAlign": "Vertikal justering",
+      "tableCellVerticalAlign": "Tabell Vertikal Align",
       "createTable": "Skapa bord",
       "removeTable": "Ta bort tabellen",
       "tableHeader": "Rubrikrad",

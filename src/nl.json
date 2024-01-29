@@ -1209,7 +1209,7 @@
           "tableRows": "Fila",
           "tableColumns": "Columna",
           "tableCellHorizontalAlign": "Tabelcel Horizontaal uitlijnen",
-          "tableCellVerticalAlign": "Alineación vertical",
+          "tableCellVerticalAlign": "Alineación vertical de la tabla",
           "createTable": "Maak een tabel aan",
           "removeTable": "Verwijder tabel",
           "tableHeader": "Fila de encabezado",

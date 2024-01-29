@@ -1209,7 +1209,7 @@
       "tableRows": "Række",
       "tableColumns": "Kolonne",
       "tableCellHorizontalAlign": "Tabelcelle Vandret justering",
-      "tableCellVerticalAlign": "Lodret justering",
+      "tableCellVerticalAlign": "Tabel lodret justering",
       "createTable": "Opret tabel",
       "removeTable": "Fjern tabel",
       "tableHeader": "Overskriftsrække",

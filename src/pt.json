@@ -1209,7 +1209,7 @@
       "tableRows": "Linha",
       "tableColumns": "Coluna",
       "tableCellHorizontalAlign": "Alinhamento horizontal da célula da tabela",
-      "tableCellVerticalAlign": "Alinhamento vertical",
+      "tableCellVerticalAlign": "Alinhamento vertical da tabela",
       "createTable": "Criar a tabela",
       "removeTable": "Remover tabela",
       "tableHeader": "Linha de cabeçalho",

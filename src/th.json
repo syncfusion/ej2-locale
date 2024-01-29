@@ -1209,7 +1209,7 @@
       "tableRows": "แถว",
       "tableColumns": "คอลัมน์",
       "tableCellHorizontalAlign": "จัดเรียงแนวนอนของเซลล์ตาราง",
-      "tableCellVerticalAlign": "จัดแนวตั้ง",
+      "tableCellVerticalAlign": "จัดตำแหน่งตารางแนวตั้ง",
       "createTable": "สร้างตาราง",
       "removeTable": "ลบตาราง",
       "tableHeader": "แถวส่วนหัว",

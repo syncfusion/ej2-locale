@@ -1211,7 +1211,7 @@
       "tableRows": "Rangée",
       "tableColumns": "Colonne",
       "tableCellHorizontalAlign": "Alignement horizontal des cellules du tableau",
-      "tableCellVerticalAlign": "Alignement vertical",
+      "tableCellVerticalAlign": "Alignement vertical du tableau",
       "createTable": "Créer une table",
       "removeTable": "Supprimer le tableau",
       "tableHeader": "Ligne d'en-tête",

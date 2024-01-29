@@ -1209,7 +1209,7 @@
       "tableRows": "Red",
       "tableColumns": "Stupac",
       "tableCellHorizontalAlign": "Vodoravno poravnavanje ćelije tablice",
-      "tableCellVerticalAlign": "Okomito poravnanje",
+      "tableCellVerticalAlign": "Okomito poravnanje tablice",
       "createTable": "Stvori tablicu",
       "removeTable": "Ukloni tablicu",
       "tableHeader": "Redak zaglavlja",

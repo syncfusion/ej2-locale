@@ -1209,7 +1209,7 @@
       "tableRows": "ردیف",
       "tableColumns": "ستون",
       "tableCellHorizontalAlign": "جدول سلول تراز افقی",
-      "tableCellVerticalAlign": "تراز عمودی",
+      "tableCellVerticalAlign": "تراز عمودی جدول",
       "createTable": "ایجاد جدول",
       "removeTable": "حذف جدول",
       "tableHeader": "ردیف سرصفحه",

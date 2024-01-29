@@ -1209,7 +1209,7 @@
       "tableRows": "Rivi",
       "tableColumns": "Sarake",
       "tableCellHorizontalAlign": "Pöytäsolujen vaakasuuntainen kohdistus",
-      "tableCellVerticalAlign": "Pystysuuntainen tasaus",
+      "tableCellVerticalAlign": "Taulukon pystytasaus",
       "createTable": "Luo taulukko",
       "removeTable": "Poista taulukko",
       "tableHeader": "Otsikkorivi",

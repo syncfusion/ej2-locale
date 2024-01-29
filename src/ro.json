@@ -1209,7 +1209,7 @@
       "tableRows": "Rând",
       "tableColumns": "Coloană",
       "tableCellHorizontalAlign": "Aliniere orizontală a celulelor de masă",
-      "tableCellVerticalAlign": "Aliniere verticală",
+      "tableCellVerticalAlign": "Aliniere verticală a tabelului",
       "createTable": "Creare tabel",
       "removeTable": "Eliminați tabelul",
       "tableHeader": "Rând antet",

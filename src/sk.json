@@ -1209,7 +1209,7 @@
       "tableRows": "riadok",
       "tableColumns": "Stĺpec",
       "tableCellHorizontalAlign": "Horizontálne zarovnanie bunky tabuľky",
-      "tableCellVerticalAlign": "Vertikálne zarovnanie",
+      "tableCellVerticalAlign": "Tabuľka VERtical ALign",
       "createTable": "Vytvorenie tabuľky",
       "removeTable": "Odstráňte tabuľku",
       "tableHeader": "Riadok hlavičky",
