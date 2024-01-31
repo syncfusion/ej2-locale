@@ -1209,7 +1209,7 @@
       "tableRows": "Sıra",
       "tableColumns": "Kolon",
       "tableCellHorizontalAlign": "Tablo Hücresi Yatay Hizalama",
-      "tableCellVerticalAlign": "Dikey Hizalama",
+      "tableCellVerticalAlign": "Tablo Dikey Hizalama",
       "createTable": "Tablo Oluştur",
       "removeTable": "Tabloyu Kaldır",
       "tableHeader": "Üst bilgi satırı",

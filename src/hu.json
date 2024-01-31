@@ -1209,7 +1209,7 @@
       "tableRows": "Sor",
       "tableColumns": "Oszlop",
       "tableCellHorizontalAlign": "Táblázat cella vízszintes igazítása",
-      "tableCellVerticalAlign": "Függőleges igazítás",
+      "tableCellVerticalAlign": "Táblázat függőleges igazítása",
       "createTable": "Táblázat létrehozása",
       "removeTable": "Táblázat eltávolítása",
       "tableHeader": "Fejléc sor",

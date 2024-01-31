@@ -1209,7 +1209,7 @@
       "tableRows": "Řádek",
       "tableColumns": "Sloupec",
       "tableCellHorizontalAlign": "Horizontální zarovnání buňky tabulky",
-      "tableCellVerticalAlign": "Vertikální zarovnání",
+      "tableCellVerticalAlign": "Svislé zarovnání tabulky",
       "createTable": "Vytvořit tabulku",
       "removeTable": "Odebrat tabulku",
       "tableHeader": "Řádek záhlaví",

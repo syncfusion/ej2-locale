@@ -1209,7 +1209,7 @@
       "tableRows": "Riga",
       "tableColumns": "Colonna",
       "tableCellHorizontalAlign": "Allinea orizzontale cella cella",
-      "tableCellVerticalAlign": "Allineamento verticale",
+      "tableCellVerticalAlign": "Allineamento verticale della tabella",
       "createTable": "Crea tabella",
       "removeTable": "Rimuovi tabella",
       "tableHeader": "Riga di intestazione",

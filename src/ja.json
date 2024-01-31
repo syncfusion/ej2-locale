@@ -1209,7 +1209,7 @@
       "tableRows": "行",
       "tableColumns": "カラム",
       "tableCellHorizontalAlign": "テーブルセルの水平方向の整列",
-      "tableCellVerticalAlign": "垂直方向の整列",
+      "tableCellVerticalAlign": "テーブルの垂直方向の配置",
       "createTable": "テーブルを作成",
       "removeTable": "テーブルを削除",
       "tableHeader": "ヘッダー行",

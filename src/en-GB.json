@@ -1211,7 +1211,7 @@
             "tableRows": "Row",
             "tableColumns": "Column",
             "tableCellHorizontalAlign": "Table Cell Horizontal Align",
-            "tableCellVerticalAlign": "Vertical Align",
+            "tableCellVerticalAlign": "Table Vertical Align",
             "createTable": "Create Table",
             "removeTable": "Remove Table",
             "tableHeader": "Header Row",

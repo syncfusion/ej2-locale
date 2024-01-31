@@ -1211,7 +1211,7 @@
       "tableRows": "Reihe",
       "tableColumns": "Spalte",
       "tableCellHorizontalAlign": "Horizontale Ausrichtung der Tabellenzelle",
-      "tableCellVerticalAlign": "Vertikal ausrichten",
+      "tableCellVerticalAlign": "Tabelle vertikal ausrichten",
       "createTable": "Tabelle erstellen",
       "removeTable": "Tabelle entfernen",
       "tableHeader": "Kopfzeile",

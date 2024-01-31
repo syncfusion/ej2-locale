@@ -1209,7 +1209,7 @@
       "tableRows": "열",
       "tableColumns": "열",
       "tableCellHorizontalAlign": "테이블 셀 가로 정렬",
-      "tableCellVerticalAlign": "수직 정렬",
+      "tableCellVerticalAlign": "테이블 수직 정렬",
       "createTable": "테이블 만들기",
       "removeTable": "테이블 제거",
       "tableHeader": "헤더 행",

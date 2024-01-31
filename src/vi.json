@@ -1209,7 +1209,7 @@
       "tableRows": "Hàng ngang",
       "tableColumns": "Cột",
       "tableCellHorizontalAlign": "Bảng di động ngang",
-      "tableCellVerticalAlign": "Căn dọc",
+      "tableCellVerticalAlign": "Căn chỉnh bảng theo chiều dọc",
       "createTable": "Tạo bảng",
       "removeTable": "Xóa bảng",
       "tableHeader": "Dòng tiêu đề",

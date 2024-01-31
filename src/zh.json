@@ -1211,7 +1211,7 @@
       "tableRows": "排",
       "tableColumns": "柱子",
       "tableCellHorizontalAlign": "表格單元格水平對齊",
-      "tableCellVerticalAlign": "垂直对齐",
+      "tableCellVerticalAlign": "表格垂直对齐",
       "createTable": "建立表格",
       "removeTable": "刪除表",
       "tableHeader": "标题行",

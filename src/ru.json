@@ -1209,7 +1209,7 @@
       "tableRows": "Ряд",
       "tableColumns": "Столбец",
       "tableCellHorizontalAlign": "Горизонтальное выравнивание ячейки таблицы",
-      "tableCellVerticalAlign": "Вертикальное выравнивание",
+      "tableCellVerticalAlign": "Таблица по вертикали",
       "createTable": "Создать таблицу",
       "removeTable": "Удалить таблицу",
       "tableHeader": "Заголовок строки",

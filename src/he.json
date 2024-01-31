@@ -1209,7 +1209,7 @@
       "tableRows": "שׁוּרָה",
       "tableColumns": "טור",
       "tableCellHorizontalAlign": "יישור אופקי של תא שולחן",
-      "tableCellVerticalAlign": "יישור אנכי",
+      "tableCellVerticalAlign": "טבלת יישור אנכיתי",
       "createTable": "צור טבלה",
       "removeTable": "הסר את הטבלה",
       "tableHeader": "שורת כותרת",

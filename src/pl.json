@@ -1209,7 +1209,7 @@
       "tableRows": "Wiersz",
       "tableColumns": "Kolumna",
       "tableCellHorizontalAlign": "Tabela komórek Wyrównanie w poziomie",
-      "tableCellVerticalAlign": "Wyrównanie w pionie",
+      "tableCellVerticalAlign": "Wyrównanie w pionie tabeli",
       "createTable": "Utwórz tabelę",
       "removeTable": "Usuń tabelę",
       "tableHeader": "Wiersz nagłówka",

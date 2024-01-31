@@ -1211,7 +1211,7 @@
       "tableRows": "Fila",
       "tableColumns": "Columna",
       "tableCellHorizontalAlign": "Alineación horizontal de celda de tabla",
-      "tableCellVerticalAlign": "Alineación vertical",
+      "tableCellVerticalAlign": "Alineación vertical de mesa",
       "createTable": "Crear mesa",
       "removeTable": "Eliminar tabla",
       "tableHeader": "Fila de encabezado",

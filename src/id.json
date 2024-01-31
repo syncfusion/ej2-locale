@@ -1209,7 +1209,7 @@
       "tableRows": "Baris",
       "tableColumns": "Kolom",
       "tableCellHorizontalAlign": "Perataan Horisontal Sel Tabel",
-      "tableCellVerticalAlign": "Perataan Vertikal",
+      "tableCellVerticalAlign": "Tabel Vertikal Sejajar",
       "createTable": "Buat tabel",
       "removeTable": "Hapus Table",
       "tableHeader": "Baris Tajuk",
