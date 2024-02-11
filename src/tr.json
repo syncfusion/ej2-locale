@@ -1287,7 +1287,7 @@
       "emojiPickerNoResultFound": "Sonuç bulunamadı",
       "emojiPickerTrySomethingElse": "başka bir şey dene",
       "linkAriaLabel": "Yeni pencerede aç",
-      "ImageLinkAriaLabel": "Yeni pencerede aç",
+      "imageLinkAriaLabel": "Yeni pencerede aç",
       "unsupportedImage": "Desteklenmeyen dosya formatı"
     },
     "colorpicker": {

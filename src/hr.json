@@ -1287,7 +1287,7 @@
       "emojiPickerNoResultFound": "Nema rezultata",
       "emojiPickerTrySomethingElse": "Pokušajte nešto drugo",
       "linkAriaLabel": "Otvori u novom prozoru",
-      "ImageLinkAriaLabel": "Otvori u novom prozoru",
+      "imageLinkAriaLabel": "Otvori u novom prozoru",
       "unsupportedImage": "Nepodržani format datoteke"
     },
     "colorpicker": {

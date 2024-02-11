@@ -1287,7 +1287,7 @@
       "emojiPickerNoResultFound": "Ei tuloksia",
       "emojiPickerTrySomethingElse": "Kokeile jotain muuta",
       "linkAriaLabel": "Avaa uudessa ikkunassa",
-      "ImageLinkAriaLabel": "Avaa uudessa ikkunassa",
+      "imageLinkAriaLabel": "Avaa uudessa ikkunassa",
       "unsupportedImage": "Tiedostomuotoa ei tueta"
     },
     "colorpicker": {

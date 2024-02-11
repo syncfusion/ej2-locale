@@ -1287,7 +1287,7 @@
       "emojiPickerNoResultFound": "không có kết quả nào được tìm thấy",
       "emojiPickerTrySomethingElse": "Hãy thử một cái gì đó khác",
       "linkAriaLabel": "Mở trong cửa sổ mới",
-      "ImageLinkAriaLabel": "Mở trong cửa sổ mới",
+      "imageLinkAriaLabel": "Mở trong cửa sổ mới",
       "unsupportedImage": "Định dạng tập tin không được hỗ trợ"
     },
     "colorpicker": {

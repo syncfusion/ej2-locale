@@ -1287,7 +1287,7 @@
           "emojiPickerNoResultFound": "geen resultaten gevonden",
           "emojiPickerTrySomethingElse": "Probeer iets anders",
           "linkAriaLabel": "Openen in een nieuw venster",
-          "ImageLinkAriaLabel": "Openen in een nieuw venster",
+          "imageLinkAriaLabel": "Openen in een nieuw venster",
           "unsupportedImage": "Niet ondersteund bestandsformaat"
       },
       "colorpicker": {

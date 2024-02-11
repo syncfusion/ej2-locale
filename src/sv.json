@@ -1287,7 +1287,7 @@
       "emojiPickerNoResultFound": "Inga resultat funna",
       "emojiPickerTrySomethingElse": "Prova något annat",
       "linkAriaLabel": "Öppna i nytt fönster",
-      "ImageLinkAriaLabel": "Öppna i nytt fönster",
+      "imageLinkAriaLabel": "Öppna i nytt fönster",
       "unsupportedImage": "Filformat som inte stöds"
     },
     "colorpicker": {

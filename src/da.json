@@ -1287,7 +1287,7 @@
       "emojiPickerNoResultFound": "Ingen resultater fundet",
       "emojiPickerTrySomethingElse": "Prøv noget andet",
       "linkAriaLabel": "Åbn i nyt vindue",
-      "ImageLinkAriaLabel": "Åbn i nyt vindue",
+      "imageLinkAriaLabel": "Åbn i nyt vindue",
       "unsupportedImage": "Ikke-understøttet filformat"
     },
     "colorpicker": {

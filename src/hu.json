@@ -1287,7 +1287,7 @@
       "emojiPickerNoResultFound": "Nincs találat",
       "emojiPickerTrySomethingElse": "Próbálj ki valami mást",
       "linkAriaLabel": "Megnyitás új ablakban",
-      "ImageLinkAriaLabel": "Megnyitás új ablakban",
+      "imageLinkAriaLabel": "Megnyitás új ablakban",
       "unsupportedImage": "Nem támogatott fájlformátum"
     },
     "colorpicker": {
