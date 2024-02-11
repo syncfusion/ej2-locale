@@ -1290,7 +1290,7 @@
             "emojiPickerTrySomethingElse": "अरू केही प्रयास गर्नुहोस्",
             "linkAriaLabel": "नयाँ विन्डोमा खोल्नुहोस्",
             "imageLinkAriaLabel": "नयाँ विन्डोमा खोल्नुहोस्",
-            "unsupportedImage": ""
+            "unsupportedImage": "असमर्थित फाइल ढाँचा"
         },
         "colorpicker": {
             "Apply": "निवेदन गर्नु",
