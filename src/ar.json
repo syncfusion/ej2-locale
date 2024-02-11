@@ -1289,7 +1289,8 @@
       "emojiPickerNoResultFound": "لم يتم العثور على نتائج",
       "emojiPickerTrySomethingElse": "جرب شيئًا آخر",
       "linkAriaLabel": "افتح في نافذة جديدة",
-      "ImageLinkAriaLabel": "افتح في نافذة جديدة"
+      "ImageLinkAriaLabel": "افتح في نافذة جديدة",
+      "unsupportedImage": "تنسيق ملف غير معتمد"
     },
     "colorpicker": {
       "Apply": "تطبيق",

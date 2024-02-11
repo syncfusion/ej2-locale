@@ -1235,7 +1235,8 @@
       "emojiPickerNoResultFound": "Engar niðurstöður fundust",
       "emojiPickerTrySomethingElse": "Prófaðu eitthvað annað",
       "linkAriaLabel": "Opna í nýjum glugga",
-      "ImageLinkAriaLabel": "Opna í nýjum glugga"
+      "ImageLinkAriaLabel": "Opna í nýjum glugga",
+      "unsupportedImage": "Óstudd skráarsnið"
     },
     "colorpicker": {
       "Apply": "Sækja um",

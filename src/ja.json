@@ -1287,7 +1287,8 @@
       "emojiPickerNoResultFound": "結果が見つかりません",
       "emojiPickerTrySomethingElse": "何か別のことを試してみる",
       "linkAriaLabel": "新しいウィンドウで開きます",
-      "ImageLinkAriaLabel": "新しいウィンドウで開きます"
+      "ImageLinkAriaLabel": "新しいウィンドウで開きます",
+      "unsupportedImage": "サポートされていないファイル形式です"
     },
     "colorpicker": {
       "Apply": "適用する",
