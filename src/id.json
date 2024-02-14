@@ -1287,7 +1287,8 @@
       "emojiPickerNoResultFound": "Tidak ada hasil yang ditemukan",
       "emojiPickerTrySomethingElse": "Cobalah sesuatu yang lain",
       "linkAriaLabel": "Buka di jendela baru",
-      "ImageLinkAriaLabel": "Buka di jendela baru"
+      "imageLinkAriaLabel": "Buka di jendela baru",
+      "unsupportedImage": "Format file tidak didukung"
     },
     "colorpicker": {
       "Apply": "Menerapkan",

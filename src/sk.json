@@ -1287,7 +1287,8 @@
       "emojiPickerNoResultFound": "Neboli nájdené žiadne výsledky",
       "emojiPickerTrySomethingElse": "Skúste niečo iné",
       "linkAriaLabel": "Otvoriť v novom okne",
-      "ImageLinkAriaLabel": "Otvoriť v novom okne"
+      "imageLinkAriaLabel": "Otvoriť v novom okne",
+      "unsupportedImage": "Nepodporovaný formát súboru"
     },
     "colorpicker": {
       "Apply": "platiť",

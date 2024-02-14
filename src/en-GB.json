@@ -1289,7 +1289,8 @@
             "emojiPickerNoResultFound": "No results found",
             "emojiPickerTrySomethingElse": "Try something else",
             "linkAriaLabel": "Open in new window",
-            "ImageLinkAriaLabel": "Open in new window"
+            "imageLinkAriaLabel": "Open in new window",
+            "unsupportedImage": "Unsupported file format"
         },
         "colorpicker": {
             "Apply": "Apply",

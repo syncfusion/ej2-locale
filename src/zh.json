@@ -1289,7 +1289,8 @@
       "emojiPickerNoResultFound": "未找到结果",
       "emojiPickerTrySomethingElse": "尝试别的东西",
       "linkAriaLabel": "在新窗口中打开",
-      "ImageLinkAriaLabel": "在新窗口中打开"
+      "imageLinkAriaLabel": "在新窗口中打开",
+      "unsupportedImage": "不支援的文件格式"
     },
     "colorpicker": {
       "Apply": "應用",
