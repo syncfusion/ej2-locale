@@ -130,7 +130,8 @@
       "CheckBoxLabel": "флажок",
       "Expanded": "Расширенный",
       "Collapsed": "Свернуто",
-      "SelectAllCheckbox": "Флажок «Выбрать все»"
+      "SelectAllCheckbox": "Флажок «Выбрать все»",
+      "SelectRow": "Выберите строку"
     },
     "pager": {
       "currentPageInfo": "{0} из {1} страниц",

@@ -130,7 +130,8 @@
       "CheckBoxLabel": "jelölőnégyzetet",
       "Expanded": "Kiterjesztett",
       "Collapsed": "Összeomlott",
-      "SelectAllCheckbox": "Jelölje be az Összes jelölőnégyzetet"
+      "SelectAllCheckbox": "Jelölje be az Összes jelölőnégyzetet",
+      "SelectRow": "Válassza ki a sort"
     },
     "pager": {
       "currentPageInfo": "{1} oldal {0}",

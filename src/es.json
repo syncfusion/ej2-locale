@@ -130,7 +130,8 @@
       "CheckBoxLabel": "casilla de verificación",
       "Expanded": "Expandida",
       "Collapsed": "Contraída",
-      "SelectAllCheckbox": "Seleccionar todo Casilla de verificación"
+      "SelectAllCheckbox": "Seleccionar todo Casilla de verificación",
+      "SelectRow": "Seleccionar fila"
     },
     "pager": {
       "currentPageInfo": "{0} de {1} páginas",

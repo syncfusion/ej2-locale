@@ -85,7 +85,8 @@
       "AND": "OG",
       "OR": "EÐA",
       "ShowRowsWhere": "Sýna línur þar sem:",
-      "SelectAllCheckbox": "Veldu allt gátreit"
+      "SelectAllCheckbox": "Veldu allt gátreit",
+      "SelectRow": "Veldu röð"
     },
     "pager": {
       "currentPageInfo": "{0} af {1} síðum",

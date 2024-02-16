@@ -130,7 +130,8 @@
       "CheckBoxLabel": "valintaruutu",
       "Expanded": "Laajennettu",
       "Collapsed": "Romahtanut",
-      "SelectAllCheckbox": "Valitse Kaikki -valintaruutu"
+      "SelectAllCheckbox": "Valitse Kaikki -valintaruutu",
+      "SelectRow": "Valitse rivi"
     },
     "pager": {
       "currentPageInfo": "{0} {1} sivusta",

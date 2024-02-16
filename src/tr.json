@@ -130,7 +130,8 @@
       "CheckBoxLabel": "onay kutusu",
       "Expanded": "Genişletilmiş",
       "Collapsed": "çöktü",
-      "SelectAllCheckbox": "Tümünü Seç Onay Kutusu"
+      "SelectAllCheckbox": "Tümünü Seç Onay Kutusu",
+      "SelectRow": "Satır seç"
     },
     "pager": {
       "currentPageInfo": "{1} sayfanın {0}",

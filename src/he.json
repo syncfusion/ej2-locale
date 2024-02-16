@@ -130,7 +130,8 @@
       "CheckBoxLabel": "תיבת סימון",
       "Expanded": "מוּרחָב",
       "Collapsed": "תצוגה מכווצת",
-      "SelectAllCheckbox": "בחר תיבת סימון הכל"
+      "SelectAllCheckbox": "בחר תיבת סימון הכל",
+      "SelectRow": "בחר שורה"
     },
     "pager": {
       "currentPageInfo": "{0} מתוך {1} עמודים",

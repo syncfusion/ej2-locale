@@ -130,7 +130,8 @@
       "CheckBoxLabel": "kotak centang",
       "Expanded": "Diperluas",
       "Collapsed": "Runtuh",
-      "SelectAllCheckbox": "Pilih Semua Kotak Semak"
+      "SelectAllCheckbox": "Pilih Semua Kotak Semak",
+      "SelectRow": "Pilih baris"
     },
     "pager": {
       "currentPageInfo": "{0} halaman {1}",

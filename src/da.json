@@ -130,7 +130,8 @@
       "CheckBoxLabel": "afkrydsningsfeltet",
       "Expanded": "Udvidet",
       "Collapsed": "Kollapsede",
-      "SelectAllCheckbox": "Marker afkrydsningsfeltet Alle"
+      "SelectAllCheckbox": "Marker afkrydsningsfeltet Alle",
+      "SelectRow": "Vælg række"
     },
     "pager": {
       "currentPageInfo": "{0} af {1} sider",

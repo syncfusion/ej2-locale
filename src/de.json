@@ -130,7 +130,8 @@
       "CheckBoxLabel": "Kontrollkästchen",
       "Expanded": "Erweitert",
       "Collapsed": "Zusammengebrochen",
-      "SelectAllCheckbox": "Kontrollkästchen „Alle auswählen“."
+      "SelectAllCheckbox": "Kontrollkästchen „Alle auswählen“.",
+      "SelectRow": "Zeile auswählen"
     },
     "pager": {
       "currentPageInfo": "{0} von {1} Seiten",

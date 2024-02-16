@@ -130,7 +130,8 @@
           "CheckBoxLabel": "selectievakje",
           "Expanded": "uitgebreid",
           "Collapsed": "Ingestort",
-          "SelectAllCheckbox": "Selecteer Alles"
+          "SelectAllCheckbox": "Selecteer Alles",
+          "SelectRow": "Selecteer rij"
       },
       "pager": {
           "currentPageInfo": "{0} van {1} pagina's",
