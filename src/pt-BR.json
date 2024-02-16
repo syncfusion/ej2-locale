@@ -130,7 +130,8 @@
       "CheckBoxLabel": "caixa de seleção",
       "Expanded": "Expandida",
       "Collapsed": "Desabou",
-      "SelectAllCheckbox": "Caixa de seleção Selecionar tudo"
+      "SelectAllCheckbox": "Caixa de seleção Selecionar tudo",
+      "SelectRow": "Selecione a linha"
     },
     "pager": {
       "currentPageInfo": "{0} de {1} páginas",

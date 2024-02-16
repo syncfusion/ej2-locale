@@ -130,7 +130,8 @@
       "CheckBoxLabel": "avmerkingsboksen",
       "Expanded": "Utvidet",
       "Collapsed": "Kollapset",
-      "SelectAllCheckbox": "Merk av for Alle"
+      "SelectAllCheckbox": "Merk av for Alle",
+      "SelectRow": "Velg rad"
     },
     "pager": {
       "currentPageInfo": "{0} av {1} sider",

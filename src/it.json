@@ -130,7 +130,8 @@
       "CheckBoxLabel": "casella di controllo",
       "Expanded": "Allargata",
       "Collapsed": "Crollato",
-      "SelectAllCheckbox": "Seleziona la casella di controllo Tutto"
+      "SelectAllCheckbox": "Seleziona la casella di controllo Tutto",
+      "SelectRow": "Seleziona riga"
     },
     "pager": {
       "currentPageInfo": "{0} di {1} pagine",

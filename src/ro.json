@@ -130,7 +130,8 @@
       "CheckBoxLabel": "Caseta de bifat",
       "Expanded": "Extins",
       "Collapsed": "S-a prăbușit",
-      "SelectAllCheckbox": "Selectați caseta de selectare Toate"
+      "SelectAllCheckbox": "Selectați caseta de selectare Toate",
+      "SelectRow": "Selectați rândul"
     },
     "pager": {
       "currentPageInfo": "{0} din {1} pagini",

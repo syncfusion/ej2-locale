@@ -130,7 +130,8 @@
       "CheckBoxLabel": "potvrdni okvir",
       "Expanded": "Prošireno",
       "Collapsed": "Srušeno",
-      "SelectAllCheckbox": "Odaberite potvrdni okvir Sve"
+      "SelectAllCheckbox": "Odaberite potvrdni okvir Sve",
+      "SelectRow": "Odaberite red"
     },
     "pager": {
       "currentPageInfo": "{0} od {1} stranica",

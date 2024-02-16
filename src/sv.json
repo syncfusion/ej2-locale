@@ -130,7 +130,8 @@
       "CheckBoxLabel": "kryssruta",
       "Expanded": "Expanderat",
       "Collapsed": "Kollapsade",
-      "SelectAllCheckbox": "Markera kryssrutan Alla"
+      "SelectAllCheckbox": "Markera kryssrutan Alla",
+      "SelectRow": "Välj rad"
     },
     "pager": {
       "currentPageInfo": "{0} av {1} sidor",

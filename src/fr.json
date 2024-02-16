@@ -130,7 +130,8 @@
       "CheckBoxLabel": "case à cocher",
       "Expanded": "Étendue",
       "Collapsed": "S'est effondré",
-      "SelectAllCheckbox": "Case à cocher Sélectionner tout"
+      "SelectAllCheckbox": "Case à cocher Sélectionner tout",
+      "SelectRow": "Sélectionner une ligne"
     },
     "pager": {
       "currentPageInfo": "{0} de {1} pages",

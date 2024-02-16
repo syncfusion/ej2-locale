@@ -130,7 +130,8 @@
       "CheckBoxLabel": "خانة الاختيار",
       "Expanded": "موسع",
       "Collapsed": "انهار",
-      "SelectAllCheckbox": "حدد خانة الاختيار الكل"
+      "SelectAllCheckbox": "حدد خانة الاختيار الكل",
+      "SelectRow": "حدد الصف"
     },
     "pager": {
       "currentPageInfo": "{0} من {1} صفحة",

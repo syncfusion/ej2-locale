@@ -130,7 +130,8 @@
       "CheckBoxLabel": "zaškrtávací políčko",
       "Expanded": "Rozšírené",
       "Collapsed": "Zrútené",
-      "SelectAllCheckbox": "Začiarknite políčko Všetky"
+      "SelectAllCheckbox": "Začiarknite políčko Všetky",
+      "SelectRow": "Vyberte riadok"
     },
     "pager": {
       "currentPageInfo": "{0} z {1} stránok",

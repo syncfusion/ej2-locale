@@ -130,7 +130,8 @@
       "CheckBoxLabel": "چک باکس",
       "Expanded": "منبسط",
       "Collapsed": "فرو ریخت",
-      "SelectAllCheckbox": "همه کادر را انتخاب کنید"
+      "SelectAllCheckbox": "همه کادر را انتخاب کنید",
+      "SelectRow": "ردیف را انتخاب کنید"
     },
     "pager": {
       "currentPageInfo": "{0} از 1 {صفحه",
