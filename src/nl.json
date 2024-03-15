@@ -2161,8 +2161,8 @@
       "drop-down-tree": {
           "noRecordsTemplate": "Geen verslagen gevonden",
           "actionFailureTemplate": "Verzoek mislukt",
-          "overflowCountTemplate": "+ $ {count} meer ...",
-          "totalCountTemplate": "$ {count} geselecteerd"
+          "overflowCountTemplate": "+ ${count} meer ...",
+          "totalCountTemplate": "${count} geselecteerd"
       },
       "documenteditor": {
           "Table": "Tabel",

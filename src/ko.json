@@ -2161,8 +2161,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "기록 없음",
       "actionFailureTemplate": "요청 실패",
-      "overflowCountTemplate": "+ $ {count} 개 더 ..",
-      "totalCountTemplate": "$ {count} 선택됨"
+      "overflowCountTemplate": "+ ${count} 개 더 ..",
+      "totalCountTemplate": "${count} 선택됨"
     },
     "documenteditor": {
       "Table": "표",

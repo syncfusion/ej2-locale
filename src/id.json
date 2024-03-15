@@ -2161,8 +2161,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Tidak ada catatan yang ditemukan",
       "actionFailureTemplate": "Permintaan gagal",
-      "overflowCountTemplate": "+ $ {count} lagi ..",
-      "totalCountTemplate": "$ {count} dipilih"
+      "overflowCountTemplate": "+ ${count} lagi ..",
+      "totalCountTemplate": "${count} dipilih"
     },
     "documenteditor": {
       "Table": "Meja",

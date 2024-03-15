@@ -2040,8 +2040,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Nenhum registro foi encontrado",
       "actionFailureTemplate": "Pedido falhou",
-      "overflowCountTemplate": "+ $ {count} mais ..",
-      "totalCountTemplate": "$ {count} selecionado"
+      "overflowCountTemplate": "+ ${count} mais ..",
+      "totalCountTemplate": "${count} selecionado"
     },
     "documenteditor": {
       "Table": "Mesa",

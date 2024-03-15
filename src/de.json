@@ -2163,8 +2163,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Keine Aufzeichnungen gefunden",
       "actionFailureTemplate": "Anfrage fehlgeschlagen",
-      "overflowCountTemplate": "+ $ {count} mehr ..",
-      "totalCountTemplate": "$ {count} ausgewählt"
+      "overflowCountTemplate": "+ ${count} mehr ..",
+      "totalCountTemplate": "${count} ausgewählt"
     },
     "documenteditor": {
       "Table": "Tabelle",

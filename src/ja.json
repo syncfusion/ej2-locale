@@ -2161,8 +2161,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "レコードが見つかりません",
       "actionFailureTemplate": "要求が失敗しました",
-      "overflowCountTemplate": "+ $ {count}もっと..",
-      "totalCountTemplate": "$ {count}が選択されました"
+      "overflowCountTemplate": "+ ${count}もっと..",
+      "totalCountTemplate": "${count}が選択されました"
     },
     "documenteditor": {
       "Table": "テーブル",

@@ -2163,8 +2163,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "لا توجد سجلات",
       "actionFailureTemplate": "الطلب فشل",
-      "overflowCountTemplate": "+ $ {count} أكثر ..",
-      "totalCountTemplate": "تم اختيار {عدد} دولار"
+      "overflowCountTemplate": "+ ${count} أكثر ..",
+      "totalCountTemplate": "تم اختيار ${count} دولار"
     },
     "documenteditor": {
       "Table": "الطاولة",

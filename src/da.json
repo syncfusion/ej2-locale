@@ -2161,8 +2161,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Ingen optegnelser fundet",
       "actionFailureTemplate": "Anmodningen mislykkedes",
-      "overflowCountTemplate": "+ $ {count} mere ..",
-      "totalCountTemplate": "$ {count} valgt"
+      "overflowCountTemplate": "+ ${count} mere ..",
+      "totalCountTemplate": "${count} valgt"
     },
     "documenteditor": {
       "Table": "Bord",

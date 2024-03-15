@@ -2161,8 +2161,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "ไม่พบบันทึก",
       "actionFailureTemplate": "คำขอล้มเหลว",
-      "overflowCountTemplate": "และอีก $ {count} ..",
-      "totalCountTemplate": "เลือก $ {count}"
+      "overflowCountTemplate": "และอีก ${count} ..",
+      "totalCountTemplate": "เลือก ${count}"
     },
     "documenteditor": {
       "Table": "โต๊ะ",

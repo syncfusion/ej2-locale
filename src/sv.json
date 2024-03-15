@@ -2162,8 +2162,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "Inga uppgifter funna",
       "actionFailureTemplate": "Begäran misslyckades",
-      "overflowCountTemplate": "+ $ {count} till ..",
-      "totalCountTemplate": "$ {count} har valts"
+      "overflowCountTemplate": "+ ${count} till ..",
+      "totalCountTemplate": "${count} har valts"
     },
     "documenteditor": {
       "Table": "Tabell",

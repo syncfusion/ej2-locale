@@ -2163,8 +2163,8 @@
     "drop-down-tree": {
       "noRecordsTemplate": "записей не найдено",
       "actionFailureTemplate": "Запрос не выполнен",
-      "overflowCountTemplate": "+ еще $ {count} ..",
-      "totalCountTemplate": "Выбрано $ {count}"
+      "overflowCountTemplate": "+ еще ${count} ..",
+      "totalCountTemplate": "Выбрано ${count}"
     },
     "documenteditor": {
       "Table": "Стол",
