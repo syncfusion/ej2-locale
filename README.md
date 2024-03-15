@@ -27,6 +27,7 @@ Locale translations for Essential JS 2 components in multiple languages.
 | ko     | Korean - Korea                 |
 | ms      | Malay - Malaysia               |
 | nb      | Norwegian (Bokmål) - Norway    |
+| ne-NP   | Nepali - Nepal               |
 | nl      | Dutch - The Netherlands        |
 | pl      | Polish - Poland                |
 | pt      | Portuguese - Portugal          |
