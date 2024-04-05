@@ -938,6 +938,7 @@
       "subject": "aihe",
       "addTitle": "Lisää otsikko",
       "moreDetails": "Lisätietoja",
+      "moreEvents": "Lisää tapahtumia",
       "save": "Tallentaa",
       "editContent": "Miten haluaisit muuttaa tapaamista sarjassa?",
       "deleteContent": "Haluatko varmasti poistaa tämän tapahtuman?",
