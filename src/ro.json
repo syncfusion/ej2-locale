@@ -175,10 +175,10 @@
     "dropdowns": {
       "noRecordsTemplate": "Nu au fost găsite",
       "actionFailureTemplate": "Solicitarea a eșuat",
-      "overflowCountTemplate": "+${număr} mai mult ..",
+      "overflowCountTemplate": "+${count} mai mult ..",
       "selectAllText": "Selectează tot",
       "unSelectAllText": "Deselectează tot",
-      "totalCountTemplate": "${număr} selectat"
+      "totalCountTemplate": "${count} selectat"
     },
     "drop-down-list": {
       "noRecordsTemplate": "Nu au fost găsite",
@@ -195,10 +195,10 @@
     "multi-select": {
       "noRecordsTemplate": "Nu au fost găsite",
       "actionFailureTemplate": "Solicitarea a eșuat",
-      "overflowCountTemplate": "+${număr} mai mult ..",
+      "overflowCountTemplate": "+${count} mai mult ..",
       "selectAllText": "Selectează tot",
       "unSelectAllText": "Deselectează tot",
-      "totalCountTemplate": "${număr} selectat"
+      "totalCountTemplate": "${count} selectat"
     },
     "listbox": {
       "noRecordsTemplate": "Nu au fost găsite",
