@@ -971,6 +971,7 @@
       "invalidDateError": "Den indtastede datoværdi er ugyldig.",
       "blockAlert": "Begivenheder kan ikke planlægges inden for det blokerede tidsinterval.",
       "ok": "Okay",
+      "of": "af",
       "yes": "Ja",
       "no": "Ingen",
       "occurrence": "Hændelse",
@@ -1128,7 +1129,11 @@
       "splitTask": "Opdel opgave",
       "mergeTask": "Flet opgave",
       "left": "Venstre",
-      "right": "Ret"
+      "right": "Ret",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Opstillinger",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Rediger Hyperlink",
       "Insert": "Indsæt",
       "General": "Generel",
+      "The number must be between": "Tallet skal være mellem 1 og 9",
+      "The Invalid number": "Dette er ikke et gyldigt nummer",
       "Indentation": "Indrykning",
       "Before text": "Før tekst",
       "Special": "Særlig",
@@ -3094,8 +3101,10 @@
       "Match case": "Matchetui",
       "Apply": "ansøge",
       "GoToPage": "Gå til side",
-      "No matches": "Viewer er færdig med at søge i dokumentet. ",
-      "No Text Found": "Ingen tekst fundet",
+      "No Matches": "PDF Viewer er færdig med at søge i dokumentet. Der blev ikke fundet nogen match.",
+      "No More Matches": "PDF Viewer er færdig med at søge i dokumentet. Der blev ikke fundet flere matcher.",
+      "No Search Matches": "Ingen match fundet",
+      "No More Search Matches": "Der blev ikke fundet flere matcher",
       "Undo": "Fortryd",
       "Redo": "Gentag",
       "Annotation": "Tilføj eller rediger annoteringer",
@@ -3285,7 +3294,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "sq",
-      "Initial": "Initial"
+      "Initial": "Initial",
+      "No matches": "Viewer er færdig med at søge i dokumentet. ",
+      "No Text Found": "Ingen tekst fundet"
     },
     "stepper": {
       "optional": "Valgfri"

@@ -971,6 +971,7 @@
       "invalidDateError": "De ingevoerde datumwaarde is ongeldig.",
       "blockAlert": "Evenementen kunnen niet worden gepland binnen het geblokkeerde tijdsbereik.",
       "ok": "OK",
+      "of": "van",
       "yes": "Ja",
       "no": "Nee",
       "occurrence": "voorval",
@@ -1128,7 +1129,11 @@
       "splitTask": "Taak splitsen",
       "mergeTask": "Taak samenvoegen",
       "left": "Links",
-      "right": "Rechtsaf"
+      "right": "Rechtsaf",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "alignementen",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Hyperlink bewerken",
       "Insert": "Invoegen",
       "General": "Algemeen",
+      "The number must be between": "Het getal moet tussen 1 en 9 liggen",
+      "The Invalid number": "Dit is geen geldig nummer",
       "Indentation": "Inspringing",
       "Before text": "Voor tekst",
       "Special": "Speciaal",
@@ -3099,8 +3106,10 @@
       "Match case": "Match geval",
       "Apply": "Toepassen",
       "GoToPage": "Ga naar pagina",
-      "No matches": "Viewer is klaar met het doorzoeken van het document. ",
-      "No Text Found": "Geen tekst gevonden",
+      "No Matches": "PDF Viewer heeft het document doorzocht. Er zijn geen overeenkomsten gevonden.",
+      "No More Matches": "PDF Viewer heeft het document doorzocht. Er zijn geen overeenkomsten meer gevonden.",
+      "No Search Matches": "Geen overeenkomsten gevonden",
+      "No More Search Matches": "Geen overeenkomsten meer gevonden",
       "Undo": "Ongedaan maken",
       "Redo": "Opnieuw doen",
       "Annotation": "Annotaties toevoegen of bewerken",
@@ -3290,7 +3299,9 @@
       "pt": "pt",
       "cu": "ku",
       "sq": "vierkante meter",
-      "Initial": "Voorletter"
+      "Initial": "Voorletter",
+      "No matches": "Viewer is klaar met het doorzoeken van het document. ",
+      "No Text Found": "Geen tekst gevonden"
     },
     "stepper": {
       "optional": "Optioneel"

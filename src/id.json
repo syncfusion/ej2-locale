@@ -971,6 +971,7 @@
       "invalidDateError": "Nilai tanggal yang dimasukkan tidak valid.",
       "blockAlert": "Acara tidak dapat dijadwalkan dalam rentang waktu yang diblokir.",
       "ok": "Baik",
+      "of": "dari",
       "yes": "Iya",
       "no": "Tidak",
       "occurrence": "Kejadian",
@@ -1128,7 +1129,11 @@
       "splitTask": "Pisahkan Tugas",
       "mergeTask": "Gabungkan Tugas",
       "left": "Kiri",
-      "right": "Baik"
+      "right": "Baik",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Alignment",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Sunting Hyperlink",
       "Insert": "Memasukkan",
       "General": "Umum",
+      "The number must be between": "Nomornya harus antara 1 dan 9",
+      "The Invalid number": "Ini bukan nomor yang valid",
       "Indentation": "Lekukan",
       "Before text": "Sebelum teks",
       "Special": "Khusus",
@@ -3095,8 +3102,10 @@
       "Match case": "Kasus pertandingan",
       "Apply": "Menerapkan",
       "GoToPage": "Buka halaman",
-      "No matches": "Penampil telah selesai mencari dokumen. ",
-      "No Text Found": "Tidak Ada Teks yang Ditemukan",
+      "No Matches": "Penampil PDF telah selesai mencari dokumen. Tidak ada kecocokan yang ditemukan.",
+      "No More Matches": "Penampil PDF telah selesai mencari dokumen. Tidak ada lagi kecocokan yang ditemukan.",
+      "No Search Matches": "Tidak ada kecocokan yang ditemukan",
+      "No More Search Matches": "Tidak ada lagi kecocokan yang ditemukan",
       "Undo": "Membuka",
       "Redo": "Mengulangi",
       "Annotation": "Tambahkan atau Edit anotasi",
@@ -3286,7 +3295,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "persegi",
-      "Initial": "Awal"
+      "Initial": "Awal",
+      "No matches": "Penampil telah selesai mencari dokumen. ",
+      "No Text Found": "Tidak Ada Teks yang Ditemukan"
     },
     "stepper": {
       "optional": "Opsional"

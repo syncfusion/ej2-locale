@@ -971,6 +971,7 @@
       "invalidDateError": "Det angivna datumvärdet är ogiltigt.",
       "blockAlert": "Händelser kan inte schemaläggas inom det blockerade tidsintervallet.",
       "ok": "Ok",
+      "of": "av",
       "yes": "Ja",
       "no": "Nej",
       "occurrence": "Förekomst",
@@ -1128,7 +1129,11 @@
       "splitTask": "Dela uppgift",
       "mergeTask": "Sammanfoga uppgift",
       "left": "Vänster",
-      "right": "Rätt"
+      "right": "Rätt",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "anpassningar",
@@ -2297,6 +2302,8 @@
       "Edit Hyperlink": "Redigera Hyperlink",
       "Insert": "Föra in",
       "General": "Allmän",
+      "The number must be between": "Siffran måste vara mellan 1 och 9",
+      "The Invalid number": "Detta är inte ett giltigt nummer",
       "Indentation": "Indrag",
       "Before text": "Före text",
       "Special": "Särskild",
@@ -3096,8 +3103,10 @@
       "Match case": "Liknande fall",
       "Apply": "Tillämpa",
       "GoToPage": "Gå till sidan",
-      "No matches": "Viewer har slutfört sökningen i dokumentet. ",
-      "No Text Found": "Ingen text hittades",
+      "No Matches": "PDF Viewer har slutfört sökningen i dokumentet. Inga matchningar hittades.",
+      "No More Matches": "PDF Viewer har slutfört sökningen i dokumentet. Inga fler matchningar hittades.",
+      "No Search Matches": "Inga matchningar funna",
+      "No More Search Matches": "Inga fler matchningar hittades",
       "Undo": "Ångra",
       "Redo": "Göra om",
       "Annotation": "Lägg till eller redigera kommentarer",
@@ -3287,7 +3296,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "kvm",
-      "Initial": "Första"
+      "Initial": "Första",
+      "No matches": "Viewer har slutfört sökningen i dokumentet. ",
+      "No Text Found": "Ingen text hittades"
     },
     "stepper": {
       "optional": "Frivillig"

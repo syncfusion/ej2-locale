@@ -971,6 +971,7 @@
       "invalidDateError": "O valor da data inserida é inválido.",
       "blockAlert": "Os eventos não podem ser agendados dentro do intervalo de tempo bloqueado.",
       "ok": "Está bem",
+      "of": "de",
       "yes": "sim",
       "no": "Não",
       "occurrence": "Ocorrência",
@@ -1128,7 +1129,11 @@
       "splitTask": "Tarefa Dividida",
       "mergeTask": "Mesclar Tarefa",
       "left": "Esquerda",
-      "right": "Direito"
+      "right": "Direito",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Alinhamentos",
@@ -2175,6 +2180,8 @@
       "Edit Hyperlink": "Editar hiperlink",
       "Insert": "Inserir",
       "General": "Geral",
+      "The number must be between": "O número deve estar entre 1 e 9",
+      "The Invalid number": "Este não é um número válido",
       "Indentation": "Indentação",
       "Before text": "Antes do texto",
       "Special": "Especial",
@@ -2974,8 +2981,10 @@
       "Match case": "Caso de compatibilidade",
       "Apply": "Aplicar",
       "GoToPage": "Vá para página",
-      "No matches": "O visualizador concluiu a pesquisa no documento. ",
-      "No Text Found": "Nenhum texto encontrado",
+      "No Matches": "O PDF Viewer concluiu a pesquisa no documento. Nenhuma correspondência foi encontrada.",
+      "No More Matches": "O PDF Viewer concluiu a pesquisa no documento. Não foram encontradas mais correspondências.",
+      "No Search Matches": "Nenhuma equivalência encontrada",
+      "No More Search Matches": "Não foram encontradas mais correspondências",
       "Undo": "Desfazer",
       "Redo": "Refazer",
       "Annotation": "Adicionar ou editar anotações",
@@ -3165,7 +3174,9 @@
       "pt": "ponto",
       "cu": "cu",
       "sq": "quadrado",
-      "Initial": "Inicial"
+      "Initial": "Inicial",
+      "No matches": "O visualizador concluiu a pesquisa no documento. ",
+      "No Text Found": "Nenhum texto encontrado"
     },
     "stepper": {
       "optional": "Opcional"

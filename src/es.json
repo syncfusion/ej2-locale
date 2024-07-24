@@ -971,6 +971,7 @@
       "invalidDateError": "El valor de la fecha ingresada no es válido.",
       "blockAlert": "Los eventos no se pueden programar dentro del rango de tiempo bloqueado.",
       "ok": "De acuerdo",
+      "of": "de",
       "yes": "si",
       "no": "No",
       "occurrence": "Ocurrencia",
@@ -1130,7 +1131,11 @@
       "splitTask": "Tarea dividida",
       "mergeTask": "Combinar tarea",
       "left": "Izquierda",
-      "right": "Correcto"
+      "right": "Correcto",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Alineaciones",
@@ -2299,6 +2304,8 @@
       "Edit Hyperlink": "Editar hipervínculo",
       "Insert": "Insertar",
       "General": "General",
+      "The number must be between": "El número debe estar entre 1 y 9.",
+      "The Invalid number": "Este no es un número válido",
       "Indentation": "Sangría",
       "Before text": "Antes del texto",
       "Special": "Especial",
@@ -3097,8 +3104,10 @@
       "Match case": "caso de partido",
       "Apply": "Aplicar",
       "GoToPage": "Ir a la página",
-      "No matches": "El espectador ha terminado de buscar en el documento. ",
-      "No Text Found": "No se encontró texto",
+      "No Matches": "PDF Viewer ha terminado de buscar en el documento. No se encontraron coincidencias.",
+      "No More Matches": "PDF Viewer ha terminado de buscar en el documento. No se encontraron más coincidencias.",
+      "No Search Matches": "No se encontraron coincidencias",
+      "No More Search Matches": "No se encontraron más coincidencias",
       "Undo": "Deshacer",
       "Redo": "Rehacer",
       "Annotation": "Agregar o editar anotaciones",
@@ -3288,7 +3297,9 @@
       "pt": "pt",
       "cu": "Cu",
       "sq": "cuadrado",
-      "Initial": "Inicial"
+      "Initial": "Inicial",
+      "No matches": "El espectador ha terminado de buscar en el documento. ",
+      "No Text Found": "No se encontró texto"
     },
     "stepper": {
       "optional": "Opcional"

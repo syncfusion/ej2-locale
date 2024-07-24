@@ -971,6 +971,7 @@
       "invalidDateError": "Nilai tarikh yang dimasukkan adalah tidak sah.",
       "blockAlert": "Acara tidak boleh dijadualkan dalam julat masa yang disekat.",
       "ok": "Okey",
+      "of": "daripada",
       "yes": "Ya",
       "no": "Tidak",
       "occurrence": "Kejadian",
@@ -1128,7 +1129,11 @@
       "splitTask": "Tugasan Berpisah",
       "mergeTask": "Gabungkan Tugas",
       "left": "Dibiarkan",
-      "right": "Betul"
+      "right": "Betul",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Penjajaran",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Edit Hiperpautan",
       "Insert": "Masukkan",
       "General": "Ketua",
+      "The number must be between": "Nombor mestilah antara 1 dan 9",
+      "The Invalid number": "Ini bukan nombor yang sah",
       "Indentation": "Indentasi",
       "Before text": "Sebelum teks",
       "Special": "Khas",
@@ -3095,8 +3102,10 @@
       "Match case": "Kes perlawanan",
       "Apply": "Mohon",
       "GoToPage": "Pergi ke Halaman",
-      "No matches": "Viewer telah selesai mencari dokumen. ",
-      "No Text Found": "Tiada Teks Ditemui",
+      "No Matches": "PDF Viewer telah selesai mencari dokumen. Tiada padanan ditemui.",
+      "No More Matches": "PDF Viewer telah selesai mencari dokumen. Tiada lagi padanan ditemui.",
+      "No Search Matches": "Tiada padanan ditemui",
+      "No More Search Matches": "Tiada lagi padanan ditemui",
       "Undo": "Buat asal",
       "Redo": "Buat semula",
       "Annotation": "Tambah atau Edit anotasi",
@@ -3286,7 +3295,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "persegi",
-      "Initial": "Permulaan"
+      "Initial": "Permulaan",
+      "No matches": "Viewer telah selesai mencari dokumen. ",
+      "No Text Found": "Tiada Teks Ditemui"
     },
     "stepper": {
       "optional": "Pilihan"

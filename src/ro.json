@@ -175,10 +175,10 @@
     "dropdowns": {
       "noRecordsTemplate": "Nu au fost găsite",
       "actionFailureTemplate": "Solicitarea a eșuat",
-      "overflowCountTemplate": "+${număr} mai mult ..",
+      "overflowCountTemplate": "+${count} mai mult ..",
       "selectAllText": "Selectează tot",
       "unSelectAllText": "Deselectează tot",
-      "totalCountTemplate": "${număr} selectat"
+      "totalCountTemplate": "${count} selectat"
     },
     "drop-down-list": {
       "noRecordsTemplate": "Nu au fost găsite",
@@ -195,10 +195,10 @@
     "multi-select": {
       "noRecordsTemplate": "Nu au fost găsite",
       "actionFailureTemplate": "Solicitarea a eșuat",
-      "overflowCountTemplate": "+${număr} mai mult ..",
+      "overflowCountTemplate": "+${count} mai mult ..",
       "selectAllText": "Selectează tot",
       "unSelectAllText": "Deselectează tot",
-      "totalCountTemplate": "${număr} selectat"
+      "totalCountTemplate": "${count} selectat"
     },
     "listbox": {
       "noRecordsTemplate": "Nu au fost găsite",
@@ -971,6 +971,7 @@
       "invalidDateError": "Valoarea dată introdusă nu este validă.",
       "blockAlert": "Evenimentele nu pot fi programate în intervalul de timp blocat.",
       "ok": "O.K",
+      "of": "de",
       "yes": "da",
       "no": "Nu",
       "occurrence": "Apariţie",
@@ -1128,7 +1129,11 @@
       "splitTask": "Sarcină împărțită",
       "mergeTask": "Îmbinați sarcina",
       "left": "Stânga",
-      "right": "Dreapta"
+      "right": "Dreapta",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "aliniamente",
@@ -2299,6 +2304,8 @@
       "Edit Hyperlink": "Editați hyperlink",
       "Insert": "Introduce",
       "General": "General",
+      "The number must be between": "Numărul trebuie să fie între 1 și 9",
+      "The Invalid number": "Acesta nu este un număr valid",
       "Indentation": "zimțuire",
       "Before text": "Înainte de text",
       "Special": "Special",
@@ -3098,8 +3105,10 @@
       "Match case": "Cazul meciului",
       "Apply": "aplica",
       "GoToPage": "Mergi la pagina",
-      "No matches": "Viewer a terminat de căutat în document. ",
-      "No Text Found": "Nu a fost găsit niciun text",
+      "No Matches": "PDF Viewer a terminat de căutat în document. Nu au fost găsite potriviri.",
+      "No More Matches": "PDF Viewer a terminat de căutat în document. Nu s-au găsit mai multe potriviri.",
+      "No Search Matches": "Nu s-a gasit nici o potrivire",
+      "No More Search Matches": "Nu s-au găsit mai multe potriviri",
       "Undo": "Anula",
       "Redo": "A reface",
       "Annotation": "Adăugați sau editați adnotări",
@@ -3289,7 +3298,9 @@
       "pt": "pct",
       "cu": "cu",
       "sq": "mp",
-      "Initial": "Iniţială"
+      "Initial": "Iniţială",
+      "No matches": "Viewer a terminat de căutat în document. ",
+      "No Text Found": "Nu a fost găsit niciun text"
     },
     "stepper": {
       "optional": "Opțional"

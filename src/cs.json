@@ -971,6 +971,7 @@
       "invalidDateError": "Zadaná hodnota data je neplatná.",
       "blockAlert": "Události nelze naplánovat v blokovaném časovém období.",
       "ok": "OK",
+      "of": "z",
       "yes": "Ano",
       "no": "Ne",
       "occurrence": "Výskyt",
@@ -1128,7 +1129,11 @@
       "splitTask": "Rozdělit úkol",
       "mergeTask": "Sloučit úkol",
       "left": "Vlevo, odjet",
-      "right": "Že jo"
+      "right": "Že jo",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Zarovnání",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Upravit hypertextový odkaz",
       "Insert": "Vložit",
       "General": "Všeobecné",
+      "The number must be between": "Číslo musí být mezi 1 a 9",
+      "The Invalid number": "Toto není platné číslo",
       "Indentation": "Odsazení",
       "Before text": "Před textem",
       "Special": "Speciální",
@@ -3094,8 +3101,10 @@
       "Match case": "Shodný případ",
       "Apply": "Aplikovat",
       "GoToPage": "Jdi na stránku",
-      "No matches": "Prohlížeč dokončil vyhledávání dokumentu. ",
-      "No Text Found": "Nebyl nalezen žádný text",
+      "No Matches": "Prohlížeč PDF dokončil vyhledávání dokumentu. Nebyly nalezeny žádné shody.",
+      "No More Matches": "Prohlížeč PDF dokončil vyhledávání dokumentu. Nebyly nalezeny žádné další shody.",
+      "No Search Matches": "Nebyly nalezeny žádné shody",
+      "No More Search Matches": "Nebyly nalezeny žádné další shody",
       "Undo": "vrátit",
       "Redo": "Předělat",
       "Annotation": "Přidat nebo upravit anotace",
@@ -3285,7 +3294,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "sq",
-      "Initial": "Počáteční"
+      "Initial": "Počáteční",
+      "No matches": "Prohlížeč dokončil vyhledávání dokumentu. ",
+      "No Text Found": "Nebyl nalezen žádný text"
     },
     "stepper": {
       "optional": "Volitelný"

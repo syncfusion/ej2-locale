@@ -971,6 +971,7 @@
       "invalidDateError": "The entered date value is invalid.",
       "blockAlert": "Events cannot be scheduled within the blocked time range.",
       "ok": "Ok",
+      "of": "of",
       "yes": "Yes",
       "no": "No",
       "occurrence": "Occurrence",
@@ -1130,7 +1131,11 @@
       "splitTask": "Split Task",
       "mergeTask": "Merge Task",
       "left": "Left",
-      "right": "Right"
+      "right": "Right",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Alignments",
@@ -2299,6 +2304,8 @@
       "Edit Hyperlink": "Edit Hyperlink",
       "Insert": "Insert",
       "General": "General",
+      "The number must be between": "The number must be between 1 and 9",
+      "The Invalid number": "This is not a valid number",
       "Indentation": "Indentation",
       "Before text": "Before text",
       "Special": "Special",
@@ -3097,8 +3104,10 @@
       "Match case": "Match case",
       "Apply": "Apply",
       "GoToPage": "Go to Page",
-      "No matches": "Viewer has finished searching the document. No more matches were found",
-      "No Text Found": "No Text Found",
+      "No Matches": "PDF Viewer has finished searching the document. No matches were found.",
+      "No More Matches": "PDF Viewer has finished searching the document. No more matches were found.",
+      "No Search Matches": "No matches found",
+      "No More Search Matches": "No more matches found",
       "Undo": "Undo",
       "Redo": "Redo",
       "Annotation": "Add or Edit annotations",
@@ -3288,7 +3297,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "sq",
-      "Initial": "Initial"
+      "Initial": "Initial",
+      "No matches": "Viewer has finished searching the document. No more matches were found",
+      "No Text Found": "No Text Found"
     },
     "stepper": {
       "optional": "Optional"

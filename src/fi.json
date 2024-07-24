@@ -971,6 +971,7 @@
       "invalidDateError": "Annettu päivämääräarvo on virheellinen.",
       "blockAlert": "Tapahtumia ei voida ajoittaa estettyyn ajanjaksoon.",
       "ok": "kunnossa",
+      "of": "/",
       "yes": "Joo",
       "no": "Ei",
       "occurrence": "esiintyminen",
@@ -1128,7 +1129,11 @@
       "splitTask": "Jaettu tehtävä",
       "mergeTask": "Yhdistä tehtävä",
       "left": "Vasen",
-      "right": "Aivan"
+      "right": "Aivan",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "rinnastuksia",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Muokkaa hyperlinkkiä",
       "Insert": "Lisää",
       "General": "yleinen",
+      "The number must be between": "Numeron on oltava väliltä 1–9",
+      "The Invalid number": "Tämä ei ole kelvollinen numero",
       "Indentation": "sisennys",
       "Before text": "Ennen tekstiä",
       "Special": "erityinen",
@@ -3094,8 +3101,10 @@
       "Match case": "Match tapaus",
       "Apply": "Käytä",
       "GoToPage": "Mene sivulle",
-      "No matches": "Katsoja on lopettanut asiakirjan haun. ",
-      "No Text Found": "Tekstiä ei löydy",
+      "No Matches": "PDF Viewer on lopettanut asiakirjan haun. Vastaavia ei löytynyt.",
+      "No More Matches": "PDF Viewer on lopettanut asiakirjan haun. Enempää osumia ei löytynyt.",
+      "No Search Matches": "Ei hakua vastaavia tuloksia",
+      "No More Search Matches": "Ei löytynyt enempää osumia",
       "Undo": "Kumoa",
       "Redo": "Toista",
       "Annotation": "Lisää tai muokkaa merkintöjä",
@@ -3285,7 +3294,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "neliömetriä",
-      "Initial": "Alkukirjain"
+      "Initial": "Alkukirjain",
+      "No matches": "Katsoja on lopettanut asiakirjan haun. ",
+      "No Text Found": "Tekstiä ei löydy"
     },
     "stepper": {
       "optional": "Valinnainen"

@@ -971,6 +971,7 @@
       "invalidDateError": "입력 한 날짜 값이 유효하지 않습니다.",
       "blockAlert": "차단 된 시간 범위 내에서 이벤트를 예약 할 수 없습니다.",
       "ok": "확인",
+      "of": "~의",
       "yes": "예",
       "no": "아니",
       "occurrence": "발생",
@@ -1128,7 +1129,11 @@
       "splitTask": "작업 분할",
       "mergeTask": "작업 병합",
       "left": "왼쪽",
-      "right": "권리"
+      "right": "권리",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "봄 여름 시즌"
     },
     "richtexteditor": {
       "alignments": "정렬",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "하이퍼 링크 편집",
       "Insert": "끼워 넣다",
       "General": "일반",
+      "The number must be between": "숫자는 1에서 9 사이여야 합니다.",
+      "The Invalid number": "유효한 전화번호가 아닙니다.",
       "Indentation": "들여 쓰기",
       "Before text": "텍스트 전에",
       "Special": "특별한",
@@ -3095,8 +3102,10 @@
       "Match case": "성냥갑",
       "Apply": "적용하다",
       "GoToPage": "페이지로 이동",
-      "No matches": "뷰어가 문서 검색을 완료했습니다. ",
-      "No Text Found": "텍스트를 찾을 수 없습니다",
+      "No Matches": "PDF 뷰어가 문서 검색을 마쳤습니다. 일치하는 항목이 없습니다.",
+      "No More Matches": "PDF 뷰어가 문서 검색을 마쳤습니다. 더 이상 일치하는 항목이 없습니다.",
+      "No Search Matches": "검색 결과가 없습니다",
+      "No More Search Matches": "더 이상 일치하는 항목이 없습니다.",
       "Undo": "실행 취소",
       "Redo": "다시 하다",
       "Annotation": "주석 추가 또는 편집",
@@ -3286,7 +3295,9 @@
       "pt": "태평양 표준시",
       "cu": "세제곱",
       "sq": "평방",
-      "Initial": "초기의"
+      "Initial": "초기의",
+      "No matches": "뷰어가 문서 검색을 완료했습니다. ",
+      "No Text Found": "텍스트를 찾을 수 없습니다"
     },
     "stepper": {
       "optional": "선택 과목"

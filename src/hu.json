@@ -971,6 +971,7 @@
       "invalidDateError": "A megadott dátumérték érvénytelen.",
       "blockAlert": "Az eseményeket nem lehet ütemezni a blokkolt időtartományon belül.",
       "ok": "Rendben",
+      "of": "nak,-nek",
       "yes": "Igen",
       "no": "Nem",
       "occurrence": "Esemény",
@@ -1128,7 +1129,11 @@
       "splitTask": "Feladat megosztása",
       "mergeTask": "Egyesítési feladat",
       "left": "Bal",
-      "right": "Jobb"
+      "right": "Jobb",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "együttállása",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "A hiperhivatkozás szerkesztése",
       "Insert": "Beszúrás",
       "General": "Tábornok",
+      "The number must be between": "A számnak 1 és 9 között kell lennie",
+      "The Invalid number": "Ez nem érvényes szám",
       "Indentation": "A behúzás",
       "Before text": "Szöveg előtt",
       "Special": "Különleges",
@@ -3095,8 +3102,10 @@
       "Match case": "Mérkőzés esetén",
       "Apply": "Alkalmaz",
       "GoToPage": "Menj az oldalra",
-      "No matches": "A Viewer befejezte a keresést a dokumentumban. ",
-      "No Text Found": "Nem található szöveg",
+      "No Matches": "A PDF Viewer befejezte a keresést a dokumentumban. Nem található egyezés.",
+      "No More Matches": "A PDF Viewer befejezte a keresést a dokumentumban. Nem található több egyezés.",
+      "No Search Matches": "Nincs találat",
+      "No More Search Matches": "Nem található több egyezés",
       "Undo": "Visszavonás",
       "Redo": "Újra",
       "Annotation": "Megjegyzések hozzáadása vagy szerkesztése",
@@ -3286,7 +3295,9 @@
       "pt": "PT",
       "cu": "cu",
       "sq": "négyzetméter",
-      "Initial": "A kezdeti"
+      "Initial": "A kezdeti",
+      "No matches": "A Viewer befejezte a keresést a dokumentumban. ",
+      "No Text Found": "Nem található szöveg"
     },
     "stepper": {
       "optional": "Választható"

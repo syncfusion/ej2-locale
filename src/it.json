@@ -971,6 +971,7 @@
       "invalidDateError": "Il valore della data immesso non è valido.",
       "blockAlert": "Gli eventi non possono essere programmati entro l'intervallo di tempo bloccato.",
       "ok": "Ok",
+      "of": "Di",
       "yes": "sì",
       "no": "No",
       "occurrence": "avvenimento",
@@ -1128,7 +1129,11 @@
       "splitTask": "Attività divisa",
       "mergeTask": "Unisci attività",
       "left": "Sinistra",
-      "right": "Destra"
+      "right": "Destra",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "San Francisco",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "allineamenti",
@@ -2297,6 +2302,8 @@
       "Edit Hyperlink": "Modifica collegamento ipertestuale",
       "Insert": "Inserire",
       "General": "Generale",
+      "The number must be between": "Il numero deve essere compreso tra 1 e 9",
+      "The Invalid number": "Questo non è un numero valido",
       "Indentation": "dentellatura",
       "Before text": "Prima del testo",
       "Special": "Speciale",
@@ -3096,8 +3103,10 @@
       "Match case": "Caso di corrispondenza",
       "Apply": "Fare domanda a",
       "GoToPage": "Vai alla pagina",
-      "No matches": "Il visualizzatore ha terminato la ricerca nel documento. ",
-      "No Text Found": "Nessun testo trovato",
+      "No Matches": "PDF Viewer ha terminato la ricerca nel documento. Non è stata trovata alcuna corrispondenza.",
+      "No More Matches": "PDF Viewer ha terminato la ricerca nel documento. Non sono state trovate altre corrispondenze.",
+      "No Search Matches": "Nessun risultato trovato",
+      "No More Search Matches": "Nessun'altra corrispondenza trovata",
       "Undo": "Disfare",
       "Redo": "Rifare",
       "Annotation": "Aggiungi o modifica annotazioni",
@@ -3287,7 +3296,9 @@
       "pt": "punto",
       "cu": "cu",
       "sq": "mq",
-      "Initial": "Iniziale"
+      "Initial": "Iniziale",
+      "No matches": "Il visualizzatore ha terminato la ricerca nel documento. ",
+      "No Text Found": "Nessun testo trovato"
     },
     "stepper": {
       "optional": "Opzionale"

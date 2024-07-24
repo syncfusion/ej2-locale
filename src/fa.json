@@ -971,6 +971,7 @@
       "invalidDateError": "مقدار تاریخ وارد شده نامعتبر است.",
       "blockAlert": "برنامه ها نمی توانند در محدوده زمانی مسدود شده برنامه ریزی شوند.",
       "ok": "خوب",
+      "of": "از",
       "yes": "آره",
       "no": "نه",
       "occurrence": "وقوع",
@@ -1128,7 +1129,11 @@
       "splitTask": "تقسیم وظیفه",
       "mergeTask": "ادغام وظیفه",
       "left": "ترک کرد",
-      "right": "درست"
+      "right": "درست",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "اس اس"
     },
     "richtexteditor": {
       "alignments": "ترازها",
@@ -2175,6 +2180,8 @@
       "Edit Hyperlink": "ویرایش لینک",
       "Insert": "درج کنید",
       "General": "عمومی",
+      "The number must be between": "عدد باید بین 1 تا 9 باشد",
+      "The Invalid number": "این یک عدد معتبر نیست",
       "Indentation": "تورفتگی",
       "Before text": "قبل از متن",
       "Special": "ویژه",
@@ -2973,8 +2980,10 @@
       "Match case": "مورد کبریت",
       "Apply": "درخواست دادن",
       "GoToPage": "به صفحه بروید",
-      "No matches": "نمایشگر جستجوی سند را به پایان رسانده است. ",
-      "No Text Found": "متنی یافت نشد",
+      "No Matches": "PDF Viewer جستجوی سند را به پایان رسانده است. هیچ منطبقی پیدا نشد.",
+      "No More Matches": "PDF Viewer جستجوی سند را به پایان رسانده است. هیچ منطبق دیگری پیدا نشد.",
+      "No Search Matches": "جستجو حاصلی دربرنداشت",
+      "No More Search Matches": "منطبق بیشتری یافت نشد",
       "Undo": "واگرد",
       "Redo": "دوباره انجام دهید",
       "Annotation": "اضافه کردن یا ویرایش حاشیه نویسی",
@@ -3164,7 +3173,9 @@
       "pt": "pt",
       "cu": "مس",
       "sq": "مربع",
-      "Initial": "اولیه"
+      "Initial": "اولیه",
+      "No matches": "نمایشگر جستجوی سند را به پایان رسانده است. ",
+      "No Text Found": "متنی یافت نشد"
     },
     "stepper": {
       "optional": "اختیاری"

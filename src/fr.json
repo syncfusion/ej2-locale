@@ -971,6 +971,7 @@
       "invalidDateError": "La valeur de date entrée n'est pas valide.",
       "blockAlert": "Les événements ne peuvent pas être planifiés dans l'intervalle de temps bloqué.",
       "ok": "D'accord",
+      "of": "de",
       "yes": "Oui",
       "no": "Non",
       "occurrence": "Occurrence",
@@ -1130,7 +1131,11 @@
       "splitTask": "Diviser la tâche",
       "mergeTask": "Fusionner la tâche",
       "left": "Gauche",
-      "right": "Droite"
+      "right": "Droite",
+      "FF": "FR",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Alignements",
@@ -2299,6 +2304,8 @@
       "Edit Hyperlink": "Modifier l'hyperlien",
       "Insert": "Insérer",
       "General": "Général",
+      "The number must be between": "Le nombre doit être compris entre 1 et 9",
+      "The Invalid number": "Ce n'est pas un numéro valide",
       "Indentation": "Échancrure",
       "Before text": "Avant le texte",
       "Special": "Spécial",
@@ -3099,8 +3106,10 @@
       "Match case": "Cas de correspondance",
       "Apply": "Appliquer",
       "GoToPage": "Aller à la page",
-      "No matches": "La visionneuse a terminé la recherche dans le document. ",
-      "No Text Found": "Aucun texte trouvé",
+      "No Matches": "PDF Viewer a terminé la recherche dans le document. Aucune correspondance n'a été trouvée.",
+      "No More Matches": "PDF Viewer a terminé la recherche dans le document. Aucune autre correspondance n’a été trouvée.",
+      "No Search Matches": "Aucun résultat",
+      "No More Search Matches": "Aucune autre correspondance trouvée",
       "Undo": "annuler",
       "Redo": "Refaire",
       "Annotation": "Ajouter ou modifier des annotations",
@@ -3290,7 +3299,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "carré",
-      "Initial": "Initial"
+      "Initial": "Initial",
+      "No matches": "La visionneuse a terminé la recherche dans le document. ",
+      "No Text Found": "Aucun texte trouvé"
     },
     "stepper": {
       "optional": "Facultatif"
