@@ -971,6 +971,7 @@
       "invalidDateError": "Den angitte datoverdien er ugyldig.",
       "blockAlert": "Hendelser kan ikke planlegges innen det blokkerte tidsområdet.",
       "ok": "ok",
+      "of": "av",
       "yes": "Ja",
       "no": "Nei",
       "occurrence": "Hendelse",
@@ -1128,7 +1129,11 @@
       "splitTask": "Delt oppgave",
       "mergeTask": "Flett oppgave",
       "left": "Venstre",
-      "right": "Ikke sant"
+      "right": "Ikke sant",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "justeringer",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Rediger Hyperlink",
       "Insert": "Sett inn",
       "General": "Generell",
+      "The number must be between": "Tallet må være mellom 1 og 9",
+      "The Invalid number": "Dette er ikke et gyldig nummer",
       "Indentation": "innrykk",
       "Before text": "Før tekst",
       "Special": "Spesiell",
@@ -3095,8 +3102,10 @@
       "Match case": "Matchetui",
       "Apply": "Søke om",
       "GoToPage": "Gå til side",
-      "No matches": "Viewer har fullført søket i dokumentet. ",
-      "No Text Found": "Ingen tekst funnet",
+      "No Matches": "PDF Viewer har fullført søket i dokumentet. Ingen treff ble funnet.",
+      "No More Matches": "PDF Viewer har fullført søket i dokumentet. Ingen flere treff ble funnet.",
+      "No Search Matches": "Ingen treff funnet",
+      "No More Search Matches": "Fant ingen flere treff",
       "Undo": "Angre",
       "Redo": "Gjøre om",
       "Annotation": "Legg til eller rediger kommentarer",
@@ -3286,7 +3295,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "sq",
-      "Initial": "Første"
+      "Initial": "Første",
+      "No matches": "Viewer har fullført søket i dokumentet. ",
+      "No Text Found": "Ingen tekst funnet"
     },
     "stepper": {
       "optional": "Valgfri"

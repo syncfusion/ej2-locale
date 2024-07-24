@@ -971,6 +971,7 @@
       "invalidDateError": "Unesena vrijednost datuma nije važeća.",
       "blockAlert": "Događaji se ne mogu zakazati unutar blokiranog vremenskog raspona.",
       "ok": "U redu",
+      "of": "od",
       "yes": "Da",
       "no": "Ne",
       "occurrence": "događaj",
@@ -1128,7 +1129,11 @@
       "splitTask": "Razdeljena naloga",
       "mergeTask": "Združi nalogo",
       "left": "Levo",
-      "right": "Prav"
+      "right": "Prav",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "poravnanja",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Uredi hipervezu",
       "Insert": "Umetnuti",
       "General": "Općenito",
+      "The number must be between": "Broj mora biti između 1 i 9",
+      "The Invalid number": "Ovo nije važeći broj",
       "Indentation": "uvlačenje",
       "Before text": "Prije teksta",
       "Special": "poseban",
@@ -3095,8 +3102,10 @@
       "Match case": "Kutija šibica",
       "Apply": "primijeniti",
       "GoToPage": "Idi na stranicu",
-      "No matches": "Preglednik je završio pretraživanje dokumenta. ",
-      "No Text Found": "Tekst nije pronađen",
+      "No Matches": "PDF Viewer završio je pretraživanje dokumenta. Nema podudaranja.",
+      "No More Matches": "PDF Viewer završio je pretraživanje dokumenta. Nije pronađeno više podudaranja.",
+      "No Search Matches": "Nije pronađeno nijedno podudaranje",
+      "No More Search Matches": "Nije pronađeno više podudaranja",
       "Undo": "Poništi",
       "Redo": "Ponovi",
       "Annotation": "Dodajte ili uredite bilješke",
@@ -3286,7 +3295,9 @@
       "pt": "točka",
       "cu": "cu",
       "sq": "kvadrat",
-      "Initial": "Početni"
+      "Initial": "Početni",
+      "No matches": "Preglednik je završio pretraživanje dokumenta. ",
+      "No Text Found": "Tekst nije pronađen"
     },
     "stepper": {
       "optional": "Neobavezno"

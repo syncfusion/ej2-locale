@@ -971,6 +971,7 @@
       "invalidDateError": "输入的日期值无效。",
       "blockAlert": "無法在阻止的時間範圍內安排事件。",
       "ok": "好",
+      "of": "的",
       "yes": "是",
       "no": "沒有",
       "occurrence": "發生",
@@ -1130,7 +1131,11 @@
       "splitTask": "拆分任務",
       "mergeTask": "合併任務",
       "left": "剩下",
-      "right": "對"
+      "right": "對",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "顺丰",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "對齊方式",
@@ -2298,6 +2303,8 @@
       "Edit Hyperlink": "编辑超链接",
       "Insert": "插入",
       "General": "一般的",
+      "The number must be between": "数字必须在 1 到 9 之间",
+      "The Invalid number": "这不是一个有效的号码",
       "Indentation": "缩进",
       "Before text": "正文前",
       "Special": "特别的",
@@ -3098,8 +3105,10 @@
       "Match case": "相符",
       "Apply": "申请",
       "GoToPage": "转到页面",
-      "No matches": "查看者已完成文档搜索。",
-      "No Text Found": "未找到文字",
+      "No Matches": "PDF查看器已经完成了搜索文档。找不到比赛。",
+      "No More Matches": "PDF查看器已经完成了搜索文档。找不到更多的比赛。",
+      "No Search Matches": "未找到匹配项",
+      "No More Search Matches": "没有更多的比赛",
       "Undo": "撤消",
       "Redo": "重做",
       "Annotation": "添加或编辑注释",
@@ -3289,7 +3298,9 @@
       "pt": "点",
       "cu": "铜",
       "sq": "平方",
-      "Initial": "最初的"
+      "Initial": "最初的",
+      "No matches": "查看者已完成文档搜索。",
+      "No Text Found": "未找到文字"
     },
     "stepper": {
       "optional": "选修的"

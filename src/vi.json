@@ -971,6 +971,7 @@
       "invalidDateError": "Giá trị ngày nhập không hợp lệ.",
       "blockAlert": "Sự kiện không thể được lên lịch trong phạm vi thời gian bị chặn.",
       "ok": "Đồng ý",
+      "of": "của",
       "yes": "Đúng",
       "no": "Không",
       "occurrence": "Tần suất xảy ra",
@@ -1128,7 +1129,11 @@
       "splitTask": "Tách nhiệm vụ",
       "mergeTask": "Hợp nhất tác vụ",
       "left": "Trái",
-      "right": "Đúng"
+      "right": "Đúng",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Sắp xếp",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Chỉnh sửa siêu liên kết",
       "Insert": "Chèn",
       "General": "Chung",
+      "The number must be between": "Số phải nằm trong khoảng từ 1 đến 9",
+      "The Invalid number": "Đây không phải là số hợp lệ",
       "Indentation": "Lõm",
       "Before text": "Trước văn bản",
       "Special": "Đặc biệt",
@@ -3095,8 +3102,10 @@
       "Match case": "Hộp diêm",
       "Apply": "Áp dụng",
       "GoToPage": "Đi tới trang",
-      "No matches": "Người xem đã tìm kiếm xong tài liệu. ",
-      "No Text Found": "Không tìm thấy văn bản",
+      "No Matches": "PDF Viewer đã hoàn tất việc tìm kiếm tài liệu. Không có trận đấu nào được tìm thấy.",
+      "No More Matches": "PDF Viewer đã hoàn tất việc tìm kiếm tài liệu. Không có kết quả phù hợp nào được tìm thấy.",
+      "No Search Matches": "Lọc kết quả tìm thấy",
+      "No More Search Matches": "Không tìm thấy kết quả nào khác",
       "Undo": "Hoàn tác",
       "Redo": "Làm lại",
       "Annotation": "Thêm hoặc chỉnh sửa chú thích",
@@ -3286,7 +3295,9 @@
       "pt": "điểm",
       "cu": "cu",
       "sq": "vuông",
-      "Initial": "Ban đầu"
+      "Initial": "Ban đầu",
+      "No matches": "Người xem đã tìm kiếm xong tài liệu. ",
+      "No Text Found": "Không tìm thấy văn bản"
     },
     "stepper": {
       "optional": "Không bắt buộc"

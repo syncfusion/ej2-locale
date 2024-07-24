@@ -971,6 +971,7 @@
       "invalidDateError": "入力された日付値は無効です。",
       "blockAlert": "ブロックされた時間範囲内でイベントをスケジュールすることはできません。",
       "ok": "OK",
+      "of": "の",
       "yes": "はい",
       "no": "番号",
       "occurrence": "発生",
@@ -1128,7 +1129,11 @@
       "splitTask": "分割タスク",
       "mergeTask": "マージタスク",
       "left": "左",
-      "right": "正しい"
+      "right": "正しい",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "アライメント",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "ハイパーリンクを編集",
       "Insert": "インサート",
       "General": "全般",
+      "The number must be between": "数値は 1 ～ 9 でなければなりません",
+      "The Invalid number": "これは有効な番号ではありません",
       "Indentation": "くぼみ",
       "Before text": "テキストの前",
       "Special": "特別",
@@ -3095,8 +3102,10 @@
       "Match case": "マッチケース",
       "Apply": "適用する",
       "GoToPage": "ページに移動",
-      "No matches": "閲覧者はドキュメントの検索を終了しました。",
-      "No Text Found": "テキストが見つかりません",
+      "No Matches": "PDF Viewer はドキュメントの検索を終了しました。一致するものが見つかりませんでした。",
+      "No More Matches": "PDF Viewer はドキュメントの検索を終了しました。これ以上一致するものは見つかりませんでした。",
+      "No Search Matches": "一致するものが見つかりませんでした",
+      "No More Search Matches": "これ以上一致するものは見つかりませんでした",
       "Undo": "元に戻す",
       "Redo": "やり直し",
       "Annotation": "注釈の追加または編集",
@@ -3286,7 +3295,9 @@
       "pt": "ポイント",
       "cu": "キュ",
       "sq": "平方",
-      "Initial": "イニシャル"
+      "Initial": "イニシャル",
+      "No matches": "閲覧者はドキュメントの検索を終了しました。",
+      "No Text Found": "テキストが見つかりません"
     },
     "stepper": {
       "optional": "オプション"

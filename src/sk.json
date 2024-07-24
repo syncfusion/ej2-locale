@@ -971,6 +971,7 @@
       "invalidDateError": "Zadaná hodnota dátumu je neplatná.",
       "blockAlert": "Udalosti nie je možné naplánovať v blokovanom časovom rozsahu.",
       "ok": "ok",
+      "of": "z",
       "yes": "Áno",
       "no": "žiadny",
       "occurrence": "výskyt",
@@ -1128,7 +1129,11 @@
       "splitTask": "Rozdeliť úlohu",
       "mergeTask": "Zlúčiť úlohu",
       "left": "Vľavo",
-      "right": "Správny"
+      "right": "Správny",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "zarovnanie",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Upraviť hypertextový odkaz",
       "Insert": "insert",
       "General": "všeobecný",
+      "The number must be between": "Číslo musí byť medzi 1 a 9",
+      "The Invalid number": "Toto nie je platné číslo",
       "Indentation": "odsadenie",
       "Before text": "Pred textom",
       "Special": "špeciálna",
@@ -3095,8 +3102,10 @@
       "Match case": "Prípad zápasu",
       "Apply": "Použiť",
       "GoToPage": "Chod na stranu",
-      "No matches": "Prehliadač dokončil vyhľadávanie dokumentu. ",
-      "No Text Found": "Nenašiel sa žiadny text",
+      "No Matches": "Prehliadač PDF dokončil vyhľadávanie dokumentu. Nenašli sa žiadne zhody.",
+      "No More Matches": "Prehliadač PDF dokončil vyhľadávanie dokumentu. Nenašli sa žiadne ďalšie zhody.",
+      "No Search Matches": "Žiadne zhody nenájdené",
+      "No More Search Matches": "Nenašli sa žiadne ďalšie zhody",
       "Undo": "Vrátenie späť",
       "Redo": "Znovu",
       "Annotation": "Pridať alebo upraviť anotácie",
@@ -3286,7 +3295,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "štvorcových",
-      "Initial": "Počiatočný"
+      "Initial": "Počiatočný",
+      "No matches": "Prehliadač dokončil vyhľadávanie dokumentu. ",
+      "No Text Found": "Nenašiel sa žiadny text"
     },
     "stepper": {
       "optional": "Voliteľné"

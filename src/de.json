@@ -971,6 +971,7 @@
       "invalidDateError": "Der eingegebene Datumswert ist ungültig.",
       "blockAlert": "Ereignisse können nicht innerhalb des gesperrten Zeitbereichs geplant werden.",
       "ok": "OK",
+      "of": "von",
       "yes": "Ja",
       "no": "Nein",
       "occurrence": "Auftreten",
@@ -1130,7 +1131,11 @@
       "splitTask": "Aufgabe teilen",
       "mergeTask": "Aufgabe zusammenführen",
       "left": "Links",
-      "right": "Recht"
+      "right": "Recht",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Ausrichtungen",
@@ -2298,6 +2303,8 @@
       "Edit Hyperlink": "Hyperlink bearbeiten",
       "Insert": "Einfügen",
       "General": "Allgemeines",
+      "The number must be between": "Die Zahl muss zwischen 1 und 9 liegen",
+      "The Invalid number": "Dies ist keine gültige Nummer",
       "Indentation": "Vertiefung",
       "Before text": "Vor dem Text",
       "Special": "Besondere",
@@ -3097,8 +3104,10 @@
       "Match case": "Gross- / Kleinschreibung",
       "Apply": "Anwenden",
       "GoToPage": "Gehen Sie zur Seite",
-      "No matches": "Der Viewer hat die Suche im Dokument abgeschlossen. ",
-      "No Text Found": "Kein Text gefunden",
+      "No Matches": "PDF Viewer hat die Suche im Dokument abgeschlossen. Es wurden keine Übereinstimmungen gefunden.",
+      "No More Matches": "PDF Viewer hat die Suche im Dokument abgeschlossen. Es wurden keine weiteren Übereinstimmungen gefunden.",
+      "No Search Matches": "Keine Treffer gefunden",
+      "No More Search Matches": "Keine weiteren Übereinstimmungen gefunden",
       "Undo": "Rückgängig machen",
       "Redo": "Wiederholen",
       "Annotation": "Anmerkungen hinzufügen oder bearbeiten",
@@ -3288,7 +3297,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "Quadrat",
-      "Initial": "Anfänglich"
+      "Initial": "Anfänglich",
+      "No matches": "Der Viewer hat die Suche im Dokument abgeschlossen. ",
+      "No Text Found": "Kein Text gefunden"
     },
     "stepper": {
       "optional": "Optional"

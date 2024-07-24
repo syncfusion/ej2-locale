@@ -971,6 +971,7 @@
       "invalidDateError": "Wprowadzona wartość daty jest nieprawidłowa.",
       "blockAlert": "Zdarzenia nie mogą być zaplanowane w zablokowanym przedziale czasowym.",
       "ok": "Dobrze",
+      "of": "z",
       "yes": "tak",
       "no": "Nie",
       "occurrence": "Występowanie",
@@ -1128,7 +1129,11 @@
       "splitTask": "Zadanie podzielone",
       "mergeTask": "Scal zadanie",
       "left": "Lewo",
-      "right": "Dobrze"
+      "right": "Dobrze",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "Wyrównania",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Edytuj hiperłącze",
       "Insert": "Wstawić",
       "General": "Generał",
+      "The number must be between": "Liczba musi mieścić się w przedziale od 1 do 9",
+      "The Invalid number": "To nie jest prawidłowy numer",
       "Indentation": "Wcięcie",
       "Before text": "Przed tekstem",
       "Special": "Specjalny",
@@ -3095,8 +3102,10 @@
       "Match case": "Sprawa meczu",
       "Apply": "Stosować",
       "GoToPage": "Idź do strony",
-      "No matches": "Przeglądarka zakończyła przeszukiwanie dokumentu. ",
-      "No Text Found": "Nie znaleziono tekstu",
+      "No Matches": "Przeglądarka PDF zakończyła przeszukiwanie dokumentu. Nie znaleziono żadnych dopasowań.",
+      "No More Matches": "Przeglądarka PDF zakończyła przeszukiwanie dokumentu. Nie znaleziono więcej dopasowań.",
+      "No Search Matches": "Nie znaleziono żadnego meczu",
+      "No More Search Matches": "Nie znaleziono więcej dopasowań",
       "Undo": "Cofnij",
       "Redo": "Przerobić",
       "Annotation": "Dodaj lub edytuj adnotacje",
@@ -3286,7 +3295,9 @@
       "pt": "pkt",
       "cu": "cu",
       "sq": "kw",
-      "Initial": "Wstępny"
+      "Initial": "Wstępny",
+      "No matches": "Przeglądarka zakończyła przeszukiwanie dokumentu. ",
+      "No Text Found": "Nie znaleziono tekstu"
     },
     "stepper": {
       "optional": "Opcjonalny"

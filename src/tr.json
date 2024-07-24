@@ -971,6 +971,7 @@
       "invalidDateError": "Girilen tarih değeri geçersiz.",
       "blockAlert": "Etkinlikler engellenen zaman aralığında planlanamaz.",
       "ok": "Tamam",
+      "of": "ile ilgili",
       "yes": "Evet",
       "no": "Hayır",
       "occurrence": "olay",
@@ -1128,7 +1129,11 @@
       "splitTask": "Görevi Böl",
       "mergeTask": "Görevi Birleştir",
       "left": "Ayrıldı",
-      "right": "Sağ"
+      "right": "Sağ",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "hizalamalar",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "Köprüyü Düzenle",
       "Insert": "Ekle",
       "General": "Genel",
+      "The number must be between": "Sayı 1 ile 9 arasında olmalıdır",
+      "The Invalid number": "Bu geçerli bir numara değil",
       "Indentation": "girinti",
       "Before text": "Metinden önce",
       "Special": "Özel",
@@ -3095,8 +3102,10 @@
       "Match case": "Maç durumu",
       "Apply": "Uygula",
       "GoToPage": "Sayfaya git",
-      "No matches": "Görüntüleyici belgede aramayı tamamladı. ",
-      "No Text Found": "Metin Bulunamadı",
+      "No Matches": "PDF Viewer belgeyi aramayı bitirdi. Eşleşme bulunmadı.",
+      "No More Matches": "PDF Viewer belgeyi aramayı bitirdi. Daha fazla eşleşme bulunmadı.",
+      "No Search Matches": "Hiçbir sonuç bulunamadı",
+      "No More Search Matches": "Artık eşleşme bulunamadı",
       "Undo": "Geri alma",
       "Redo": "Yinele",
       "Annotation": "Ek açıklamalar ekleyin veya düzenleyin",
@@ -3286,7 +3295,9 @@
       "pt": "puan",
       "cu": "cu",
       "sq": "metrekare",
-      "Initial": "İlk"
+      "Initial": "İlk",
+      "No matches": "Görüntüleyici belgede aramayı tamamladı. ",
+      "No Text Found": "Metin Bulunamadı"
     },
     "stepper": {
       "optional": "İsteğe bağlı"

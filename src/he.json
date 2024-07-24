@@ -971,6 +971,7 @@
       "invalidDateError": "ערך התאריך שהוזן אינו חוקי.",
       "blockAlert": "לא ניתן לתזמן אירועים בטווח הזמן החסום.",
       "ok": "בסדר",
+      "of": "שֶׁל",
       "yes": "כן",
       "no": "לא",
       "occurrence": "התרחשות",
@@ -1128,7 +1129,11 @@
       "splitTask": "משימה מפוצלת",
       "mergeTask": "מיזוג משימה",
       "left": "שמאלה",
-      "right": "ימין"
+      "right": "ימין",
+      "FF": "FF",
+      "FS": "FS",
+      "SF": "SF",
+      "SS": "SS"
     },
     "richtexteditor": {
       "alignments": "יישור קו",
@@ -2296,6 +2301,8 @@
       "Edit Hyperlink": "ערוך את היפר-קישור",
       "Insert": "הכנס",
       "General": "כללי",
+      "The number must be between": "המספר חייב להיות בין 1 ל-9",
+      "The Invalid number": "זה לא מספר חוקי",
       "Indentation": "כניסה",
       "Before text": "לפני הטקסט",
       "Special": "מיוחד",
@@ -3095,8 +3102,10 @@
       "Match case": "מארז התאמה",
       "Apply": "להגיש מועמדות",
       "GoToPage": "לך לעמוד",
-      "No matches": "המציג סיים לחפש במסמך. ",
-      "No Text Found": "לא נמצא טקסט",
+      "No Matches": "מציג PDF סיים לחפש במסמך. לא נמצאו התאמות.",
+      "No More Matches": "מציג PDF סיים לחפש במסמך. לא נמצאו התאמות נוספות.",
+      "No Search Matches": "אין תוצאות מתאימות",
+      "No More Search Matches": "לא נמצאו התאמות נוספות",
       "Undo": "לבטל",
       "Redo": "לַעֲשׂוֹת שׁוּב",
       "Annotation": "הוסף או ערוך הערות",
@@ -3286,7 +3295,9 @@
       "pt": "pt",
       "cu": "cu",
       "sq": "מ\"ר",
-      "Initial": "התחלתי"
+      "Initial": "התחלתי",
+      "No matches": "המציג סיים לחפש במסמך. ",
+      "No Text Found": "לא נמצא טקסט"
     },
     "stepper": {
       "optional": "אופציונאלי"
