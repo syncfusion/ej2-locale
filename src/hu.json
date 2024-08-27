@@ -131,7 +131,10 @@
       "Expanded": "Kiterjesztett",
       "Collapsed": "Összeomlott",
       "SelectAllCheckbox": "Jelölje be az Összes jelölőnégyzetet",
-      "SelectRow": "Válassza ki a sort"
+      "SelectRow": "Válassza ki a sort",
+      "AscendingText": "Növekvő",
+      "DescendingText": "Csökkenő",
+      "NoneText": "Egyik sem"
     },
     "pager": {
       "currentPageInfo": "{1} oldal {0}",

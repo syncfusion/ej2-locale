@@ -131,7 +131,10 @@
       "Expanded": "Расширенный",
       "Collapsed": "Свернуто",
       "SelectAllCheckbox": "Флажок «Выбрать все»",
-      "SelectRow": "Выберите строку"
+      "SelectRow": "Выберите строку",
+      "AscendingText": "Восходящий",
+      "DescendingText": "Нисходящий",
+      "NoneText": "Никакой"
     },
     "pager": {
       "currentPageInfo": "{0} из {1} страниц",

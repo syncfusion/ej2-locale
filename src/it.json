@@ -131,7 +131,10 @@
       "Expanded": "Allargata",
       "Collapsed": "Crollato",
       "SelectAllCheckbox": "Seleziona la casella di controllo Tutto",
-      "SelectRow": "Seleziona riga"
+      "SelectRow": "Seleziona riga",
+      "AscendingText": "Ascendente",
+      "DescendingText": "Discendente",
+      "NoneText": "Nessuno"
     },
     "pager": {
       "currentPageInfo": "{0} di {1} pagine",

@@ -131,7 +131,10 @@
       "Expanded": "מוּרחָב",
       "Collapsed": "תצוגה מכווצת",
       "SelectAllCheckbox": "בחר תיבת סימון הכל",
-      "SelectRow": "בחר שורה"
+      "SelectRow": "בחר שורה",
+      "AscendingText": "עולה",
+      "DescendingText": "יורד",
+      "NoneText": "אין"
     },
     "pager": {
       "currentPageInfo": "{0} מתוך {1} עמודים",

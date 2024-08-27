@@ -131,7 +131,10 @@
       "Expanded": "Expandida",
       "Collapsed": "Contraída",
       "SelectAllCheckbox": "Seleccionar todo Casilla de verificación",
-      "SelectRow": "Seleccionar fila"
+      "SelectRow": "Seleccionar fila",
+      "AscendingText": "Ascendente",
+      "DescendingText": "Descendente",
+      "NoneText": "Ninguno"
     },
     "pager": {
       "currentPageInfo": "{0} de {1} páginas",

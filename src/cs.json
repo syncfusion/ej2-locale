@@ -131,7 +131,10 @@
       "Expanded": "Rozšířený",
       "Collapsed": "Zhroucený",
       "SelectAllCheckbox": "Zaškrtněte políčko Vše",
-      "SelectRow": "Vyberte řádek"
+      "SelectRow": "Vyberte řádek",
+      "AscendingText": "Vzestupně",
+      "DescendingText": "Sestupně",
+      "NoneText": "Žádný"
     },
     "pager": {
       "currentPageInfo": "{0} z {1} stránek",

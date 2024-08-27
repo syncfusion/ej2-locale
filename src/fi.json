@@ -131,7 +131,10 @@
       "Expanded": "Laajennettu",
       "Collapsed": "Romahtanut",
       "SelectAllCheckbox": "Valitse Kaikki -valintaruutu",
-      "SelectRow": "Valitse rivi"
+      "SelectRow": "Valitse rivi",
+      "AscendingText": "Nouseva",
+      "DescendingText": "Laskeva",
+      "NoneText": "Ei mitään"
     },
     "pager": {
       "currentPageInfo": "{0} {1} sivusta",

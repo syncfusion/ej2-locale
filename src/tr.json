@@ -131,7 +131,10 @@
       "Expanded": "Genişletilmiş",
       "Collapsed": "çöktü",
       "SelectAllCheckbox": "Tümünü Seç Onay Kutusu",
-      "SelectRow": "Satır seç"
+      "SelectRow": "Satır seç",
+      "AscendingText": "Yükselen",
+      "DescendingText": "Düşen",
+      "NoneText": "Yok"
     },
     "pager": {
       "currentPageInfo": "{1} sayfanın {0}",
