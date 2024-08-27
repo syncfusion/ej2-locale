@@ -131,7 +131,10 @@
       "Expanded": "Erweitert",
       "Collapsed": "Zusammengebrochen",
       "SelectAllCheckbox": "Kontrollkästchen „Alle auswählen“.",
-      "SelectRow": "Zeile auswählen"
+      "SelectRow": "Zeile auswählen",
+      "AscendingText": "Aufsteigend",
+      "DescendingText": "Absteigend",
+      "NoneText": "Keine"
     },
     "pager": {
       "currentPageInfo": "{0} von {1} Seiten",

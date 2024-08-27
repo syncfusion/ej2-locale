@@ -131,7 +131,10 @@
       "Expanded": "Udvidet",
       "Collapsed": "Kollapsede",
       "SelectAllCheckbox": "Marker afkrydsningsfeltet Alle",
-      "SelectRow": "Vælg række"
+      "SelectRow": "Vælg række",
+      "AscendingText": "Stigende",
+      "DescendingText": "Faldende",
+      "NoneText": "Ingen"
     },
     "pager": {
       "currentPageInfo": "{0} af {1} sider",

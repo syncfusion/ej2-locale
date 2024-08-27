@@ -131,7 +131,10 @@
       "Expanded": "エキスパンド",
       "Collapsed": "折りたたまれた",
       "SelectAllCheckbox": "すべて選択チェックボックス",
-      "SelectRow": "行を選択"
+      "SelectRow": "行を選択",
+      "AscendingText": "昇順",
+      "DescendingText": "降順",
+      "NoneText": "なし"
     },
     "pager": {
       "currentPageInfo": "{0}ページのうち{1}ページ",

@@ -131,7 +131,10 @@
       "Expanded": "uitgebreid",
       "Collapsed": "Ingestort",
       "SelectAllCheckbox": "Selecteer Alles",
-      "SelectRow": "Selecteer rij"
+      "SelectRow": "Selecteer rij",
+      "AscendingText": "Oplopend",
+      "DescendingText": "Aflopend",
+      "NoneText": "Geen"
     },
     "pager": {
       "currentPageInfo": "{0} van {1} pagina's",

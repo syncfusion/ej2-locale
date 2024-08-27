@@ -131,7 +131,10 @@
       "Expanded": "Rozszerzony",
       "Collapsed": "Zwinięty",
       "SelectAllCheckbox": "Zaznacz pole wyboru Wszystkie",
-      "SelectRow": "Wybierz wiersz"
+      "SelectRow": "Wybierz wiersz",
+      "AscendingText": "Rosnący",
+      "DescendingText": "Malejący",
+      "NoneText": "Żaden"
     },
     "pager": {
       "currentPageInfo": "{0} z {1} stron",

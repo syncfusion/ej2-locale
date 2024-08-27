@@ -131,7 +131,10 @@
       "Expanded": "Extins",
       "Collapsed": "S-a prăbușit",
       "SelectAllCheckbox": "Selectați caseta de selectare Toate",
-      "SelectRow": "Selectați rândul"
+      "SelectRow": "Selectați rândul",
+      "AscendingText": "Ascendent",
+      "DescendingText": "Descendent",
+      "NoneText": "Nimic"
     },
     "pager": {
       "currentPageInfo": "{0} din {1} pagini",

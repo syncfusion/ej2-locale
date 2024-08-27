@@ -131,7 +131,10 @@
       "Expanded": "विस्तार गरियो",
       "Collapsed": "संक्षिप्त गरियो",
       "SelectAllCheckbox": "सबै चेकबक्स चयन गर्नुहोस्",
-      "SelectRow": "पङ्क्ति चयन गर्नुहोस्"
+      "SelectRow": "पङ्क्ति चयन गर्नुहोस्",
+      "AscendingText": "वर्धनशील",
+      "DescendingText": "घटाउने क्रम",
+      "NoneText": "केही छैन"
     },
     "pager": {
       "currentPageInfo": "{1} पृष्ठहरू मध्ये {0}",

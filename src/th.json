@@ -131,7 +131,10 @@
       "Expanded": "ขยาย",
       "Collapsed": "ยุบ",
       "SelectAllCheckbox": "เลือกช่องทำเครื่องหมายทั้งหมด",
-      "SelectRow": "เลือกแถว"
+      "SelectRow": "เลือกแถว",
+      "AscendingText": "เพิ่มขึ้น",
+      "DescendingText": "ลดลง",
+      "NoneText": "ไม่มี"
     },
     "pager": {
       "currentPageInfo": "หน้า {0} จาก {1} หน้า",

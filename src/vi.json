@@ -131,7 +131,10 @@
       "Expanded": "mở rộng",
       "Collapsed": "Đã thu gọn",
       "SelectAllCheckbox": "Chọn tất cả hộp kiểm",
-      "SelectRow": "Chọn hàng"
+      "SelectRow": "Chọn hàng",
+      "AscendingText": "Tăng dần",
+      "DescendingText": "Giảm dần",
+      "NoneText": "Không có"
     },
     "pager": {
       "currentPageInfo": "{0} trong số {1} trang",

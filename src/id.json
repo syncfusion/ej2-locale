@@ -131,7 +131,10 @@
       "Expanded": "Diperluas",
       "Collapsed": "Runtuh",
       "SelectAllCheckbox": "Pilih Semua Kotak Centang",
-      "SelectRow": "Pilih baris"
+      "SelectRow": "Pilih baris",
+      "AscendingText": "Menaik",
+      "DescendingText": "Menurun",
+      "NoneText": "Tidak ada"
     },
     "pager": {
       "currentPageInfo": "{0} dari {1} halaman",

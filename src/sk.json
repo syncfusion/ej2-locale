@@ -131,7 +131,10 @@
       "Expanded": "Rozšírené",
       "Collapsed": "Zrútené",
       "SelectAllCheckbox": "Začiarknite políčko Všetky",
-      "SelectRow": "Vyberte riadok"
+      "SelectRow": "Vyberte riadok",
+      "AscendingText": "Stúpajúci",
+      "DescendingText": "Klesajúci",
+      "NoneText": "Žiadny"
     },
     "pager": {
       "currentPageInfo": "{0} z {1} stránok",

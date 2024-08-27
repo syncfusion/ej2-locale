@@ -131,7 +131,10 @@
       "Expanded": "موسع",
       "Collapsed": "انهار",
       "SelectAllCheckbox": "حدد خانة الاختيار الكل",
-      "SelectRow": "حدد الصف"
+      "SelectRow": "حدد الصف",
+      "AscendingText": "تصاعدي",
+      "DescendingText": "تنازلي ",
+      "NoneText": "لا شيء"
     },
     "pager": {
       "currentPageInfo": "{0} من {1} صفحة",

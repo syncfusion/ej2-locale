@@ -131,7 +131,10 @@
       "Expanded": "Prošireno",
       "Collapsed": "Srušeno",
       "SelectAllCheckbox": "Odaberite potvrdni okvir Sve",
-      "SelectRow": "Odaberite red"
+      "SelectRow": "Odaberite red",
+      "AscendingText": "Rastući",
+      "DescendingText": "Opadajući",
+      "NoneText": "Niti jedan"
     },
     "pager": {
       "currentPageInfo": "{0} od {1} stranica",

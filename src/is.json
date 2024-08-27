@@ -86,7 +86,10 @@
       "OR": "EÐA",
       "ShowRowsWhere": "Sýna línur þar sem:",
       "SelectAllCheckbox": "Veldu allt gátreit",
-      "SelectRow": "Veldu röð"
+      "SelectRow": "Veldu röð",
+      "AscendingText": "Vaxandi",
+      "DescendingText": "Minnkandi",
+      "NoneText": "Enginn"
     },
     "pager": {
       "currentPageInfo": "{0} af {1} síðum",

@@ -131,7 +131,10 @@
       "Expanded": "Expanderat",
       "Collapsed": "Kollapsade",
       "SelectAllCheckbox": "Markera kryssrutan Alla",
-      "SelectRow": "Välj rad"
+      "SelectRow": "Välj rad",
+      "AscendingText": "Stigande",
+      "DescendingText": "Fallende",
+      "NoneText": "Ingen"
     },
     "pager": {
       "currentPageInfo": "{0} av {1} sidor",

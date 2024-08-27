@@ -131,7 +131,10 @@
       "Expanded": "Utvidet",
       "Collapsed": "Kollapset",
       "SelectAllCheckbox": "Merk av for Alle",
-      "SelectRow": "Velg rad"
+      "SelectRow": "Velg rad",
+      "AscendingText": "Stigende",
+      "DescendingText": "Fallende",
+      "NoneText": "Ingen"
     },
     "pager": {
       "currentPageInfo": "{0} av {1} sider",

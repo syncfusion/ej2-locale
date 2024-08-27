@@ -131,7 +131,10 @@
       "Expanded": "展开",
       "Collapsed": "倒塌",
       "SelectAllCheckbox": "选择全部复选框",
-      "SelectRow": "选择行"
+      "SelectRow": "选择行",
+      "AscendingText": "升序",
+      "DescendingText": "降序",
+      "NoneText": "无"
     },
     "pager": {
       "currentPageInfo": "第{0}頁／共{1}頁",
