@@ -473,7 +473,7 @@
       "DateFilter": "Filtros de fecha",
       "TextFilter": "Filtros de texto",
       "NumberFilter": "Filtros numéricos",
-      "ClearFilter": "Filtro claro",
+      "ClearFilter": "Borrar filtro",
       "NoResult": "No se encontraron coincidencias",
       "FilterFalse": "Falso",
       "FilterTrue": "Verdadero",
