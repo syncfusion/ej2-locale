@@ -2055,7 +2055,7 @@
       "SendBackward": "Enviar um passo a trás"
     },
     "inplace-editor": {
-      "save": "Salvar ",
+      "save": "Salvar",
       "cancel": "Cancelar",
       "loadingText": "Carregando...",
       "editIcon": "Clique para editar",
