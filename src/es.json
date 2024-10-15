@@ -72,7 +72,7 @@
       "FilterTrue": "Cierto",
       "FilterFalse": "Falso",
       "NoResult": "No se encontraron coincidencias",
-      "ClearFilter": "Filtro claro",
+      "ClearFilter": "Borrar filtro",
       "NumberFilter": "Filtros de número",
       "TextFilter": "Filtros de texto",
       "DateFilter": "Filtros de fecha",
