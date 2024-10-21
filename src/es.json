@@ -523,7 +523,7 @@
       "MinMaxError": "El Máximo debe ser mayor o igual al Mínimo.",
       "InvalidNumberError": "Por favor, introduzca un número válido.",
       "Spreadsheet": "Hoja de cálculo",
-      "MoreValidation": "Esta selección contiene más de una validación. \n ¿Borrar la configuración actual y continuar?",
+      "MoreValidation": "Esta selección contiene más de una validación. ¿Borrar la configuración actual y continuar?",
       "FileNameError": "El nombre de un archivo no puede contener caracteres como \\ / : * ? \" < > [ ] |",
       "ValidationError": "Este valor no coincide con las restricciones de validación de datos definidas para la celda.",
       "ListLengthError": "Los valores de la lista permiten solo hasta 256 caracteres.",
