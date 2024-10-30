@@ -165,7 +165,7 @@
       "editTitle": "Editar detalhes do card",
       "deleteTitle": "Excluir card",
       "deleteContent": "Tem certeza de que deseja excluir este card?",
-      "save": "Salvar ",
+      "save": "Salvar",
       "delete": "Excluir",
       "cancel": "Cancelar",
       "yes": "Sim",
@@ -2055,7 +2055,7 @@
       "SendBackward": "Enviar um passo a trás"
     },
     "inplace-editor": {
-      "save": "Salvar ",
+      "save": "Salvar",
       "cancel": "Cancelar",
       "loadingText": "Carregando...",
       "editIcon": "Clique para editar",
