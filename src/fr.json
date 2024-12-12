@@ -518,10 +518,12 @@
       "InCellDropDown": "Liste déroulante dans la cellule",
       "Sources": "Sources",
       "Value": "Évaluer",
+      "Formula": "Formule",
       "Retry": "Retenter",
       "DialogError": "La source de la liste doit être une référence à une seule ligne ou colonne.",
       "MinMaxError": "Le maximum doit être supérieur ou égal au minimum.",
       "InvalidNumberError": "Veuillez entrer un numéro valide.",
+      "InvalidFormula": "Veuillez entrer une formule valide.",
       "Spreadsheet": "Tableur",
       "MoreValidation": "Cette sélection contient plus d'une validation.",
       "FileNameError": "Un nom de fichier ne peut pas contenir de caractères tels que \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Vent arrière",
       "TailwindDark": "Vent arrière sombre",
+      "Tailwind3": "Vent Arrière 3",
+      "Tailwind3Dark": "Vent Arrière 3 Sombre",
       "VerticalAxisTitle": "Titre de l'axe vertical",
       "HorizontalAxisTitle": "Titre de l'axe horizontal",
       "EnterTitle": "Entrez le titre",
@@ -1493,7 +1497,8 @@
       "CloneRule": "Cloner la règle",
       "LockRule": "Verrouiller la règle",
       "UnlockRule": "Règle de déverrouillage",
-      "UnlockGroup": "Déverrouiller le groupe"
+      "UnlockGroup": "Déverrouiller le groupe",
+      "NOT": "Pas"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1740,7 +1745,7 @@
       "pareto": "Pareto",
       "radar": "Radar",
       "chartTypeSettings": "Paramètres de type de graphique",
-      "multipleAxes": "Plusieurs axes",
+      "multipleAxes": "Axe Multiples ",
       "sortAscending": "Trier par ordre croissant",
       "sortDescending": "Trier par ordre décroissant",
       "sortNone": "Trier par ordre des données",
@@ -1935,7 +1940,9 @@
       "removeCalculatedField": "Voulez-vous vraiment supprimer ce champ calculé ?",
       "yes": "Oui",
       "no": "Non",
-      "None": "Aucun"
+      "None": "Aucun",
+      "qtr": "trimestre",
+      "grandTotal": "Grand Total"
     },
     "pdfviewer": {
       "PdfViewer": "Visionneuse PDF",
@@ -3064,6 +3071,14 @@
       "ConfirmDialogContent": "Voulez-vous enregistrer les modifications que vous avez apportées à l'image ?",
       "AlertDialogHeader": "Fichier non supporté",
       "AlertDialogContent": "Le fichier supprimé n'est pas pris en charge.",
+      "MinMaxSize": "avec une taille de fichier comprise entre",
+      "MinMaxSizeAlert": "Taille du fichier entre",
+      "MinSize": "avec une taille de fichier minimale de",
+      "MinSizeAlert": "Une taille de fichier minimale de",
+      "MaxSize": "avec une taille de fichier maximale de",
+      "MaxSizeAlert": "Une taille de fichier maximale de",
+      "To": "à",
+      "Bytes": "octets",
       "Yes": "Oui",
       "No": "Non",
       "ImageErrorDialogHeader": "Erreur lors de la sélection de l'image",
@@ -3092,7 +3107,8 @@
       "Pixelate": "Pixélate",
       "BorderRadius": "Rayon de frontière",
       "TextOutlineColor": "Couleur de contour",
-      "TextOutlineWidth": "Largeur de contour"
+      "TextOutlineWidth": "Largeur de contour",
+      "And": "et"
     },
     "mention": {
       "noRecordsTemplate": "Aucun enregistrement trouvé"

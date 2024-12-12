@@ -518,10 +518,12 @@
       "InCellDropDown": "Lista suspensa na célula",
       "Sources": "Fontes",
       "Value": "Valor",
+      "Formula": "Fórmula",
       "Retry": "Tentar novamente",
       "DialogError": "A origem da lista deve ser uma referência a uma única linha ou coluna.",
       "MinMaxError": "O Máximo deve ser maior ou igual ao Mínimo.",
       "InvalidNumberError": "Por favor insira um número válido.",
+      "InvalidFormula": "Insira uma fórmula válida.",
       "Spreadsheet": "Planilha",
       "MoreValidation": "Esta seleção contém mais de uma validação.",
       "FileNameError": "Um nome de arquivo não pode conter caracteres como \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Vento de cauda",
       "TailwindDark": "Tailwind escuro",
+      "Tailwind3": "Vento de cauda 3",
+      "Tailwind3Dark": "Tailwind 3 Escuro",
       "VerticalAxisTitle": "Título do Eixo Vertical",
       "HorizontalAxisTitle": "Título do Eixo Horizontal",
       "EnterTitle": "Digite o título",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Clonar regra",
       "LockRule": "Regra de bloqueio",
       "UnlockRule": "Regra de desbloqueio",
-      "UnlockGroup": "Desbloquear grupo"
+      "UnlockGroup": "Desbloquear grupo",
+      "NOT": "Não"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1734,11 +1739,11 @@
       "stackingcolumn100": "Coluna empilhada 100%",
       "stackingbar100": "Barra 100% empilhada",
       "stackingarea100": "Área 100% empilhada",
-      "bubble": "bolha",
+      "bubble": "Bolha",
       "pareto": "Pareto",
       "radar": "Radar",
       "chartTypeSettings": "Configurações de tipo de gráfico",
-      "multipleAxes": "Múltiplos eixos",
+      "multipleAxes": "Eixo Múltiplo",
       "sortAscending": "Classificar ordem crescente",
       "sortDescending": "Classificar ordem decrescente",
       "sortNone": "Classificar ordem dos dados",
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Tem certeza de que deseja excluir este campo calculado?",
       "yes": "sim",
       "no": "Não",
-      "None": "Nenhum"
+      "None": "Nenhum",
+      "qtr": "trimestre",
+      "grandTotal": "Total geral"
     },
     "pdfviewer": {
       "PdfViewer": "Visualizador de PDF",
@@ -2939,6 +2946,14 @@
       "ConfirmDialogContent": "Deseja salvar as alterações feitas na imagem?",
       "AlertDialogHeader": "Arquivo não suportado",
       "AlertDialogContent": "O arquivo descartado não é compatível.",
+      "MinMaxSize": "com tamanho de arquivo entre",
+      "MinMaxSizeAlert": "Tamanho do arquivo entre",
+      "MinSize": "com tamanho mínimo de arquivo de",
+      "MinSizeAlert": "Um tamanho mínimo de arquivo de",
+      "MaxSize": "com tamanho máximo de arquivo de",
+      "MaxSizeAlert": "Um tamanho máximo de arquivo de",
+      "To": "para",
+      "Bytes": "bytes",
       "Yes": "Sim",
       "No": "Não",
       "ImageErrorDialogHeader": "Erro de seleção de imagem",
@@ -2967,7 +2982,8 @@
       "Pixelate": "Pixelato",
       "BorderRadius": "Raio de fronteira",
       "TextOutlineColor": "Contorno da cor",
-      "TextOutlineWidth": "Largura do esboço"
+      "TextOutlineWidth": "Largura do esboço",
+      "And": "e"
     },
     "mention": {
       "noRecordsTemplate": "Nenhum registro foi encontrado"

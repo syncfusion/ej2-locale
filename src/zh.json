@@ -518,10 +518,12 @@
       "InCellDropDown": "单元格下拉",
       "Sources": "来源",
       "Value": "价值",
+      "Formula": "公式",
       "Retry": "重试",
       "DialogError": "列表源必须是对单个行或列的引用。",
       "MinMaxError": "最大值必须大于或等于最小值。",
       "InvalidNumberError": "请输入有效的号码。",
+      "InvalidFormula": "请输入有效的公式。",
       "Spreadsheet": "电子表格",
       "MoreValidation": "此选择包含多个验证。",
       "FileNameError": "文件名不能包含像 \\ / : * 这样的字符？ \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "顺风",
       "TailwindDark": "顺风黑暗",
+      "Tailwind3": "顺风 3",
+      "Tailwind3Dark": "顺风 3 黑暗",
       "VerticalAxisTitle": "纵轴标题",
       "HorizontalAxisTitle": "横轴标题",
       "EnterTitle": "输入标题",
@@ -1493,7 +1497,8 @@
       "CloneRule": "克隆规则",
       "LockRule": "锁定规则",
       "UnlockRule": "解锁规则",
-      "UnlockGroup": "解锁组"
+      "UnlockGroup": "解锁组",
+      "NOT": "不是"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1935,7 +1940,9 @@
       "removeCalculatedField": "您確定要刪除此計算字段嗎？",
       "yes": "是",
       "no": "沒有",
-      "None": "没有任何"
+      "None": "没有任何",
+      "qtr": "季度",
+      "grandTotal": "累计"
     },
     "pdfviewer": {
       "PdfViewer": "PDF查看器",
@@ -3063,6 +3070,14 @@
       "ConfirmDialogContent": "您想保存对图像所做的更改吗？",
       "AlertDialogHeader": "不支持的文件",
       "AlertDialogContent": "不支持删除的文件。",
+      "MinMaxSize": "文件大小介于",
+      "MinMaxSizeAlert": "文件大小介于",
+      "MinSize": "最小文件大小为",
+      "MinSizeAlert": "最小文件大小为",
+      "MaxSize": "最大文件大小为",
+      "MaxSizeAlert": "最大文件大小为",
+      "To": "至",
+      "Bytes": "字节",
       "Yes": "是的",
       "No": "不",
       "ImageErrorDialogHeader": "选择图像时出错。",
@@ -3091,7 +3106,8 @@
       "Pixelate": "像素化",
       "BorderRadius": "边界半径",
       "TextOutlineColor": "轮廓颜色",
-      "TextOutlineWidth": "轮廓宽度"
+      "TextOutlineWidth": "轮廓宽度",
+      "And": "和"
     },
     "mention": {
       "noRecordsTemplate": "没有找到记录"

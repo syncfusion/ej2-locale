@@ -518,10 +518,12 @@
       "InCellDropDown": "In-Cell-Dropdown",
       "Sources": "Quellen",
       "Value": "Wert",
+      "Formula": "Formel",
       "Retry": "Wiederholen",
       "DialogError": "Die Listenquelle muss ein Verweis auf eine einzelne Zeile oder Spalte sein.",
       "MinMaxError": "Das Maximum muss größer oder gleich dem Minimum sein.",
       "InvalidNumberError": "Bitte geben Sie eine gültige Nummer ein.",
+      "InvalidFormula": "Bitte geben Sie eine gültige Formel ein.",
       "Spreadsheet": "Kalkulationstabelle",
       "MoreValidation": "Diese Auswahl enthält mehr als eine Validierung.",
       "FileNameError": "Ein Dateiname darf keine Zeichen wie \\ / : * ? enthalten. \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Rückenwind",
       "TailwindDark": "Rückenwind Dunkel",
+      "Tailwind3": "Rückenwind 3",
+      "Tailwind3Dark": "Rückenwind 3 Dunkel",
       "VerticalAxisTitle": "Titel der vertikalen Achse",
       "HorizontalAxisTitle": "Titel der horizontalen Achse",
       "EnterTitle": "Titel eingeben",
@@ -1493,7 +1497,8 @@
       "CloneRule": "Klonregel",
       "LockRule": "Sperrregel",
       "UnlockRule": "Regel freischalten",
-      "UnlockGroup": "Gruppe entsperren"
+      "UnlockGroup": "Gruppe entsperren",
+      "NOT": "Nicht"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1935,7 +1940,9 @@
       "removeCalculatedField": "Möchten Sie dieses berechnete Feld wirklich löschen?",
       "yes": "Ja",
       "no": "Nein",
-      "None": "Keiner"
+      "None": "Keiner",
+      "qtr": "Viertel",
+      "grandTotal": "Gesamtsummen"
     },
     "pdfviewer": {
       "PdfViewer": "PDF-Viewer",
@@ -3062,6 +3069,14 @@
       "ConfirmDialogContent": "Möchten Sie die am Bild vorgenommenen Änderungen speichern?",
       "AlertDialogHeader": "Nicht unterstützte Datei",
       "AlertDialogContent": "Die abgelegte Datei wird nicht unterstützt.",
+      "MinMaxSize": "mit Dateigröße zwischen",
+      "MinMaxSizeAlert": "Dateigröße zwischen",
+      "MinSize": "mit minimaler Dateigröße von",
+      "MinSizeAlert": "Eine minimale Dateigröße von",
+      "MaxSize": "mit maximaler Dateigröße von",
+      "MaxSizeAlert": "Eine maximale Dateigröße von",
+      "To": "zu",
+      "Bytes": "bytes",
       "Yes": "Ja",
       "No": "NEIN",
       "ImageErrorDialogHeader": "Fehler beim Auswählen des Bildes",
@@ -3090,7 +3105,8 @@
       "Pixelate": "Pixel",
       "BorderRadius": "Grenzradius",
       "TextOutlineColor": "Umrissfarbe",
-      "TextOutlineWidth": "Umrissbreite"
+      "TextOutlineWidth": "Umrissbreite",
+      "And": "und"
     },
     "mention": {
       "noRecordsTemplate": "Keine Aufzeichnungen gefunden"
