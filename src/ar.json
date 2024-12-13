@@ -518,10 +518,12 @@
       "InCellDropDown": "القائمة المنسدلة في الخلية",
       "Sources": "مصادر",
       "Value": "قيمة",
+      "Formula": "صيغة",
       "Retry": "أعد المحاولة",
       "DialogError": "يجب أن يكون مصدر القائمة مرجعًا لصف أو عمود واحد.",
       "MinMaxError": "يجب أن يكون الحد الأقصى أكبر من أو يساوي الحد الأدنى.",
       "InvalidNumberError": "الرجاء إدخال رقم صالح.",
+      "InvalidFormula": "الرجاء إدخال صيغة صالحة",
       "Spreadsheet": "جدول",
       "MoreValidation": "يحتوي هذا التحديد على أكثر من عملية تحقق واحدة.",
       "FileNameError": "لا يمكن أن يحتوي اسم الملف على أحرف مثل \\ /: *؟ \"<> [] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "التمهيد 5",
       "Tailwind": "الريح الخلفية",
       "TailwindDark": "Tailwind الظلام",
+      "Tailwind3": "Tailwind 3",
+      "Tailwind3Dark": "Tailwind 3 الظلام",
       "VerticalAxisTitle": "عنوان المحور الرأسي",
       "HorizontalAxisTitle": "عنوان المحور الأفقي",
       "EnterTitle": "أدخل العنوان",
@@ -1493,7 +1497,8 @@
       "CloneRule": "قاعدة الاستنساخ",
       "LockRule": "قاعدة القفل",
       "UnlockRule": "فتح القاعدة",
-      "UnlockGroup": "فتح المجموعة"
+      "UnlockGroup": "فتح المجموعة",
+      "NOT": "لا"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1740,7 +1745,7 @@
       "pareto": "باريتو",
       "radar": "رادار",
       "chartTypeSettings": "إعدادات نوع التخطيط",
-      "multipleAxes": "محاور متعددة",
+      "multipleAxes": "محور متعددة",
       "sortAscending": "ترتيب تصاعدي",
       "sortDescending": "ترتيب تنازلي",
       "sortNone": "ترتيب ترتيب البيانات",
@@ -1935,7 +1940,9 @@
       "removeCalculatedField": "هل أنت متأكد أنك تريد حذف هذا الحقل المحسوب؟",
       "yes": "نعم",
       "no": "لا",
-      "None": "لا أحد"
+      "None": "لا أحد",
+      "qtr": "ربع",
+      "grandTotal": "المجموع الإجمالي"
     },
     "pdfviewer": {
       "PdfViewer": "عارض PDF",
@@ -3061,6 +3068,14 @@
       "ConfirmDialogContent": "هل تريد حفظ التغييرات التي أجريتها على الصورة؟",
       "AlertDialogHeader": "ملف غير مدعم",
       "AlertDialogContent": "الملف المسقط غير مدعوم.",
+      "MinMaxSize": "مع حجم الملف بين",
+      "MinMaxSizeAlert": "حجم الملف بين",
+      "MinSize": " مع الحد الأدنى لحجم الملف ل",
+      "MinSizeAlert": "الحد الأدنى لحجم الملف",
+      "MaxSize": "مع الحد الأقصى لحجم الملف ل",
+      "MaxSizeAlert": "الحد الأقصى لحجم الملف",
+      "To": "ل",
+      "Bytes": "بايتات",
       "Yes": "نعم",
       "No": "لا",
       "ImageErrorDialogHeader": "خطأ في اختيار الصورة",
@@ -3089,7 +3104,8 @@
       "Pixelate": "بكسل",
       "BorderRadius": "دائرة نصف قطرها الحدود",
       "TextOutlineColor": "لون الخطوط العريضة",
-      "TextOutlineWidth": "عرض الخطوط العريضة"
+      "TextOutlineWidth": "عرض الخطوط العريضة",
+      "And": "و"
     },
     "mention": {
       "noRecordsTemplate": "لا توجد سجلات"

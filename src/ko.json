@@ -518,10 +518,12 @@
       "InCellDropDown": "셀 내 드롭다운",
       "Sources": "출처",
       "Value": "값",
+      "Formula": "정식",
       "Retry": "다시 해 보다",
       "DialogError": "목록 소스는 단일 행 또는 열에 대한 참조여야 합니다.",
       "MinMaxError": "최대값은 최소값보다 크거나 같아야 합니다.",
       "InvalidNumberError": "유효한 숫자를 입력하세요.",
+      "InvalidFormula": "유효한 수식을 입력하세요.",
       "Spreadsheet": "스프레드시트",
       "MoreValidation": "이 선택 항목에는 둘 이상의 유효성 검사가 포함되어 있습니다.",
       "FileNameError": "파일 이름은 \\ / : * ? 와 같은 문자를 포함할 수 없습니다. \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "부트스트랩5",
       "Tailwind": "순풍",
       "TailwindDark": "테일윈드 다크",
+      "Tailwind3": "테일윈드 3",
+      "Tailwind3Dark": "테일윈드 3 다크",
       "VerticalAxisTitle": "세로축 제목",
       "HorizontalAxisTitle": "가로축 제목",
       "EnterTitle": "제목 입력",
@@ -1491,7 +1495,8 @@
       "CloneRule": "복제 규칙",
       "LockRule": "잠금 규칙",
       "UnlockRule": "잠금 해제 규칙",
-      "UnlockGroup": "그룹 잠금 해제"
+      "UnlockGroup": "그룹 잠금 해제",
+      "NOT": "나트"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1738,7 +1743,7 @@
       "pareto": "파레토",
       "radar": "레이더",
       "chartTypeSettings": "차트 유형 설정",
-      "multipleAxes": "여러 축",
+      "multipleAxes": "다중 축",
       "sortAscending": "오름차순 정렬",
       "sortDescending": "내림차순 정렬",
       "sortNone": "데이터 순서 정렬",
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "이 계산 된 필드를 삭제 하시겠습니까?",
       "yes": "예",
       "no": "아니",
-      "None": "없음"
+      "None": "없음",
+      "qtr": "Qtr",
+      "grandTotal": "총계"
     },
     "pdfviewer": {
       "PdfViewer": "PDF 뷰어",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "이미지에 대한 변경 사항을 저장하시겠습니까?",
       "AlertDialogHeader": "지원되지 않는 파일",
       "AlertDialogContent": "삭제된 파일은 지원되지 않습니다.",
+      "MinMaxSize": "파일 크기 사이",
+      "MinMaxSizeAlert": "파일 크기 사이",
+      "MinSize": "최소 파일 크기",
+      "MinSizeAlert": "최소 파일 크기",
+      "MaxSize": "최대 파일 크기",
+      "MaxSizeAlert": "최대 파일 크기",
+      "To": "에게",
+      "Bytes": "바이트",
       "Yes": "예",
       "No": "아니요",
       "ImageErrorDialogHeader": "이미지 선택 오류",
@@ -3088,7 +3103,8 @@
       "Pixelate": "픽셀 레이트",
       "BorderRadius": "경계 반경",
       "TextOutlineColor": "개요 색상",
-      "TextOutlineWidth": "개요 너비"
+      "TextOutlineWidth": "개요 너비",
+      "And": "그리고"
     },
     "mention": {
       "noRecordsTemplate": "기록 없음"

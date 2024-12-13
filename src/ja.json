@@ -518,10 +518,12 @@
       "InCellDropDown": "セル内ドロップダウン",
       "Sources": "ソース",
       "Value": "価値",
+      "Formula": "式",
       "Retry": "リトライ",
       "DialogError": "リスト ソースは、単一の行または列への参照である必要があります。",
       "MinMaxError": "最大値は最小値以上である必要があります。",
       "InvalidNumberError": "有効な番号を入力してください。",
+      "InvalidFormula": "有効な数式を入力してください。",
       "Spreadsheet": "スプレッドシート",
       "MoreValidation": "この選択には、複数の検証が含まれています。",
       "FileNameError": "ファイル名に \\ / : * ? などの文字を含めることはできません。 \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "ブートストラップ5",
       "Tailwind": "追い風",
       "TailwindDark": "追い風ダーク",
+      "Tailwind3": "テイルウィンド3",
+      "Tailwind3Dark": "テイルウィンド3ダーク",
       "VerticalAxisTitle": "縦軸のタイトル",
       "HorizontalAxisTitle": "横軸のタイトル",
       "EnterTitle": "タイトルを入力",
@@ -1491,7 +1495,8 @@
       "CloneRule": "クローンルール",
       "LockRule": "ロックルール",
       "UnlockRule": "ロック解除ルール",
-      "UnlockGroup": "グループのロックを解除する"
+      "UnlockGroup": "グループのロックを解除する",
+      "NOT": "ない"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1738,7 +1743,7 @@
       "pareto": "パレート",
       "radar": "レーダー",
       "chartTypeSettings": "チャートタイプの設定",
-      "multipleAxes": "複数の軸",
+      "multipleAxes": "複数機軸",
       "sortAscending": "昇順で並べ替え",
       "sortDescending": "降順で並べ替え",
       "sortNone": "データの並べ替え",
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "この計算フィールドを削除してもよろしいですか？",
       "yes": "はい",
       "no": "番号",
-      "None": "なし"
+      "None": "なし",
+      "qtr": "四半期",
+      "grandTotal": "総計"
     },
     "pdfviewer": {
       "PdfViewer": "PDFビューアー",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "画像に加えた変更を保存しますか?",
       "AlertDialogHeader": "サポートされていないファイル",
       "AlertDialogContent": "ドロップされたファイルはサポートされていません。",
+      "MinMaxSize": "ファイルサイズ の間に",
+      "MinMaxSizeAlert": "ファイルサイズ の間に",
+      "MinSize": "最小ファイルサイズは",
+      "MinSizeAlert": "最小ファイルサイズ",
+      "MaxSize": "最大ファイルサイズは",
+      "MaxSizeAlert": "最大ファイルサイズは",
+      "To": "to",
+      "Bytes": "bytes",
       "Yes": "はい",
       "No": "いいえ",
       "ImageErrorDialogHeader": "画像選択エラー",
@@ -3088,7 +3103,8 @@
       "Pixelate": "ピクセル酸塩",
       "BorderRadius": "境界半径",
       "TextOutlineColor": "アウトライン色",
-      "TextOutlineWidth": "アウトライン幅"
+      "TextOutlineWidth": "アウトライン幅",
+      "And": "そして"
     },
     "mention": {
       "noRecordsTemplate": "レコードが見つかりません"
