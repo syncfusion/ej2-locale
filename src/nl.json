@@ -518,10 +518,12 @@
       "InCellDropDown": "Dropdownmenu in de cel",
       "Sources": "Bronnen",
       "Value": "Waarde",
+      "Formula": "Formule",
       "Retry": "Opnieuw proberen",
       "DialogError": "De lijstbron moet een verwijzing zijn naar een enkele rij of kolom.",
       "MinMaxError": "Het maximum moet groter zijn dan of gelijk zijn aan het minimum.",
       "InvalidNumberError": "Voer een geldig nummer in.",
+      "InvalidFormula": "Voer een geldige formule in.",
       "Spreadsheet": "Spreadsheet",
       "MoreValidation": "Deze selectie bevat meer dan één validatie.",
       "FileNameError": "Een bestandsnaam mag geen tekens bevatten zoals \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Rugwind",
       "TailwindDark": "Achterwind Donker",
+      "Tailwind3": "Tailwind 3",
+      "Tailwind3Dark": "Tailwind 3 Donker",
       "VerticalAxisTitle": "Titel verticale as",
       "HorizontalAxisTitle": "Titel horizontale as",
       "EnterTitle": "Voer titel in",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Groep vergrendelen",
       "LockRule": "Kloonregel",
       "UnlockRule": "Vergrendelregel",
-      "UnlockGroup": "Regel ontgrendelen"
+      "UnlockGroup": "Regel ontgrendelen",
+      "NOT": "NIET"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1734,11 +1739,11 @@
       "stackingcolumn100": "100% gestapelde kolom",
       "stackingbar100": "100% gestapelde staaf",
       "stackingarea100": "100% gestapeld gebied",
-      "bubble": "bubbel",
+      "bubble": "Bubbel",
       "pareto": "Pareto",
       "radar": "Radar",
       "chartTypeSettings": "Instellingen voor diagramtypen",
-      "multipleAxes": "Meerdere assen",
+      "multipleAxes": "Meerdere aslijn",
       "sortAscending": "Sorteer oplopend",
       "sortDescending": "Sorteer aflopend",
       "sortNone": "Gegevensvolgorde sorteren",
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Weet u zeker dat u dit berekende veld wilt Verwijder?",
       "yes": "Ja",
       "no": "Nee",
-      "None": "Geen"
+      "None": "Geen",
+      "qtr": "Kwartaal",
+      "grandTotal": "Algemeen totaal"
     },
     "pdfviewer": {
       "PdfViewer": "PDF-viewer",
@@ -3064,6 +3071,14 @@
       "ConfirmDialogContent": "Wilt u de wijzigingen die u in de afbeelding heeft aangebracht, opslaan?",
       "AlertDialogHeader": "Niet-ondersteund bestand",
       "AlertDialogContent": "Het verwijderde bestand wordt niet ondersteund.",
+      "MinMaxSize": "met een bestandgrootte tussen",
+      "MinMaxSizeAlert": "Bestandsgrootte tussen",
+      "MinSize": "met een minimale bestandsgrootte van",
+      "MinSizeAlert": "Een minimale bestandsgrootte van",
+      "MaxSize": "met een maximale bestandsgrootte van",
+      "MaxSizeAlert": "Een maximale bestandsgrootte van",
+      "To": "om",
+      "Bytes": "bytes",
       "Yes": "Ja",
       "No": "Nee",
       "ImageErrorDialogHeader": "Fout bij beeldselectie",
@@ -3092,7 +3107,8 @@
       "Pixelate": "Pixeleren",
       "BorderRadius": "Randradius",
       "TextOutlineColor": "Schets kleur",
-      "TextOutlineWidth": "Overzichtsbreedte"
+      "TextOutlineWidth": "Overzichtsbreedte",
+      "And": "En"
     },
     "mention": {
       "noRecordsTemplate": "Geen verslagen gevonden"

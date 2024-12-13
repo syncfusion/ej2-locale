@@ -518,10 +518,12 @@
       "InCellDropDown": "Hücre içi açılır menü",
       "Sources": "kaynaklar",
       "Value": "Değer",
+      "Formula": "Formül",
       "Retry": "yeniden dene",
       "DialogError": "Liste kaynağı, tek bir satıra veya sütuna referans olmalıdır.",
       "MinMaxError": "Maksimum, Minimum'dan büyük veya ona eşit olmalıdır.",
       "InvalidNumberError": "Lütfen geçerli bir numara girin.",
+      "InvalidFormula": "Lütfen geçerli bir formül girin.",
       "Spreadsheet": "elektronik tablo",
       "MoreValidation": "Bu seçim birden fazla doğrulama içeriyor.",
       "FileNameError": "Bir dosya adı \\ / : * ? gibi karakterler içeremez. \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Önyükleme5",
       "Tailwind": "Tailwind",
       "TailwindDark": "Tailwind Karanlık",
+      "Tailwind3": "Tailwind 3",
+      "Tailwind3Dark": "Tailwind 3 Karanlık",
       "VerticalAxisTitle": "Dikey Eksen Başlığı",
       "HorizontalAxisTitle": "Yatay Eksen Başlığı",
       "EnterTitle": "Başlığı Girin",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Kuralı Klonla",
       "LockRule": "Kilit Kuralı",
       "UnlockRule": "Kuralın Kilidini Aç",
-      "UnlockGroup": "Grubun Kilidini Aç"
+      "UnlockGroup": "Grubun Kilidini Aç",
+      "NOT": "Değil"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1734,7 +1739,7 @@
       "stackingcolumn100": "% 100 Yığılmış Sütun",
       "stackingbar100": "% 100 Yığılmış Çubuk",
       "stackingarea100": "% 100 Yığılmış Alan",
-      "bubble": "kabarcık",
+      "bubble": "Kabarcık",
       "pareto": "Pareto",
       "radar": "Radar",
       "chartTypeSettings": "Grafik türü ayarları",
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Bu hesaplanan alanı silmek istediğinizden emin misiniz?",
       "yes": "Evet",
       "no": "Hayır",
-      "None": "Numara"
+      "None": "Numara",
+      "qtr": "Çeyrek",
+      "grandTotal": "Genel Toplam"
     },
     "pdfviewer": {
       "PdfViewer": "﻿PDF Görüntüleyici",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "Resimde yaptığınız değişiklikleri kaydetmek istiyor musunuz?",
       "AlertDialogHeader": "Desteklenmeyen dosya",
       "AlertDialogContent": "Bırakılan dosya desteklenmiyor.",
+      "MinMaxSize": "dosya boyutu arasında",
+      "MinMaxSizeAlert": "Dosya boyutu arasında",
+      "MinSize": "minimum dosya boyutu ile",
+      "MinSizeAlert": "Minimum dosya boyutu",
+      "MaxSize": "maksimum dosya boyutu ile",
+      "MaxSizeAlert": "Maksimum dosya boyutu",
+      "To": "-e doğru",
+      "Bytes": "baytlar",
       "Yes": "Evet",
       "No": "HAYIR",
       "ImageErrorDialogHeader": "Resim seçilirken bir hata oluştu.",
@@ -3088,7 +3103,8 @@
       "Pixelate": "Pikselat",
       "BorderRadius": "Sınır yarıçapı",
       "TextOutlineColor": "Anahat rengi",
-      "TextOutlineWidth": "Anahat genişliği"
+      "TextOutlineWidth": "Anahat genişliği",
+      "And": "ve"
     },
     "mention": {
       "noRecordsTemplate": "kayıt bulunamadı"

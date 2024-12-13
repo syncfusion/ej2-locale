@@ -518,10 +518,12 @@
       "InCellDropDown": "In-cell-rullgardinsmeny",
       "Sources": "Källor",
       "Value": "Värde",
+      "Formula": "Formel",
       "Retry": "Försök igen",
       "DialogError": "Listkällan måste vara en referens till en enda rad eller kolumn.",
       "MinMaxError": "Maximum måste vara större än eller lika med Minimum.",
       "InvalidNumberError": "Ange ett giltigt nummer.",
+      "InvalidFormula": "Behaga ange en giltig formel.",
       "Spreadsheet": "Kalkylblad",
       "MoreValidation": "Detta val innehåller mer än en validering.",
       "FileNameError": "Ett filnamn kan inte innehålla tecken som \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Medvind",
       "TailwindDark": "Medvind Mörkt",
+      "Tailwind3": "Tailwind 3",
+      "Tailwind3Dark": "Tailwind 3 Dark",
       "VerticalAxisTitle": "Vertikal axeltitel",
       "HorizontalAxisTitle": "Horisontell axeltitel",
       "EnterTitle": "Ange titel",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Klonregel",
       "LockRule": "Låsregel",
       "UnlockRule": "Lås upp regel",
-      "UnlockGroup": "Lås upp grupp"
+      "UnlockGroup": "Lås upp grupp",
+      "NOT": "INTE"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1734,11 +1739,11 @@
       "stackingcolumn100": "100% staplad kolumn",
       "stackingbar100": "100% staplad stapel",
       "stackingarea100": "100% staplat område",
-      "bubble": "bubbla",
+      "bubble": "Bubbla",
       "pareto": "Pareto",
       "radar": "Radar",
       "chartTypeSettings": "Inställningar för diagramtyp",
-      "multipleAxes": "Flera axlar",
+      "multipleAxes": "Flera Axel",
       "sortAscending": "Sortera stigande ordning",
       "sortDescending": "Sortera fallande ordning",
       "sortNone": "Sortera dataordning",
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Är du säker på att du vill ta bort det beräknade fältet?",
       "yes": "Ja",
       "no": "Nej",
-      "None": "Ingen"
+      "None": "Ingen",
+      "qtr": "Qtr",
+      "grandTotal": "Totalsumma"
     },
     "pdfviewer": {
       "PdfViewer": "﻿PDF-visare",
@@ -3061,6 +3068,14 @@
       "ConfirmDialogContent": "Vill du spara ändringarna du gjort i bilden?",
       "AlertDialogHeader": "Filen stöds inte",
       "AlertDialogContent": "Den tappade filen stöds inte.",
+      "MinMaxSize": "med filstorlek mellan",
+      "MinMaxSizeAlert": "Filstorlek mellan",
+      "MinSize": "med minsta filstorlek på",
+      "MinSizeAlert": "En minsta filstorlek på",
+      "MaxSize": "med maximal filstorlek på",
+      "MaxSizeAlert": "En maximal filstorlek på",
+      "To": "till",
+      "Bytes": "bytes",
       "Yes": "Ja",
       "No": "Nej",
       "ImageErrorDialogHeader": "Fel vid val av bild",
@@ -3089,7 +3104,8 @@
       "Pixelate": "Pixelat",
       "BorderRadius": "Gränsradie",
       "TextOutlineColor": "Konturfärg",
-      "TextOutlineWidth": "Konturbredd"
+      "TextOutlineWidth": "Konturbredd",
+      "And": "och"
     },
     "mention": {
       "noRecordsTemplate": "Inga uppgifter funna"

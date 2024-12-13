@@ -518,10 +518,12 @@
       "InCellDropDown": "ในเซลล์แบบเลื่อนลง",
       "Sources": "แหล่งที่มา",
       "Value": "ค่า",
+      "Formula": "สูตร",
       "Retry": "ลองอีกครั้ง",
       "DialogError": "แหล่งที่มาของรายการต้องเป็นการอ้างอิงถึงแถวหรือคอลัมน์เดียว",
       "MinMaxError": "ค่าสูงสุดต้องมากกว่าหรือเท่ากับค่าต่ำสุด",
       "InvalidNumberError": "กรุณากรอกตัวเลขที่ถูกต้อง",
+      "InvalidFormula": "กรุณากรอกสูตรที่ถูกต้อง",
       "Spreadsheet": "สเปรดชีต",
       "MoreValidation": "การเลือกนี้มีการตรวจสอบความถูกต้องมากกว่าหนึ่งรายการ",
       "FileNameError": "ชื่อไฟล์ต้องไม่มีอักขระเช่น \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "หางลม",
       "TailwindDark": "หางลมมืด",
+      "Tailwind3": "เทลวินด์ 3",
+      "Tailwind3Dark": "เทลวินด์ 3 ดาร์ก",
       "VerticalAxisTitle": "ชื่อเรื่องแกนตั้ง",
       "HorizontalAxisTitle": "ชื่อเรื่องแกนนอน",
       "EnterTitle": "ป้อนชื่อเรื่อง",
@@ -1491,7 +1495,8 @@
       "CloneRule": "กฎการโคลน",
       "LockRule": "กฎการล็อค",
       "UnlockRule": "ปลดล็อคกฎ",
-      "UnlockGroup": "ปลดล็อคกลุ่ม"
+      "UnlockGroup": "ปลดล็อคกลุ่ม",
+      "NOT": "มิได้"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "คุณแน่ใจหรือว่าต้องการลบข้อมูลจากการคำนวณนี้",
       "yes": "ใช่",
       "no": "ไม่",
-      "None": "ไม่มี"
+      "None": "ไม่มี",
+      "qtr": "ไตรมาส",
+      "grandTotal": "รวมทั้งหมด"
     },
     "pdfviewer": {
       "PdfViewer": "โปรแกรมดู PDF",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "คุณต้องการบันทึกการเปลี่ยนแปลงที่คุณทำกับรูปภาพหรือไม่?",
       "AlertDialogHeader": "ไฟล์ที่ไม่รองรับ",
       "AlertDialogContent": "ไม่รองรับไฟล์ที่ดรอป",
+      "MinMaxSize": "มีขนาดไฟล์ระหว่าง",
+      "MinMaxSizeAlert": "ขนาดไฟล์ระหว่าง",
+      "MinSize": "ด้วยขนาดไฟล์ขั้นต่ำ",
+      "MinSizeAlert": "ขนาดไฟล์ขั้นต่ำ",
+      "MaxSize": "ด้วยขนาดไฟล์สูงสุด",
+      "MaxSizeAlert": "ขนาดไฟล์สูงสุดคือ",
+      "To": "ถึง",
+      "Bytes": "ไบต์",
       "Yes": "ใช่",
       "No": "เลขที่",
       "ImageErrorDialogHeader": "เกิดข้อผิดพลาดในการเลือกรูปภาพ",
@@ -3088,7 +3103,8 @@
       "Pixelate": "พิกเซล",
       "BorderRadius": "รัศมีเส้นขอบ",
       "TextOutlineColor": "สีเค้าร่าง",
-      "TextOutlineWidth": "เค้าโครงความกว้าง"
+      "TextOutlineWidth": "เค้าโครงความกว้าง",
+      "And": "และ"
     },
     "mention": {
       "noRecordsTemplate": "ไม่พบบันทึก"

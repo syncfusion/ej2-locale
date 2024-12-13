@@ -518,10 +518,12 @@
       "InCellDropDown": "Lista rozwijana w komórce",
       "Sources": "Źródła",
       "Value": "Wartość",
+      "Formula": "Formuła",
       "Retry": "Spróbować ponownie",
       "DialogError": "Źródłem listy musi być odwołanie do pojedynczego wiersza lub kolumny.",
       "MinMaxError": "Wartość maksymalna musi być większa lub równa wartości minimalnej.",
       "InvalidNumberError": "Proszę wprowadzić prawidłowy numer.",
+      "InvalidFormula": "Proszę wprowadzić prawidłowy formuła.",
       "Spreadsheet": "Arkusz",
       "MoreValidation": "Ten wybór zawiera więcej niż jedną weryfikację.",
       "FileNameError": "Nazwa pliku nie może zawierać znaków takich jak \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Wiatr w plecy",
       "TailwindDark": "Ciemny wiatr",
+      "Tailwind3": "Tailwind 3",
+      "Tailwind3Dark": "Tailwind 3 Ciemny",
       "VerticalAxisTitle": "Tytuł osi pionowej",
       "HorizontalAxisTitle": "Tytuł osi poziomej",
       "EnterTitle": "Wprowadź tytuł",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Zasada klonowania",
       "LockRule": "Zasada blokady",
       "UnlockRule": "Odblokuj regułę",
-      "UnlockGroup": "Odblokuj grupę"
+      "UnlockGroup": "Odblokuj grupę",
+      "NOT": "Nie"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1734,11 +1739,11 @@
       "stackingcolumn100": "100% skumulowana kolumna",
       "stackingbar100": "100% sztaplowany stos",
       "stackingarea100": "100% ułożonego obszaru",
-      "bubble": "bańka",
+      "bubble": "Bańka",
       "pareto": "Pareta",
       "radar": "Radar",
       "chartTypeSettings": "Ustawienia typu wykresu",
-      "multipleAxes": "Wiele osi",
+      "multipleAxes": "Wielokrotny oś",
       "sortAscending": "Sortuj rosnąco",
       "sortDescending": "Sortuj malejąco",
       "sortNone": "Sortuj kolejność danych",
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Czy na pewno chcesz usunąć to pole obliczeniowe?",
       "yes": "tak",
       "no": "Nie",
-      "None": "Żaden"
+      "None": "Żaden",
+      "qtr": "Kwartał",
+      "grandTotal": "Suma Całkowita"
     },
     "pdfviewer": {
       "PdfViewer": "﻿Przeglądarka plików PDF",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "Czy chcesz zapisać zmiany wprowadzone w obrazie?",
       "AlertDialogHeader": "Nie wspierany plik",
       "AlertDialogContent": "Upuszczony plik nie jest obsługiwany.",
+      "MinMaxSize": "z rozmiarem pliku pomiędzy",
+      "MinMaxSizeAlert": "Rozmiar pliku pomiędzy",
+      "MinSize": "z minimalnym rozmiarem pliku",
+      "MinSizeAlert": "Minimalny rozmiar pliku",
+      "MaxSize": "z maksymalnym rozmiarem pliku",
+      "MaxSizeAlert": "Maksymalny rozmiar pliku",
+      "To": "aby",
+      "Bytes": "bajty",
       "Yes": "Tak",
       "No": "NIE",
       "ImageErrorDialogHeader": "Błąd wyboru obrazu",
@@ -3088,7 +3103,8 @@
       "Pixelate": "Piksel",
       "BorderRadius": "Promień graniczny",
       "TextOutlineColor": "Kolor obrysu",
-      "TextOutlineWidth": "Szerokość zarysu"
+      "TextOutlineWidth": "Szerokość zarysu",
+      "And": "i"
     },
     "mention": {
       "noRecordsTemplate": "Nie znaleziono rekordów"
