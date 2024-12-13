@@ -518,10 +518,12 @@
       "InCellDropDown": "Rozbalovací nabídka v buňce",
       "Sources": "Zdroje",
       "Value": "Hodnota",
+      "Formula": "Vzorec",
       "Retry": "Zkuste to znovu",
       "DialogError": "Zdroj seznamu musí být odkaz na jeden řádek nebo sloupec.",
       "MinMaxError": "Maximum musí být větší nebo rovno minimu.",
       "InvalidNumberError": "Zadejte prosím platné číslo.",
+      "InvalidFormula": "Zadejte prosím platný vzorec.",
       "Spreadsheet": "Tabulka",
       "MoreValidation": "Tento výběr obsahuje více než jedno ověření.",
       "FileNameError": "Název souboru nesmí obsahovat znaky jako \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Zadní vítr",
       "TailwindDark": "Tailwind tmavý",
+      "Tailwind3": "Zadní vítr 3",
+      "Tailwind3Dark": "Tailwind 3 Tmavý",
       "VerticalAxisTitle": "Název svislé osy",
       "HorizontalAxisTitle": "Název horizontální osy",
       "EnterTitle": "Zadejte název",
@@ -1336,17 +1340,11 @@
       "mergecells": "Spojit buňky",
       "verticalsplit": "Vertikální rozdělení",
       "horizontalsplit": "Horizontální rozdělení",
-      "numberFormatListNumber": "Číslo",
       "numberFormatListLowerAlpha": "Nižší alfa",
       "numberFormatListUpperAlpha": "Horní Alfa",
       "numberFormatListLowerRoman": "Dolní římská",
       "numberFormatListUpperRoman": "horní římský",
       "numberFormatListLowerGreek": "Dolní řečtina",
-      "bulletFormatListDisc": "Disk",
-      "bulletFormatListCircle": "Kruh",
-      "bulletFormatListSquare": "Náměstí",
-      "numberFormatListNone": "Žádný",
-      "bulletFormatListNone": "Žádný",
       "slashMenuItemHeadingOneText": "Nadpis 1",
       "slashMenuItemHeadingOneDescription": "Použijte toto pro nadpis nebo nadpis nejvyšší úrovně.",
       "slashMenuItemHeadingTwoText": "Nadpis 2",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "Video",
       "slashMenuItemVideoDescription": "Vložte video.",
       "slashMenuItemEmojiText": "Emojipicker",
-      "slashMenuItemEmojiDescription": "Použijte emotikony k vyjádření nápadů a emotikonů."
+      "slashMenuItemEmojiDescription": "Použijte emotikony k vyjádření nápadů a emotikonů.",
+      "numberFormatListNumber": "Číslo",
+      "bulletFormatListDisc": "Disk",
+      "bulletFormatListCircle": "Kruh",
+      "bulletFormatListSquare": "Náměstí",
+      "numberFormatListNone": "Žádný",
+      "bulletFormatListNone": "Žádný"
     },
     "colorpicker": {
       "Apply": "Aplikovat",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Pravidlo klonování",
       "LockRule": "Pravidlo zámku",
       "UnlockRule": "Odemknout pravidlo",
-      "UnlockGroup": "Odemknout skupinu"
+      "UnlockGroup": "Odemknout skupinu",
+      "NOT": "NE"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Opravdu chcete toto vypočtené pole smazat?",
       "yes": "Ano",
       "no": "Ne",
-      "None": "Žádný"
+      "None": "Žádný",
+      "qtr": "Qtr",
+      "grandTotal": "Celkový součet"
     },
     "pdfviewer": {
       "PdfViewer": "Prohlížeč PDF",
@@ -3059,6 +3066,14 @@
       "ConfirmDialogContent": "Chcete uložit změny, které jste na obrázku provedli?",
       "AlertDialogHeader": "Nepodporovaný soubor",
       "AlertDialogContent": "Zahozený soubor není podporován.",
+      "MinMaxSize": "s velikostí souboru mezi",
+      "MinMaxSizeAlert": "Velikost souboru mezi",
+      "MinSize": "s minimální velikostí souboru",
+      "MinSizeAlert": "Minimální velikost souboru",
+      "MaxSize": "s maximální velikostí souboru",
+      "MaxSizeAlert": "Maximální velikost souboru",
+      "To": "na",
+      "Bytes": "bajtů",
       "Yes": "Ano",
       "No": "Ne",
       "ImageErrorDialogHeader": "Chyba při výběru obrázku",
@@ -3087,7 +3102,8 @@
       "Pixelate": "Pixelate",
       "BorderRadius": "Poloměr hranic",
       "TextOutlineColor": "Obrysová barva",
-      "TextOutlineWidth": "Šířka osnovy"
+      "TextOutlineWidth": "Šířka osnovy",
+      "And": "a"
     },
     "mention": {
       "noRecordsTemplate": "Nenalezeny žádné záznamy"

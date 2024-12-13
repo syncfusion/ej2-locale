@@ -518,10 +518,12 @@
       "InCellDropDown": "کشویی درون سلولی",
       "Sources": "منابع",
       "Value": "ارزش",
+      "Formula": "فرمول",
       "Retry": "دوباره امتحان کنید",
       "DialogError": "منبع فهرست باید مرجعی به تک ردیف یا ستون باشد.",
       "MinMaxError": "حداکثر باید بزرگتر یا مساوی با حداقل باشد.",
       "InvalidNumberError": "لطفا یک عدد معتبر وارد کنید",
+      "InvalidFormula": "لطفا یک فرمول معتبر وارد کنید.",
       "Spreadsheet": "صفحه گسترده",
       "MoreValidation": "این انتخاب شامل بیش از یک اعتبارسنجی است.",
       "FileNameError": "نام فایل نمی تواند شامل کاراکترهایی مانند \\ / : * باشد؟ \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "بوت استرپ 5",
       "Tailwind": "باد دم",
       "TailwindDark": "باد دم تاریک",
+      "Tailwind3": "باد دم 3",
+      "Tailwind3Dark": "Tailwind 3 Dark",
       "VerticalAxisTitle": "عنوان محور عمودی",
       "HorizontalAxisTitle": "عنوان محور افقی",
       "EnterTitle": "عنوان را وارد کنید",
@@ -1336,17 +1340,11 @@
       "mergecells": "ادغام سلول ها",
       "verticalsplit": "تقسیم عمودی",
       "horizontalsplit": "تقسیم افقی",
-      "numberFormatListNumber": "عدد",
       "numberFormatListLowerAlpha": "آلفای پایین",
       "numberFormatListUpperAlpha": "آلفای بالایی",
       "numberFormatListLowerRoman": "روم پایین",
       "numberFormatListUpperRoman": "روم بالا",
       "numberFormatListLowerGreek": "یونانی پایین",
-      "bulletFormatListDisc": "دیسک",
-      "bulletFormatListCircle": "دایره",
-      "bulletFormatListSquare": "مربع",
-      "numberFormatListNone": "هیچ یک",
-      "bulletFormatListNone": "هیچ یک",
       "slashMenuItemHeadingOneText": "سرفصل 1",
       "slashMenuItemHeadingOneDescription": "از این برای عنوان یا عنوان سطح بالا استفاده کنید.",
       "slashMenuItemHeadingTwoText": "سرفصل 2",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "ویدیو",
       "slashMenuItemVideoDescription": "یک ویدیو درج کنید.",
       "slashMenuItemEmojiText": "Emojipicker",
-      "slashMenuItemEmojiDescription": "از ایموجی ها برای بیان ایده ها و شکلک ها استفاده کنید."
+      "slashMenuItemEmojiDescription": "از ایموجی ها برای بیان ایده ها و شکلک ها استفاده کنید.",
+      "numberFormatListNumber": "عدد",
+      "bulletFormatListDisc": "دیسک",
+      "bulletFormatListCircle": "دایره",
+      "bulletFormatListSquare": "مربع",
+      "numberFormatListNone": "هیچ یک",
+      "bulletFormatListNone": "هیچ یک"
     },
     "colorpicker": {
       "Apply": "درخواست دادن",
@@ -1491,7 +1495,8 @@
       "CloneRule": "قانون کلون",
       "LockRule": "قانون قفل",
       "UnlockRule": "قانون باز کردن قفل",
-      "UnlockGroup": "باز کردن قفل گروه"
+      "UnlockGroup": "باز کردن قفل گروه",
+      "NOT": "نه"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "آیا مطمئن هستید که می خواهید این قسمت محاسبه شده را حذف کنید؟",
       "yes": "آره",
       "no": "نه",
-      "None": "هیچ یک"
+      "None": "هیچ یک",
+      "qtr": "Qtr",
+      "grandTotal": "کل بزرگ"
     },
     "pdfviewer": {
       "PdfViewer": "نمایشگر PDF",
@@ -2938,6 +2945,14 @@
       "ConfirmDialogContent": "آیا می خواهید تغییراتی را که در تصویر ایجاد کرده اید ذخیره کنید؟",
       "AlertDialogHeader": "فایل پشتیبانی نشده",
       "AlertDialogContent": "فایل حذف شده پشتیبانی نمی شود.",
+      "MinMaxSize": "با اندازه پرونده بین",
+      "MinMaxSizeAlert": "اندازه پرونده بین",
+      "MinSize": "با حداقل اندازه پرونده",
+      "MinSizeAlert": "حداقل اندازه پرونده از",
+      "MaxSize": "با حداکثر اندازه پرونده از",
+      "MaxSizeAlert": "حداکثر اندازه پرونده از",
+      "To": "به",
+      "Bytes": "بایت ها",
       "Yes": "آره",
       "No": "خیر",
       "ImageErrorDialogHeader": "خطا در انتخاب تصویر",
@@ -2966,7 +2981,8 @@
       "Pixelate": "پیکسلی",
       "BorderRadius": "شعاع مرزی",
       "TextOutlineColor": "رنگ بشر",
-      "TextOutlineWidth": "عرض طرح"
+      "TextOutlineWidth": "عرض طرح",
+      "And": "و"
     },
     "mention": {
       "noRecordsTemplate": "هیچ رکوردی یافت نشد"

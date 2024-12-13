@@ -65,3 +65,7 @@ import * as EJ2_LOCALE from "../../node_modules/@syncfusion/ej2-locale/src/de.js
 L10n.load({ de: EJ2_LOCALE.de });
 setCulture("de");
 ```
+
+### Contributions Welcome!
+
+We welcome the pull request for translating the locale text in the resource files. Your contribution towards this will be greatly appreciated. 

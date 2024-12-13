@@ -466,10 +466,12 @@
       "InCellDropDown": "Í klefa fellilisti",
       "Sources": "Heimildir",
       "Value": "Gildi",
+      "Formula": "Formúla",
       "Retry": "Reyndu aftur",
       "DialogError": "Uppruni lista verður að vera tilvísun í eina línu eða dálk.",
       "MinMaxError": "Hámarkið verður að vera hærra en eða jafnt og lágmarkinu.",
       "InvalidNumberError": "Vinsamlegast sláðu inn gilt númer.",
+      "InvalidFormula": "Vinsamlega sláðu inn gilda formúlu.",
       "Spreadsheet": "Töflureiknir",
       "MoreValidation": "Þetta val inniheldur fleiri en eina staðfestingu.",
       "FileNameError": "Skráarnafn má ekki innihalda stafi eins og \\/:*? \" < > [ ] |",
@@ -684,6 +686,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Meðvindi",
       "TailwindDark": "Meðvindur Myrkur",
+      "Tailwind3": "Meðvindur 3",
+      "Tailwind3Dark": "Tailwind 3 Myrkur",
       "VerticalAxisTitle": "Titill á lóðréttri ás",
       "HorizontalAxisTitle": "Titill láréttur ás",
       "EnterTitle": "Sláðu inn titil",
@@ -1284,17 +1288,11 @@
       "mergecells": "Sameina frumur",
       "verticalsplit": "Lóðrétt skipting",
       "horizontalsplit": "Lárétt skipting",
-      "numberFormatListNumber": "Númer",
       "numberFormatListLowerAlpha": "Neðri alfa",
       "numberFormatListUpperAlpha": "Efri alfa",
       "numberFormatListLowerRoman": "Neðri rómversk",
       "numberFormatListUpperRoman": "Efri Rómverska",
       "numberFormatListLowerGreek": "neðri gríska",
-      "bulletFormatListDisc": "Diskur",
-      "bulletFormatListCircle": "Hringur",
-      "bulletFormatListSquare": "Ferningur",
-      "numberFormatListNone": "Enginn",
-      "bulletFormatListNone": "Enginn",
       "slashMenuItemHeadingOneText": "Fyrirsögn 1",
       "slashMenuItemHeadingOneDescription": "Notaðu þetta fyrir fyrirsögn eða titil á efstu stigi.",
       "slashMenuItemHeadingTwoText": "Fyrirsögn 2",
@@ -1324,7 +1322,13 @@
       "slashMenuItemVideoText": "Myndband",
       "slashMenuItemVideoDescription": "Settu inn myndband.",
       "slashMenuItemEmojiText": "Emojipicker",
-      "slashMenuItemEmojiDescription": "Notaðu emojis til að tjá hugmyndir og broskörlum."
+      "slashMenuItemEmojiDescription": "Notaðu emojis til að tjá hugmyndir og broskörlum.",
+      "numberFormatListNumber": "Númer",
+      "bulletFormatListDisc": "Diskur",
+      "bulletFormatListCircle": "Hringur",
+      "bulletFormatListSquare": "Ferningur",
+      "numberFormatListNone": "Enginn",
+      "bulletFormatListNone": "Enginn"
     },
     "colorpicker": {
       "Apply": "Sækja um",
@@ -1439,7 +1443,8 @@
       "CloneRule": "Klónaregla",
       "LockRule": "Læsa regla",
       "UnlockRule": "Opna reglu",
-      "UnlockGroup": "Opnaðu hóp"
+      "UnlockGroup": "Opnaðu hóp",
+      "NOT": "EKKI"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1881,7 +1886,9 @@
       "removeCalculatedField": "Ertu viss um að þú viljir eyða þessum reiknaða reit?",
       "yes": "Já",
       "no": "Nei",
-      "None": "Enginn"
+      "None": "Enginn",
+      "qtr": "Qtr",
+      "grandTotal": "Grand Total"
     },
     "pdfviewer": {
       "PdfViewer": "PDF skoðari",
@@ -2882,6 +2889,14 @@
       "ConfirmDialogContent": "Viltu vista breytingarnar sem þú gerðir á myndinni?",
       "AlertDialogHeader": "Óstudd skrá",
       "AlertDialogContent": "Skráin sem var sleppt er ekki studd.",
+      "MinMaxSize": "með skráarstærð milli",
+      "MinMaxSizeAlert": "Skráarstærð á milli",
+      "MinSize": "með lágmarks skráarstærð",
+      "MinSizeAlert": "Lágmarks skráarstærð",
+      "MaxSize": "með hámarks skráarstærð",
+      "MaxSizeAlert": "Hámarks skráarstærð",
+      "To": "til",
+      "Bytes": "bæti",
       "Yes": "Já",
       "No": "Nei",
       "ImageErrorDialogHeader": "Villa við að velja mynd",
@@ -2910,7 +2925,8 @@
       "Pixelate": "Pixlat",
       "BorderRadius": "Landamærastíg",
       "TextOutlineColor": "Útlínur litur",
-      "TextOutlineWidth": "Útlínur breidd"
+      "TextOutlineWidth": "Útlínur breidd",
+      "And": "og"
     },
     "mention": {
       "noRecordsTemplate": "Engar færslur fundust"

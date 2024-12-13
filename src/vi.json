@@ -518,10 +518,12 @@
       "InCellDropDown": "thả xuống trong ô",
       "Sources": "nguồn",
       "Value": "Giá trị",
+      "Formula": "Công thức",
       "Retry": "Thử lại",
       "DialogError": "Nguồn danh sách phải là tham chiếu đến một hàng hoặc một cột.",
       "MinMaxError": "Giá trị Tối đa phải lớn hơn hoặc bằng Giá trị Tối thiểu.",
       "InvalidNumberError": "Vui lòng nhập một số hợp lệ.",
+      "InvalidFormula": "Vui lòng nhập một công thức hợp lệ.",
       "Spreadsheet": "bảng tính",
       "MoreValidation": "Lựa chọn này chứa nhiều hơn một xác thực.",
       "FileNameError": "Tên tệp không được chứa các ký tự như \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Gió cùng chiều",
       "TailwindDark": "đuôi gió tối",
+      "Tailwind3": "Cơn gió ngược 3",
+      "Tailwind3Dark": "Tailwind 3 tối",
       "VerticalAxisTitle": "Tiêu đề trục dọc",
       "HorizontalAxisTitle": "Tiêu đề trục ngang",
       "EnterTitle": "Nhập tiêu đề",
@@ -1336,17 +1340,11 @@
       "mergecells": "Hợp nhất các ô",
       "verticalsplit": "Chia dọc",
       "horizontalsplit": "Chia ngang",
-      "numberFormatListNumber": "Con số",
       "numberFormatListLowerAlpha": "Alpha thấp hơn",
       "numberFormatListUpperAlpha": "Alpha Thượng",
       "numberFormatListLowerRoman": "Hạ La Mã",
       "numberFormatListUpperRoman": "Thượng La Mã",
       "numberFormatListLowerGreek": "Tiếng Hy Lạp Hạ",
-      "bulletFormatListDisc": "Đĩa",
-      "bulletFormatListCircle": "Vòng tròn",
-      "bulletFormatListSquare": "Quảng trường",
-      "numberFormatListNone": "không ai",
-      "bulletFormatListNone": "không ai",
       "slashMenuItemHeadingOneText": "Tiêu đề 1",
       "slashMenuItemHeadingOneDescription": "Sử dụng điều này cho tiêu đề hoặc tiêu đề cấp cao nhất.",
       "slashMenuItemHeadingTwoText": "Tiêu đề 2",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "Băng hình",
       "slashMenuItemVideoDescription": "Chèn một video.",
       "slashMenuItemEmojiText": "Công cụ chọn biểu tượng cảm xúc",
-      "slashMenuItemEmojiDescription": "Sử dụng biểu tượng cảm xúc để thể hiện ý tưởng và biểu tượng cảm xúc."
+      "slashMenuItemEmojiDescription": "Sử dụng biểu tượng cảm xúc để thể hiện ý tưởng và biểu tượng cảm xúc.",
+      "numberFormatListNumber": "Con số",
+      "bulletFormatListDisc": "Đĩa",
+      "bulletFormatListCircle": "Vòng tròn",
+      "bulletFormatListSquare": "Quảng trường",
+      "numberFormatListNone": "không ai",
+      "bulletFormatListNone": "không ai"
     },
     "colorpicker": {
       "Apply": "Ứng dụng",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Quy tắc nhân bản",
       "LockRule": "Quy tắc khóa",
       "UnlockRule": "Quy tắc mở khóa",
-      "UnlockGroup": "Nhóm mở khóa"
+      "UnlockGroup": "Nhóm mở khóa",
+      "NOT": "KHÔNG"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Bạn có chắc chắn muốn xóa trường được tính toán này?",
       "yes": "Đúng",
       "no": "Không",
-      "None": "Không có"
+      "None": "Không có",
+      "qtr": "Qtr",
+      "grandTotal": "Tổng cộng"
     },
     "pdfviewer": {
       "PdfViewer": "﻿Trình xem PDF",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "Bạn có muốn lưu những thay đổi bạn đã thực hiện đối với hình ảnh không?",
       "AlertDialogHeader": "Tệp không được hỗ trợ",
       "AlertDialogContent": "Tệp bị rơi không được hỗ trợ.",
+      "MinMaxSize": "với kích thước tệp giữa",
+      "MinMaxSizeAlert": "Kích thước tệp giữa",
+      "MinSize": "với kích thước tệp tối thiểu của",
+      "MinSizeAlert": "Kích thước tệp tối thiểu của",
+      "MaxSize": "với kích thước tệp tối đa của",
+      "MaxSizeAlert": "Kích thước tệp tối đa là",
+      "To": "ĐẾN",
+      "Bytes": "byte",
       "Yes": "Đúng",
       "No": "KHÔNG",
       "ImageErrorDialogHeader": "Đã xảy ra lỗi khi chọn hình ảnh.",
@@ -3088,7 +3103,8 @@
       "Pixelate": "Pixelate",
       "BorderRadius": "Bán kính biên giới",
       "TextOutlineColor": "Phác thảo màu",
-      "TextOutlineWidth": "Đề cương chiều rộng"
+      "TextOutlineWidth": "Đề cương chiều rộng",
+      "And": "Và"
     },
     "mention": {
       "noRecordsTemplate": "Không có dữ liệu được tìm thấy"

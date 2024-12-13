@@ -518,10 +518,12 @@
       "InCellDropDown": "القائمة المنسدلة في الخلية",
       "Sources": "مصادر",
       "Value": "قيمة",
+      "Formula": "صيغة",
       "Retry": "أعد المحاولة",
       "DialogError": "يجب أن يكون مصدر القائمة مرجعًا لصف أو عمود واحد.",
       "MinMaxError": "يجب أن يكون الحد الأقصى أكبر من أو يساوي الحد الأدنى.",
       "InvalidNumberError": "الرجاء إدخال رقم صالح.",
+      "InvalidFormula": "الرجاء إدخال صيغة صالحة.",
       "Spreadsheet": "جدول",
       "MoreValidation": "يحتوي هذا التحديد على أكثر من عملية تحقق واحدة.",
       "FileNameError": "لا يمكن أن يحتوي اسم الملف على أحرف مثل \\ /: *؟ \"<> [] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "التمهيد 5",
       "Tailwind": "الريح الخلفية",
       "TailwindDark": "Tailwind الظلام",
+      "Tailwind3": "الرياح الخلفية 3",
+      "Tailwind3Dark": "الريح الخلفية 3 الظلام",
       "VerticalAxisTitle": "عنوان المحور الرأسي",
       "HorizontalAxisTitle": "عنوان المحور الأفقي",
       "EnterTitle": "أدخل العنوان",
@@ -1336,17 +1340,11 @@
       "mergecells": "دمج الخلايا",
       "verticalsplit": "الانقسام العمودي",
       "horizontalsplit": "الانقسام الأفقي",
-      "numberFormatListNumber": "عدد",
       "numberFormatListLowerAlpha": "ألفا السفلى",
       "numberFormatListUpperAlpha": "ألفا العلوي",
       "numberFormatListLowerRoman": "الرومانية السفلى",
       "numberFormatListUpperRoman": "الرومانية العليا",
       "numberFormatListLowerGreek": "اليونانية السفلى",
-      "bulletFormatListDisc": "قرص",
-      "bulletFormatListCircle": "دائرة",
-      "bulletFormatListSquare": "ميدان",
-      "numberFormatListNone": "لا أحد",
-      "bulletFormatListNone": "لا أحد",
       "slashMenuItemHeadingOneText": "العنوان 1",
       "slashMenuItemHeadingOneDescription": "استخدم هذا لعنوان أو عنوان المستوى الأعلى.",
       "slashMenuItemHeadingTwoText": "العنوان 2",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "فيديو",
       "slashMenuItemVideoDescription": "أدخل مقطع فيديو.",
       "slashMenuItemEmojiText": "منتقي الرموز التعبيرية",
-      "slashMenuItemEmojiDescription": "استخدم الرموز التعبيرية للتعبير عن الأفكار والرموز التعبيرية."
+      "slashMenuItemEmojiDescription": "استخدم الرموز التعبيرية للتعبير عن الأفكار والرموز التعبيرية.",
+      "numberFormatListNumber": "عدد",
+      "bulletFormatListDisc": "قرص",
+      "bulletFormatListCircle": "دائرة",
+      "bulletFormatListSquare": "ميدان",
+      "numberFormatListNone": "لا أحد",
+      "bulletFormatListNone": "لا أحد"
     },
     "colorpicker": {
       "Apply": "تطبيق",
@@ -1491,7 +1495,8 @@
       "CloneRule": "قاعدة الاستنساخ",
       "LockRule": "قاعدة القفل",
       "UnlockRule": "فتح القاعدة",
-      "UnlockGroup": "فتح المجموعة"
+      "UnlockGroup": "فتح المجموعة",
+      "NOT": "لا"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "هل أنت متأكد أنك تريد حذف هذا الحقل المحسوب؟",
       "yes": "نعم",
       "no": "لا",
-      "None": "لا شيء"
+      "None": "لا شيء",
+      "qtr": "ربع",
+      "grandTotal": "المجموع الإجمالي"
     },
     "pdfviewer": {
       "PdfViewer": "قوات الدفاع الشعبي المشاهد",
@@ -3059,6 +3066,14 @@
       "ConfirmDialogContent": "هل تريد حفظ التغييرات التي أجريتها على الصورة؟",
       "AlertDialogHeader": "ملف غير مدعم",
       "AlertDialogContent": "الملف المسقط غير مدعوم.",
+      "MinMaxSize": "مع حجم الملف بين",
+      "MinMaxSizeAlert": "حجم الملف بين",
+      "MinSize": "مع الحد الأدنى لحجم الملف",
+      "MinSizeAlert": "الحد الأدنى لحجم الملف",
+      "MaxSize": "مع الحد الأقصى لحجم الملف من",
+      "MaxSizeAlert": "حجم الملف الأقصى لـ",
+      "To": "ل",
+      "Bytes": "بايت",
       "Yes": "نعم",
       "No": "لا",
       "ImageErrorDialogHeader": "خطأ في اختيار الصورة",
@@ -3087,7 +3102,8 @@
       "Pixelate": "بكسل",
       "BorderRadius": "دائرة نصف قطرها الحدود",
       "TextOutlineColor": "لون الخطوط العريضة",
-      "TextOutlineWidth": "عرض الخطوط العريضة"
+      "TextOutlineWidth": "عرض الخطوط العريضة",
+      "And": "و"
     },
     "mention": {
       "noRecordsTemplate": "لا توجد سجلات"

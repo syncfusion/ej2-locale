@@ -518,10 +518,12 @@
       "InCellDropDown": "Rozbaľovacia ponuka v bunke",
       "Sources": "Zdroje",
       "Value": "Hodnota",
+      "Formula": "Vzorec",
       "Retry": "Skúsiť znova",
       "DialogError": "Zdroj zoznamu musí byť odkaz na jeden riadok alebo stĺpec.",
       "MinMaxError": "Maximum musí byť väčšie alebo rovné minimu.",
       "InvalidNumberError": "Zadajte platné číslo.",
+      "InvalidFormula": "Zadajte platný vzorec.",
       "Spreadsheet": "Tabuľkový hárok",
       "MoreValidation": "Tento výber obsahuje viac ako jedno overenie.",
       "FileNameError": "Názov súboru nemôže obsahovať znaky ako \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Zadný vietor",
       "TailwindDark": "Tailwind Dark",
+      "Tailwind3": "Zadný vietor 3",
+      "Tailwind3Dark": "Tailwind 3 Dark",
       "VerticalAxisTitle": "Názov vertikálnej osi",
       "HorizontalAxisTitle": "Názov horizontálnej osi",
       "EnterTitle": "Zadajte názov",
@@ -1336,17 +1340,11 @@
       "mergecells": "Zlúčiť bunky",
       "verticalsplit": "Vertikálne rozdelenie",
       "horizontalsplit": "Horizontálne rozdelenie",
-      "numberFormatListNumber": "Číslo",
       "numberFormatListLowerAlpha": "Dolná alfa",
       "numberFormatListUpperAlpha": "Horná alfa",
       "numberFormatListLowerRoman": "Dolná rímska",
       "numberFormatListUpperRoman": "horná rímska",
       "numberFormatListLowerGreek": "Dolná gréčtina",
-      "bulletFormatListDisc": "Disk",
-      "bulletFormatListCircle": "Kruh",
-      "bulletFormatListSquare": "Námestie",
-      "numberFormatListNone": "Žiadne",
-      "bulletFormatListNone": "Žiadne",
       "slashMenuItemHeadingOneText": "Nadpis 1",
       "slashMenuItemHeadingOneDescription": "Použite to pre nadpis alebo nadpis najvyššej úrovne.",
       "slashMenuItemHeadingTwoText": "Nadpis 2",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "Video",
       "slashMenuItemVideoDescription": "Vložte video.",
       "slashMenuItemEmojiText": "Emojipicker",
-      "slashMenuItemEmojiDescription": "Použite emotikony na vyjadrenie nápadov a emotikonov."
+      "slashMenuItemEmojiDescription": "Použite emotikony na vyjadrenie nápadov a emotikonov.",
+      "numberFormatListNumber": "Číslo",
+      "bulletFormatListDisc": "Disk",
+      "bulletFormatListCircle": "Kruh",
+      "bulletFormatListSquare": "Námestie",
+      "numberFormatListNone": "Žiadne",
+      "bulletFormatListNone": "Žiadne"
     },
     "colorpicker": {
       "Apply": "platiť",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Pravidlo klonovania",
       "LockRule": "Pravidlo uzamknutia",
       "UnlockRule": "Odomknúť pravidlo",
-      "UnlockGroup": "Odomknúť skupinu"
+      "UnlockGroup": "Odomknúť skupinu",
+      "NOT": "NIE"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Naozaj chcete odstrániť toto vypočítané pole?",
       "yes": "Áno",
       "no": "žiadny",
-      "None": "žiadne"
+      "None": "žiadne",
+      "qtr": "Qtr",
+      "grandTotal": "Celkový súčet"
     },
     "pdfviewer": {
       "PdfViewer": "﻿Prehliadač PDF",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "Chcete uložiť zmeny, ktoré ste vykonali na obrázku?",
       "AlertDialogHeader": "Nepodporovaný súbor",
       "AlertDialogContent": "Vynechaný súbor nie je podporovaný.",
+      "MinMaxSize": "s veľkosťou súboru medzi",
+      "MinMaxSizeAlert": "Veľkosť súboru medzi",
+      "MinSize": "s minimálnou veľkosťou súboru",
+      "MinSizeAlert": "Minimálna veľkosť súboru",
+      "MaxSize": "s maximálnou veľkosťou súboru",
+      "MaxSizeAlert": "Maximálna veľkosť súboru",
+      "To": "do",
+      "Bytes": "bajt",
       "Yes": "Áno",
       "No": "Nie",
       "ImageErrorDialogHeader": "Chyba pri výbere obrázka",
@@ -3088,7 +3103,8 @@
       "Pixelate": "Pixelát",
       "BorderRadius": "Okrajový polomer",
       "TextOutlineColor": "Obrysová farba",
-      "TextOutlineWidth": "Šírka obrysu"
+      "TextOutlineWidth": "Šírka obrysu",
+      "And": "a"
     },
     "mention": {
       "noRecordsTemplate": "Nenašli sa žiadne záznamy"

@@ -518,10 +518,12 @@
       "InCellDropDown": "תפריט נפתח בתא",
       "Sources": "מקורות",
       "Value": "ערך",
+      "Formula": "נוּסחָה",
       "Retry": "נסה שוב",
       "DialogError": "מקור הרשימה חייב להיות הפניה לשורה או עמודה בודדת.",
       "MinMaxError": "המקסימום חייב להיות גדול או שווה למינימום.",
       "InvalidNumberError": "נא להזין מספר חוקי.",
+      "InvalidFormula": "נא להזין נוסחה חוקית.",
       "Spreadsheet": "גיליון אלקטרוני",
       "MoreValidation": "בחירה זו מכילה יותר מאימות אחד.",
       "FileNameError": "שם קובץ לא יכול להכיל תווים כמו \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "רוח גב",
       "TailwindDark": "רוח גב כהה",
+      "Tailwind3": "רוח גב 3",
+      "Tailwind3Dark": "Tailwind 3 Dark",
       "VerticalAxisTitle": "כותרת הציר האנכי",
       "HorizontalAxisTitle": "כותרת הציר האופקי",
       "EnterTitle": "הזן כותרת",
@@ -1336,17 +1340,11 @@
       "mergecells": "מיזוג תאים",
       "verticalsplit": "פיצול אנכי",
       "horizontalsplit": "פיצול אופקי",
-      "numberFormatListNumber": "מספר",
       "numberFormatListLowerAlpha": "אלפא תחתון",
       "numberFormatListUpperAlpha": "אלפא עליון",
       "numberFormatListLowerRoman": "רומאי תחתון",
       "numberFormatListUpperRoman": "רומאי עליון",
       "numberFormatListLowerGreek": "יוונית נמוכה יותר",
-      "bulletFormatListDisc": "דיסק",
-      "bulletFormatListCircle": "מעגל",
-      "bulletFormatListSquare": "כיכר",
-      "numberFormatListNone": "אף אחד",
-      "bulletFormatListNone": "אף אחד",
       "slashMenuItemHeadingOneText": "כותרת 1",
       "slashMenuItemHeadingOneDescription": "השתמש בזה עבור כותרת או כותרת ברמה העליונה.",
       "slashMenuItemHeadingTwoText": "כותרת 2",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "וִידֵאוֹ",
       "slashMenuItemVideoDescription": "הכנס סרטון.",
       "slashMenuItemEmojiText": "אימוג'יפיקר",
-      "slashMenuItemEmojiDescription": "השתמש באימוג'י כדי להביע רעיונות ואמוטיקונים."
+      "slashMenuItemEmojiDescription": "השתמש באימוג'י כדי להביע רעיונות ואמוטיקונים.",
+      "numberFormatListNumber": "מספר",
+      "bulletFormatListDisc": "דיסק",
+      "bulletFormatListCircle": "מעגל",
+      "bulletFormatListSquare": "כיכר",
+      "numberFormatListNone": "אף אחד",
+      "bulletFormatListNone": "אף אחד"
     },
     "colorpicker": {
       "Apply": "להגיש מועמדות",
@@ -1491,7 +1495,8 @@
       "CloneRule": "כלל שיבוט",
       "LockRule": "כלל נעילה",
       "UnlockRule": "חוק ביטול הנעילה",
-      "UnlockGroup": "בטל את נעילת הקבוצה"
+      "UnlockGroup": "בטל את נעילת הקבוצה",
+      "NOT": "לֹא"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "האם אתה בטוח שברצונך למחוק שדה מחושב זה?",
       "yes": "כן",
       "no": "לא",
-      "None": "אף אחד"
+      "None": "אף אחד",
+      "qtr": "Qtr",
+      "grandTotal": "סך הכל"
     },
     "pdfviewer": {
       "PdfViewer": "מציג PDF",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "האם ברצונך לשמור את השינויים שביצעת בתמונה?",
       "AlertDialogHeader": "קובץ לא נתמך",
       "AlertDialogContent": "הקובץ שנשמט אינו נתמך.",
+      "MinMaxSize": "עם גודל הקובץ בין",
+      "MinMaxSizeAlert": "גודל הקובץ בין",
+      "MinSize": "עם גודל קובץ מינימלי של",
+      "MinSizeAlert": "גודל קובץ מינימלי של",
+      "MaxSize": "עם גודל הקובץ המרבי של",
+      "MaxSizeAlert": "גודל קובץ מקסימלי של",
+      "To": "אֶל",
+      "Bytes": "בתים",
       "Yes": "כן",
       "No": "לא",
       "ImageErrorDialogHeader": "שגיאה בבחירת תמונה",
@@ -3088,7 +3103,8 @@
       "Pixelate": "פיקסלט",
       "BorderRadius": "רדיוס גבול",
       "TextOutlineColor": "מתאר צבע",
-      "TextOutlineWidth": "מתאר רוחב"
+      "TextOutlineWidth": "מתאר רוחב",
+      "And": "ו"
     },
     "mention": {
       "noRecordsTemplate": "לא נמצאו שיאים"

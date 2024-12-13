@@ -518,10 +518,12 @@
       "InCellDropDown": "In-cell-dropdown",
       "Sources": "Kilder",
       "Value": "Værdi",
+      "Formula": "Formel",
       "Retry": "Prøve igen",
       "DialogError": "Listekilden skal være en reference til en enkelt række eller kolonne.",
       "MinMaxError": "Maksimum skal være større end eller lig med minimum.",
       "InvalidNumberError": "Indtast venligst et gyldigt nummer.",
+      "InvalidFormula": "Indtast venligst en gyldig formel.",
       "Spreadsheet": "Regneark",
       "MoreValidation": "Dette valg indeholder mere end én validering.",
       "FileNameError": "Et filnavn må ikke indeholde tegn som \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Medvind",
       "TailwindDark": "Medvind Mørk",
+      "Tailwind3": "Medvind 3",
+      "Tailwind3Dark": "Medvind 3 Mørk",
       "VerticalAxisTitle": "Lodret akse titel",
       "HorizontalAxisTitle": "Vandret akse titel",
       "EnterTitle": "Indtast titel",
@@ -1336,17 +1340,11 @@
       "mergecells": "Flet celler",
       "verticalsplit": "Lodret split",
       "horizontalsplit": "Vandret opdeling",
-      "numberFormatListNumber": "Nummer",
       "numberFormatListLowerAlpha": "Nedre alfa",
       "numberFormatListUpperAlpha": "Øvre alfa",
       "numberFormatListLowerRoman": "Nedre romersk",
       "numberFormatListUpperRoman": "Øvre romersk",
       "numberFormatListLowerGreek": "lavere græsk",
-      "bulletFormatListDisc": "Disk",
-      "bulletFormatListCircle": "Cirkel",
-      "bulletFormatListSquare": "Firkant",
-      "numberFormatListNone": "Ingen",
-      "bulletFormatListNone": "Ingen",
       "slashMenuItemHeadingOneText": "Overskrift 1",
       "slashMenuItemHeadingOneDescription": "Brug dette til en overskrift eller titel på øverste niveau.",
       "slashMenuItemHeadingTwoText": "Overskrift 2",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "Video",
       "slashMenuItemVideoDescription": "Indsæt en video.",
       "slashMenuItemEmojiText": "Emojipicker",
-      "slashMenuItemEmojiDescription": "Brug emojis til at udtrykke ideer og humørikoner."
+      "slashMenuItemEmojiDescription": "Brug emojis til at udtrykke ideer og humørikoner.",
+      "numberFormatListNumber": "Nummer",
+      "bulletFormatListDisc": "Disk",
+      "bulletFormatListCircle": "Cirkel",
+      "bulletFormatListSquare": "Firkant",
+      "numberFormatListNone": "Ingen",
+      "bulletFormatListNone": "Ingen"
     },
     "colorpicker": {
       "Apply": "ansøge",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Kloneregel",
       "LockRule": "Låseregel",
       "UnlockRule": "Oplåsningsregel",
-      "UnlockGroup": "Lås gruppe op"
+      "UnlockGroup": "Lås gruppe op",
+      "NOT": "IKKE"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Er du sikker på, at du vil slette dette beregnede felt?",
       "yes": "Ja",
       "no": "Ingen",
-      "None": "Ingen"
+      "None": "Ingen",
+      "qtr": "Qtr",
+      "grandTotal": "Grand Total"
     },
     "pdfviewer": {
       "PdfViewer": "PDF-fremviser",
@@ -3059,6 +3066,14 @@
       "ConfirmDialogContent": "Vil du gemme de ændringer, du har lavet på billedet?",
       "AlertDialogHeader": "Ikke-understøttet fil",
       "AlertDialogContent": "Den tabte fil understøttes ikke.",
+      "MinMaxSize": "med filstørrelse mellem",
+      "MinMaxSizeAlert": "Filstørrelse mellem",
+      "MinSize": "med minimum filstørrelse på",
+      "MinSizeAlert": "En minimumsfilstørrelse på",
+      "MaxSize": "med maksimal filstørrelse på",
+      "MaxSizeAlert": "En maksimal filstørrelse på",
+      "To": "til",
+      "Bytes": "bytes",
       "Yes": "Ja",
       "No": "Ingen",
       "ImageErrorDialogHeader": "Fejl ved valg af billede",
@@ -3087,7 +3102,8 @@
       "Pixelate": "Pixelat",
       "BorderRadius": "Grænseadius",
       "TextOutlineColor": "Skitser farve",
-      "TextOutlineWidth": "Oversigt bredde"
+      "TextOutlineWidth": "Oversigt bredde",
+      "And": "og"
     },
     "mention": {
       "noRecordsTemplate": "Ingen registreringer fundet"
