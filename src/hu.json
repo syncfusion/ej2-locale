@@ -518,10 +518,12 @@
       "InCellDropDown": "A cellán belüli legördülő menü",
       "Sources": "Források",
       "Value": "Érték",
+      "Formula": "Képlet",
       "Retry": "Próbálja újra",
       "DialogError": "A lista forrásának egyetlen sorra vagy oszlopra kell hivatkoznia.",
       "MinMaxError": "A Maximumnak nagyobbnak vagy egyenlőnek kell lennie, mint a Minimum.",
       "InvalidNumberError": "Kérjük, adjon meg egy érvényes számot.",
+      "InvalidFormula": "Adjon meg egy érvényes képletet.",
       "Spreadsheet": "Táblázat",
       "MoreValidation": "Ez a kijelölés egynél több érvényesítést tartalmaz.",
       "FileNameError": "A fájlnév nem tartalmazhat olyan karaktereket, mint \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Hátszél",
       "TailwindDark": "Hátszél sötét",
+      "Tailwind3": "Hátszél 3",
+      "Tailwind3Dark": "Hátszél 3 Sötét",
       "VerticalAxisTitle": "Függőleges tengely címe",
       "HorizontalAxisTitle": "Vízszintes tengely címe",
       "EnterTitle": "Írja be a címet",
@@ -1336,17 +1340,11 @@
       "mergecells": "Cellák egyesítése",
       "verticalsplit": "Függőleges felosztás",
       "horizontalsplit": "Vízszintes felosztás",
-      "numberFormatListNumber": "Szám",
       "numberFormatListLowerAlpha": "Alsó alfa",
       "numberFormatListUpperAlpha": "Felső Alfa",
       "numberFormatListLowerRoman": "Alsó római",
       "numberFormatListUpperRoman": "felső római",
       "numberFormatListLowerGreek": "alsó görög",
-      "bulletFormatListDisc": "Lemez",
-      "bulletFormatListCircle": "Kör",
-      "bulletFormatListSquare": "Négyzet",
-      "numberFormatListNone": "Egyik sem",
-      "bulletFormatListNone": "Egyik sem",
       "slashMenuItemHeadingOneText": "1. címsor",
       "slashMenuItemHeadingOneDescription": "Használja ezt felső szintű címsorhoz vagy címhez.",
       "slashMenuItemHeadingTwoText": "2. címsor",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "Videó",
       "slashMenuItemVideoDescription": "Videó beszúrása.",
       "slashMenuItemEmojiText": "Emojipicker",
-      "slashMenuItemEmojiDescription": "Használjon hangulatjeleket ötletek és hangulatjelek kifejezésére."
+      "slashMenuItemEmojiDescription": "Használjon hangulatjeleket ötletek és hangulatjelek kifejezésére.",
+      "numberFormatListNumber": "Szám",
+      "bulletFormatListDisc": "Lemez",
+      "bulletFormatListCircle": "Kör",
+      "bulletFormatListSquare": "Négyzet",
+      "numberFormatListNone": "Egyik sem",
+      "bulletFormatListNone": "Egyik sem"
     },
     "colorpicker": {
       "Apply": "Alkalmaz",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Klónozási szabály",
       "LockRule": "Zárolási szabály",
       "UnlockRule": "Feloldási szabály",
-      "UnlockGroup": "Csoport feloldása"
+      "UnlockGroup": "Csoport feloldása",
+      "NOT": "NEM"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Biztosan törli ezt a kiszámított mezőt?",
       "yes": "Igen",
       "no": "Nem",
-      "None": "Egyik sem"
+      "None": "Egyik sem",
+      "qtr": "Qtr",
+      "grandTotal": "Grand Total"
     },
     "pdfviewer": {
       "PdfViewer": "PDF Viewer",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "Menti a képen végzett változtatásokat?",
       "AlertDialogHeader": "Nem támogatott fájl",
       "AlertDialogContent": "Az eldobott fájl nem támogatott.",
+      "MinMaxSize": "a fájlméret között",
+      "MinMaxSizeAlert": "A fájlméret között",
+      "MinSize": "minimális fájlméretével",
+      "MinSizeAlert": "Minimális fájlméret",
+      "MaxSize": "maximális fájlméretével",
+      "MaxSizeAlert": "A maximális fájlméret",
+      "To": "hogy",
+      "Bytes": "bájt",
       "Yes": "Igen",
       "No": "Nem",
       "ImageErrorDialogHeader": "Hiba a kép kiválasztásakor",
@@ -3088,7 +3103,8 @@
       "Pixelate": "Pixelát",
       "BorderRadius": "Sorrendi sugár",
       "TextOutlineColor": "Vázlat szín",
-      "TextOutlineWidth": "Vázlat szélessége"
+      "TextOutlineWidth": "Vázlat szélessége",
+      "And": "és"
     },
     "mention": {
       "noRecordsTemplate": "Nincs találat"

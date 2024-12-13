@@ -518,10 +518,12 @@
       "InCellDropDown": "Padajući izbornik u ćeliji",
       "Sources": "Izvori",
       "Value": "Vrijednost",
+      "Formula": "Formula",
       "Retry": "Pokušaj ponovo",
       "DialogError": "Izvor popisa mora biti referenca na jedan redak ili stupac.",
       "MinMaxError": "Maksimum mora biti veći ili jednak minimumu.",
       "InvalidNumberError": "Unesite važeći broj.",
+      "InvalidFormula": "Unesite valjanu formulu.",
       "Spreadsheet": "Proračunska tablica",
       "MoreValidation": "Ovaj odabir sadrži više od jedne provjere valjanosti.",
       "FileNameError": "Naziv datoteke ne smije sadržavati znakove poput \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Stražnji vjetar",
       "TailwindDark": "Leđni vjetar Mrak",
+      "Tailwind3": "Leđni vjetar 3",
+      "Tailwind3Dark": "Stražnji vjetar 3 Mrak",
       "VerticalAxisTitle": "Naslov okomite osi",
       "HorizontalAxisTitle": "Naslov vodoravne osi",
       "EnterTitle": "Unesite naslov",
@@ -1336,17 +1340,11 @@
       "mergecells": "Spajanje ćelija",
       "verticalsplit": "Vertikalni rascjep",
       "horizontalsplit": "Horizontalni rascjep",
-      "numberFormatListNumber": "Broj",
       "numberFormatListLowerAlpha": "Niža Alfa",
       "numberFormatListUpperAlpha": "Gornja Alfa",
       "numberFormatListLowerRoman": "donjorimski",
       "numberFormatListUpperRoman": "gornjorimski",
       "numberFormatListLowerGreek": "donjogrčki",
-      "bulletFormatListDisc": "Disk",
-      "bulletFormatListCircle": "Krug",
-      "bulletFormatListSquare": "Kvadrat",
-      "numberFormatListNone": "Nijedna",
-      "bulletFormatListNone": "Nijedna",
       "slashMenuItemHeadingOneText": "Naslov 1",
       "slashMenuItemHeadingOneDescription": "Koristite ovo za naslov ili naslov najviše razine.",
       "slashMenuItemHeadingTwoText": "Naslov 2",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "Video",
       "slashMenuItemVideoDescription": "Umetnite video.",
       "slashMenuItemEmojiText": "Birač emotikona",
-      "slashMenuItemEmojiDescription": "Koristite emojije za izražavanje ideja i emotikona."
+      "slashMenuItemEmojiDescription": "Koristite emojije za izražavanje ideja i emotikona.",
+      "numberFormatListNumber": "Broj",
+      "bulletFormatListDisc": "Disk",
+      "bulletFormatListCircle": "Krug",
+      "bulletFormatListSquare": "Kvadrat",
+      "numberFormatListNone": "Nijedna",
+      "bulletFormatListNone": "Nijedna"
     },
     "colorpicker": {
       "Apply": "primijeniti",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Pravilo kloniranja",
       "LockRule": "Pravilo zaključavanja",
       "UnlockRule": "Pravilo za otključavanje",
-      "UnlockGroup": "Otključaj grupu"
+      "UnlockGroup": "Otključaj grupu",
+      "NOT": "NE"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Jeste li sigurni da želite izbrisati ovo izračunato polje?",
       "yes": "Da",
       "no": "Ne",
-      "None": "nijedan"
+      "None": "nijedan",
+      "qtr": "Qtr",
+      "grandTotal": "Ukupni zbroj"
     },
     "pdfviewer": {
       "PdfViewer": "Preglednik PDF-a",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "Želite li spremiti promjene koje ste napravili na slici?",
       "AlertDialogHeader": "Nepodržana datoteka",
       "AlertDialogContent": "Ispuštena datoteka nije podržana.",
+      "MinMaxSize": "s veličinom datoteke između",
+      "MinMaxSizeAlert": "Veličina datoteke između",
+      "MinSize": "s minimalnom veličinom datoteke",
+      "MinSizeAlert": "Minimalna veličina datoteke",
+      "MaxSize": "s maksimalnom veličinom datoteke",
+      "MaxSizeAlert": "Maksimalna veličina datoteke",
+      "To": "do",
+      "Bytes": "bajtovi",
       "Yes": "Da",
       "No": "Ne",
       "ImageErrorDialogHeader": "Pogreška pri odabiru slike",
@@ -3088,7 +3103,8 @@
       "Pixelate": "Pikselizirati",
       "BorderRadius": "Polumjer",
       "TextOutlineColor": "Crta boja",
-      "TextOutlineWidth": "Širina obrisa"
+      "TextOutlineWidth": "Širina obrisa",
+      "And": "i"
     },
     "mention": {
       "noRecordsTemplate": "Nema pronađenih zapisa"

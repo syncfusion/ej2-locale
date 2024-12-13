@@ -518,10 +518,12 @@
       "InCellDropDown": "Drop-down dalam sel",
       "Sources": "Sumber",
       "Value": "Nilai",
+      "Formula": "Rumus",
       "Retry": "Mencoba kembali",
       "DialogError": "Sumber daftar harus berupa referensi ke satu baris atau kolom.",
       "MinMaxError": "Maksimum harus lebih besar atau sama dengan Minimum.",
       "InvalidNumberError": "Silakan masukkan nomor yang valid.",
+      "InvalidFormula": "Silakan masukkan formula yang valid.",
       "Spreadsheet": "Spreadsheet",
       "MoreValidation": "Pilihan ini berisi lebih dari satu validasi.",
       "FileNameError": "Nama file tidak boleh berisi karakter seperti \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Angin penarik",
       "TailwindDark": "Penari gelap",
+      "Tailwind3": "Angin belakang 3",
+      "Tailwind3Dark": "Angin Belakang 3 Gelap",
       "VerticalAxisTitle": "Judul Sumbu Vertikal",
       "HorizontalAxisTitle": "Judul Sumbu Horizontal",
       "EnterTitle": "Masukkan Judul",
@@ -1336,17 +1340,11 @@
       "mergecells": "Gabungkan sel",
       "verticalsplit": "Perpecahan vertikal",
       "horizontalsplit": "Perpecahan horisontal",
-      "numberFormatListNumber": "Jumlah",
       "numberFormatListLowerAlpha": "Alfa yang lebih rendah",
       "numberFormatListUpperAlpha": "Alfa Atas",
       "numberFormatListLowerRoman": "Romawi Bawah",
       "numberFormatListUpperRoman": "Romawi Atas",
       "numberFormatListLowerGreek": "Yunani Bawah",
-      "bulletFormatListDisc": "Cakram",
-      "bulletFormatListCircle": "Lingkaran",
-      "bulletFormatListSquare": "Kotak",
-      "numberFormatListNone": "Tidak ada",
-      "bulletFormatListNone": "Tidak ada",
       "slashMenuItemHeadingOneText": "Judul 1",
       "slashMenuItemHeadingOneDescription": "Gunakan ini untuk judul atau judul tingkat atas.",
       "slashMenuItemHeadingTwoText": "Judul 2",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "Video",
       "slashMenuItemVideoDescription": "Sisipkan video.",
       "slashMenuItemEmojiText": "pemilih emoji",
-      "slashMenuItemEmojiDescription": "Gunakan emoji untuk mengekspresikan ide dan emotikon."
+      "slashMenuItemEmojiDescription": "Gunakan emoji untuk mengekspresikan ide dan emotikon.",
+      "numberFormatListNumber": "Jumlah",
+      "bulletFormatListDisc": "Cakram",
+      "bulletFormatListCircle": "Lingkaran",
+      "bulletFormatListSquare": "Kotak",
+      "numberFormatListNone": "Tidak ada",
+      "bulletFormatListNone": "Tidak ada"
     },
     "colorpicker": {
       "Apply": "Menerapkan",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Aturan Klon",
       "LockRule": "Aturan Kunci",
       "UnlockRule": "Buka Aturan",
-      "UnlockGroup": "Buka Kunci Grup"
+      "UnlockGroup": "Buka Kunci Grup",
+      "NOT": "BUKAN"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Apakah Anda yakin ingin menghapus bidang yang dihitung ini?",
       "yes": "Ya",
       "no": "Tidak",
-      "None": "Tidak ada"
+      "None": "Tidak ada",
+      "qtr": "Qtr",
+      "grandTotal": "Jumlah Keseluruhan"
     },
     "pdfviewer": {
       "PdfViewer": "Penampil PDF",
@@ -3060,6 +3067,14 @@
       "ConfirmDialogContent": "Apakah Anda ingin menyimpan perubahan yang Anda buat pada gambar?",
       "AlertDialogHeader": "Berkas tidak didukung",
       "AlertDialogContent": "File yang dijatuhkan tidak didukung.",
+      "MinMaxSize": "dengan ukuran file antara",
+      "MinMaxSizeAlert": "Ukuran file antara",
+      "MinSize": "dengan ukuran file minimum",
+      "MinSizeAlert": "Ukuran file minimum",
+      "MaxSize": "dengan ukuran file maksimum",
+      "MaxSizeAlert": "Ukuran file maksimum",
+      "To": "ke",
+      "Bytes": "byte",
       "Yes": "Ya",
       "No": "TIDAK",
       "ImageErrorDialogHeader": "Kesalahan memilih gambar",
@@ -3088,7 +3103,8 @@
       "Pixelate": "Pikselasi",
       "BorderRadius": "Radius Perbatasan",
       "TextOutlineColor": "Garis besar warna",
-      "TextOutlineWidth": "Garis besar lebar"
+      "TextOutlineWidth": "Garis besar lebar",
+      "And": "Dan"
     },
     "mention": {
       "noRecordsTemplate": "Tidak ada catatan yang ditemukan"

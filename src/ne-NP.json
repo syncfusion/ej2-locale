@@ -518,10 +518,12 @@
       "InCellDropDown": "इन-सेल-ड्रपडाउन",
       "Sources": "स्रोतहरू",
       "Value": "मूल्य",
+      "Formula": "सूत्र",
       "Retry": "पुन: प्रयास गर्नुहोस्",
       "DialogError": "सूचीको स्रोत एकल पङ्क्ति वा स्तम्भको सन्दर्भ हुनुपर्छ।",
       "MinMaxError": "अधिकतम न्यूनतम भन्दा ठूलो वा बराबर हुनुपर्छ।",
       "InvalidNumberError": "कृपया मान्य नम्बर प्रविष्ट गर्नुहोस्।",
+      "InvalidFormula": "कृपया मान्य सूत्र प्रविष्ट गर्नुहोस्।",
       "Spreadsheet": "स्प्रेडसिट",
       "MoreValidation": "यो चयनमा एक भन्दा बढी प्रमाणीकरण समावेश छ।",
       "FileNameError": "फाइल नाममा \\ / : * ? ",
@@ -736,6 +738,8 @@
       "Bootstrap5": "बुटस्ट्र्याप ५",
       "Tailwind": "टेलविन्ड",
       "TailwindDark": "Tailwind अँध्यारो",
+      "Tailwind3": "Tailwind 3",
+      "Tailwind3Dark": "Tailwind 3 गाढा",
       "VerticalAxisTitle": "ठाडो अक्ष शीर्षक",
       "HorizontalAxisTitle": "तेर्सो अक्ष शीर्षक",
       "EnterTitle": "शीर्षक प्रविष्ट गर्नुहोस्",
@@ -1338,17 +1342,11 @@
       "mergecells": "कक्षहरू मर्ज गर्नुहोस्",
       "verticalsplit": "ठाडो विभाजन",
       "horizontalsplit": "तेर्सो विभाजन",
-      "numberFormatListNumber": "नम्बर",
       "numberFormatListLowerAlpha": "तल्लो अल्फा",
       "numberFormatListUpperAlpha": "माथिल्लो अल्फा",
       "numberFormatListLowerRoman": "तल्लो रोमन",
       "numberFormatListUpperRoman": "माथिल्लो रोमन",
       "numberFormatListLowerGreek": "तल्लो ग्रीक",
-      "bulletFormatListDisc": "डिस्क",
-      "bulletFormatListCircle": "गोलाकार",
-      "bulletFormatListSquare": "वर्ग",
-      "numberFormatListNone": "कुनै पनि छैन",
-      "bulletFormatListNone": "कुनै पनि छैन",
       "slashMenuItemHeadingOneText": "शीर्षक १",
       "slashMenuItemHeadingOneDescription": "शीर्ष स्तरको शीर्षक वा शीर्षकको लागि यसलाई प्रयोग गर्नुहोस्।",
       "slashMenuItemHeadingTwoText": "शीर्षक २",
@@ -1378,7 +1376,13 @@
       "slashMenuItemVideoText": "भिडियो",
       "slashMenuItemVideoDescription": "भिडियो घुसाउनुहोस्।",
       "slashMenuItemEmojiText": "इमोजीपिकर",
-      "slashMenuItemEmojiDescription": "विचार र इमोटिकन्स व्यक्त गर्न इमोजी प्रयोग गर्नुहोस्।"
+      "slashMenuItemEmojiDescription": "विचार र इमोटिकन्स व्यक्त गर्न इमोजी प्रयोग गर्नुहोस्।",
+      "numberFormatListNumber": "नम्बर",
+      "bulletFormatListDisc": "डिस्क",
+      "bulletFormatListCircle": "गोलाकार",
+      "bulletFormatListSquare": "वर्ग",
+      "numberFormatListNone": "कुनै पनि छैन",
+      "bulletFormatListNone": "कुनै पनि छैन"
     },
     "colorpicker": {
       "Apply": "निवेदन गर्नु",
@@ -1493,7 +1497,8 @@
       "CloneRule": "क्लोन नियम",
       "LockRule": "लक नियम",
       "UnlockRule": "अनलक नियम",
-      "UnlockGroup": "समूह अनलक गर्नुहोस्"
+      "UnlockGroup": "समूह अनलक गर्नुहोस्",
+      "NOT": "होइन"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1935,7 +1940,9 @@
       "removeCalculatedField": "के तपाइँ यो गणना गरिएको क्षेत्र मेटाउन निश्चित हुनुहुन्छ?",
       "yes": "हो",
       "no": "छैन",
-      "None": "कुनै पनि छैन"
+      "None": "कुनै पनि छैन",
+      "qtr": "Qtr",
+      "grandTotal": "ग्रान्ड कुल"
     },
     "pdfviewer": {
       "PdfViewer": "PDF दर्शक",
@@ -3062,6 +3069,14 @@
       "ConfirmDialogContent": "के तपाईं छविमा गर्नुभएका परिवर्तनहरू बचत गर्न चाहनुहुन्छ?",
       "AlertDialogHeader": "असमर्थित फाइल",
       "AlertDialogContent": "छोडिएको फाइल असमर्थित छ।",
+      "MinMaxSize": "बीच फाईल आकारको साथ",
+      "MinMaxSizeAlert": "फाईल आकार बीचको",
+      "MinSize": "को न्यूनतम फाईलको आकारको साथ",
+      "MinSizeAlert": "को न्यूनतम फाईल आकार",
+      "MaxSize": "को अधिकतम फाईलको आकारको साथ",
+      "MaxSizeAlert": "को अधिकतम फाइल आकार",
+      "To": "को",
+      "Bytes": "बाइट्ट्",
       "Yes": "हो",
       "No": "छैन",
       "ImageErrorDialogHeader": "छवि चयन त्रुटि",
@@ -3090,7 +3105,8 @@
       "Pixelate": "पिक्सेलेट",
       "BorderRadius": "सीमा दातिरा",
       "TextOutlineColor": "रूपरेखा रंग",
-      "TextOutlineWidth": "रूपरेखा चौडाई"
+      "TextOutlineWidth": "रूपरेखा चौडाई",
+      "And": "र"
     },
     "mention": {
       "noRecordsTemplate": "कुनै रेकर्ड भेटिएन"

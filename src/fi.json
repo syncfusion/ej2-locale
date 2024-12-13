@@ -518,10 +518,12 @@
       "InCellDropDown": "Solun sisäinen pudotusvalikko",
       "Sources": "Lähteet",
       "Value": "Arvo",
+      "Formula": "Kaava",
       "Retry": "Yritä uudelleen",
       "DialogError": "Luettelon lähteen on oltava viittaus yhteen riviin tai sarakkeeseen.",
       "MinMaxError": "Maksimiarvon on oltava suurempi tai yhtä suuri kuin minimi.",
       "InvalidNumberError": "Anna kelvollinen numero.",
+      "InvalidFormula": "Anna kelvollinen kaava.",
       "Spreadsheet": "Laskentataulukko",
       "MoreValidation": "Tämä valinta sisältää useamman kuin yhden vahvistuksen.",
       "FileNameError": "Tiedostonimi ei voi sisältää merkkejä kuten \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "myötätuuli",
       "TailwindDark": "Tumma myötätuuli",
+      "Tailwind3": "Myötätuuli 3",
+      "Tailwind3Dark": "Myötätuuli 3 Tumma",
       "VerticalAxisTitle": "Pystyakselin otsikko",
       "HorizontalAxisTitle": "Vaaka-akselin otsikko",
       "EnterTitle": "Kirjoita otsikko",
@@ -1336,17 +1340,11 @@
       "mergecells": "Yhdistää soluja",
       "verticalsplit": "Pystysuuntainen jako",
       "horizontalsplit": "Vaakasuora jako",
-      "numberFormatListNumber": "Määrä",
       "numberFormatListLowerAlpha": "Alempi Alfa",
       "numberFormatListUpperAlpha": "Ylempi Alfa",
       "numberFormatListLowerRoman": "Alempi roomalainen",
       "numberFormatListUpperRoman": "Ylä-Rooma",
       "numberFormatListLowerGreek": "Alempi kreikka",
-      "bulletFormatListDisc": "Levy",
-      "bulletFormatListCircle": "Ympyrä",
-      "bulletFormatListSquare": "Neliö",
-      "numberFormatListNone": "Ei mitään",
-      "bulletFormatListNone": "Ei mitään",
       "slashMenuItemHeadingOneText": "Otsikko 1",
       "slashMenuItemHeadingOneDescription": "Käytä tätä ylätason otsikossa tai otsikossa.",
       "slashMenuItemHeadingTwoText": "Otsikko 2",
@@ -1376,7 +1374,13 @@
       "slashMenuItemVideoText": "Video",
       "slashMenuItemVideoDescription": "Lisää video.",
       "slashMenuItemEmojiText": "Emojipicker",
-      "slashMenuItemEmojiDescription": "Käytä emojia ideoiden ja hymiöiden ilmaisemiseen."
+      "slashMenuItemEmojiDescription": "Käytä emojia ideoiden ja hymiöiden ilmaisemiseen.",
+      "numberFormatListNumber": "Määrä",
+      "bulletFormatListDisc": "Levy",
+      "bulletFormatListCircle": "Ympyrä",
+      "bulletFormatListSquare": "Neliö",
+      "numberFormatListNone": "Ei mitään",
+      "bulletFormatListNone": "Ei mitään"
     },
     "colorpicker": {
       "Apply": "Käytä",
@@ -1491,7 +1495,8 @@
       "CloneRule": "Kloonaussääntö",
       "LockRule": "Lukitussääntö",
       "UnlockRule": "Avaa sääntö",
-      "UnlockGroup": "Avaa ryhmän lukitus"
+      "UnlockGroup": "Avaa ryhmän lukitus",
+      "NOT": "EI"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1933,7 +1938,9 @@
       "removeCalculatedField": "Haluatko varmasti poistaa tämän lasketun kentän?",
       "yes": "Joo",
       "no": "Ei",
-      "None": "Ei mitään"
+      "None": "Ei mitään",
+      "qtr": "Qtr",
+      "grandTotal": "Yhteensä"
     },
     "pdfviewer": {
       "PdfViewer": "PDF-katseluohjelma",
@@ -3059,6 +3066,14 @@
       "ConfirmDialogContent": "Haluatko tallentaa kuvaan tekemäsi muutokset?",
       "AlertDialogHeader": "Tiedostoa ei tueta",
       "AlertDialogContent": "Pudotettua tiedostoa ei tueta.",
+      "MinMaxSize": "Tiedoston koon välillä",
+      "MinMaxSizeAlert": "Tiedoston koko",
+      "MinSize": "vähimmäistiedoston koon kanssa",
+      "MinSizeAlert": "Vähimmäistiedoston koko",
+      "MaxSize": "enimmäismäärällä",
+      "MaxSizeAlert": "Enimmäistiedoston koko",
+      "To": "kohtaan",
+      "Bytes": "tavu",
       "Yes": "Joo",
       "No": "Ei",
       "ImageErrorDialogHeader": "Virhe kuvan valinnassa",
@@ -3087,7 +3102,8 @@
       "Pixelate": "Pikselaatti",
       "BorderRadius": "Reunasäde",
       "TextOutlineColor": "Ääriviivat",
-      "TextOutlineWidth": "Ääriviivat"
+      "TextOutlineWidth": "Ääriviivat",
+      "And": "ja"
     },
     "mention": {
       "noRecordsTemplate": "Merkintöjä ei löydy"

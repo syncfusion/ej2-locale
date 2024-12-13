@@ -518,10 +518,12 @@
       "InCellDropDown": "In-cell-dropdown",
       "Sources": "Sources",
       "Value": "Value",
+      "Formula": "Formula",
       "Retry": "Retry",
       "DialogError": "The list source must be a reference to single row or column.",
       "MinMaxError": "The Maximum must be greater than or equal to the Minimum.",
       "InvalidNumberError": "Please enter a valid number.",
+      "InvalidFormula": "Please enter a valid formula.",
       "Spreadsheet": "Spreadsheet",
       "MoreValidation": "This selection contains more than one validation. ",
       "FileNameError": "A file name can't contain characters like \\ / : * ? \" < > [ ] |",
@@ -736,6 +738,8 @@
       "Bootstrap5": "Bootstrap5",
       "Tailwind": "Tailwind",
       "TailwindDark": "Tailwind Dark",
+      "Tailwind3": "Tailwind 3",
+      "Tailwind3Dark": "Tailwind 3 Dark",
       "VerticalAxisTitle": "Vertical Axis Title",
       "HorizontalAxisTitle": "Horizontal Axis Title",
       "EnterTitle": "Enter Title",
@@ -1338,17 +1342,11 @@
       "mergecells": "Merge cells",
       "verticalsplit": "Vertical split",
       "horizontalsplit": "Horizontal split",
-      "numberFormatListNumber": "Number",
       "numberFormatListLowerAlpha": "Lower Alpha",
       "numberFormatListUpperAlpha": "Upper Alpha",
       "numberFormatListLowerRoman": "Lower Roman",
       "numberFormatListUpperRoman": "Upper Roman",
       "numberFormatListLowerGreek": "Lower Greek",
-      "bulletFormatListDisc": "Disc",
-      "bulletFormatListCircle": "Circle",
-      "bulletFormatListSquare": "Square",
-      "numberFormatListNone": "None",
-      "bulletFormatListNone": "None",
       "slashMenuItemHeadingOneText": "Heading 1",
       "slashMenuItemHeadingOneDescription": "Use this for a top level heading or title.",
       "slashMenuItemHeadingTwoText": "Heading 2",
@@ -1378,7 +1376,13 @@
       "slashMenuItemVideoText": "Video",
       "slashMenuItemVideoDescription": "Insert a video.",
       "slashMenuItemEmojiText": "Emojipicker",
-      "slashMenuItemEmojiDescription": "Use emojis to express ideas and emoticons."
+      "slashMenuItemEmojiDescription": "Use emojis to express ideas and emoticons.",
+      "numberFormatListNumber": "Number",
+      "bulletFormatListDisc": "Disc",
+      "bulletFormatListCircle": "Circle",
+      "bulletFormatListSquare": "Square",
+      "numberFormatListNone": "None",
+      "bulletFormatListNone": "None"
     },
     "colorpicker": {
       "Apply": "Apply",
@@ -1493,7 +1497,8 @@
       "CloneRule": "Clone Rule",
       "LockRule": "Lock Rule",
       "UnlockRule": "Unlock Rule",
-      "UnlockGroup": "Unlock Group"
+      "UnlockGroup": "Unlock Group",
+      "NOT": "NOT"
     },
     "barcode": {},
     "datamatrix": {},
@@ -1935,7 +1940,9 @@
       "removeCalculatedField": "Are you sure you want to delete this calculated field?",
       "yes": "Yes",
       "no": "No",
-      "None": "None"
+      "None": "None",
+      "qtr": "Qtr",
+      "grandTotal": "Grand Total"
     },
     "pdfviewer": {
       "PdfViewer": "PDF Viewer",
@@ -3062,6 +3069,14 @@
       "ConfirmDialogContent": "Do you want to save the changes you made to the image?",
       "AlertDialogHeader": "Unsupported file",
       "AlertDialogContent": "The dropped file is unsupported.",
+      "MinMaxSize": "with file size between",
+      "MinMaxSizeAlert": "File size between",
+      "MinSize": "with minimum file size of",
+      "MinSizeAlert": "A minimum file size of",
+      "MaxSize": "with maximum file size of",
+      "MaxSizeAlert": "A maximum file size of",
+      "To": "to",
+      "Bytes": "bytes",
       "Yes": "Yes",
       "No": "No",
       "ImageErrorDialogHeader": "Image Selection Error",
@@ -3090,7 +3105,8 @@
       "Pixelate": "Pixelate",
       "BorderRadius": "Border Radius",
       "TextOutlineColor": "Outline Color",
-      "TextOutlineWidth": "Outline Width"
+      "TextOutlineWidth": "Outline Width",
+      "And": "and"
     },
     "mention": {
       "noRecordsTemplate": "No records found"
