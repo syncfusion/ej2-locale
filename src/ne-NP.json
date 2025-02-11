@@ -50,6 +50,8 @@
       "LessThanOrEqual": "भन्दा कम वा बराबर",
       "GreaterThan": "भन्दा ठुलो",
       "GreaterThanOrEqual": "भन्दा ठूलो वा बराबर",
+      "In": "भित्र",
+      "NotIn": "भित्र छैन",
       "ChooseDate": "मिति छान्नुहोस्",
       "EnterValue": "मान प्रविष्ट गर्नुहोस्",
       "Copy": "कापी",

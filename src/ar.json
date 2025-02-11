@@ -50,6 +50,8 @@
       "LessThanOrEqual": "اصغر من او يساوي",
       "GreaterThan": "أكثر من",
       "GreaterThanOrEqual": "أكبر من أو يساوي",
+      "In": "في",
+      "NotIn": "ليس في",
       "ChooseDate": "اختيار التاريخ",
       "EnterValue": "أدخل القيمة",
       "Copy": "نسخ",

@@ -50,6 +50,8 @@
       "LessThanOrEqual": "小于或等于",
       "GreaterThan": "大于",
       "GreaterThanOrEqual": "大于或等于",
+      "In": "在",
+      "NotIn": "不在",
       "ChooseDate": "選擇日期",
       "EnterValue": "輸入值",
       "Copy": "複製",

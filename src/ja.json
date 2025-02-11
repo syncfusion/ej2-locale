@@ -50,6 +50,8 @@
       "LessThanOrEqual": "より小さいか等しい",
       "GreaterThan": "より大きい",
       "GreaterThanOrEqual": "より大きいか等しい",
+      "In": "内",
+      "NotIn": "ではない",
       "ChooseDate": "日付を選択してください",
       "EnterValue": "値を入力してください",
       "Copy": "コピー",

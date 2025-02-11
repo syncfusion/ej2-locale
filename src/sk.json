@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Menej ako rovnaké",
       "GreaterThan": "Väčší než",
       "GreaterThanOrEqual": "Väčšie ako rovnaké",
+      "In": "V",
+      "NotIn": "Nie v",
       "ChooseDate": "Vyberte dátum",
       "EnterValue": "Zadajte hodnotu",
       "Copy": "kópie",

@@ -50,6 +50,8 @@
       "LessThanOrEqual": "น้อยกว่าหรือเท่ากับ",
       "GreaterThan": "มากกว่า",
       "GreaterThanOrEqual": "มากกว่าหรือเท่ากับ",
+      "In": "ใน",
+      "NotIn": "ไม่อยู่ใน",
       "ChooseDate": "เลือกวันที่",
       "EnterValue": "ป้อนค่า",
       "Copy": "สำเนา",

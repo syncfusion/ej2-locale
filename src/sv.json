@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Mindre än eller lika med",
       "GreaterThan": "Större än",
       "GreaterThanOrEqual": "Större än eller lika med",
+      "In": "I",
+      "NotIn": "Inte i",
       "ChooseDate": "Välj ett datum",
       "EnterValue": "Ange värde",
       "Copy": "Kopiera",

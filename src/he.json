@@ -50,6 +50,8 @@
       "LessThanOrEqual": "פחות מ או שווה",
       "GreaterThan": "גדול מ",
       "GreaterThanOrEqual": "גדול או שווה",
+      "In": "ב",
+      "NotIn": "לא ב",
       "ChooseDate": "בחר תאריך",
       "EnterValue": "הזן את הערך",
       "Copy": "עותק",

@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Vähemmän kuin yhtäsuuri",
       "GreaterThan": "Suurempi kuin",
       "GreaterThanOrEqual": "Suurempi kuin tai yhtä suuri",
+      "In": "Sisällä",
+      "NotIn": "Ei sisällä",
       "ChooseDate": "Valitse päivämäärä",
       "EnterValue": "Kirjoita arvo",
       "Copy": "Kopio",

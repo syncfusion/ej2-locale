@@ -50,6 +50,8 @@
       "LessThanOrEqual": "작거나 같음",
       "GreaterThan": "보다 큰",
       "GreaterThanOrEqual": "크거나 같음",
+      "In": "안에",
+      "NotIn": "안에 없음",
       "ChooseDate": "날짜를 선택하십시오",
       "EnterValue": "값을 입력하십시오",
       "Copy": "부",
