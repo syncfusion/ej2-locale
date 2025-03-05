@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Kevesebb vagy egyenlő",
       "GreaterThan": "Nagyobb, mint",
       "GreaterThanOrEqual": "Nagyobb, vagy egyenlő",
+      "In": "Bent",
+      "NotIn": "Nincs bent",
       "ChooseDate": "Válasszon egy dátumot",
       "EnterValue": "Írja be az értéket",
       "Copy": "Másolat",

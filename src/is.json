@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Minna en eða jafnt",
       "GreaterThan": "Meiri en",
       "GreaterThanOrEqual": "Stærri en eða jafn",
+      "In": "Í",
+      "NotIn": "Ekki í",
       "ChooseDate": "Veldu dagsetningu",
       "EnterValue": "Sláðu inn gildið",
       "Copy": "Afrita",

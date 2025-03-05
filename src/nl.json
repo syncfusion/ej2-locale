@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Minder dan of gelijk",
       "GreaterThan": "Groter dan",
       "GreaterThanOrEqual": "Groter dan of gelijk aan",
+      "In": "In",
+      "NotIn": "Niet in",
       "ChooseDate": "Kies een datum",
       "EnterValue": "Voer de waarde in",
       "Copy": "Kopiëren",

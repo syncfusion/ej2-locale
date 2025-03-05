@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Az veya eşit",
       "GreaterThan": "Büyüktür",
       "GreaterThanOrEqual": "Büyük veya Eşit",
+      "In": "İçinde",
+      "NotIn": "İçinde değil",
       "ChooseDate": "Bir Tarih Seçin",
       "EnterValue": "Değeri girin",
       "Copy": "kopyala",

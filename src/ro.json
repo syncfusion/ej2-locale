@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Mai puțin decât sau egal",
       "GreaterThan": "Mai mare ca",
       "GreaterThanOrEqual": "Mai mare decât sau egal",
+      "In": "În",
+      "NotIn": "Nu în",
       "ChooseDate": "Alegeți o dată",
       "EnterValue": "Introduceți valoarea",
       "Copy": "Copie",

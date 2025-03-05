@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Меньше или равно",
       "GreaterThan": "Больше чем",
       "GreaterThanOrEqual": "Больше или равно",
+      "In": "В",
+      "NotIn": "Не в",
       "ChooseDate": "Выберите дату",
       "EnterValue": "Введите значение",
       "Copy": "копия",

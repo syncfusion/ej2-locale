@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Manje ili jednako",
       "GreaterThan": "Više nego",
       "GreaterThanOrEqual": "Veći ili jednaki",
+      "In": "U",
+      "NotIn": "Nije u",
       "ChooseDate": "Odaberite datum",
       "EnterValue": "Unesite vrijednost",
       "Copy": "Kopirati",

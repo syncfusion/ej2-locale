@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Kurang Daripada Atau Sama",
       "GreaterThan": "Lebih besar daripada",
       "GreaterThanOrEqual": "Lebih daripada atau sama",
+      "In": "Dalam",
+      "NotIn": "Tidak dalam",
       "ChooseDate": "Pilih Tarikh",
       "EnterValue": "Masukkan nilai",
       "Copy": "Salinan",

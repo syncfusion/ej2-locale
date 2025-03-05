@@ -50,6 +50,8 @@
       "LessThanOrEqual": "Nhỏ hơn hoặc bằng",
       "GreaterThan": "Lớn hơn",
       "GreaterThanOrEqual": "Lớn hơn hoặc bằng",
+      "In": "Trong",
+      "NotIn": "Không trong",
       "ChooseDate": "Chọn một ngày",
       "EnterValue": "Nhập giá trị",
       "Copy": "Sao chép",
