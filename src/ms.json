@@ -523,6 +523,7 @@
       "Formula": "Formula",
       "Retry": "Cuba semula",
       "DialogError": "Sumber senarai mestilah merujuk kepada satu baris atau lajur.",
+      "NamedRangeError": "Julat bernama yang anda tentukan tidak dapat dijumpai.",
       "MinMaxError": "Maksimum mestilah lebih besar daripada atau sama dengan Minimum.",
       "InvalidNumberError": "Sila masukkan nombor yang sah.",
       "InvalidFormula": "Sila masukkan formula yang sah.",

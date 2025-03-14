@@ -523,6 +523,7 @@
       "Formula": "Vzorec",
       "Retry": "Skúsiť znova",
       "DialogError": "Zdroj zoznamu musí byť odkaz na jeden riadok alebo stĺpec.",
+      "NamedRangeError": "Pomenovaný rozsah, ktorý ste zadali, sa nedá nájsť.",
       "MinMaxError": "Maximum musí byť väčšie alebo rovné minimu.",
       "InvalidNumberError": "Zadajte platné číslo.",
       "InvalidFormula": "Zadajte platný vzorec.",

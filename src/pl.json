@@ -523,6 +523,7 @@
       "Formula": "Formuła",
       "Retry": "Spróbować ponownie",
       "DialogError": "Źródłem listy musi być odwołanie do pojedynczego wiersza lub kolumny.",
+      "NamedRangeError": "Nie można znaleźć określonego zakresu nazwanego.",
       "MinMaxError": "Wartość maksymalna musi być większa lub równa wartości minimalnej.",
       "InvalidNumberError": "Proszę wprowadzić prawidłowy numer.",
       "InvalidFormula": "Proszę wprowadzić prawidłowy formuła.",

@@ -523,6 +523,7 @@
       "Formula": "Kaava",
       "Retry": "Yritä uudelleen",
       "DialogError": "Luettelon lähteen on oltava viittaus yhteen riviin tai sarakkeeseen.",
+      "NamedRangeError": "Määrittämääsi nimettyä aluetta ei löydy.",
       "MinMaxError": "Maksimiarvon on oltava suurempi tai yhtä suuri kuin minimi.",
       "InvalidNumberError": "Anna kelvollinen numero.",
       "InvalidFormula": "Anna kelvollinen kaava.",

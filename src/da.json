@@ -523,6 +523,7 @@
       "Formula": "Formel",
       "Retry": "Prøve igen",
       "DialogError": "Listekilden skal være en reference til en enkelt række eller kolonne.",
+      "NamedRangeError": "Et navngivet område, du har angivet, kan ikke findes.",
       "MinMaxError": "Maksimum skal være større end eller lig med minimum.",
       "InvalidNumberError": "Indtast venligst et gyldigt nummer.",
       "InvalidFormula": "Indtast venligst en gyldig formel.",

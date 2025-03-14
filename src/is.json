@@ -471,6 +471,7 @@
       "Formula": "Formúla",
       "Retry": "Reyndu aftur",
       "DialogError": "Uppruni lista verður að vera tilvísun í eina línu eða dálk.",
+      "NamedRangeError": "Nefnt svið sem þú tilgreindir er ekki að finna.",
       "MinMaxError": "Hámarkið verður að vera hærra en eða jafnt og lágmarkinu.",
       "InvalidNumberError": "Vinsamlegast sláðu inn gilt númer.",
       "InvalidFormula": "Vinsamlega sláðu inn gilda formúlu.",

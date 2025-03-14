@@ -523,6 +523,7 @@
       "Formula": "Formula",
       "Retry": "Reîncercați",
       "DialogError": "Sursa listei trebuie să fie o referință la un singur rând sau coloană.",
+      "NamedRangeError": "Un interval numit pe care l -ați specificat nu poate fi găsit.",
       "MinMaxError": "Maximul trebuie să fie mai mare sau egal cu minimul.",
       "InvalidNumberError": "Vă rugăm să introduceți un număr valid.",
       "InvalidFormula": "Vă rugăm să introduceți o formulă validă.",
