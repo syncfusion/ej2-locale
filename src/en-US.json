@@ -3372,6 +3372,20 @@
     },
     "stepper": {
       "optional": "Optional"
+    },
+    "speech-to-text": {
+      "abortedError": "Speech recognition was aborted.",
+      "audioCaptureError": "No microphone detected. Ensure your microphone is connected.",
+      "defaultError": "An unknown error occurred.",
+      "networkError": "Network error occurred. Check your internet connection.",
+      "noSpeechError": "No speech detected. Please speak into the microphone.",
+      "notAllowedError": "Microphone access denied. Allow microphone permissions.",
+      "serviceNotAllowedError": "Speech recognition service is not allowed in this context.",
+      "unsupportedBrowserError": "The browser does not support the SpeechRecognition API.",
+      "startAriaLabel": "Press to start speaking and transcribe your words",
+      "stopAriaLabel": "Press to stop speaking and end transcription",
+      "startTooltipText": "Start listening",
+      "stopTooltipText": "Stop listening"
     }
   }
 }

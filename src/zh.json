@@ -3373,6 +3373,20 @@
     },
     "stepper": {
       "optional": "选修的"
+    },
+    "speech-to-text": {
+      "abortedError": "语音识别已中止。",
+      "audioCaptureError": "未检测到麦克风。请确保您的麦克风已连接。",
+      "defaultError": "发生未知错误。",
+      "networkError": "发生网络错误。请检查您的互联网连接。",
+      "noSpeechError": "未检测到语音。请对着麦克风说话。",
+      "notAllowedError": "麦克风访问被拒绝。请允许麦克风权限。",
+      "serviceNotAllowedError": "语音识别服务在此环境中不允许使用。",
+      "unsupportedBrowserError": "浏览器不支持 SpeechRecognition API。",
+      "startAriaLabel": "按下开始说话并转录您的话语",
+      "stopAriaLabel": "按下停止说话并结束转录",
+      "startTooltipText": "开始聆听",
+      "stopTooltipText": "停止聆听"
     }
   }
 }
