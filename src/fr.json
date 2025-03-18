@@ -3374,6 +3374,20 @@
     },
     "stepper": {
       "optional": "Facultatif"
+    },
+    "speech-to-text": {
+      "abortedError": "La reconnaissance vocale a été interrompue.",
+      "audioCaptureError": "Aucun microphone détecté. Assurez-vous que votre microphone est connecté.",
+      "defaultError": "Une erreur inconnue s'est produite.",
+      "networkError": "Erreur réseau survenue. Vérifiez votre connexion Internet.",
+      "noSpeechError": "Aucune parole détectée. Veuillez parler dans le microphone.",
+      "notAllowedError": "Accès au microphone refusé. Autorisez les permissions du microphone.",
+      "serviceNotAllowedError": "Le service de reconnaissance vocale n'est pas autorisé dans ce contexte.",
+      "unsupportedBrowserError": "Le navigateur ne prend pas en charge l'API SpeechRecognition.",
+      "startAriaLabel": "Appuyez pour commencer à parler et transcrire vos mots",
+      "stopAriaLabel": "Appuyez pour arrêter de parler et mettre fin à la transcription",
+      "startTooltipText": "Commencer l'écoute",
+      "stopTooltipText": "Arrêter l'écoute"
     }
   }
 }

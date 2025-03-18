@@ -3370,6 +3370,20 @@
     },
     "stepper": {
       "optional": "Không bắt buộc"
+    },
+    "speech-to-text": {
+      "abortedError": "Nhận dạng giọng nói đã bị hủy.",
+      "audioCaptureError": "Không phát hiện thấy micro. Đảm bảo rằng micro của bạn đã được kết nối.",
+      "defaultError": "Đã xảy ra lỗi không xác định.",
+      "networkError": "Đã xảy ra lỗi mạng. Kiểm tra kết nối internet của bạn.",
+      "noSpeechError": "Không phát hiện thấy giọng nói. Vui lòng nói vào micro.",
+      "notAllowedError": "Truy cập micro bị từ chối. Vui lòng cho phép quyền truy cập micro.",
+      "serviceNotAllowedError": "Dịch vụ nhận dạng giọng nói không được cho phép trong ngữ cảnh này.",
+      "unsupportedBrowserError": "Trình duyệt không hỗ trợ API SpeechRecognition.",
+      "startAriaLabel": "Nhấn để bắt đầu nói và chuyển đổi lời nói của bạn",
+      "stopAriaLabel": "Nhấn để dừng nói và kết thúc chuyển đổi lời nói",
+      "startTooltipText": "Bắt đầu nghe",
+      "stopTooltipText": "Dừng nghe"
     }
   }
 }

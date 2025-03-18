@@ -3370,6 +3370,20 @@
     },
     "stepper": {
       "optional": "Opsional"
+    },
+    "speech-to-text": {
+      "abortedError": "Pengenalan suara dibatalkan.",
+      "audioCaptureError": "Mikrofon tidak terdeteksi. Pastikan mikrofon Anda terhubung.",
+      "defaultError": "Terjadi kesalahan yang tidak diketahui.",
+      "networkError": "Terjadi kesalahan jaringan. Periksa koneksi internet Anda.",
+      "noSpeechError": "Tidak ada suara yang terdeteksi. Silakan bicara ke mikrofon.",
+      "notAllowedError": "Akses mikrofon ditolak. Izinkan izin mikrofon.",
+      "serviceNotAllowedError": "Layanan pengenalan suara tidak diizinkan dalam konteks ini.",
+      "unsupportedBrowserError": "Peramban tidak mendukung API SpeechRecognition.",
+      "startAriaLabel": "Tekan untuk mulai berbicara dan mentranskrip kata-kata Anda",
+      "stopAriaLabel": "Tekan untuk berhenti berbicara dan mengakhiri transkripsi",
+      "startTooltipText": "Mulai mendengarkan",
+      "stopTooltipText": "Berhenti mendengarkan"
     }
   }
 }

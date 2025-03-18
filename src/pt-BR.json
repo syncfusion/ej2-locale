@@ -3249,6 +3249,20 @@
     },
     "stepper": {
       "optional": "Opcional"
+    },
+    "speech-to-text": {
+      "abortedError": "O reconhecimento de fala foi abortado.",
+      "audioCaptureError": "Nenhum microfone detectado. Certifique-se de que seu microfone está conectado.",
+      "defaultError": "Ocorreu um erro desconhecido.",
+      "networkError": "Ocorreu um erro de rede. Verifique sua conexão com a internet.",
+      "noSpeechError": "Nenhuma fala detectada. Por favor, fale no microfone.",
+      "notAllowedError": "Acesso ao microfone negado. Permita permissões para o microfone.",
+      "serviceNotAllowedError": "O serviço de reconhecimento de fala não é permitido neste contexto.",
+      "unsupportedBrowserError": "O navegador não suporta a API SpeechRecognition.",
+      "startAriaLabel": "Pressione para começar a falar e transcrever suas palavras",
+      "stopAriaLabel": "Pressione para parar de falar e finalizar a transcrição",
+      "startTooltipText": "Começar a escutar",
+      "stopTooltipText": "Parar de escutar"
     }
   }
 }

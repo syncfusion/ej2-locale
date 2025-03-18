@@ -3371,6 +3371,20 @@
     },
     "stepper": {
       "optional": "Valfri"
+    },
+    "speech-to-text": {
+      "abortedError": "Talsyntes avbröts.",
+      "audioCaptureError": "Ingen mikrofon upptäckt. Se till att din mikrofon är ansluten.",
+      "defaultError": "Ett okänt fel inträffade.",
+      "networkError": "Ett nätverksfel inträffade. Kontrollera din internetanslutning.",
+      "noSpeechError": "Ingen talupptäckt. Vänligen tala i mikrofonen.",
+      "notAllowedError": "Mikrofonåtkomst nekad. Tillåt mikrofonbehörigheter.",
+      "serviceNotAllowedError": "Talsyntestjänsten är inte tillåten i detta sammanhang.",
+      "unsupportedBrowserError": "Webbläsaren stöder inte SpeechRecognition API.",
+      "startAriaLabel": "Tryck för att börja tala och transkribera dina ord",
+      "stopAriaLabel": "Tryck för att sluta tala och avsluta transkriberingen",
+      "startTooltipText": "Börja lyssna",
+      "stopTooltipText": "Sluta lyssna"
     }
   }
 }
