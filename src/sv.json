@@ -523,6 +523,7 @@
       "Formula": "Formel",
       "Retry": "Försök igen",
       "DialogError": "Listkällan måste vara en referens till en enda rad eller kolumn.",
+      "NamedRangeError": "Ett namngivet intervall som du angav kan inte hittas.",
       "MinMaxError": "Maximum måste vara större än eller lika med Minimum.",
       "InvalidNumberError": "Ange ett giltigt nummer.",
       "InvalidFormula": "Behaga ange en giltig formel.",

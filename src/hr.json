@@ -523,6 +523,7 @@
       "Formula": "Formula",
       "Retry": "Pokušaj ponovo",
       "DialogError": "Izvor popisa mora biti referenca na jedan redak ili stupac.",
+      "NamedRangeError": "Navedeni raspon koji ste naveli ne mogu se naći.",
       "MinMaxError": "Maksimum mora biti veći ili jednak minimumu.",
       "InvalidNumberError": "Unesite važeći broj.",
       "InvalidFormula": "Unesite valjanu formulu.",

@@ -523,6 +523,7 @@
       "Formula": "Fórmula",
       "Retry": "Reintentar",
       "DialogError": "La fuente de la lista debe ser una referencia a una sola fila o columna.",
+      "NamedRangeError": "No se puede encontrar un rango con nombre que especificó.",
       "MinMaxError": "El Máximo debe ser mayor o igual al Mínimo.",
       "InvalidNumberError": "Por favor, introduzca un número válido.",
       "InvalidFormula": "Introduzca una fórmula válida.",

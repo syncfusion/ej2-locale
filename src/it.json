@@ -523,6 +523,7 @@
       "Formula": "Formula",
       "Retry": "Riprova",
       "DialogError": "L'origine dell'elenco deve essere un riferimento a una singola riga o colonna.",
+      "NamedRangeError": "Un denominato intervallo voi specificato non può essere trovato.",
       "MinMaxError": "Il massimo deve essere maggiore o uguale al minimo.",
       "InvalidNumberError": "Inserisci un numero valido.",
       "InvalidFormula": "Inserisci una formula valida.",

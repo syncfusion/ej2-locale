@@ -523,6 +523,7 @@
       "Formula": "Formül",
       "Retry": "yeniden dene",
       "DialogError": "Liste kaynağı, tek bir satıra veya sütuna referans olmalıdır.",
+      "NamedRangeError": "Belirttiğiniz adlandırılmış bir aralık bulunamaz.",
       "MinMaxError": "Maksimum, Minimum'dan büyük veya ona eşit olmalıdır.",
       "InvalidNumberError": "Lütfen geçerli bir numara girin.",
       "InvalidFormula": "Lütfen geçerli bir formül girin.",

@@ -523,6 +523,7 @@
       "Formula": "Công thức",
       "Retry": "Thử lại",
       "DialogError": "Nguồn danh sách phải là tham chiếu đến một hàng hoặc một cột.",
+      "NamedRangeError": "Một phạm vi được đặt tên bạn đã chỉ định không thể được tìm thấy.",
       "MinMaxError": "Giá trị Tối đa phải lớn hơn hoặc bằng Giá trị Tối thiểu.",
       "InvalidNumberError": "Vui lòng nhập một số hợp lệ.",
       "InvalidFormula": "Vui lòng nhập một công thức hợp lệ.",

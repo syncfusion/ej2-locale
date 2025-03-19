@@ -523,6 +523,7 @@
       "Formula": "Képlet",
       "Retry": "Próbálja újra",
       "DialogError": "A lista forrásának egyetlen sorra vagy oszlopra kell hivatkoznia.",
+      "NamedRangeError": "Az Ön által megadott elnevezett hatótávolság nem található.",
       "MinMaxError": "A Maximumnak nagyobbnak vagy egyenlőnek kell lennie, mint a Minimum.",
       "InvalidNumberError": "Kérjük, adjon meg egy érvényes számot.",
       "InvalidFormula": "Adjon meg egy érvényes képletet.",

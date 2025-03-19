@@ -523,6 +523,7 @@
       "Formula": "Rumus",
       "Retry": "Mencoba kembali",
       "DialogError": "Sumber daftar harus berupa referensi ke satu baris atau kolom.",
+      "NamedRangeError": "Rentang bernama yang Anda tentukan tidak dapat ditemukan.",
       "MinMaxError": "Maksimum harus lebih besar atau sama dengan Minimum.",
       "InvalidNumberError": "Silakan masukkan nomor yang valid.",
       "InvalidFormula": "Silakan masukkan formula yang valid.",

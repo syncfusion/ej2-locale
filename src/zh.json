@@ -523,6 +523,7 @@
       "Formula": "公式",
       "Retry": "重试",
       "DialogError": "列表源必须是对单个行或列的引用。",
+      "NamedRangeError": "找不到您指定的命名范围。",
       "MinMaxError": "最大值必须大于或等于最小值。",
       "InvalidNumberError": "请输入有效的号码。",
       "InvalidFormula": "请输入有效的公式。",

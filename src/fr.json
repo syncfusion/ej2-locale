@@ -523,6 +523,7 @@
       "Formula": "Formule",
       "Retry": "Retenter",
       "DialogError": "La source de la liste doit être une référence à une seule ligne ou colonne.",
+      "NamedRangeError": "Une plage nommée que vous avez spécifiée ne peut être trouvée.",
       "MinMaxError": "Le maximum doit être supérieur ou égal au minimum.",
       "InvalidNumberError": "Veuillez entrer un numéro valide.",
       "InvalidFormula": "Veuillez entrer une formule valide.",
