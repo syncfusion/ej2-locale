@@ -3371,6 +3371,20 @@
     },
     "stepper": {
       "optional": "İsteğe bağlı"
+    },
+    "speech-to-text": {
+      "abortedError": "Konuşma tanıma işlemi iptal edildi.",
+      "audioCaptureError": "Mikrofon algılanmadı. Mikrofonunuzun bağlı olduğundan emin olun.",
+      "defaultError": "Bilinmeyen bir hata oluştu.",
+      "networkError": "Bir ağ hatası oluştu. İnternet bağlantınızı kontrol edin.",
+      "noSpeechError": "Konuşma algılanmadı. Lütfen mikrofona konuşun.",
+      "notAllowedError": "Mikrofon erişimi reddedildi. Mikrofon izinlerini verin.",
+      "serviceNotAllowedError": "Konuşma tanıma hizmetine bu bağlamda izin verilmiyor.",
+      "unsupportedBrowserError": "Tarayıcı SpeechRecognition API'sini desteklemiyor.",
+      "startAriaLabel": "Konuşmaya başlamak ve kelimelerinizi çevirmek için basın",
+      "stopAriaLabel": "Konuşmayı durdurmak ve çeviriyi sonlandırmak için basın",
+      "startTooltipText": "Dinlemeyi başlat",
+      "stopTooltipText": "Dinlemeyi durdur"
     }
   }
 }

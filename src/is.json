@@ -3196,6 +3196,20 @@
     },
     "stepper": {
       "optional": "Valfrjálst"
+    },
+    "speech-to-text": {
+      "abortedError": "Talgreining var hætt við.",
+      "audioCaptureError": "Engin hljóðnemi fannst. Gakktu úr skugga um að hljóðneminn þinn sé tengdur.",
+      "defaultError": "Óþekkt villa kom upp.",
+      "networkError": "Netsvilla kom upp. Athugaðu netsambandið þitt.",
+      "noSpeechError": "Ekkert tal greindist. Vinsamlegast talaðu í hljóðnemann.",
+      "notAllowedError": "Aðgangur að hljóðnema neitaður. Leyfðu heimildir fyrir hljóðnema.",
+      "serviceNotAllowedError": "Talgreiningarþjónusta er ekki leyfð í þessu samhengi.",
+      "unsupportedBrowserError": "Vafrinn styður ekki SpeechRecognition API.",
+      "startAriaLabel": "Ýttu til að byrja að tala og umrita orðin þín",
+      "stopAriaLabel": "Ýttu til að hætta að tala og ljúka afritun",
+      "startTooltipText": "Byrjaðu að hlusta",
+      "stopTooltipText": "Hættu að hlusta"
     }
   }
 }

@@ -3371,6 +3371,20 @@
     },
     "stepper": {
       "optional": "אופציונאלי"
+    },
+    "speech-to-text": {
+      "abortedError": "זיהוי הדיבור בוטל.",
+      "audioCaptureError": "לא זוהה מיקרופון. ודא שהמיקרופון שלך מחובר.",
+      "defaultError": "אירעה שגיאה לא ידועה.",
+      "networkError": "אירעה שגיאת רשת. בדוק את חיבור האינטרנט שלך.",
+      "noSpeechError": "לא זוהתה דיבור. אנא דבר לתוך המיקרופון.",
+      "notAllowedError": "הגישה למיקרופון נדחתה. אפשר הרשאות למיקרופון.",
+      "serviceNotAllowedError": "שירות זיהוי הדיבור אינו מותר בהקשר זה.",
+      "unsupportedBrowserError": "הדפדפן אינו תומך ב-API של זיהוי דיבור.",
+      "startAriaLabel": "לחץ כדי להתחיל לדבר ולהתמלל את המילים שלך",
+      "stopAriaLabel": "לחץ כדי להפסיק לדבר ולסיים את התמלול",
+      "startTooltipText": "התחל להאזין",
+      "stopTooltipText": "הפסק להאזין"
     }
   }
 }

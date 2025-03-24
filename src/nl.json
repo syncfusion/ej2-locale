@@ -3375,6 +3375,20 @@
     },
     "stepper": {
       "optional": "Optioneel"
+    },
+    "speech-to-text": {
+      "abortedError": "Spraakherkenning is afgebroken.",
+      "audioCaptureError": "Geen microfoon gedetecteerd. Zorg ervoor dat uw microfoon is aangesloten.",
+      "defaultError": "Er is een onbekende fout opgetreden.",
+      "networkError": "Er is een netwerkfout opgetreden. Controleer uw internetverbinding.",
+      "noSpeechError": "Geen spraak gedetecteerd. Spreek alstublieft in de microfoon.",
+      "notAllowedError": "Toegang tot de microfoon geweigerd. Sta microfoonrechten toe.",
+      "serviceNotAllowedError": "Spraakherkenningsservice is niet toegestaan in deze context.",
+      "unsupportedBrowserError": "De browser ondersteunt de SpeechRecognition API niet.",
+      "startAriaLabel": "Druk om te beginnen met spreken en je woorden te transcriberen",
+      "stopAriaLabel": "Druk om te stoppen met spreken en het transcriberen te beëindigen",
+      "startTooltipText": "Begin met luisteren",
+      "stopTooltipText": "Stop met luisteren"
     }
   }
 }

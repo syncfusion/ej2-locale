@@ -3371,6 +3371,20 @@
     },
     "stepper": {
       "optional": "Valgfri"
+    },
+    "speech-to-text": {
+      "abortedError": "Talegjenkjenning ble avbrutt.",
+      "audioCaptureError": "Ingen mikrofon oppdaget. Sørg for at mikrofonen er tilkoblet.",
+      "defaultError": "En ukjent feil oppsto.",
+      "networkError": "En nettverksfeil oppsto. Sjekk internettforbindelsen din.",
+      "noSpeechError": "Ingen tale oppdaget. Vennligst snakk inn i mikrofonen.",
+      "notAllowedError": "Tilgang til mikrofonen ble nektet. Tillat mikrofontillatelser.",
+      "serviceNotAllowedError": "Talegjenkjenningstjeneste er ikke tillatt i denne konteksten.",
+      "unsupportedBrowserError": "Nettleseren støtter ikke SpeechRecognition API.",
+      "startAriaLabel": "Trykk for å begynne å snakke og transkribere ordene dine",
+      "stopAriaLabel": "Trykk for å stoppe å snakke og avslutte transkripsjonen",
+      "startTooltipText": "Begynn å lytte",
+      "stopTooltipText": "Stopp å lytte"
     }
   }
 }

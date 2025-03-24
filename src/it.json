@@ -3372,6 +3372,20 @@
     },
     "stepper": {
       "optional": "Opzionale"
+    },
+    "speech-to-text": {
+      "abortedError": "Il riconoscimento vocale è stato interrotto.",
+      "audioCaptureError": "Nessun microfono rilevato. Assicurati che il tuo microfono sia collegato.",
+      "defaultError": "Si è verificato un errore sconosciuto.",
+      "networkError": "Si è verificato un errore di rete. Controlla la tua connessione Internet.",
+      "noSpeechError": "Nessun discorso rilevato. Per favore parla nel microfono.",
+      "notAllowedError": "Accesso al microfono negato. Consenti le autorizzazioni per il microfono.",
+      "serviceNotAllowedError": "Il servizio di riconoscimento vocale non è consentito in questo contesto.",
+      "unsupportedBrowserError": "Il browser non supporta l'API SpeechRecognition.",
+      "startAriaLabel": "Premi per iniziare a parlare e trascrivere le tue parole",
+      "stopAriaLabel": "Premi per smettere di parlare e terminare la trascrizione",
+      "startTooltipText": "Inizia ad ascoltare",
+      "stopTooltipText": "Smetti di ascoltare"
     }
   }
 }

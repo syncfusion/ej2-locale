@@ -3371,6 +3371,20 @@
     },
     "stepper": {
       "optional": "オプション"
+    },
+    "speech-to-text": {
+      "abortedError": "音声認識が中止されました。",
+      "audioCaptureError": "マイクが検出されません。マイクが接続されていることを確認してください。",
+      "defaultError": "不明なエラーが発生しました。",
+      "networkError": "ネットワークエラーが発生しました。インターネット接続を確認してください。",
+      "noSpeechError": "発話が検出されませんでした。マイクに向かって話してください。",
+      "notAllowedError": "マイクへのアクセスが拒否されました。マイクの使用許可を与えてください。",
+      "serviceNotAllowedError": "このコンテキストでは音声認識サービスが許可されていません。",
+      "unsupportedBrowserError": "ブラウザはSpeechRecognition APIをサポートしていません。",
+      "startAriaLabel": "話して言葉を文字起こしするには押してください",
+      "stopAriaLabel": "話すのを止めて文字起こしを終了するには押してください",
+      "startTooltipText": "リスニングを開始",
+      "stopTooltipText": "リスニングを停止"
     }
   }
 }

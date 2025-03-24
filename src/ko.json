@@ -3371,6 +3371,20 @@
     },
     "stepper": {
       "optional": "선택 과목"
+    },
+    "speech-to-text": {
+      "abortedError": "음성 인식이 중단되었습니다.",
+      "audioCaptureError": "마이크가 감지되지 않았습니다. 마이크가 연결되어 있는지 확인하세요.",
+      "defaultError": "알 수 없는 오류가 발생했습니다.",
+      "networkError": "네트워크 오류가 발생했습니다. 인터넷 연결을 확인하세요.",
+      "noSpeechError": "음성이 감지되지 않았습니다. 마이크에 대고 말해 주세요.",
+      "notAllowedError": "마이크 접근이 거부되었습니다. 마이크 권한을 허용하세요.",
+      "serviceNotAllowedError": "이 컨텍스트에서 음성 인식 서비스가 허용되지 않습니다.",
+      "unsupportedBrowserError": "브라우저가 SpeechRecognition API를 지원하지 않습니다.",
+      "startAriaLabel": "말을 시작하고 단어를 전사하려면 누르세요",
+      "stopAriaLabel": "말을 멈추고 전사를 종료하려면 누르세요",
+      "startTooltipText": "듣기 시작",
+      "stopTooltipText": "듣기 중지"
     }
   }
 }

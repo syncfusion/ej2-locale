@@ -3371,6 +3371,20 @@
     },
     "stepper": {
       "optional": "Opcjonalny"
+    },
+    "speech-to-text": {
+      "abortedError": "Rozpoznawanie mowy zostało przerwane.",
+      "audioCaptureError": "Nie wykryto mikrofonu. Upewnij się, że mikrofon jest podłączony.",
+      "defaultError": "Wystąpił nieznany błąd.",
+      "networkError": "Wystąpił błąd sieci. Sprawdź swoje połączenie internetowe.",
+      "noSpeechError": "Nie wykryto mowy. Proszę mówić do mikrofonu.",
+      "notAllowedError": "Odmowa dostępu do mikrofonu. Zezwól na uprawnienia do mikrofonu.",
+      "serviceNotAllowedError": "Usługa rozpoznawania mowy nie jest dozwolona w tym kontekście.",
+      "unsupportedBrowserError": "Przeglądarka nie obsługuje API rozpoznawania mowy.",
+      "startAriaLabel": "Naciśnij, aby rozpocząć mówienie i transkrypcję swoich słów",
+      "stopAriaLabel": "Naciśnij, aby przestać mówić i zakończyć transkrypcję",
+      "startTooltipText": "Rozpocznij nasłuchiwanie",
+      "stopTooltipText": "Zatrzymaj nasłuchiwanie"
     }
   }
 }

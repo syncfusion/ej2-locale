@@ -3370,6 +3370,20 @@
     },
     "stepper": {
       "optional": "Valinnainen"
+    },
+    "speech-to-text": {
+      "abortedError": "Puheentunnistus keskeytettiin.",
+      "audioCaptureError": "Mikrofonia ei havaittu. Varmista, että mikrofonisi on kytketty.",
+      "defaultError": "Tapahtui tuntematon virhe.",
+      "networkError": "Verkkovirhe ilmeni. Tarkista internet-yhteytesi.",
+      "noSpeechError": "Puhetta ei havaittu. Ole hyvä ja puhu mikrofoniin.",
+      "notAllowedError": "Mikrofonin käyttö estetty. Salli mikrofonin käyttöoikeudet.",
+      "serviceNotAllowedError": "Puheentunnistuspalvelu ei ole sallittu tässä yhteydessä.",
+      "unsupportedBrowserError": "Selaimesi ei tue SpeechRecognition-sovellusliittymää.",
+      "startAriaLabel": "Paina aloittaaksesi puhumisen ja sanojesi transkriptioinnin",
+      "stopAriaLabel": "Paina lopettaaksesi puhumisen ja lopettaaksesi transkription",
+      "startTooltipText": "Aloita kuuntelu",
+      "stopTooltipText": "Lopeta kuuntelu"
     }
   }
 }

@@ -3371,6 +3371,20 @@
     },
     "stepper": {
       "optional": "Választható"
+    },
+    "speech-to-text": {
+      "abortedError": "A beszédfelismerést megszakították.",
+      "audioCaptureError": "Nem észlelhető mikrofon. Győződjön meg róla, hogy a mikrofon csatlakoztatva van.",
+      "defaultError": "Ismeretlen hiba történt.",
+      "networkError": "Hálózati hiba történt. Ellenőrizze az internetkapcsolatát.",
+      "noSpeechError": "Nem érzékelt beszéd. Kérem, beszéljen a mikrofonba.",
+      "notAllowedError": "Mikrofonhozzáférés megtagadva. Engedélyezze a mikrofonhasználatot.",
+      "serviceNotAllowedError": "A beszédfelismerési szolgáltatás nem engedélyezett ebben a környezetben.",
+      "unsupportedBrowserError": "A böngésző nem támogatja a SpeechRecognition API-t.",
+      "startAriaLabel": "Nyomja meg a beszélés megkezdéséhez és a szavak átírásához",
+      "stopAriaLabel": "Nyomja meg a beszélgetés leállításához és az átírás befejezéséhez",
+      "startTooltipText": "Hallgatás megkezdése",
+      "stopTooltipText": "Hallgatás leállítása"
     }
   }
 }
