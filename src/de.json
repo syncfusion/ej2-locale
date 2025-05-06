@@ -3294,7 +3294,7 @@
       "Import PDF Failed": "Ungültige PDF -Dateityp oder PDF -Datei nicht gefunden. Bitte wählen Sie eine gültige PDF -Datei aus",
       "File not found": "Die importierte JSON -Datei wird nicht am gewünschten Ort gefunden",
       "Export Failed": "Exportanmerkungen sind gescheitert. Bitte stellen Sie sicher, dass Anmerkungen ordnungsgemäß hinzugefügt werden",
-      "of": "von",
+      "of": "von ",
       "Dynamic": "Dynamisch",
       "Standard Business": "Standardgeschäft",
       "Sign Here": "Hier unterschreiben",
