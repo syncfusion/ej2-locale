@@ -3387,6 +3387,23 @@
       "stopAriaLabel": "Premi per smettere di parlare e terminare la trascrizione",
       "startTooltipText": "Inizia ad ascoltare",
       "stopTooltipText": "Smetti di ascoltare"
+    },
+    "blockeditor": {
+      "paragraph": "Scrivi qualcosa o '/' per i comandi.",
+      "heading1": "Intestazione 1",
+      "heading2": "Intestazione 2",
+      "heading3": "Intestazione 3",
+      "heading4": "Intestazione 4",
+      "toggleParagraph": "Paragrafo Toggle",
+      "toggleHeading1": "Toggle Intestazione 1",
+      "toggleHeading2": "Toggle Intestazione 2",
+      "toggleHeading3": "Toggle Intestazione 3",
+      "toggleHeading4": "Toggle Intestazione 4",
+      "bulletList": "Aggiungi elemento",
+      "numberedList": "Aggiungi elemento",
+      "checkList": "Da fare",
+      "quote": "Scrivi una citazione",
+      "callout": "Scrivi una nota"
     }
   }
 }

@@ -3211,6 +3211,23 @@
       "stopAriaLabel": "Ýttu til að hætta að tala og ljúka afritun",
       "startTooltipText": "Byrjaðu að hlusta",
       "stopTooltipText": "Hættu að hlusta"
+    },
+    "blockeditor": {
+      "paragraph": "Skrifaðu eitthvað eða '/' fyrir skipanir.",
+      "heading1": "Fyrirsögn 1",
+      "heading2": "Fyrirsögn 2",
+      "heading3": "Fyrirsögn 3",
+      "heading4": "Fyrirsögn 4",
+      "toggleParagraph": "Víxla málsgrein",
+      "toggleHeading1": "Víxla fyrirsögn 1",
+      "toggleHeading2": "Víxla fyrirsögn 2",
+      "toggleHeading3": "Víxla fyrirsögn 3",
+      "toggleHeading4": "Víxla fyrirsögn 4",
+      "bulletList": "Bæta við atriði",
+      "numberedList": "Bæta við atriði",
+      "checkList": "Verkefni",
+      "quote": "Skrifaðu tilvitnun",
+      "callout": "Skrifaðu athugasemd"
     }
   }
 }

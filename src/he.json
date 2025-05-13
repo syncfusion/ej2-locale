@@ -3386,6 +3386,23 @@
       "stopAriaLabel": "לחץ כדי להפסיק לדבר ולסיים את התמלול",
       "startTooltipText": "התחל להאזין",
       "stopTooltipText": "הפסק להאזין"
+    },
+    "blockeditor": {
+      "paragraph": "כתוב משהו או השתמש ב־'/' לפקודות.",
+      "heading1": "כותרת 1",
+      "heading2": "כותרת 2",
+      "heading3": "כותרת 3",
+      "heading4": "כותרת 4",
+      "toggleParagraph": "פסקה ניתנת להחלפה",
+      "toggleHeading1": "החלף כותרת 1",
+      "toggleHeading2": "החלף כותרת 2",
+      "toggleHeading3": "החלף כותרת 3",
+      "toggleHeading4": "החלף כותרת 4",
+      "bulletList": "הוסף פריט",
+      "numberedList": "הוסף פריט",
+      "checkList": "משימה",
+      "quote": "כתוב ציטוט",
+      "callout": "כתוב הערה"
     }
   }
 }

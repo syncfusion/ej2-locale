@@ -3386,6 +3386,23 @@
       "stopAriaLabel": "Tekan untuk berhenti bercakap dan tamatkan transkripsi",
       "startTooltipText": "Mulakan mendengar",
       "stopTooltipText": "Hentikan mendengar"
+    },
+    "blockeditor": {
+      "paragraph": "Tulis sesuatu atau '/' untuk arahan.",
+      "heading1": "Tajuk 1",
+      "heading2": "Tajuk 2",
+      "heading3": "Tajuk 3",
+      "heading4": "Tajuk 4",
+      "toggleParagraph": "Perenggan Toggle",
+      "toggleHeading1": "Toggle Tajuk 1",
+      "toggleHeading2": "Toggle Tajuk 2",
+      "toggleHeading3": "Toggle Tajuk 3",
+      "toggleHeading4": "Toggle Tajuk 4",
+      "bulletList": "Tambah item",
+      "numberedList": "Tambah item",
+      "checkList": "Senarai semak",
+      "quote": "Tulis petikan",
+      "callout": "Tulis nota"
     }
   }
 }

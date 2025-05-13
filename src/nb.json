@@ -3386,6 +3386,23 @@
       "stopAriaLabel": "Trykk for å stoppe å snakke og avslutte transkripsjonen",
       "startTooltipText": "Begynn å lytte",
       "stopTooltipText": "Stopp å lytte"
+    },
+    "blockeditor": {
+      "paragraph": "Skriv noe eller '/' for kommandoer.",
+      "heading1": "Overskrift 1",
+      "heading2": "Overskrift 2",
+      "heading3": "Overskrift 3",
+      "heading4": "Overskrift 4",
+      "toggleParagraph": "Veksle avsnitt",
+      "toggleHeading1": "Veksle Overskrift 1",
+      "toggleHeading2": "Veksle Overskrift 2",
+      "toggleHeading3": "Veksle Overskrift 3",
+      "toggleHeading4": "Veksle Overskrift 4",
+      "bulletList": "Legg til element",
+      "numberedList": "Legg til element",
+      "checkList": "Gjøremål",
+      "quote": "Skriv et sitat",
+      "callout": "Skriv en merknad"
     }
   }
 }

@@ -3386,6 +3386,23 @@
       "stopAriaLabel": "Naciśnij, aby przestać mówić i zakończyć transkrypcję",
       "startTooltipText": "Rozpocznij nasłuchiwanie",
       "stopTooltipText": "Zatrzymaj nasłuchiwanie"
+    },
+    "blockeditor": {
+      "paragraph": "Napisz coś lub użyj '/' dla poleceń.",
+      "heading1": "Nagłówek 1",
+      "heading2": "Nagłówek 2",
+      "heading3": "Nagłówek 3",
+      "heading4": "Nagłówek 4",
+      "toggleParagraph": "Przełącz akapit",
+      "toggleHeading1": "Przełącz nagłówek 1",
+      "toggleHeading2": "Przełącz nagłówek 2",
+      "toggleHeading3": "Przełącz nagłówek 3",
+      "toggleHeading4": "Przełącz nagłówek 4",
+      "bulletList": "Dodaj element",
+      "numberedList": "Dodaj element",
+      "checkList": "Lista zadań",
+      "quote": "Napisz cytat",
+      "callout": "Napisz uwagę"
     }
   }
 }

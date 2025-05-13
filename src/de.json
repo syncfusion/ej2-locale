@@ -3388,6 +3388,23 @@
       "stopAriaLabel": "Drücken Sie, um das Sprechen zu beenden und die Transkription zu stoppen",
       "startTooltipText": "Zuhören starten",
       "stopTooltipText": "Zuhören beenden"
+    },
+    "blockeditor": {
+      "paragraph": "Schreiben Sie etwas oder verwenden Sie '/' für Befehle.",
+      "heading1": "Überschrift 1",
+      "heading2": "Überschrift 2",
+      "heading3": "Überschrift 3",
+      "heading4": "Überschrift 4",
+      "toggleParagraph": "Absatz umschalten",
+      "toggleHeading1": "Überschrift 1 umschalten",
+      "toggleHeading2": "Überschrift 2 umschalten",
+      "toggleHeading3": "Überschrift 3 umschalten",
+      "toggleHeading4": "Überschrift 4 umschalten",
+      "bulletList": "Element hinzufügen",
+      "numberedList": "Element hinzufügen",
+      "checkList": "Aufgabe",
+      "quote": "Schreiben Sie ein Zitat",
+      "callout": "Schreiben Sie einen Hinweis"
     }
   }
 }

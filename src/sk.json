@@ -3386,6 +3386,23 @@
       "stopAriaLabel": "Stlačte na zastavenie hovorenia a ukončenie prepisu",
       "startTooltipText": "Začať počúvanie",
       "stopTooltipText": "Zastaviť počúvanie"
+    },
+    "blockeditor": {
+      "paragraph": "Napíšte niečo alebo '/' pre príkazy.",
+      "heading1": "Nadpis 1",
+      "heading2": "Nadpis 2",
+      "heading3": "Nadpis 3",
+      "heading4": "Nadpis 4",
+      "toggleParagraph": "Prepnúť odsek",
+      "toggleHeading1": "Prepnúť nadpis 1",
+      "toggleHeading2": "Prepnúť nadpis 2",
+      "toggleHeading3": "Prepnúť nadpis 3",
+      "toggleHeading4": "Prepnúť nadpis 4",
+      "bulletList": "Pridať položku",
+      "numberedList": "Pridať položku",
+      "checkList": "Zoznam úloh",
+      "quote": "Napíšte citát",
+      "callout": "Napíšte poznámku"
     }
   }
 }
