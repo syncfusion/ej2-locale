@@ -3265,6 +3265,23 @@
       "stopAriaLabel": "Pressione para parar de falar e finalizar a transcrição",
       "startTooltipText": "Começar a escutar",
       "stopTooltipText": "Parar de escutar"
+    },
+    "blockeditor": {
+      "paragraph": "Escreva algo ou '/' para comandos.",
+      "heading1": "Título 1",
+      "heading2": "Título 2",
+      "heading3": "Título 3",
+      "heading4": "Título 4",
+      "toggleParagraph": "Alternar parágrafo",
+      "toggleHeading1": "Alternar título 1",
+      "toggleHeading2": "Alternar título 2",
+      "toggleHeading3": "Alternar título 3",
+      "toggleHeading4": "Alternar título 4",
+      "bulletList": "Adicionar item",
+      "numberedList": "Adicionar item",
+      "checkList": "Tarefa",
+      "quote": "Escreva uma citação",
+      "callout": "Escreva um aviso"
     }
   }
 }
