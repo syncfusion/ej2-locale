@@ -3390,6 +3390,23 @@
       "stopAriaLabel": "Druk om te stoppen met spreken en het transcriberen te beëindigen",
       "startTooltipText": "Begin met luisteren",
       "stopTooltipText": "Stop met luisteren"
+    },
+    "blockeditor": {
+      "paragraph": "Schrijf iets of '/' voor commando's.",
+      "heading1": "Kop 1",
+      "heading2": "Kop 2",
+      "heading3": "Kop 3",
+      "heading4": "Kop 4",
+      "toggleParagraph": "Paragraaf wisselen",
+      "toggleHeading1": "Kop 1 wisselen",
+      "toggleHeading2": "Kop 2 wisselen",
+      "toggleHeading3": "Kop 3 wisselen",
+      "toggleHeading4": "Kop 4 wisselen",
+      "bulletList": "Item toevoegen",
+      "numberedList": "Item toevoegen",
+      "checkList": "Takenlijst",
+      "quote": "Schrijf een citaat",
+      "callout": "Schrijf een opmerking"
     }
   }
 }

@@ -3386,6 +3386,23 @@
       "stopAriaLabel": "話すのを止めて文字起こしを終了するには押してください",
       "startTooltipText": "リスニングを開始",
       "stopTooltipText": "リスニングを停止"
+    },
+    "blockeditor": {
+      "paragraph": "何かを書いてください、または '/' でコマンドを入力。",
+      "heading1": "見出し 1",
+      "heading2": "見出し 2",
+      "heading3": "見出し 3",
+      "heading4": "見出し 4",
+      "toggleParagraph": "切り替え段落",
+      "toggleHeading1": "切り替え見出し 1",
+      "toggleHeading2": "切り替え見出し 2",
+      "toggleHeading3": "切り替え見出し 3",
+      "toggleHeading4": "切り替え見出し 4",
+      "bulletList": "項目を追加",
+      "numberedList": "項目を追加",
+      "checkList": "やること",
+      "quote": "引用を書いてください",
+      "callout": "注意書きを書いてください"
     }
   }
 }

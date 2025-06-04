@@ -3387,6 +3387,23 @@
       "stopAriaLabel": "Tryck för att sluta tala och avsluta transkriberingen",
       "startTooltipText": "Börja lyssna",
       "stopTooltipText": "Sluta lyssna"
+    },
+    "blockeditor": {
+      "paragraph": "Skriv något eller '/' för kommandon.",
+      "heading1": "Rubrik 1",
+      "heading2": "Rubrik 2",
+      "heading3": "Rubrik 3",
+      "heading4": "Rubrik 4",
+      "toggleParagraph": "Växla stycke",
+      "toggleHeading1": "Växla rubrik 1",
+      "toggleHeading2": "Växla rubrik 2",
+      "toggleHeading3": "Växla rubrik 3",
+      "toggleHeading4": "Växla rubrik 4",
+      "bulletList": "Lägg till objekt",
+      "numberedList": "Lägg till objekt",
+      "checkList": "Att göra-lista",
+      "quote": "Skriv ett citat",
+      "callout": "Skriv en anteckning"
     }
   }
 }
