@@ -50,8 +50,6 @@
       "LessThanOrEqual": "کمتر از یکسان یا برابر است",
       "GreaterThan": "بزرگتر از",
       "GreaterThanOrEqual": "بزرگتر یا مساوی",
-      "In": "در",
-      "NotIn": "در نیست",
       "ChooseDate": "تاریخ را انتخاب کنید",
       "EnterValue": "مقدار را وارد کنید",
       "Copy": "کپی 🀄",
@@ -87,6 +85,8 @@
       "AND": "و",
       "OR": "یا",
       "ShowRowsWhere": "نمایش سطرها در جایی:",
+      "In": "در",
+      "NotIn": "در نیست",
       "NotStartsWith": "با شروع نمی شود",
       "Like": "پسندیدن",
       "NotEndsWith": "به پایان نمی رسد",
@@ -1055,6 +1055,8 @@
       "notes": "یادداشت",
       "baselineStartDate": "تاریخ شروع پایه",
       "baselineEndDate": "تاریخ پایان پایه",
+      "constraintDate": "تاریخ محدودیت",
+      "constraintType": "نوع محدودیت",
       "taskMode": "حالت وظیفه",
       "changeScheduleMode": "تغییر حالت برنامه",
       "subTasksStartDate": "تاریخ شروع SubTasks",
@@ -1105,6 +1107,22 @@
       "start": "شروع کنید",
       "finish": "پایان",
       "enterValue": "مقدار را وارد کنید",
+      "cancelLink": "لغو ، پیوند موجود را حفظ کنید",
+      "removeLink": "پیوند را حذف کرده و حرکت کنید <b> {0} </b> برای شروع در <b> {1} </b>.",
+      "removeConstraint": "حذف <b> \"{0}\" </b> محدودیت کار <b> \"{1}\" </b>",
+      "preserveLink": "برای شروع <b> {0} </b> حرکت کنید تا در <b> {1} </b> شروع کنید و پیوند را نگه دارید.",
+      "removeDependency": "وابستگی را از <b> \"{0}\" </b> به <b> \"{1}\" حذف کنید </b>",
+      "cancelChange": "تغییر را لغو کنید و هیچ کاری نکنید",
+      "validateEditing": "ویرایش را تأیید کنید",
+      "constraintConflicts": "درگیری محدودیت",
+      "constraintTypeAsSoonAsPossible": "در اسرع وقت",
+      "constraintTypeAsLateAsPossible": "تا حد ممکن",
+      "constraintTypeMustStartOn": "باید شروع شود",
+      "constraintTypeMustFinishOn": "باید تمام شود",
+      "constraintTypeStartNoEarlierThan": "زودتر از آن شروع کنید",
+      "constraintTypeStartNoLaterThan": "دیرتر از آن شروع کنید",
+      "constraintTypeFinishNoEarlierThan": "زودتر از",
+      "constraintTypeFinishNoLaterThan": "دیرتر از پایان",
       "taskBeforePredecessor_FS": "شما قبل از اتمام '{1}' قبل از شروع '{0 moved' حرکت کرده اید و دو وظیفه مرتبط هستند. در نتیجه ، پیوندها قابل پذیرش نیستند. برای انجام یک عمل زیر را انتخاب کنید",
       "taskAfterPredecessor_FS": "شما \"{0}\" را از \"{1}\" دور کردید و دو وظیفه مرتبط هستند. در نتیجه ، پیوندها قابل پذیرش نیستند. برای انجام یک عمل زیر را انتخاب کنید",
       "taskBeforePredecessor_SS": "شما قبل از شروع '{1}' شروع به کار '{0 moved' کرده اید و این دو کار به هم مرتبط هستند. در نتیجه ، پیوندها قابل پذیرش نیستند. برای انجام یک عمل زیر را انتخاب کنید",
@@ -2205,6 +2223,20 @@
       "Heading 4": "سرفصل 4",
       "Heading 5": "سرفصل 5",
       "Heading 6": "سرفصل 6",
+      "Heading 7": "سرفصل 7",
+      "Heading 8": "سرفصل 8",
+      "Heading 9": "سرفصل 9",
+      "Heading 2 Char": "نویسه سرفصل 2",
+      "Heading 3 Char": "نویسه سرفصل 3",
+      "Heading 4 Char": "نویسه سرفصل 4",
+      "Heading 5 Char": "نویسه سرفصل 5",
+      "Heading 6 Char": "نویسه سرفصل 6",
+      "Heading 7 Char": "نویسه سرفصل 7",
+      "Heading 8 Char": "نویسه سرفصل 8",
+      "Heading 9 Char": "نویسه سرفصل 9",
+      "Header Char": "نویسه سربرگ",
+      "Footer Char": "نویسه پابرگ",
+      "Default Paragraph Font": "قلم پیش‌فرض پاراگراف",
       "List Paragraph": "لیست پاراگراف",
       "Normal": "طبیعی",
       "Outline levels": "سطح خلاصه",
@@ -2548,6 +2580,9 @@
       "Uppercase": "حروف بزرگ",
       "Lowercase": "حروف کوچک",
       "FirstCapital": "First Capital",
+      "SentenceCase": "حالت جمله",
+      "CapitalizeEachWord": "بزرگ کردن هر کلمه",
+      "ToggleCase": "تغییر حالت حروف",
       "TitleCase": "عنوان",
       "Filling in forms": "پر کردن فرم ها",
       "px": "px",
@@ -2785,6 +2820,11 @@
       "Footnote Tooltip": "پاورقی را وارد کنید (Alt + Ctrl + F).",
       "Endnote Tooltip": "Endnote را وارد کنید (Alt + Ctrl + D).",
       "UPPERCASE": "بزرگتر",
+      "Lowercase": "حروف کوچک",
+      "SentenceCase": "حالت جمله",
+      "FirstCapital": "حرف اول بزرگ",
+      "CapitalizeEachWord": "بزرگ کردن هر کلمه",
+      "ToggleCase": "تغییر حالت حروف",
       "No color": "بدون رنگ",
       "Top margin": "حاشیه بالا",
       "Bottom margin": "حاشیه پایینی",
@@ -2798,6 +2838,20 @@
       "Heading 4": "سرفصل 4",
       "Heading 5": "سرفصل 5",
       "Heading 6": "سرفصل 6",
+      "Heading 7": "سرفصل 7",
+      "Heading 8": "سرفصل 8",
+      "Heading 9": "سرفصل 9",
+      "Heading 2 Char": "نویسه سرفصل 2",
+      "Heading 3 Char": "نویسه سرفصل 3",
+      "Heading 4 Char": "نویسه سرفصل 4",
+      "Heading 5 Char": "نویسه سرفصل 5",
+      "Heading 6 Char": "نویسه سرفصل 6",
+      "Heading 7 Char": "نویسه سرفصل 7",
+      "Heading 8 Char": "نویسه سرفصل 8",
+      "Heading 9 Char": "نویسه سرفصل 9",
+      "Header Char": "نویسه سربرگ",
+      "Footer Char": "نویسه پابرگ",
+      "Default Paragraph Font": "قلم پیش‌فرض پاراگراف",
       "ZoomLevelTooltip": "سطح زوم. برای باز کردن گزینه های Zoom کلیک کنید یا ضربه بزنید.",
       "None": "هیچ یک",
       "Borders": "مرز ها",
@@ -2814,7 +2868,210 @@
       "Section Breaks": "تقسیم بندی فرو می ریزد",
       "Column": "تقسیم کردن",
       "Next Page": "صفحه بعد",
-      "Continuous": "استوار"
+      "Continuous": "استوار",
+      "Header & Footer": "Header & Footer",
+      "Comment": "تفسیر",
+      "Links": "لینک",
+      "Illustrations": "Illustrations",
+      "Tables": "Tables",
+      "Home": "خانه",
+      "Cut": "برش",
+      "Copy": "کپی کردن",
+      "Replace": "تعویض کردن",
+      "Clipboard": "کلیپ بورد",
+      "Views": "نمایش",
+      "Zoom": "Zoom",
+      "Zoom In": "Zoom In",
+      "Zoom Out": "Zoom Out",
+      "One Page": "One Page",
+      "Page Width": "Page Width",
+      "Show": "نشان دادن",
+      "Ruler": "Ruler",
+      "Show Bookmark Markers": "Show Bookmark Markers",
+      "View": "نمایش",
+      "Page Numbers": "Page Numbers",
+      "Insert automatic page numbering": "Insert automatic page numbering",
+      "Previous Section": "Previous Section",
+      "Next Section": "Next Section",
+      "Navigation": "Navigation",
+      "Close": "نزدیک",
+      "Close Header and Footer": "Close Header and Footer",
+      "Close header and footer view": "Close header and footer view",
+      "Link to the previous sections header and footer": "Link to the previous sections header and footer",
+      "Picture Format": "Picture Format",
+      "Picture Tools": "Picture Tools",
+      "Adjust image width": "Adjust image width",
+      "Adjust image height": "Adjust image height",
+      "Maintain aspect ratio when resizing": "Maintain aspect ratio when resizing",
+      "Add descriptive text for screen readers": "Add descriptive text for screen readers",
+      "Enter alternate text": "Enter alternate text",
+      "Adjust image width and height": "Adjust image width and height",
+      "Pages": "صفحات",
+      "References": "منابع",
+      "Margins": "حاشیه",
+      "Narrow": "باریک",
+      "Moderate": "معتاد",
+      "Wide": "Wide",
+      "Custom Margins": "حاشیه های سفارشی",
+      "Orientation": "جهت گیری",
+      "Portrait": "تصویر",
+      "Landscape": "چشم انداز",
+      "Size": "اندازه",
+      "Letter": "Letter",
+      "Legal": "حقوقی",
+      "Executive": "اجرایی",
+      "A4": "A4",
+      "A5": "A5",
+      "Custom Size": "Custom Size",
+      "One": "یکی",
+      "Two": "دو",
+      "Three": "سه",
+      "More Columns": "More Columns",
+      "Breaks": "Breaks",
+      "Left Indent": "Left Indent",
+      "Right Indent": "Right Indent",
+      "Before Spacing": "Before Spacing",
+      "After Spacing": "After Spacing",
+      "Layout": "طرح",
+      "Footnotes": "Footnotes",
+      "Update Table": "Update Table",
+      "PageSetup": "Page Setup",
+      "Indent": "Indent",
+      "Spacing": "Spacing",
+      "CustomPageSize": "Custom Size...",
+      "MoreColumns": "More Columns...",
+      "PageBreak": "Page Break",
+      "ColumnBreak": "Column Break",
+      "Before": "پیش از",
+      "After": "پس از",
+      "LeftIndent": "Left",
+      "LeftIndentTooltip": "Set the left indent for the paragraph",
+      "RightIndent": "حق",
+      "RightIndentTooltip": "Set the right indent for the paragraph",
+      "SpacingBefore": "پیش از",
+      "SpacingBeforeTooltip": "Set the spacing before the paragraph",
+      "SpacingAfter": "پس از",
+      "SpacingAfterTooltip": "Set the spacing after the paragraph",
+      "ParagraphDialogTooltip": "Open Paragraph dialog",
+      "Bookmarks": "نشانه ها",
+      "Insert Bookmark": "Insert Bookmark",
+      "All Bookmarks": "All Bookmarks",
+      "Show Bookmarks": "Show Bookmarks",
+      "Create or manage bookmarks in your document": "Create or manage bookmarks in your document",
+      "View all bookmarks in the document": "View all bookmarks in the document",
+      "Toggle visibility of bookmark markers in the document": "Toggle visibility of bookmark markers in the document",
+      "New Comment": "New Comment",
+      "Add a comment about the current selection": "Add a comment about the current selection",
+      "Insert a table of contents": "Insert a table of contents",
+      "Insert a page break at the current position": "Insert a page break at the current position",
+      "Review": "مرور",
+      "Previous": "قبلی",
+      "Next": "طرف دیگر",
+      "Delete": "حذف کردن",
+      "Delete All": "Delete All",
+      "Show Comments": "Show Comments",
+      "Tracking": "Tracking",
+      "Accept All": "Accept All",
+      "Reject All": "Reject All",
+      "Protect": "Protect",
+      "Protect Document": "Protect Document",
+      "Read Only": "Read Only",
+      "Encrypt with Password": "Encrypt with Password",
+      "Restrict Access": "Restrict Access",
+      "Mark as Final": "Mark as Final",
+      "Insert a comment at the cursor position": "Insert a comment at the cursor position",
+      "Go to the previous comment": "Go to the previous comment",
+      "Go to the next comment": "Go to the next comment",
+      "Delete comments": "Delete comments",
+      "Show or hide comments": "Show or hide comments",
+      "Track changes while editing the document": "Track changes while editing the document",
+      "Accept all changes in the document": "Accept all changes in the document",
+      "Reject all changes in the document": "Reject all changes in the document",
+      "Control what types of changes can be made to the document": "Control what types of changes can be made to the document",
+      "Make the document read-only": "Make the document read-only",
+      "Restrict how users can edit the document": "Restrict how users can edit the document",
+      "Print Layout": "Print Layout",
+      "Web Layout": "Web Layout",
+      "Toggle document to read only mode": "Toggle document to read only mode",
+      "Navigation Pane": "Navigation Pane",
+      "Show or hide the navigation pane": "Show or hide the navigation pane",
+      "Grow Font Size": "Grow Font Size (Ctrl+Shift+>)",
+      "Shrink Font Size": "Shrink Font Size (Ctrl+Shift+<)",
+      "Shading": "Shading",
+      "Select": "انتخاب کردن",
+      "Row": "ردیف",
+      "Rows & Columns": "Rows & Columns",
+      "Table Layout": "Table Layout",
+      "Row Above": "Row Above",
+      "Row Below": "Row Below",
+      "Column Left": "Column Left",
+      "Column Right": "Column Right",
+      "Cut Tooltip": "Cut (Ctrl+X)",
+      "Copy Tooltip": "Copy (Ctrl+C)",
+      "100%": "100 ٪",
+      "Zoom your document to 100%": "Zoom your document to 100%",
+      "Office2003Default": "Office 2003 Default",
+      "CustomMargins": "Custom Margins...",
+      "MarginsTooltip": "Choose page margin settings for the document",
+      "Indent Left": "Indent Left",
+      "Indent Right": "Indent Right",
+      "Spacing Before": "Spacing Before",
+      "Spacing After": "Spacing After",
+      "Set the distance between paragraph and left margin": "Set the distance between paragraph and left margin",
+      "Set the distance between paragraph and right margin": "Set the distance between paragraph and right margin",
+      "Set the spacing before the paragraph": "Set the spacing before the paragraph",
+      "Set the spacing after the paragraph": "Set the spacing after the paragraph",
+      "Table Design": "Table Design",
+      "Properties": "خواص",
+      "Show the Table Properties dialog": "Show the Table Properties dialog",
+      "Alt Text": "Alt Text",
+      "Alternative Text": "Alternative Text",
+      "Enter alt text for this image": "Enter alt text for this image",
+      "Apply": "درخواست کردن",
+      "Accessibility": "قابلیت دسترسی",
+      "Add alternative text to the image for accessibility": "Add alternative text to the image for accessibility",
+      "File": "پرونده",
+      "Export": "Export",
+      "Print": "Print",
+      "Syncfusion Document Text (*.sfdt)": "Syncfusion Document Text (*.sfdt)",
+      "Word Document (*.docx)": "Word Document (*.docx)",
+      "Word Template (*.dotx)": "Word Template (*.dotx)",
+      "Plain Text (*.txt)": "Plain Text (*.txt)",
+      "Unsupported format": "Unsupported format",
+      "BackstageView": "Backstage View",
+      "BackstageHeader": "File Management",
+      "BackstageClose": "نزدیک",
+      "Developer": "توسعه دهنده",
+      "Insert form fields": "Insert form fields",
+      "Controls": "کنترل",
+      "Insert content controls": "Insert content controls",
+      "Mapping": "Mapping",
+      "Restrict editing": "Restrict editing",
+      "More Paragraph Options": "More Paragraph Options",
+      "More Font Options": "More Font Options",
+      "Show/Hide Marks": "Show/Hide Marks",
+      "All Borders": "All Borders",
+      "Outside Borders": "Outside Borders",
+      "Inside Borders": "Inside Borders",
+      "Top Border": "Top Border",
+      "Bottom Border": "Bottom Border",
+      "Left Border": "Left Border",
+      "Right Border": "Right Border",
+      "Inside Horizontal Border": "Inside Horizontal Border",
+      "Inside Vertical Border": "Inside Vertical Border",
+      "Table Borders": "Table Borders",
+      "Border Color": "Border Color",
+      "Border Width": "Border Width",
+      "px": "px",
+      "SizeTooltip": "Choose a paper size for the document",
+      "OrientationTooltip": "Choose the page orientation",
+      "ColumnsTooltip": "Choose the columns for the document",
+      "Insert rows and columns": "Insert rows and columns",
+      "Select the table": "Select the table",
+      "Delete the table": "Delete the table",
+      "Cell Properties": "Cell Properties",
+      "Show or hide the rulers": "Show or hide the rulers",
+      "Show or hide bookmark markers": "Show or hide bookmark markers"
     },
     "carousel": {
       "nextSlide": "اسلاید بعدی",
@@ -2899,6 +3156,8 @@
       "Bold": "پررنگ",
       "Italic": "مورب",
       "BoldItalic": "کج با حروف درشت",
+      "Underline": "Underline",
+      "Strikethrough": "Strikethrough",
       "XSmall": "X-Small",
       "Small": "کم اهمیت",
       "Medium": "متوسط",
@@ -2965,7 +3224,6 @@
       "Clone": "شبیه",
       "Delete": "نابود کردن",
       "SaveAs": "ذخیره به عنوان",
-      "Print": "چاپ کنید",
       "ImageName": "نام تصویر",
       "Format": "قالب",
       "Quality": "کیفیت",
@@ -2986,7 +3244,8 @@
       "BorderRadius": "شعاع مرزی",
       "TextOutlineColor": "رنگ بشر",
       "TextOutlineWidth": "عرض طرح",
-      "And": "و"
+      "And": "و",
+      "Print": "چاپ کنید"
     },
     "mention": {
       "noRecordsTemplate": "هیچ رکوردی یافت نشد"
@@ -3051,6 +3310,8 @@
       "GoToPage": "به صفحه بروید",
       "No Matches": "PDF Viewer جستجوی سند را به پایان رسانده است. هیچ منطبقی پیدا نشد.",
       "No More Matches": "PDF Viewer جستجوی سند را به پایان رسانده است. هیچ منطبق دیگری پیدا نشد.",
+      "No Search Matches": "جستجو حاصلی دربرنداشت",
+      "No More Search Matches": "منطبق بیشتری یافت نشد",
       "Exact Matches": "مسابقات دقیق",
       "Total Matches": "کل مسابقات",
       "Undo": "واگرد",
@@ -3069,6 +3330,7 @@
       "Strikethrough context": "اعتصاب از طریق",
       "Server error": "وب سرویس گوش نمی دهد. ",
       "Client error": "خطای سمت مشتری یافت می شود. لطفاً هدرهای سفارشی ارائه شده در ویژگی AJAXRequestSettings و روش های عمل وب را در ویژگی ServerActionSettings بررسی کنید.",
+      "Cors policy error": "امکان دریافت سند به دلیل URL نامعتبر یا محدودیت‌های دسترسی وجود ندارد. لطفاً URL سند را بررسی کرده و دوباره تلاش کنید.",
       "Open text": "باز کن",
       "First text": "صفحه اول",
       "Previous text": "صفحه قبلی",
@@ -3243,8 +3505,6 @@
       "cu": "مس",
       "sq": "مربع",
       "Initial": "اولیه",
-      "No Search Matches": "جستجو حاصلی دربرنداشت",
-      "No More Search Matches": "منطبق بیشتری یافت نشد",
       "No matches": "نمایشگر جستجوی سند را به پایان رسانده است. ",
       "No Text Found": "متنی یافت نشد"
     },
@@ -3264,6 +3524,37 @@
       "stopAriaLabel": "برای متوقف کردن صحبت و پایان رونویسی فشار دهید",
       "startTooltipText": "شروع گوش دادن",
       "stopTooltipText": "توقف گوش دادن"
+    },
+    "aiassistview": {
+      "stopResponseText": "توقف پاسخ",
+      "fileSizeFailure": "آپلود ناموفق: حجم فایل بیش از حد مجاز است"
+    },
+    "chat-ui": {
+      "oneUserTyping": "{0} is typing",
+      "twoUserTyping": "{0} and {1} are typing",
+      "threeUserTyping": "{0}, {1}, and {2} other are typing",
+      "multipleUsersTyping": "{0}, {1}, and {2} others are typing",
+      "forwarded": "Forwarded"
+    },
+    "multicolumncombobox": {
+      "noRecordsTemplate": "هیچ رکوردی یافت نشد"
+    },
+    "blockeditor": {
+      "paragraph": "چیزی بنویسید یا '/' برای دستورات.",
+      "heading1": "عنوان ۱",
+      "heading2": "عنوان ۲",
+      "heading3": "عنوان ۳",
+      "heading4": "عنوان ۴",
+      "toggleParagraph": "تغییر پاراگراف",
+      "toggleHeading1": "تغییر عنوان ۱",
+      "toggleHeading2": "تغییر عنوان ۲",
+      "toggleHeading3": "تغییر عنوان ۳",
+      "toggleHeading4": "تغییر عنوان ۴",
+      "bulletList": "افزودن آیتم",
+      "numberedList": "افزودن آیتم",
+      "checkList": "کارهای انجام دادنی",
+      "quote": "نقل قول بنویسید",
+      "callout": "یادداشت مهم بنویسید"
     }
   }
 }
