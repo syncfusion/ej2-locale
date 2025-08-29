@@ -1334,7 +1334,7 @@
       "fontNameSegoeUI": "SegoeUI",
       "fontNameArial": "Arial",
       "fontNameGeorgia": "Georgia",
-      "fontNameImpact": "Impact",
+      "fontNameImpact": "Innvirkning",
       "fontNameTahoma": "Tahoma",
       "fontNameTimesNewRoman": "Times New Roman",
       "fontNameVerdana": "Verdana",
@@ -1402,7 +1402,17 @@
       "bulletFormatListCircle": "Sirkel",
       "bulletFormatListSquare": "Torget",
       "numberFormatListNone": "Ingen",
-      "bulletFormatListNone": "Ingen"
+      "bulletFormatListNone": "Ingen",
+      "video": "Sett inn video",
+      "audio": "Sett inn lyd",
+      "importWord": "Importer fra Word",
+      "exportWord": "Eksporter til Word",
+      "exportPdf": "Eksporter til PDF",
+      "inlinecode": "Inline kode",
+      "codeBlock": "Sett inn kodeblokk",
+      "checklist": "Sjekkliste",
+      "blockquote": "blokksitat",
+      "horizontalLine": "Horisontal Linje"
     },
     "colorpicker": {
       "Apply": "Søke om",

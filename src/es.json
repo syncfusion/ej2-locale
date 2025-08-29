@@ -1336,7 +1336,7 @@
       "fontNameSegoeUI": "SegoeUI",
       "fontNameArial": "Arial",
       "fontNameGeorgia": "Georgia",
-      "fontNameImpact": "Impact",
+      "fontNameImpact": "Epekto",
       "fontNameTahoma": "Tahoma",
       "fontNameTimesNewRoman": "Times New Roman",
       "fontNameVerdana": "Verdana",
@@ -1404,7 +1404,17 @@
       "bulletFormatListCircle": "Circulo",
       "bulletFormatListSquare": "Cuadrado",
       "numberFormatListNone": "Ninguno",
-      "bulletFormatListNone": "Ninguno"
+      "bulletFormatListNone": "Ninguno",
+      "video": "Ipasok ang Video",
+      "audio": "Ipasok ang Audio",
+      "importWord": "Mag-import mula sa Word",
+      "exportWord": "I-export sa Word",
+      "exportPdf": "I-export sa PDF",
+      "inlinecode": "Inline Code",
+      "codeBlock": "Ipasok ang Bloke ng Code",
+      "checklist": "Listahan ng mga dapat gawin",
+      "blockquote": "blockquote",
+      "horizontalLine": "Pahalang na Linya"
     },
     "colorpicker": {
       "Apply": "Aplicar",

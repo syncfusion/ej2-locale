@@ -1402,7 +1402,17 @@
       "bulletFormatListCircle": "Cerc",
       "bulletFormatListSquare": "Pătrat",
       "numberFormatListNone": "Nici unul",
-      "bulletFormatListNone": "Nici unul"
+      "bulletFormatListNone": "Nici unul",
+      "video": "Introduceți videoclipul",
+      "audio": "Introduceți audio",
+      "importWord": "Importă din Word",
+      "exportWord": "Exportă în Word",
+      "exportPdf": "Exportă în PDF",
+      "inlinecode": "Cod inline",
+      "codeBlock": "Introduceți blocul de cod",
+      "checklist": "Listă de verificare",
+      "blockquote": "citat",
+      "horizontalLine": "Linie orizontală"
     },
     "colorpicker": {
       "Apply": "aplica",

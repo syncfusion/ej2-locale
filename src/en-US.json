@@ -1404,7 +1404,17 @@
       "bulletFormatListCircle": "Circle",
       "bulletFormatListSquare": "Square",
       "numberFormatListNone": "None",
-      "bulletFormatListNone": "None"
+      "bulletFormatListNone": "None",
+      "video": "Insert Video",
+      "audio": "Insert Audio",
+      "importWord": "Import from Word",
+      "exportWord": "Export to Word",
+      "exportPdf": "Export to PDF",
+      "inlinecode": "Inline Code",
+      "codeBlock": "Insert Code Block",
+      "checklist": "Checklist",
+      "blockquote": "blockquote",
+      "horizontalLine": "Horizontal Line"
     },
     "colorpicker": {
       "Apply": "Apply",
