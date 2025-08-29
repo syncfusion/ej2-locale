@@ -1334,7 +1334,7 @@
       "fontNameSegoeUI": "SegoeUI",
       "fontNameArial": "Arial",
       "fontNameGeorgia": "Georgia",
-      "fontNameImpact": "Impact",
+      "fontNameImpact": "Vaikutus",
       "fontNameTahoma": "Tahoma",
       "fontNameTimesNewRoman": "Times New Roman",
       "fontNameVerdana": "Verdana",
@@ -1402,7 +1402,17 @@
       "bulletFormatListCircle": "Ympyrä",
       "bulletFormatListSquare": "Neliö",
       "numberFormatListNone": "Ei mitään",
-      "bulletFormatListNone": "Ei mitään"
+      "bulletFormatListNone": "Ei mitään",
+      "video": "Lisää video",
+      "audio": "Lisää ääni",
+      "importWord": "Tuonti Wordista",
+      "exportWord": "Vie Wordiin",
+      "exportPdf": "Export to PDF",
+      "inlinecode": "Sisäinen koodi",
+      "codeBlock": "Lisää koodilohko",
+      "checklist": "Tarkistuslista",
+      "blockquote": "lainaus",
+      "horizontalLine": "Vaakasuora viiva"
     },
     "colorpicker": {
       "Apply": "Käytä",

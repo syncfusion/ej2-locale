@@ -1332,7 +1332,7 @@
       "formatsDropDownHeading4": "Rubriek 4",
       "fontNameSegoeUI": "SegoeUI",
       "fontNameArial": "Arial",
-      "fontNameGeorgia": "Georgia",
+      "fontNameGeorgia": "Georgië",
       "fontNameImpact": "Impact",
       "fontNameTahoma": "Tahoma",
       "fontNameTimesNewRoman": "Times New Roman",
@@ -1401,7 +1401,17 @@
       "bulletFormatListCircle": "Cirkel",
       "bulletFormatListSquare": "Vierkant",
       "numberFormatListNone": "Geen",
-      "bulletFormatListNone": "Geen"
+      "bulletFormatListNone": "Geen",
+      "video": "Video invoegen",
+      "audio": "Voeg audio in",
+      "importWord": "Importeren vanuit Word",
+      "exportWord": "Exporteer naar Word",
+      "exportPdf": "Exporteer naar PDF",
+      "inlinecode": "Inline Code",
+      "codeBlock": "Voeg codeblok in",
+      "checklist": "Checklist",
+      "blockquote": "blockquote",
+      "horizontalLine": "Horizontale Lijn"
     },
     "colorpicker": {
       "Apply": "Toepassen",

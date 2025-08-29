@@ -1334,7 +1334,7 @@
       "fontNameSegoeUI": "SegoeUI",
       "fontNameArial": "Arial",
       "fontNameGeorgia": "Georgia",
-      "fontNameImpact": "Impact",
+      "fontNameImpact": "Dampak",
       "fontNameTahoma": "Tahoma",
       "fontNameTimesNewRoman": "Times New Roman",
       "fontNameVerdana": "Verdana",
@@ -1402,7 +1402,17 @@
       "bulletFormatListCircle": "Lingkaran",
       "bulletFormatListSquare": "Kotak",
       "numberFormatListNone": "Tidak ada",
-      "bulletFormatListNone": "Tidak ada"
+      "bulletFormatListNone": "Tidak ada",
+      "video": "Masukkan Video",
+      "audio": "Masukkan Audio",
+      "importWord": "Impor dari Word",
+      "exportWord": "Ekspor ke Word",
+      "exportPdf": "Ekspor ke PDF",
+      "inlinecode": "Kode Dalam Garis",
+      "codeBlock": "Sisipkan Blok Kode",
+      "checklist": "Daftar Periksa",
+      "blockquote": "kutipan",
+      "horizontalLine": "Garis Horizontal"
     },
     "colorpicker": {
       "Apply": "Menerapkan",

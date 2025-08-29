@@ -1404,7 +1404,17 @@
       "bulletFormatListCircle": "गोलाकार",
       "bulletFormatListSquare": "वर्ग",
       "numberFormatListNone": "कुनै पनि छैन",
-      "bulletFormatListNone": "कुनै पनि छैन"
+      "bulletFormatListNone": "कुनै पनि छैन",
+      "video": "भिडियो राख्नुहोस्",
+      "audio": "अडियो राख्नुहोस्",
+      "importWord": "शब्दबाट आयात गर्नुहोस्",
+      "exportWord": "वर्डमा निर्यात गर्नुहोस्",
+      "exportPdf": "पीडीएफमा निर्यात गर्नुहोस्",
+      "inlinecode": "इनलाइन कोड",
+      "codeBlock": "कोड ब्लक समावेश गर्नुहोस्",
+      "checklist": "चेकलिस्ट",
+      "blockquote": "ध्यान दिनुहोस्",
+      "horizontalLine": "होरिजोन्टल लाइन"
     },
     "colorpicker": {
       "Apply": "निवेदन गर्नु",

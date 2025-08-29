@@ -1334,7 +1334,7 @@
       "fontNameSegoeUI": "SegoeUI",
       "fontNameArial": "Arial",
       "fontNameGeorgia": "Georgia",
-      "fontNameImpact": "Impact",
+      "fontNameImpact": "Wpływ",
       "fontNameTahoma": "Tahoma",
       "fontNameTimesNewRoman": "Times New Roman",
       "fontNameVerdana": "Verdana",
@@ -1402,7 +1402,17 @@
       "bulletFormatListCircle": "okrąg",
       "bulletFormatListSquare": "Kwadrat",
       "numberFormatListNone": "Żaden",
-      "bulletFormatListNone": "Żaden"
+      "bulletFormatListNone": "Żaden",
+      "video": "Wstaw wideo",
+      "audio": "Wstaw dźwięk",
+      "importWord": "Importuj z Worda",
+      "exportWord": "Eksportuj do Worda",
+      "exportPdf": "Eksportuj do PDF",
+      "inlinecode": "Kod w linii",
+      "codeBlock": "Wstaw blok kodu",
+      "checklist": "Lista kontrolna",
+      "blockquote": "blok cytatu",
+      "horizontalLine": "Linia pozioma"
     },
     "colorpicker": {
       "Apply": "Zastosować",
