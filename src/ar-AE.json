@@ -3645,6 +3645,20 @@
     "stepper": {
       "optional": "خياري"
     },
+    "speech-to-text": {
+      "abortedError": "تم إحباط التعرف على الكلام.",
+      "audioCaptureError": "لم يتم اكتشاف أي ميكروفون. تأكد من توصيل الميكروفون.",
+      "defaultError": "حدث خطأ غير معروف.",
+      "networkError": "حدث خطأ في الشبكة. تحقق من اتصالك بالإنترنت.",
+      "noSpeechError": "لم يتم اكتشاف أي كلام. يرجى التحدث إلى الميكروفون.",
+      "notAllowedError": "تم رفض الوصول إلى الميكروفون. السماح بأذونات الميكروفون.",
+      "serviceNotAllowedError": "خدمة التعرف على الصوت غير مسموح بها في هذا السياق.",
+      "unsupportedBrowserError": "لا يدعم المستعرض واجهة برمجة تطبيقات SpeechRecognize.",
+      "startAriaLabel": "اضغط لبدء التحدث ونسخ كلماتك",
+      "stopAriaLabel": "اضغط لإيقاف التحدث وإنهاء النسخ",
+      "startTooltipText": "ابدأ الاستماع",
+      "stopTooltipText": "توقف عن الاستماع"
+    },
     "aiassistview": {
       "stopResponseText": "توقف عن الاستجابة",
       "fileSizeFailure": "فشل التحميل: حجم الملف كبير جدًا",
