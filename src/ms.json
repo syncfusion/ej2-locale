@@ -3646,6 +3646,20 @@
     "stepper": {
       "optional": "Pilihan"
     },
+    "speech-to-text": {
+      "abortedError": "Pengecaman pertuturan telah dibatalkan.",
+      "audioCaptureError": "Tiada mikrofon dikesan. Pastikan mikrofon anda disambungkan.",
+      "defaultError": "Ralat tidak diketahui telah berlaku.",
+      "networkError": "Ralat rangkaian telah berlaku. Semak sambungan internet anda.",
+      "noSpeechError": "Tiada pertuturan dikesan. Sila bercakap ke dalam mikrofon.",
+      "notAllowedError": "Akses mikrofon ditolak. Benarkan kebenaran mikrofon.",
+      "serviceNotAllowedError": "Perkhidmatan pengecaman pertuturan tidak dibenarkan dalam konteks ini.",
+      "unsupportedBrowserError": "Pelayar tidak menyokong API SpeechRecognition.",
+      "startAriaLabel": "Tekan untuk mula bercakap dan mentranskripsi kata-kata anda",
+      "stopAriaLabel": "Tekan untuk berhenti bercakap dan tamatkan transkripsi",
+      "startTooltipText": "Mulakan mendengar",
+      "stopTooltipText": "Hentikan mendengar"
+    },
     "aiassistview": {
       "stopResponseText": "Hentikan Respons",
       "fileSizeFailure": "Muat naik gagal: Saiz fail terlalu besar",

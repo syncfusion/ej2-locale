@@ -3649,6 +3649,20 @@
     "stepper": {
       "optional": "Opțional"
     },
+    "speech-to-text": {
+      "abortedError": "Recunoașterea vocală a fost anulată.",
+      "audioCaptureError": "Microfon nedetectat. Asigură-te că microfonul este conectat.",
+      "defaultError": "A apărut o eroare necunoscută.",
+      "networkError": "A apărut o eroare de rețea. Verifică-ți conexiunea la internet.",
+      "noSpeechError": "Nu a fost detectată nici o vorbire. Te rog să vorbești în microfon.",
+      "notAllowedError": "Accesul la microfon a fost refuzat. Permite permisiunea pentru microfon.",
+      "serviceNotAllowedError": "Serviciul de recunoaștere vocală nu este permis în acest context.",
+      "unsupportedBrowserError": "Browserul nu suportă API-ul SpeechRecognition.",
+      "startAriaLabel": "Apasă pentru a începe să vorbești și a transcrie cuvintele tale",
+      "stopAriaLabel": "Apasă pentru a opri vorbirea și a finaliza transcrierea",
+      "startTooltipText": "Începe ascultarea",
+      "stopTooltipText": "Oprește ascultarea"
+    },
     "aiassistview": {
       "stopResponseText": "Nu mai răspunde",
       "fileSizeFailure": "Încărcare a eșuat: dimensiunea fișierului este prea mare",

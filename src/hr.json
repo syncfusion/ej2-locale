@@ -3646,6 +3646,20 @@
     "stepper": {
       "optional": "Neobavezno"
     },
+    "speech-to-text": {
+      "abortedError": "Prepoznavanje govora je prekinuto.",
+      "audioCaptureError": "Mikrofon nije otkriven. Provjerite je li vaš mikrofon priključen.",
+      "defaultError": "Došlo je do nepoznate pogreške.",
+      "networkError": "Dogodila se mrežna pogreška. Provjerite vašu internetsku vezu.",
+      "noSpeechError": "Govor nije otkriven. Molimo, govorite u mikrofon.",
+      "notAllowedError": "Pristup mikrofonu je odbijen. Dopustite dopuštenja za mikrofon.",
+      "serviceNotAllowedError": "Usluga prepoznavanja govora nije dopuštena u ovom kontekstu.",
+      "unsupportedBrowserError": "Preglednik ne podržava API za prepoznavanje govora.",
+      "startAriaLabel": "Pritisnite za početak govora i prijepis vaših riječi",
+      "stopAriaLabel": "Pritisnite za prestanak govora i završetak prijepisa",
+      "startTooltipText": "Početak osluškivanja",
+      "stopTooltipText": "Prestanak osluškivanja"
+    },
     "aiassistview": {
       "stopResponseText": "Prestani odgovarati",
       "fileSizeFailure": "Prijenos neuspješan: Datoteka je prevelika",

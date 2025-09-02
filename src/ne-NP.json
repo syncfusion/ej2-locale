@@ -3648,6 +3648,20 @@
     "stepper": {
       "optional": "ऐच्छिक"
     },
+    "speech-to-text": {
+      "abortedError": "वाक मान्यता रद्द भयो।",
+      "audioCaptureError": "माइक्रोफोन फेला परेन। तपाइँको माइक्रोफोन जडान गर्न निश्चित गर्नुहोस्।",
+      "defaultError": "अज्ञात त्रुटि भयो।",
+      "networkError": "नेटवर्क त्रुटि भयो। आफ्नो इन्टरनेट कनेक्शन जाँच्नुहोस्।",
+      "noSpeechError": "कुनै सम्भाषण पत्ता लागेन। कृपया माइक्रोफोनमा बोल्नुहोस्।",
+      "notAllowedError": "माइक्रोफोन पहुँच अस्वीकृत भयो। माइक्रोफोन अनुमतिहरू अनुमति दिनुहोस्।",
+      "serviceNotAllowedError": "वाक मान्यता सेवा यो सन्दर्भमा अनुमति छैन।",
+      "unsupportedBrowserError": "ब्राउजरले SpeechRecognition API समर्थन गर्दैन।",
+      "startAriaLabel": "बोल्न थाल्न र आफ्नो शब्दहरू लिप्यन्तरण गर्न थिच्नुहोस्",
+      "stopAriaLabel": "बोल्न रोक्न र लिप्यन्तरण अन्त्य गर्न थिच्नुहोस्",
+      "startTooltipText": "सुन्न सुरु गर्नुहोस्",
+      "stopTooltipText": "सुन्न रोक्नुहोस्"
+    },
     "aiassistview": {
       "stopResponseText": "प्रतिक्रिया रोक्नुहोस्",
       "fileSizeFailure": "अपलोड असफल: फाईल आकार धेरै ठूलो छ",

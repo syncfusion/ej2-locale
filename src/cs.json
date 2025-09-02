@@ -3645,6 +3645,20 @@
     "stepper": {
       "optional": "Volitelný"
     },
+    "speech-to-text": {
+      "abortedError": "Rozpoznávání řeči bylo přerušeno.",
+      "audioCaptureError": "Nebyl detekován žádný mikrofon. Ujistěte se, že je připojen mikrofon.",
+      "defaultError": "Došlo k neznámé chybě.",
+      "networkError": "Došlo k chybě sítě. Zkontrolujte připojení k internetu.",
+      "noSpeechError": "Nebyla zjištěna žádná řeč. Mluvte prosím do mikrofonu.",
+      "notAllowedError": "Přístup k mikrofonu byl odepřen. Povolte oprávnění k mikrofonu.",
+      "serviceNotAllowedError": "Služba rozpoznávání řeči není v tomto kontextu povolena.",
+      "unsupportedBrowserError": "Prohlížeč nepodporuje rozhraní API pro rozpoznávání řeči.",
+      "startAriaLabel": "Stisknutím začnete mluvit a přepisovat svá slova",
+      "stopAriaLabel": "Stisknutím zastavíte čtení a ukončíte přepis",
+      "startTooltipText": "Začněte poslouchat",
+      "stopTooltipText": "Přestaň poslouchat"
+    },
     "aiassistview": {
       "stopResponseText": "Zastavit odpovídání",
       "fileSizeFailure": "Nahrávání selhalo: Soubor je příliš velký",
