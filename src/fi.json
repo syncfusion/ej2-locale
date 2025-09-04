@@ -1407,11 +1407,11 @@
       "audio": "Lisää ääni",
       "importWord": "Tuonti Wordista",
       "exportWord": "Vie Wordiin",
-      "exportPdf": "Export to PDF",
+      "exportPdf": "Vie PDF-tiedostoon",
       "inlinecode": "Sisäinen koodi",
       "codeBlock": "Lisää koodilohko",
       "checklist": "Tarkistuslista",
-      "blockquote": "lainaus",
+      "blockquote": "lohkolainaus",
       "horizontalLine": "Vaakasuora viiva"
     },
     "colorpicker": {

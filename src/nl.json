@@ -1409,8 +1409,8 @@
       "exportPdf": "Exporteer naar PDF",
       "inlinecode": "Inline Code",
       "codeBlock": "Voeg codeblok in",
-      "checklist": "Checklist",
-      "blockquote": "blockquote",
+      "checklist": "Controlelijst",
+      "blockquote": "blokcitaat",
       "horizontalLine": "Horizontale Lijn"
     },
     "colorpicker": {

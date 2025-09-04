@@ -1408,10 +1408,10 @@
       "importWord": "Importuj z Worda",
       "exportWord": "Eksportuj do Worda",
       "exportPdf": "Eksportuj do PDF",
-      "inlinecode": "Kod w linii",
+      "inlinecode": "Kod wbudowany",
       "codeBlock": "Wstaw blok kodu",
       "checklist": "Lista kontrolna",
-      "blockquote": "blok cytatu",
+      "blockquote": "cytat blokowy",
       "horizontalLine": "Linia pozioma"
     },
     "colorpicker": {

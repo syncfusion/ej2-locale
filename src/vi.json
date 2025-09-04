@@ -1336,7 +1336,7 @@
       "fontNameGeorgia": "Georgia",
       "fontNameImpact": "Tác động",
       "fontNameTahoma": "Tahoma",
-      "fontNameTimesNewRoman": "Thời gian mới La Mã",
+      "fontNameTimesNewRoman": "Times New Roman",
       "fontNameVerdana": "Verdana",
       "formatsOLListNumber": "Con số",
       "formatsOLListLowerAlpha": "LowerAlpha",
@@ -1411,7 +1411,7 @@
       "inlinecode": "Mã nội tuyến",
       "codeBlock": "Chèn khối mã",
       "checklist": "Danh sách kiểm tra",
-      "blockquote": "trích dẫn",
+      "blockquote": "khối trích dẫn",
       "horizontalLine": "Đường ngang"
     },
     "colorpicker": {

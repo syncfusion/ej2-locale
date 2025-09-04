@@ -1335,8 +1335,8 @@
       "fontNameArial": "אריאל",
       "fontNameGeorgia": "ג'ורג'יה",
       "fontNameImpact": "השפעה",
-      "fontNameTahoma": "טהאמה",
-      "fontNameTimesNewRoman": "זמן רומן חדש",
+      "fontNameTahoma": "טהומה",
+      "fontNameTimesNewRoman": "טיימס ניו רומן",
       "fontNameVerdana": "וֶרְדָנָה",
       "formatsOLListNumber": "מספר",
       "formatsOLListLowerAlpha": "תחתון אלפא",
@@ -1408,10 +1408,10 @@
       "importWord": "ייבוא מ-Word",
       "exportWord": "ייצוא ל-Word",
       "exportPdf": "ייצוא ל-PDF",
-      "inlinecode": "קוד משולב",
+      "inlinecode": "קוד מוטבע",
       "codeBlock": "הכנס בלוק קוד",
       "checklist": "רשימת בדיקה",
-      "blockquote": "בלוקציט",
+      "blockquote": "ציטוט בלוק",
       "horizontalLine": "קו אופקי"
     },
     "colorpicker": {

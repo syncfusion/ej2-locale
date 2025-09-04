@@ -1325,7 +1325,7 @@
       "fileManager": "Manajer File",
       "fileDialogHeader": "Peramban File",
       "formatsDropDownParagraph": "Gugus kalimat",
-      "formatsDropDownCode": "Preformateado",
+      "formatsDropDownCode": "Sudah diformat sebelumnya",
       "formatsDropDownQuotation": "Kutipan",
       "formatsDropDownHeading1": "Pos 1",
       "formatsDropDownHeading2": "Pos 2",
@@ -1408,10 +1408,10 @@
       "importWord": "Impor dari Word",
       "exportWord": "Ekspor ke Word",
       "exportPdf": "Ekspor ke PDF",
-      "inlinecode": "Kode Dalam Garis",
+      "inlinecode": "Kode Sebaris",
       "codeBlock": "Sisipkan Blok Kode",
       "checklist": "Daftar Periksa",
-      "blockquote": "kutipan",
+      "blockquote": "kutipan blok",
       "horizontalLine": "Garis Horizontal"
     },
     "colorpicker": {

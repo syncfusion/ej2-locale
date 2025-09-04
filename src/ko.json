@@ -1328,7 +1328,7 @@
       "fileManager": "파일 관리자",
       "fileDialogHeader": "파일 탐색기",
       "formatsDropDownParagraph": "절",
-      "formatsDropDownCode": "형식이 미리 설정됨",
+      "formatsDropDownCode": "미리 포맷됨",
       "formatsDropDownQuotation": "인용",
       "formatsDropDownHeading1": "제목 1",
       "formatsDropDownHeading2": "제목 2",
@@ -1414,8 +1414,8 @@
       "inlinecode": "인라인 코드",
       "codeBlock": "코드 블록 삽입",
       "checklist": "체크리스트",
-      "blockquote": "인용 블록",
-      "horizontalLine": "수평선"
+      "blockquote": "블록 인용",
+      "horizontalLine": "횡선"
     },
     "colorpicker": {
       "Apply": "적용",

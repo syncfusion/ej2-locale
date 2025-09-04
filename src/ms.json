@@ -1325,7 +1325,7 @@
       "fileManager": "Pengurus Fail",
       "fileDialogHeader": "Penyemak Imbas Fail",
       "formatsDropDownParagraph": "Ayat",
-      "formatsDropDownCode": "Ditentukan dahulu",
+      "formatsDropDownCode": "Praformat",
       "formatsDropDownQuotation": "Sebutharga",
       "formatsDropDownHeading1": "Tajuk 1",
       "formatsDropDownHeading2": "Tajuk 2",
@@ -1411,7 +1411,7 @@
       "inlinecode": "Kode Dalam Baris",
       "codeBlock": "Sisipkan Blok Kode",
       "checklist": "Daftar Periksa",
-      "blockquote": "kutipan",
+      "blockquote": "blockquote",
       "horizontalLine": "Garis Horizontal"
     },
     "colorpicker": {

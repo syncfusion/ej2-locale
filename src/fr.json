@@ -1410,10 +1410,10 @@
       "importWord": "Importer depuis Word",
       "exportWord": "Exporter vers Word",
       "exportPdf": "Exporter en PDF",
-      "inlinecode": "Code intégré",
+      "inlinecode": "Code en ligne",
       "codeBlock": "Insérer un bloc de code",
       "checklist": "Liste de vérification",
-      "blockquote": "blockquote",
+      "blockquote": "citation en bloc",
       "horizontalLine": "Ligne horizontale"
     },
     "colorpicker": {

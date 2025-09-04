@@ -1411,7 +1411,7 @@
       "inlinecode": "Código Inline",
       "codeBlock": "Inserir Bloco de Código",
       "checklist": "Lista de verificação",
-      "blockquote": "citação",
+      "blockquote": "citação em bloco",
       "horizontalLine": "Linha Horizontal"
     },
     "colorpicker": {

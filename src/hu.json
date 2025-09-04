@@ -1409,9 +1409,9 @@
       "exportWord": "Exportálás Wordbe",
       "exportPdf": "Exportálás PDF-be",
       "inlinecode": "Inline kód",
-      "codeBlock": "Illessze be a kódblokkot",
+      "codeBlock": "Kódblokk beszúrása",
       "checklist": "Ellenőrző lista",
-      "blockquote": "idézet",
+      "blockquote": "idézetblokk",
       "horizontalLine": "Horizontális vonal"
     },
     "colorpicker": {
