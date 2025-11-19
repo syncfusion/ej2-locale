@@ -1174,6 +1174,7 @@
       "justifyCenter": "Align Center",
       "justifyRight": "Align Right",
       "justifyFull": "Align Justify",
+      "lineHeight": "Line Height",
       "fontName": "Font Name",
       "fontSize": "Font Size",
       "fontColor": "Font Color",
