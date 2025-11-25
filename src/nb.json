@@ -1281,6 +1281,7 @@
       "removeTable": "Fjern tabellen",
       "tableHeader": "Overskriftsrad",
       "tableRemove": "Slett tabell",
+      "tableCell": "Slå sammen celle",
       "tableCellBackground": "Tabellcelle bakgrunn",
       "tableEditProperties": "Tabell Rediger egenskaper",
       "styles": "Stiler",

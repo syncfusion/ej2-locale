@@ -1281,6 +1281,7 @@
       "removeTable": "إزالة الجدول",
       "tableHeader": "مقدمة الصف",
       "tableRemove": "حذف الجدول",
+      "tableCell": "دمج الخلايا",
       "tableCellBackground": "خلفية خلية الجدول",
       "tableEditProperties": "خصائص تحرير الجدول",
       "styles": "الأنماط",

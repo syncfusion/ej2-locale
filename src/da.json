@@ -1281,6 +1281,7 @@
       "removeTable": "Fjern tabel",
       "tableHeader": "Overskriftsrække",
       "tableRemove": "Slet tabel",
+      "tableCell": "Flet celle",
       "tableCellBackground": "Tabelcellebaggrund",
       "tableEditProperties": "Tabel Rediger egenskaber",
       "styles": "styles",

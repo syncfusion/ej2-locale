@@ -1284,6 +1284,7 @@
       "removeTable": "테이블 제거",
       "tableHeader": "헤더 행",
       "tableRemove": "테이블 삭제",
+      "tableCell": "셀 병합",
       "tableCellBackground": "테이블 셀 배경",
       "tableEditProperties": "테이블 편집 속성",
       "styles": "스타일",

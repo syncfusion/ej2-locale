@@ -1283,6 +1283,7 @@
       "removeTable": "Supprimer le tableau",
       "tableHeader": "Ligne d'en-tête",
       "tableRemove": "Supprimer le tableau",
+      "tableCell": "Fusionner les cellules",
       "tableCellBackground": "Fond de cellule de tableau",
       "tableEditProperties": "Propriétés de modification du tableau",
       "styles": "modes",

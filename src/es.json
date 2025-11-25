@@ -1283,6 +1283,7 @@
       "removeTable": "Eliminar tabla",
       "tableHeader": "Fila de encabezado",
       "tableRemove": "Eliminar tabla",
+      "tableCell": "Combinar celdas",
       "tableCellBackground": "Fondo de celda de tabla",
       "tableEditProperties": "Propiedades de edición de tabla",
       "styles": "Estilos",

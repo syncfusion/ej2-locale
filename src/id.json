@@ -1281,6 +1281,7 @@
       "removeTable": "Hapus Table",
       "tableHeader": "Baris Tajuk",
       "tableRemove": "Hapus Tabel",
+      "tableCell": "Gabungkan Sel",
       "tableCellBackground": "Latar Belakang Sel Meja",
       "tableEditProperties": "Tabel Edit Properti",
       "styles": "Gaya",

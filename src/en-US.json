@@ -1283,6 +1283,7 @@
       "removeTable": "Remove Table",
       "tableHeader": "Header Row",
       "tableRemove": "Delete Table",
+      "tableCell": "Merge Cell",
       "tableCellBackground": "Table Cell Background",
       "tableEditProperties": "Table Edit Properties",
       "styles": "Styles",

@@ -1281,6 +1281,7 @@
       "removeTable": "Buang Jadual",
       "tableHeader": "Baris Pengepala",
       "tableRemove": "Padamkan Jadual",
+      "tableCell": "Gabungkan Sel",
       "tableCellBackground": "Latar Belakang Meja Bawah",
       "tableEditProperties": "Jadual Edit Hartanah",
       "styles": "Gaya",

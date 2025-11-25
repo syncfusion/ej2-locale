@@ -1281,6 +1281,7 @@
       "removeTable": "ลบตาราง",
       "tableHeader": "แถวส่วนหัว",
       "tableRemove": "ลบตาราง",
+      "tableCell": "รวมเซลล์",
       "tableCellBackground": "พื้นหลังของเซลล์ตาราง",
       "tableEditProperties": "ตารางแก้ไขคุณสมบัติ",
       "styles": "รูปแบบ",

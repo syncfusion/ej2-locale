@@ -1281,6 +1281,7 @@
       "removeTable": "テーブルを削除",
       "tableHeader": "ヘッダー行",
       "tableRemove": "テーブルの削除",
+      "tableCell": "セルを結合",
       "tableCellBackground": "テーブルセルの背景",
       "tableEditProperties": "テーブル編集プロパティ",
       "styles": "スタイル",
