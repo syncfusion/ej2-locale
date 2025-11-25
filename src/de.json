@@ -1282,6 +1282,7 @@
       "removeTable": "Tabelle entfernen",
       "tableHeader": "Kopfzeile",
       "tableRemove": "Tabelle löschen",
+      "tableCell": "Zelle zusammenführen",
       "tableCellBackground": "Tabellenzellenhintergrund",
       "tableEditProperties": "Tabelle Eigenschaften bearbeiten",
       "styles": "Stile",

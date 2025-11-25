@@ -1283,6 +1283,7 @@
       "removeTable": "刪除表",
       "tableHeader": "标题行",
       "tableRemove": "删除表",
+      "tableCell": "合并单元格",
       "tableCellBackground": "表單元格背景",
       "tableEditProperties": "表格編輯屬性",
       "styles": "款式",

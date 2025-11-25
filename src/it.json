@@ -1281,6 +1281,7 @@
       "removeTable": "Rimuovi tabella",
       "tableHeader": "Riga di intestazione",
       "tableRemove": "Elimina tabella",
+      "tableCell": "Unisci celle",
       "tableCellBackground": "Sfondo delle celle della tabella",
       "tableEditProperties": "Proprietà di modifica tabella",
       "styles": "stili",

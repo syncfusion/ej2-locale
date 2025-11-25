@@ -1281,6 +1281,7 @@
       "removeTable": "Táblázat eltávolítása",
       "tableHeader": "Fejléc sor",
       "tableRemove": "Táblázat törlése",
+      "tableCell": "Cellák egyesítése",
       "tableCellBackground": "Táblázat cella háttér",
       "tableEditProperties": "Táblázat szerkesztési tulajdonságai",
       "styles": "Stílusok",

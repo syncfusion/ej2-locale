@@ -1281,6 +1281,7 @@
       "removeTable": "Poista taulukko",
       "tableHeader": "Otsikkorivi",
       "tableRemove": "Poista taulukko",
+      "tableCell": "Yhdistä solut",
       "tableCellBackground": "Taulukon solujen tausta",
       "tableEditProperties": "Taulukon muokkausominaisuudet",
       "styles": "tyylit",

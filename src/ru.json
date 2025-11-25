@@ -1281,6 +1281,7 @@
       "removeTable": "Удалить таблицу",
       "tableHeader": "Заголовок строки",
       "tableRemove": "Удалить таблицу",
+      "tableCell": "Объединить ячейки",
       "tableCellBackground": "Фон ячейки таблицы",
       "tableEditProperties": "Свойства редактирования таблицы",
       "styles": "Стили",

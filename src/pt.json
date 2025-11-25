@@ -1281,6 +1281,7 @@
       "removeTable": "Remover tabela",
       "tableHeader": "Linha de cabeçalho",
       "tableRemove": "Excluir tabela",
+      "tableCell": "Mesclar Células",
       "tableCellBackground": "Fundo da célula da tabela",
       "tableEditProperties": "Propriedades de edição de tabela",
       "styles": "Estilos",

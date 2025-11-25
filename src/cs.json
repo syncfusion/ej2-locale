@@ -1281,6 +1281,7 @@
       "removeTable": "Odebrat tabulku",
       "tableHeader": "Řádek záhlaví",
       "tableRemove": "Smazat tabulku",
+      "tableCell": "Sloučit buňky",
       "tableCellBackground": "Pozadí buňky tabulky",
       "tableEditProperties": "Vlastnosti úprav tabulky",
       "styles": "Styly",

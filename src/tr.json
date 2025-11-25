@@ -1281,6 +1281,7 @@
       "removeTable": "Tabloyu Kaldır",
       "tableHeader": "Üst bilgi satırı",
       "tableRemove": "Tabloyu Sil",
+      "tableCell": "Hücreleri Birleştir",
       "tableCellBackground": "Tablo hücre arka planı",
       "tableEditProperties": "Tablo Düzenleme Özellikleri",
       "styles": "stiller",

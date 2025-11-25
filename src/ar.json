@@ -1283,6 +1283,7 @@
       "removeTable": "إزالة الجدول",
       "tableHeader": "صف العنوان",
       "tableRemove": "حذف الجدول",
+      "tableCell": "دمج الخلايا",
       "tableCellBackground": "خلفية خلية الجدول",
       "tableEditProperties": "خصائص تحرير الجدول",
       "styles": "الأنماط",

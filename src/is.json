@@ -1229,6 +1229,7 @@
       "removeTable": "Fjarlægja töflu",
       "tableHeader": "Hausaröð",
       "tableRemove": "Eyða töflu",
+      "tableCell": "Sameina reit",
       "tableCellBackground": "Bakgrunnur fyrir töflufrumu",
       "tableEditProperties": "Eiginleikar Breyta töflu",
       "styles": "Stíll",
