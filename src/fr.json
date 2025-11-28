@@ -1180,6 +1180,7 @@
       "justifyCenter": "Aligner le centre",
       "justifyRight": "Aligner à droite",
       "justifyFull": "Aligner Justifier",
+      "lineHeight": "HauteurDeLigne",
       "fontName": "Nom de police",
       "fontSize": "Taille de police",
       "fontColor": "Couleur de la police",
