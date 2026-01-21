@@ -3838,6 +3838,23 @@
       "stopAriaLabel": "按下停止说话并结束转录",
       "startTooltipText": "开始聆听",
       "stopTooltipText": "停止聆听"
+    },
+    "blockeditor": {
+      "paragraph": "输入内容或输入‘/’以获取命令。",
+      "heading1": "标题 1",
+      "heading2": "标题 2",
+      "heading3": "标题 3",
+      "heading4": "标题 4",
+      "toggleParagraph": "切换段落",
+      "toggleHeading1": "切换标题 1",
+      "toggleHeading2": "切换标题 2",
+      "toggleHeading3": "切换标题 3",
+      "toggleHeading4": "切换标题 4",
+      "bulletList": "添加项目",
+      "numberedList": "添加项目",
+      "checkList": "待办事项",
+      "quote": "写一段引用",
+      "callout": "写一个提示"
     }
   }
 }

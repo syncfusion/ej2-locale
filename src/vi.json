@@ -3835,6 +3835,23 @@
       "stopAriaLabel": "Nhấn để dừng nói và kết thúc chuyển đổi lời nói",
       "startTooltipText": "Bắt đầu nghe",
       "stopTooltipText": "Dừng nghe"
+    },
+    "blockeditor": {
+      "paragraph": "Viết gì đó hoặc '/' để sử dụng lệnh.",
+      "heading1": "Tiêu đề 1",
+      "heading2": "Tiêu đề 2",
+      "heading3": "Tiêu đề 3",
+      "heading4": "Tiêu đề 4",
+      "toggleParagraph": "Chuyển đoạn",
+      "toggleHeading1": "Chuyển tiêu đề 1",
+      "toggleHeading2": "Chuyển tiêu đề 2",
+      "toggleHeading3": "Chuyển tiêu đề 3",
+      "toggleHeading4": "Chuyển tiêu đề 4",
+      "bulletList": "Thêm mục",
+      "numberedList": "Thêm mục",
+      "checkList": "Danh sách việc cần làm",
+      "quote": "Viết trích dẫn",
+      "callout": "Viết chú thích"
     }
   }
 }

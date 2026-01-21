@@ -3839,6 +3839,23 @@
       "stopAriaLabel": "Appuyez pour arrêter de parler et mettre fin à la transcription",
       "startTooltipText": "Commencer l'écoute",
       "stopTooltipText": "Arrêter l'écoute"
+    },
+    "blockeditor": {
+      "paragraph": "Écrivez quelque chose ou utilisez '/' pour les commandes.",
+      "heading1": "Titre 1",
+      "heading2": "Titre 2",
+      "heading3": "Titre 3",
+      "heading4": "Titre 4",
+      "toggleParagraph": "Paragraphe à bascule",
+      "toggleHeading1": "Titre 1 à bascule",
+      "toggleHeading2": "Titre 2 à bascule",
+      "toggleHeading3": "Titre 3 à bascule",
+      "toggleHeading4": "Titre 4 à bascule",
+      "bulletList": "Ajouter un élément",
+      "numberedList": "Ajouter un élément",
+      "checkList": "À faire",
+      "quote": "Écrivez une citation",
+      "callout": "Écrivez un encadré"
     }
   }
 }

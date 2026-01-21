@@ -3835,6 +3835,23 @@
       "stopAriaLabel": "Nyomja meg a beszélgetés leállításához és az átírás befejezéséhez",
       "startTooltipText": "Hallgatás megkezdése",
       "stopTooltipText": "Hallgatás leállítása"
+    },
+    "blockeditor": {
+      "paragraph": "Írj valamit vagy használd a '/' jelet a parancsokhoz.",
+      "heading1": "Címsor 1",
+      "heading2": "Címsor 2",
+      "heading3": "Címsor 3",
+      "heading4": "Címsor 4",
+      "toggleParagraph": "Be/ki bekezdés",
+      "toggleHeading1": "Címsor 1 váltása",
+      "toggleHeading2": "Címsor 2 váltása",
+      "toggleHeading3": "Címsor 3 váltása",
+      "toggleHeading4": "Címsor 4 váltása",
+      "bulletList": "Elem hozzáadása",
+      "numberedList": "Elem hozzáadása",
+      "checkList": "Tennivaló",
+      "quote": "Írj egy idézetet",
+      "callout": "Írj egy megjegyzést"
     }
   }
 }

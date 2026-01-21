@@ -3713,6 +3713,23 @@
       "stopAriaLabel": "برای متوقف کردن صحبت و پایان رونویسی فشار دهید",
       "startTooltipText": "شروع گوش دادن",
       "stopTooltipText": "توقف گوش دادن"
+    },
+    "blockeditor": {
+      "paragraph": "چیزی بنویسید یا '/' را برای دستورات وارد کنید.",
+      "heading1": "سرتیتر ۱",
+      "heading2": "سرتیتر ۲",
+      "heading3": "سرتیتر ۳",
+      "heading4": "سرتیتر ۴",
+      "toggleParagraph": "پاراگراف قابل تغییر",
+      "toggleHeading1": "تغییر سرتیتر ۱",
+      "toggleHeading2": "تغییر سرتیتر ۲",
+      "toggleHeading3": "تغییر سرتیتر ۳",
+      "toggleHeading4": "تغییر سرتیتر ۴",
+      "bulletList": "افزودن آیتم",
+      "numberedList": "افزودن آیتم",
+      "checkList": "کار برای انجام",
+      "quote": "یک نقل قول بنویسید",
+      "callout": "یادداشتی بنویسید"
     }
   }
 }

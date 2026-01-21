@@ -3835,6 +3835,23 @@
       "stopAriaLabel": "Pritisnite za prestanak govora i završetak prijepisa",
       "startTooltipText": "Početak osluškivanja",
       "stopTooltipText": "Prestanak osluškivanja"
+    },
+    "blockeditor": {
+      "paragraph": "Napišite nešto ili koristite '/' za naredbe.",
+      "heading1": "Naslov 1",
+      "heading2": "Naslov 2",
+      "heading3": "Naslov 3",
+      "heading4": "Naslov 4",
+      "toggleParagraph": "Preklopni odlomak",
+      "toggleHeading1": "Preklopi naslov 1",
+      "toggleHeading2": "Preklopi naslov 2",
+      "toggleHeading3": "Preklopi naslov 3",
+      "toggleHeading4": "Preklopi naslov 4",
+      "bulletList": "Dodaj stavku",
+      "numberedList": "Dodaj stavku",
+      "checkList": "Zadatak",
+      "quote": "Napišite citat",
+      "callout": "Napišite napomenu"
     }
   }
 }

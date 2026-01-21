@@ -3836,6 +3836,23 @@
       "stopAriaLabel": "اضغط لإيقاف التحدث وإنهاء النسخ",
       "startTooltipText": "ابدأ الاستماع",
       "stopTooltipText": "توقف عن الاستماع"
+    },
+    "blockeditor": {
+      "paragraph": "اكتب شيئًا أو استخدم '/' للأوامر.",
+      "heading1": "عنوان 1",
+      "heading2": "عنوان 2",
+      "heading3": "عنوان 3",
+      "heading4": "عنوان 4",
+      "toggleParagraph": "فقرة قابلة للتبديل",
+      "toggleHeading1": "تبديل العنوان 1",
+      "toggleHeading2": "تبديل العنوان 2",
+      "toggleHeading3": "تبديل العنوان 3",
+      "toggleHeading4": "تبديل العنوان 4",
+      "bulletList": "أضف عنصرًا",
+      "numberedList": "أضف عنصرًا",
+      "checkList": "مهام",
+      "quote": "اكتب اقتباسًا",
+      "callout": "اكتب ملاحظة"
     }
   }
 }

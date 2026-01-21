@@ -3838,6 +3838,23 @@
       "stopAriaLabel": "Apasă pentru a opri vorbirea și a finaliza transcrierea",
       "startTooltipText": "Începe ascultarea",
       "stopTooltipText": "Oprește ascultarea"
+    },
+    "blockeditor": {
+      "paragraph": "Scrie ceva sau '/' pentru comenzi.",
+      "heading1": "Titlu 1",
+      "heading2": "Titlu 2",
+      "heading3": "Titlu 3",
+      "heading4": "Titlu 4",
+      "toggleParagraph": "Comută paragraf",
+      "toggleHeading1": "Comută titlu 1",
+      "toggleHeading2": "Comută titlu 2",
+      "toggleHeading3": "Comută titlu 3",
+      "toggleHeading4": "Comută titlu 4",
+      "bulletList": "Adaugă element",
+      "numberedList": "Adaugă element",
+      "checkList": "Listă de sarcini",
+      "quote": "Scrie un citat",
+      "callout": "Scrie o notă"
     }
   }
 }

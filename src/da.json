@@ -3834,6 +3834,23 @@
       "stopAriaLabel": "Tryk for at stoppe med at tale og afslutte transskription",
       "startTooltipText": "Begynd at lytte",
       "stopTooltipText": "Stop med at lytte"
+    },
+    "blockeditor": {
+      "paragraph": "Skriv noget eller brug '/' for kommandoer.",
+      "heading1": "Overskrift 1",
+      "heading2": "Overskrift 2",
+      "heading3": "Overskrift 3",
+      "heading4": "Overskrift 4",
+      "toggleParagraph": "Skift afsnit",
+      "toggleHeading1": "Skift overskrift 1",
+      "toggleHeading2": "Skift overskrift 2",
+      "toggleHeading3": "Skift overskrift 3",
+      "toggleHeading4": "Skift overskrift 4",
+      "bulletList": "Tilføj element",
+      "numberedList": "Tilføj element",
+      "checkList": "Opgave",
+      "quote": "Skriv et citat",
+      "callout": "Skriv en bemærkning"
     }
   }
 }

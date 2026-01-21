@@ -3835,6 +3835,23 @@
       "stopAriaLabel": "Konuşmayı durdurmak ve çeviriyi sonlandırmak için basın",
       "startTooltipText": "Dinlemeyi başlat",
       "stopTooltipText": "Dinlemeyi durdur"
+    },
+    "blockeditor": {
+      "paragraph": "Bir şey yazın veya '/' komutları için kullanın.",
+      "heading1": "Başlık 1",
+      "heading2": "Başlık 2",
+      "heading3": "Başlık 3",
+      "heading4": "Başlık 4",
+      "toggleParagraph": "Paragrafı değiştir",
+      "toggleHeading1": "Başlık 1'i değiştir",
+      "toggleHeading2": "Başlık 2'yi değiştir",
+      "toggleHeading3": "Başlık 3'ü değiştir",
+      "toggleHeading4": "Başlık 4'ü değiştir",
+      "bulletList": "Öğe ekle",
+      "numberedList": "Öğe ekle",
+      "checkList": "Yapılacaklar listesi",
+      "quote": "Alıntı yazın",
+      "callout": "Not yazın"
     }
   }
 }

@@ -3834,6 +3834,23 @@
       "stopAriaLabel": "Stisknutím zastavíte čtení a ukončíte přepis",
       "startTooltipText": "Začněte poslouchat",
       "stopTooltipText": "Přestaň poslouchat"
+    },
+    "blockeditor": {
+      "paragraph": "Napište něco nebo použijte '/' pro příkazy.",
+      "heading1": "Nadpis 1",
+      "heading2": "Nadpis 2",
+      "heading3": "Nadpis 3",
+      "heading4": "Nadpis 4",
+      "toggleParagraph": "Přepnout odstavec",
+      "toggleHeading1": "Přepnout nadpis 1",
+      "toggleHeading2": "Přepnout nadpis 2",
+      "toggleHeading3": "Přepnout nadpis 3",
+      "toggleHeading4": "Přepnout nadpis 4",
+      "bulletList": "Přidat položku",
+      "numberedList": "Přidat položku",
+      "checkList": "Úkol",
+      "quote": "Napište citaci",
+      "callout": "Napište upozornění"
     }
   }
 }

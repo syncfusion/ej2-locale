@@ -3838,6 +3838,23 @@
       "stopAriaLabel": "말을 멈추고 전사를 종료하려면 누르세요",
       "startTooltipText": "듣기 시작",
       "stopTooltipText": "듣기 중지"
+    },
+    "blockeditor": {
+      "paragraph": "무언가를 작성하거나 '/'로 명령을 입력하세요.",
+      "heading1": "제목 1",
+      "heading2": "제목 2",
+      "heading3": "제목 3",
+      "heading4": "제목 4",
+      "toggleParagraph": "토글 단락",
+      "toggleHeading1": "토글 제목 1",
+      "toggleHeading2": "토글 제목 2",
+      "toggleHeading3": "토글 제목 3",
+      "toggleHeading4": "토글 제목 4",
+      "bulletList": "항목 추가",
+      "numberedList": "항목 추가",
+      "checkList": "할 일",
+      "quote": "인용문을 작성하세요",
+      "callout": "주의 사항을 작성하세요"
     }
   }
 }

@@ -3834,6 +3834,23 @@
       "stopAriaLabel": "Paina lopettaaksesi puhumisen ja lopettaaksesi transkription",
       "startTooltipText": "Aloita kuuntelu",
       "stopTooltipText": "Lopeta kuuntelu"
+    },
+    "blockeditor": {
+      "paragraph": "Kirjoita jotain tai käytä '/' komentoihin.",
+      "heading1": "Otsikko 1",
+      "heading2": "Otsikko 2",
+      "heading3": "Otsikko 3",
+      "heading4": "Otsikko 4",
+      "toggleParagraph": "Vaihda kappale",
+      "toggleHeading1": "Vaihda otsikko 1",
+      "toggleHeading2": "Vaihda otsikko 2",
+      "toggleHeading3": "Vaihda otsikko 3",
+      "toggleHeading4": "Vaihda otsikko 4",
+      "bulletList": "Lisää kohde",
+      "numberedList": "Lisää kohde",
+      "checkList": "Tehtävä",
+      "quote": "Kirjoita lainaus",
+      "callout": "Kirjoita huomautus"
     }
   }
 }

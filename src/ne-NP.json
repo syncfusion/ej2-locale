@@ -3837,6 +3837,23 @@
       "stopAriaLabel": "बोल्न रोक्न र लिप्यन्तरण अन्त्य गर्न थिच्नुहोस्",
       "startTooltipText": "सुन्न सुरु गर्नुहोस्",
       "stopTooltipText": "सुन्न रोक्नुहोस्"
+    },
+    "blockeditor": {
+      "paragraph": "केही लेख्नुहोस् वा '/' आदेशहरूका लागि प्रयोग गर्नुहोस्।",
+      "heading1": "शीर्षक 1",
+      "heading2": "शीर्षक 2",
+      "heading3": "शीर्षक 3",
+      "heading4": "शीर्षक 4",
+      "toggleParagraph": "टगल अनुच्छेद",
+      "toggleHeading1": "टगल शीर्षक 1",
+      "toggleHeading2": "टगल शीर्षक 2",
+      "toggleHeading3": "टगल शीर्षक 3",
+      "toggleHeading4": "टगल शीर्षक 4",
+      "bulletList": "वस्तु थप्नुहोस्",
+      "numberedList": "वस्तु थप्नुहोस्",
+      "checkList": "गर्नुपर्ने कार्य",
+      "quote": "उद्धरण लेख्नुहोस्",
+      "callout": "टिप्पणी लेख्नुहोस्"
     }
   }
 }

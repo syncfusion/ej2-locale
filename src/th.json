@@ -3835,6 +3835,23 @@
       "stopAriaLabel": "กดเพื่อหยุดพูดและจบการถอดความ",
       "startTooltipText": "เริ่มฟัง",
       "stopTooltipText": "หยุดฟัง"
+    },
+    "blockeditor": {
+      "paragraph": "เขียนบางอย่างหรือ '/' สำหรับคำสั่ง",
+      "heading1": "หัวข้อ 1",
+      "heading2": "หัวข้อ 2",
+      "heading3": "หัวข้อ 3",
+      "heading4": "หัวข้อ 4",
+      "toggleParagraph": "สลับย่อหน้า",
+      "toggleHeading1": "สลับหัวข้อ 1",
+      "toggleHeading2": "สลับหัวข้อ 2",
+      "toggleHeading3": "สลับหัวข้อ 3",
+      "toggleHeading4": "สลับหัวข้อ 4",
+      "bulletList": "เพิ่มรายการ",
+      "numberedList": "เพิ่มรายการ",
+      "checkList": "รายการที่ต้องทำ",
+      "quote": "เขียนคำพูด",
+      "callout": "เขียนหมายเหตุ"
     }
   }
 }

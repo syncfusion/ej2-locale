@@ -3837,6 +3837,23 @@
       "stopAriaLabel": "Press to stop speaking and end transcription",
       "startTooltipText": "Start listening",
       "stopTooltipText": "Stop listening"
+    },
+    "blockeditor": {
+      "paragraph": "Write something or ‘/’ for commands.",
+      "heading1": "Heading 1",
+      "heading2": "Heading 2",
+      "heading3": "Heading 3",
+      "heading4": "Heading 4",
+      "toggleParagraph": "Toggle Paragraph",
+      "toggleHeading1": "Toggle Heading 1",
+      "toggleHeading2": "Toggle Heading 2",
+      "toggleHeading3": "Toggle Heading 3",
+      "toggleHeading4": "Toggle Heading 4",
+      "bulletList": "Add item",
+      "numberedList": "Add item",
+      "checkList": "Todo",
+      "quote": "Write a quote",
+      "callout": "Write a callout"
     }
   }
 }
