@@ -3713,6 +3713,9 @@
       "stopAriaLabel": "برای متوقف کردن صحبت و پایان رونویسی فشار دهید",
       "startTooltipText": "شروع گوش دادن",
       "stopTooltipText": "توقف گوش دادن"
+    },
+    "splitter": {
+      "ToggleNavigation": "ناوبری را تغییر دهید"
     }
   }
 }

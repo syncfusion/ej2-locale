@@ -3835,6 +3835,9 @@
       "stopAriaLabel": "Nhấn để dừng nói và kết thúc chuyển đổi lời nói",
       "startTooltipText": "Bắt đầu nghe",
       "stopTooltipText": "Dừng nghe"
+    },
+    "splitter": {
+      "ToggleNavigation": "Chuyển đổi điều hướng"
     }
   }
 }

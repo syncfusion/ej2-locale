@@ -3838,6 +3838,9 @@
       "stopAriaLabel": "按下停止说话并结束转录",
       "startTooltipText": "开始聆听",
       "stopTooltipText": "停止聆听"
+    },
+    "splitter": {
+      "ToggleNavigation": "切换导航"
     }
   }
 }

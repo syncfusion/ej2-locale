@@ -3834,6 +3834,9 @@
       "stopAriaLabel": "اضغط لإيقاف التحدث وإنهاء النسخ",
       "startTooltipText": "ابدأ الاستماع",
       "stopTooltipText": "توقف عن الاستماع"
+    },
+    "splitter": {
+      "ToggleNavigation": "تبديل التنقل"
     }
   }
 }

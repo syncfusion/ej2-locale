@@ -3835,6 +3835,9 @@
       "stopAriaLabel": "Nyomja meg a beszélgetés leállításához és az átírás befejezéséhez",
       "startTooltipText": "Hallgatás megkezdése",
       "stopTooltipText": "Hallgatás leállítása"
+    },
+    "splitter": {
+      "ToggleNavigation": "Kapcsolja be a navigációt"
     }
   }
 }

@@ -3835,6 +3835,9 @@
       "stopAriaLabel": "Stlačte na zastavenie hovorenia a ukončenie prepisu",
       "startTooltipText": "Začať počúvanie",
       "stopTooltipText": "Zastaviť počúvanie"
+    },
+    "splitter": {
+      "ToggleNavigation": "Prepnúť navigáciu"
     }
   }
 }

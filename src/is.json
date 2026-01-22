@@ -3660,6 +3660,9 @@
       "stopAriaLabel": "Ýttu til að hætta að tala og ljúka afritun",
       "startTooltipText": "Byrjaðu að hlusta",
       "stopTooltipText": "Hættu að hlusta"
+    },
+    "splitter": {
+      "ToggleNavigation": "Skiptu um leiðsögn"
     }
   }
 }
