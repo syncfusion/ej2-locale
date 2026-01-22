@@ -3834,6 +3834,9 @@
       "stopAriaLabel": "Paina lopettaaksesi puhumisen ja lopettaaksesi transkription",
       "startTooltipText": "Aloita kuuntelu",
       "stopTooltipText": "Lopeta kuuntelu"
+    },
+    "splitter": {
+      "ToggleNavigation": "Vaihda navigointi"
     }
   }
 }

@@ -3834,6 +3834,9 @@
       "stopAriaLabel": "Stisknutím zastavíte čtení a ukončíte přepis",
       "startTooltipText": "Začněte poslouchat",
       "stopTooltipText": "Přestaň poslouchat"
+    },
+    "splitter": {
+      "ToggleNavigation": "Přepnout navigaci"
     }
   }
 }

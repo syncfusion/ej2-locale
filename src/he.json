@@ -3835,6 +3835,9 @@
       "stopAriaLabel": "לחץ כדי להפסיק לדבר ולסיים את התמלול",
       "startTooltipText": "התחל להאזין",
       "stopTooltipText": "הפסק להאזין"
+    },
+    "splitter": {
+      "ToggleNavigation": "החלף ניווט"
     }
   }
 }

@@ -3835,6 +3835,9 @@
       "stopAriaLabel": "Tekan untuk berhenti berbicara dan mengakhiri transkripsi",
       "startTooltipText": "Mulai mendengarkan",
       "stopTooltipText": "Berhenti mendengarkan"
+    },
+    "splitter": {
+      "ToggleNavigation": "Alihkan Navigasi"
     }
   }
 }

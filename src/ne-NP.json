@@ -3837,6 +3837,9 @@
       "stopAriaLabel": "बोल्न रोक्न र लिप्यन्तरण अन्त्य गर्न थिच्नुहोस्",
       "startTooltipText": "सुन्न सुरु गर्नुहोस्",
       "stopTooltipText": "सुन्न रोक्नुहोस्"
+    },
+    "splitter": {
+      "ToggleNavigation": "नेभिगेसन टगल गर्नुहोस्"
     }
   }
 }

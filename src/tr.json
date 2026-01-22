@@ -3835,6 +3835,9 @@
       "stopAriaLabel": "Konuşmayı durdurmak ve çeviriyi sonlandırmak için basın",
       "startTooltipText": "Dinlemeyi başlat",
       "stopTooltipText": "Dinlemeyi durdur"
+    },
+    "splitter": {
+      "ToggleNavigation": "Gezinmeyi Değiştir"
     }
   }
 }

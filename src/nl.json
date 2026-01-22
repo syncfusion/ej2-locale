@@ -3839,6 +3839,9 @@
       "stopAriaLabel": "Druk om te stoppen met spreken en het transcriberen te beëindigen",
       "startTooltipText": "Begin met luisteren",
       "stopTooltipText": "Stop met luisteren"
+    },
+    "splitter": {
+      "ToggleNavigation": "Schakel navigatie in"
     }
   }
 }

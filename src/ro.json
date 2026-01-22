@@ -3838,6 +3838,9 @@
       "stopAriaLabel": "Apasă pentru a opri vorbirea și a finaliza transcrierea",
       "startTooltipText": "Începe ascultarea",
       "stopTooltipText": "Oprește ascultarea"
+    },
+    "splitter": {
+      "ToggleNavigation": "Comutați navigarea"
     }
   }
 }

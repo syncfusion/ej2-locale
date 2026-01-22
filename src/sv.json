@@ -3836,6 +3836,9 @@
       "stopAriaLabel": "Tryck för att sluta tala och avsluta transkriberingen",
       "startTooltipText": "Börja lyssna",
       "stopTooltipText": "Sluta lyssna"
+    },
+    "splitter": {
+      "ToggleNavigation": "Växla Navigation"
     }
   }
 }

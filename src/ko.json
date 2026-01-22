@@ -3838,6 +3838,9 @@
       "stopAriaLabel": "말을 멈추고 전사를 종료하려면 누르세요",
       "startTooltipText": "듣기 시작",
       "stopTooltipText": "듣기 중지"
+    },
+    "splitter": {
+      "ToggleNavigation": "탐색 전환"
     }
   }
 }

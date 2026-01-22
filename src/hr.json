@@ -3835,6 +3835,9 @@
       "stopAriaLabel": "Pritisnite za prestanak govora i završetak prijepisa",
       "startTooltipText": "Početak osluškivanja",
       "stopTooltipText": "Prestanak osluškivanja"
+    },
+    "splitter": {
+      "ToggleNavigation": "Uključi/isključi navigaciju"
     }
   }
 }

@@ -3835,6 +3835,9 @@
       "stopAriaLabel": "話すのを止めて文字起こしを終了するには押してください",
       "startTooltipText": "リスニングを開始",
       "stopTooltipText": "リスニングを停止"
+    },
+    "splitter": {
+      "ToggleNavigation": "ナビゲーションを切り替え"
     }
   }
 }
