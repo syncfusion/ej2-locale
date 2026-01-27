@@ -1794,6 +1794,7 @@
       "reportList": "리포트리스트",
       "removeConfirm": "이 보고서를 삭제하시겠습니까?",
       "emptyReport": "보고서가 없습니다 !!",
+      "columnChart": "열",
       "bar": "바",
       "line": "선",
       "area": "영역",

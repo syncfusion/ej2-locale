@@ -1793,6 +1793,7 @@
       "reportList": "Liste des rapports",
       "removeConfirm": "Voulez-vous vraiment supprimer ce rapport ?",
       "emptyReport": "Aucun rapport trouvé !",
+      "columnChart": "Colonne",
       "bar": "Barre",
       "line": "Ligne",
       "area": "Zone",

@@ -1791,6 +1791,7 @@
       "reportList": "レポート一覧",
       "removeConfirm": "このレポートを削除してもよろしいですか？",
       "emptyReport": "レポートが見つかりません!!",
+      "columnChart": "カラム",
       "bar": "バー",
       "line": "ライン",
       "area": "範囲",

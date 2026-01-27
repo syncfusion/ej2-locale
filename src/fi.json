@@ -1791,6 +1791,7 @@
       "reportList": "Raporttiluettelo",
       "removeConfirm": "Haluatko varmasti poistaa tämän raportin?",
       "emptyReport": "Raportteja ei löytynyt!",
+      "columnChart": "sarake",
       "bar": "Baari",
       "line": "Linja",
       "area": "alue",
