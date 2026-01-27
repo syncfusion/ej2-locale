@@ -1791,6 +1791,7 @@
       "reportList": "Lista de relatórios",
       "removeConfirm": "Tem certeza de que deseja excluir este relatório?",
       "emptyReport": "Nenhum relatório encontrado!",
+      "columnChart": "Coluna",
       "bar": "Barra",
       "line": "Linha",
       "area": "Área",

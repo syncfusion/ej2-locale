@@ -1793,6 +1793,7 @@
       "reportList": "Lista de informes",
       "removeConfirm": "¿Está seguro de que desea eliminar este informe?",
       "emptyReport": "¡No se encontraron informes!",
+      "columnChart": "Columna",
       "bar": "Barra",
       "line": "Línea",
       "area": "Zona",

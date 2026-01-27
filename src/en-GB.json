@@ -1793,6 +1793,7 @@
       "reportList": "Report list",
       "removeConfirm": "Are you sure want to delete this report?",
       "emptyReport": "No reports found!!",
+      "columnChart": "Column",
       "bar": "Bar",
       "line": "Line",
       "area": "Area",
