@@ -2304,6 +2304,7 @@
       "Shading": "Skygging",
       "Fill": "Fylla",
       "Apply To": "Eiga við um",
+      "Border Style information": "Valið rammasnið er ekki studd til að sýna í þessum ritli, svo það verður sýnt eins og föst rammar. Hins vegar verður valið rammasnið haldið í skjölunum og mun birtast rétt þegar skjalið er opnað í öðrum Word-skoðarum/ritli.",
       "Table Properties": "Tafla Eiginleikar",
       "Cell Options": "Cell Options",
       "Table Options": "Töfluvalkostir",

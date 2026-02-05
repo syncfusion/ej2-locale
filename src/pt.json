@@ -2483,6 +2483,7 @@
       "Shading": "Sombreamento",
       "Fill": "Preencher",
       "Apply To": "Aplicar a",
+      "Border Style information": "O estilo de borda selecionado não pode ser exibido neste editor, portanto será exibido como bordas sólidas. No entanto, o estilo de borda selecionado será mantido no documento e será renderizado com precisão quando o documento for aberto em outros visualizadores/editores do Word.",
       "Table Properties": "Propriedades da tabela",
       "Cell Options": "Opções de célula",
       "Table Options": "Opções de tabela",

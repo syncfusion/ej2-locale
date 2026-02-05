@@ -2481,6 +2481,7 @@
       "Shading": "gölgeleme",
       "Fill": "dolgu",
       "Apply To": "Başvurmak",
+      "Border Style information": "Seçilen kenarlık stilinin bu düzenleyicide görüntülenmesi desteklenmediğinden düz kenarlıklar gibi görüntülenecektir. Ancak, seçilen kenarlık stili belgede korunacak ve belge diğer Word Görüntüleyici/Düzenleyicilerde açıldığında doğru şekilde işlenecektir.",
       "Table Properties": "Tablo Özellikleri",
       "Cell Options": "Hücre Seçenekleri",
       "Table Options": "Tablo Seçenekleri",

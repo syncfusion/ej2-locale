@@ -2484,6 +2484,7 @@
       "Shading": "Shading",
       "Fill": "Fill",
       "Apply To": "Apply to",
+      "Border Style information": "The selected border style is not supported to display in this editor, so it will be displayed like solid borders. However, the selected border style will be maintained in the document and will render accurately when the document is opened in other Word Viewer/Editors.",
       "Table Properties": "Table Properties",
       "Cell Options": "Cell Options",
       "Table Options": "Table Options",
@@ -3817,13 +3818,7 @@
       "linkInsert": "Insert",
       "linkRemove": "Remove",
       "linkCancel": "Cancel",
-      "codeCopyTooltip": "Copy code",
-      "toggleParagraph": "Toggle Paragraph",
-      "toggleHeading1": "Toggle Heading 1",
-      "toggleHeading2": "Toggle Heading 2",
-      "toggleHeading3": "Toggle Heading 3",
-      "toggleHeading4": "Toggle Heading 4",
-      "checkList": "Todo"
+      "codeCopyTooltip": "Copy code"
     },
     "speech-to-text": {
       "abortedError": "Speech recognition was aborted.",

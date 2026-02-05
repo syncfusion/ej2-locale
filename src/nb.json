@@ -2481,6 +2481,7 @@
       "Shading": "Skyggelegging",
       "Fill": "Fylle",
       "Apply To": "Søke på",
+      "Border Style information": "Den valgte kantstilen støttes ikke for visning i denne editoren, så den vil vises som solide kanter. Imidlertid vil den valgte kantstilen opprettholdes i dokumentet og vil gjengis nøyaktig når dokumentet åpnes i andre Word Viewer/redigerere.",
       "Table Properties": "Tabellegenskaper",
       "Cell Options": "Cellealternativer",
       "Table Options": "Tabellalternativer",

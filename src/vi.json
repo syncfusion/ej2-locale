@@ -2481,6 +2481,7 @@
       "Shading": "Bóng",
       "Fill": "Lấp đầy",
       "Apply To": "Nộp đơn",
+      "Border Style information": "Kiểu đường viền đã chọn không được hỗ trợ hiển thị trong trình chỉnh sửa này, vì vậy nó sẽ được hiển thị dưới dạng đường viền liền nét. Tuy nhiên, kiểu đường viền đã chọn sẽ được duy trì trong tài liệu và sẽ hiển thị chính xác khi tài liệu được mở trong Trình xem/Trình soạn thảo Word khác.",
       "Table Properties": "Bảng thuộc tính",
       "Cell Options": "Tùy chọn di động",
       "Table Options": "Tùy chọn bảng",

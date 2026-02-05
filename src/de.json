@@ -2482,6 +2482,7 @@
       "Shading": "Schattierung",
       "Fill": "Füllen",
       "Apply To": "Gelten",
+      "Border Style information": "Die Anzeige des ausgewählten Rahmenstils wird in diesem Editor nicht unterstützt, daher wird er als durchgezogener Rahmen angezeigt. Der ausgewählte Rahmenstil bleibt jedoch im Dokument erhalten und wird korrekt gerendert, wenn das Dokument in anderen Word Viewern/Editoren geöffnet wird.",
       "Table Properties": "Tabelleneigenschaften",
       "Cell Options": "Zellenoptionen",
       "Table Options": "Tabellenoptionen",

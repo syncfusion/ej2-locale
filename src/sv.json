@@ -2482,6 +2482,7 @@
       "Shading": "Skuggning",
       "Fill": "Fylla",
       "Apply To": "Ansöka till",
+      "Border Style information": "Den valda kantstilen stöds inte att visa i den här redigeraren, så den kommer att visas som heldragna kanter. Den valda kantstilen kommer dock att bibehållas i dokumentet och återges korrekt när dokumentet öppnas i andra Word Viewer/redigerare.",
       "Table Properties": "Tabellegenskaper",
       "Cell Options": "Cellalternativ",
       "Table Options": "Tabellalternativ",

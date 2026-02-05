@@ -2481,6 +2481,7 @@
       "Shading": "teduhan",
       "Fill": "Isi",
       "Apply To": "Memohon kepada",
+      "Border Style information": "Gaya sempadan yang dipilih tidak disokong untuk dipaparkan dalam penyunting ini, jadi ia akan dipaparkan seperti sempadan pepejal. Walau bagaimanapun, gaya sempadan yang dipilih akan dikekalkan dalam dokumen dan akan dipaparkan dengan tepat apabila dokumen dibuka dalam Penonton/Penyunting Word lain.",
       "Table Properties": "Harta Jadual",
       "Cell Options": "Pilihan Sel",
       "Table Options": "Pilihan Jadual",

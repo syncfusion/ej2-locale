@@ -2484,6 +2484,7 @@
       "Shading": "Sombreado",
       "Fill": "Llenar",
       "Apply To": "Aplicar a",
+      "Border Style information": "El estilo de borde seleccionado no se puede mostrar en este editor, por lo que se mostrará como bordes sólidos. Sin embargo, el estilo de borde seleccionado se mantendrá en el documento y se mostrará con precisión cuando el documento se abra en otros visores/editores de Word.",
       "Table Properties": "Propiedades de tabla",
       "Cell Options": "Opciones de celda",
       "Table Options": "Opciones de tabla",

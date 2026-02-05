@@ -2481,6 +2481,7 @@
       "Shading": "tiene",
       "Fill": "Vyplňte",
       "Apply To": "Aplikovať na",
+      "Border Style information": "Vybraný štýl ohraničenia nie je v tomto editore podporovaný, takže bude zobrazený ako pevné ohraničenie. Vybraný štýl ohraničenia sa však zachová v dokumente a bude sa správne zobrazovať pri otvorení dokumentu v iných zobrazovačoch alebo editoroch Word.",
       "Table Properties": "Vlastnosti tabuľky",
       "Cell Options": "Možnosti bunky",
       "Table Options": "Možnosti tabuľky",

@@ -2484,6 +2484,7 @@
       "Shading": "Ombres",
       "Fill": "Remplir",
       "Apply To": "Postuler à",
+      "Border Style information": "Le style de bordure sélectionné n'est pas pris en charge pour s'afficher dans cet éditeur, il sera donc affiché comme des bordures pleines. Cependant, le style de bordure sélectionné sera conservé dans le document et s'affichera avec précision lorsque le document sera ouvert dans d'autres visualiseurs/éditeurs Word.",
       "Table Properties": "Propriétés du tableau",
       "Cell Options": "Options de cellule",
       "Table Options": "Options de table",
