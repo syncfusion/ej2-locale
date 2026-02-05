@@ -2483,6 +2483,7 @@
       "Shading": "底纹",
       "Fill": "充满",
       "Apply To": "适用于",
+      "Border Style information": "所选边框样式不支持在该编辑器中显示，因此它将显示为实心边框。但是，所选边框样式将保留在文档中，并且在其他 Word 查看器/编辑器中打开文档时将准确呈现。",
       "Table Properties": "表格属性",
       "Cell Options": "单元选项",
       "Table Options": "表格选项",

@@ -2481,6 +2481,7 @@
       "Shading": "Sjenčanje",
       "Fill": "Napunite",
       "Apply To": "Prijaviti se",
+      "Border Style information": "Odabrani stil obruba nije podržan za prikaz u ovom uređivaču, pa će biti prikazan kao puni obrubi. Međutim, odabrani stil obruba zadržat će se u dokumentu i točno će se prikazati kada se dokument otvori u drugom Word Vieweru/uređivaču.",
       "Table Properties": "Svojstva tablice",
       "Cell Options": "Opcije ćelije",
       "Table Options": "Opcije tablice",

@@ -2484,6 +2484,7 @@
       "Shading": "농담",
       "Fill": "가득 따르다",
       "Apply To": "적용하다",
+      "Border Style information": "선택한 테두리 스타일은 이 편집기에서 표시하는 것을 지원하지 않으므로 실선 테두리처럼 표시됩니다. 그러나 선택한 테두리 스타일은 문서에서 유지되며 문서를 다른 Word 뷰어/편집기에서 열 때 정확하게 렌더링됩니다.",
       "Table Properties": "테이블 속성",
       "Cell Options": "셀 옵션",
       "Table Options": "테이블 옵션",

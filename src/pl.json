@@ -2481,6 +2481,7 @@
       "Shading": "Zacienienie",
       "Fill": "Napełnić",
       "Apply To": "Zastosuj do",
+      "Border Style information": "Wybrany styl obramowania nie jest obsługiwany w tym edytorze, dlatego będzie wyświetlany jako pełne obramowanie. Jednakże wybrany styl obramowania zostanie zachowany w dokumencie i będzie poprawnie renderowany, gdy dokument zostanie otwarty w innej przeglądarce/edytorze Word.",
       "Table Properties": "Właściwości tabeli",
       "Cell Options": "Opcje komórek",
       "Table Options": "Opcje tabeli",

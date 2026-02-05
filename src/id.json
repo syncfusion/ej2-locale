@@ -2481,6 +2481,7 @@
       "Shading": "Bayangan",
       "Fill": "Mengisi",
       "Apply To": "Berlaku untuk",
+      "Border Style information": "Gaya batas yang dipilih tidak didukung untuk ditampilkan dalam editor ini, sehingga akan ditampilkan seperti batas padat. Namun, gaya batas yang dipilih akan dipertahankan dalam dokumen dan akan ditampilkan secara akurat saat dokumen dibuka di Penampil/Editor Word lainnya.",
       "Table Properties": "Properti Tabel",
       "Cell Options": "Opsi Sel",
       "Table Options": "Opsi Tabel",

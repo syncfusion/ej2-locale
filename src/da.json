@@ -2481,6 +2481,7 @@
       "Shading": "Skygge",
       "Fill": "Fylde",
       "Apply To": "Ansøg til",
+      "Border Style information": "Den valgte kantstil understøttes ikke til at blive vist i denne editor, så den vil blive vist som faste rammer. Den valgte kantstil bibeholdes dog i dokumentet og gengives nøjagtigt, når dokumentet åbnes i andre Word Viewer/editorer.",
       "Table Properties": "Tabelegenskaber",
       "Cell Options": "Celleindstillinger",
       "Table Options": "Tabelindstillinger",

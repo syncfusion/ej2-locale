@@ -2484,6 +2484,7 @@
       "Shading": "Umbrire",
       "Fill": "Completati",
       "Apply To": "Aplica pentru",
+      "Border Style information": "Stilul de chenar selectat nu este acceptat pentru afișare în acest editor, așa că va fi afișat ca niște chenaruri solide. Cu toate acestea, stilul de chenar selectat va fi menținut în document și va fi redat cu acuratețe atunci când documentul este deschis în alte Vizualizare/Editoare Word.",
       "Table Properties": "Proprietățile tabelului",
       "Cell Options": "Opțiuni celulare",
       "Table Options": "Opțiuni de tabel",

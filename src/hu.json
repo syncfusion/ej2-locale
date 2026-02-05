@@ -2481,6 +2481,7 @@
       "Shading": "Árnyékolás",
       "Fill": "Tölt",
       "Apply To": "Vonatkoznak",
+      "Border Style information": "A kiválasztott keretstílus nem támogatott a szerkesztőben való megjelenítéshez, ezért szilárd keretként lesz megjelenítve. A kiválasztott keretstílus azonban megmarad a dokumentumban, és pontosan fog megjelenni, amikor a dokumentumot más Word-megjelenítőkben vagy szerkesztőkben nyitják meg.",
       "Table Properties": "Táblázat tulajdonságai",
       "Cell Options": "Cellabeállítások",
       "Table Options": "Táblázat opciók",

@@ -2481,6 +2481,7 @@
       "Shading": "Shaduw",
       "Fill": "Opvulling",
       "Apply To": "Toepassen op",
+      "Border Style information": "De geselecteerde randstijl wordt niet ondersteund om in deze editor weer te geven, dus deze wordt weergegeven als vaste randen. De geselecteerde randstijl blijft echter behouden in het document en wordt correct weergegeven wanneer het document in andere Word-viewers/editors wordt geopend.",
       "Table Properties": "Tabeleigenschappen",
       "Cell Options": "Celopties",
       "Table Options": "Tabel opties",

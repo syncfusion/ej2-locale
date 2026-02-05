@@ -2481,6 +2481,7 @@
       "Shading": "Stínování",
       "Fill": "Vyplnit",
       "Apply To": "Platit pro",
+      "Border Style information": "Zobrazení vybraného stylu ohraničení v tomto editoru není podporováno, takže bude zobrazeno jako plné ohraničení. Vybraný styl ohraničení však bude v dokumentu zachován a při otevření dokumentu v jiném prohlížeči/editorech Wordu se vykreslí přesně.",
       "Table Properties": "Vlastnosti tabulky",
       "Cell Options": "Možnosti buňky",
       "Table Options": "Možnosti tabulky",

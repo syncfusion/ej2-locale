@@ -2481,6 +2481,7 @@
       "Shading": "Varjostus",
       "Fill": "Täyttää",
       "Apply To": "Hakea",
+      "Border Style information": "Valitun reunatyylin näyttämistä ei tueta tässä editorissa, joten se näytetään yhtenäisinä reunuksina. Valittu reunatyyli säilyy kuitenkin asiakirjassa ja hahmonnetaan tarkasti, kun asiakirja avataan muissa Word Viewerissa/editorissa.",
       "Table Properties": "Taulukon ominaisuudet",
       "Cell Options": "Solun asetukset",
       "Table Options": "Taulukkovaihtoehdot",

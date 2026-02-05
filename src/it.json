@@ -2482,6 +2482,7 @@
       "Shading": "Ombreggiatura",
       "Fill": "Riempimento",
       "Apply To": "Applica a",
+      "Border Style information": "Lo stile del bordo selezionato non è supportato per la visualizzazione in questo editor, quindi verrà visualizzato come bordi continui. Tuttavia, lo stile del bordo selezionato verrà mantenuto nel documento e verrà visualizzato in modo accurato quando il documento viene aperto in altri visualizzatori/editor di Word.",
       "Table Properties": "Proprietà tabella",
       "Cell Options": "Opzioni cella",
       "Table Options": "Opzioni tabella",
