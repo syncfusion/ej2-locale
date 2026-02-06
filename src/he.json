@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} אינו נגיש. אתה זקוק להרשאה לביצוע הפעולה {1}.",
       "Network-Error": "נכשל בהעברת XMLHTTP בקשה: טעינה נכשלה",
-      "Server-Error": "ServerError: תגובה לא חוקית מ-"
+      "Server-Error": "ServerError: תגובה לא חוקית מ-",
+      "File": "קובץ",
+      "Folder": "תיקיה"
     },
     "calendar": {
       "today": "היום"

@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} er ikke tilgjengelig. Du trenger tillatelse til å utføre {1} -handlingen.",
       "Network-Error": "Kunne ikke sende XMLHTTPRequest: Kunne ikke lastes",
-      "Server-Error": "Serverfeil: Ugyldig svar fra"
+      "Server-Error": "Serverfeil: Ugyldig svar fra",
+      "File": "Fil",
+      "Folder": "Mappe"
     },
     "calendar": {
       "today": "I dag"

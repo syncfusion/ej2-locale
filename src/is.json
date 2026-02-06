@@ -869,7 +869,9 @@
       "KB": "KB",
       "Access-Message": "{0} er ekki aðgengilegt. Þú þarft leyfi til að framkvæma aðgerðina {1}.",
       "Network-Error": "NetworkError: Mistókst að senda á XMLHTTPRequest: Mistókst að hlaða",
-      "Server-Error": "ServerVilla: Ógilt svar frá"
+      "Server-Error": "ServerVilla: Ógilt svar frá",
+      "File": "Skrá",
+      "Folder": "Mappa"
     },
     "calendar": {
       "today": "Í dag"

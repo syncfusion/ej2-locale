@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} är inte tillgängligt. Du behöver tillåtelse för att utföra åtgärden {1}.",
       "Network-Error": "Det gick inte att skicka XMLHTTPRequest: Det gick inte att ladda",
-      "Server-Error": "Serverfel: Ogiltigt svar från"
+      "Server-Error": "Serverfel: Ogiltigt svar från",
+      "File": "Fil",
+      "Folder": "Mapp"
     },
     "calendar": {
       "today": "Idag"

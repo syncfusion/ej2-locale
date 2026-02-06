@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} nu este accesibil. Aveți nevoie de permisiunea pentru a efectua acțiunea {1}.",
       "Network-Error": "Eroare la trimiterea pe XMLHTTPRequest: Nu a putut fi încărcat",
-      "Server-Error": "Eroare de server: răspuns nevalid din"
+      "Server-Error": "Eroare de server: răspuns nevalid din",
+      "File": "Fișier",
+      "Folder": "Dosar"
     },
     "calendar": {
       "today": "Astăzi"

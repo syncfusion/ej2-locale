@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} nie je prístupný. Na vykonanie akcie {1} potrebujete povolenie.",
       "Network-Error": "Nepodarilo sa odoslať na XMLHTTPRequest: Nepodarilo sa načítať",
-      "Server-Error": "Chyba servera: Neplatná odpoveď od používateľa"
+      "Server-Error": "Chyba servera: Neplatná odpoveď od používateľa",
+      "File": "Súbor",
+      "Folder": "Priečinok"
     },
     "calendar": {
       "today": "dnes"

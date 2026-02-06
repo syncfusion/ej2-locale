@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} não está acessível. Você precisa de permissão para executar a ação {1}.",
       "Network-Error": "Falha ao enviar XMLHTTPRequest: falha ao carregar",
-      "Server-Error": "Erro de servidor: resposta inválida de"
+      "Server-Error": "Erro de servidor: resposta inválida de",
+      "File": "Arquivo",
+      "Folder": "Pasta"
     },
     "calendar": {
       "today": "Hoje"

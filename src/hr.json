@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} nije dostupan. Za izvršavanje {1} radnje potrebna vam je dozvola.",
       "Network-Error": "Nije uspjelo slanje na XMLHTTPRequest: Učitavanje nije uspjelo",
-      "Server-Error": "ServerError: Nevažeći odgovor od"
+      "Server-Error": "ServerError: Nevažeći odgovor od",
+      "File": "Datoteka",
+      "Folder": "Mapa"
     },
     "calendar": {
       "today": "Danas"

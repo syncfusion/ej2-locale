@@ -921,7 +921,9 @@
       "KB": "كيلوبايت",
       "Access-Message": "{0} لا يمكن الوصول إليه. تحتاج إلى إذن لتنفيذ الإجراء {1}.",
       "Network-Error": "NetworkError: فشل الإرسال على XMLHTTPRequest: فشل التحميل",
-      "Server-Error": "ServerError: استجابة غير صالحة من"
+      "Server-Error": "ServerError: استجابة غير صالحة من",
+       "File": "ملف",
+       "Folder": "مجلد"
     },
     "calendar": {
       "today": "اليوم"
