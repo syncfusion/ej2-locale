@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} jest niedostępny. Potrzebujesz uprawnień do wykonania akcji {1}.",
       "Network-Error": "Nie można wysłać XMLHTTPRequest: Nie udało się załadować",
-      "Server-Error": "Błąd serwera: Niepoprawna odpowiedź od"
+      "Server-Error": "Błąd serwera: Niepoprawna odpowiedź od",
+      "File": "Plik",
+      "Folder": "Folder"
     },
     "calendar": {
       "today": "Dzisiaj"

@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0}にはアクセスできません。 {1}アクションを実行するには権限が必要です。",
       "Network-Error": "XMLHTTPRequestでの送信に失敗しました：ロードに失敗しました",
-      "Server-Error": "サーバーエラー：からの無効な応答"
+      "Server-Error": "サーバーエラー：からの無効な応答",
+      "File": "ファイル",
+      "Folder": "フォルダー"
     },
     "calendar": {
       "today": "今日"

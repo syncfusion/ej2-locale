@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "A (z) {0} nem érhető el. A {1} művelet végrehajtásához engedélyre van szüksége.",
       "Network-Error": "Az XMLHTTPRequest küldése nem sikerült: betöltés nem sikerült",
-      "Server-Error": "ServerError: Érvénytelen válasz a következőtől:"
+      "Server-Error": "ServerError: Érvénytelen válasz a következőtől:",
+      "File": "Fájl",
+      "Folder": "Mappa"
     },
     "calendar": {
       "today": "Ma"

@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} không truy cập được. Bạn cần có quyền để thực hiện hành động {1}.",
       "Network-Error": "Không thể gửi trên XMLHTTPRequest: Không thể tải",
-      "Server-Error": "ServerError: Phản hồi không hợp lệ từ"
+      "Server-Error": "ServerError: Phản hồi không hợp lệ từ",
+      "File": "Tệp",
+      "Folder": "Thư mục"
     },
     "calendar": {
       "today": "Hôm nay"

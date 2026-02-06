@@ -921,7 +921,9 @@
       "KB": "知识库",
       "Access-Message": "{0}無法訪問。您需要權限才能執行{1}操作。",
       "Network-Error": "NetworkError：无法在XMLHTTP上发送请求：无法加载",
-      "Server-Error": "ServerError：来自的无效响应"
+      "Server-Error": "ServerError：来自的无效响应",
+      "File": "文件",
+      "Folder": "文件夹"
     },
     "calendar": {
       "today": "今天"

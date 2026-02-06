@@ -924,7 +924,9 @@
       "KB": "KB",
       "Access-Message": "{0}에 액세스 할 수 없습니다. {1} 조치를 수행하려면 권한이 필요합니다.",
       "Network-Error": "XMLHTTPRequest를 보내지 못했습니다 :로드하지 못했습니다",
-      "Server-Error": "서버 오류 : 잘못된 응답"
+      "Server-Error": "서버 오류 : 잘못된 응답",
+      "File": "파일",
+      "Folder": "폴더"
     },
     "calendar": {
       "today": "오늘"

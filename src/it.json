@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} non è accessibile. È necessaria l'autorizzazione per eseguire l'azione {1}.",
       "Network-Error": "NetworkError: Impossibile inviare su XMLHTTPRequest: caricamento non riuscito",
-      "Server-Error": "ServerError: risposta non valida da"
+      "Server-Error": "ServerError: risposta non valida da",
+      "File": "File",
+      "Folder": "Cartella"
     },
     "calendar": {
       "today": "Oggi"

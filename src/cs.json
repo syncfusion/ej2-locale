@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} není přístupný. K provedení akce {1} potřebujete povolení.",
       "Network-Error": "NetworkError: Nepodařilo se odeslat na XMLHTTPRequest: Nepodařilo se načíst",
-      "Server-Error": "ServerError: Neplatná odpověď od"
+      "Server-Error": "ServerError: Neplatná odpověď od",
+       "File": "Soubor",
+       "Folder" : "složka"
     },
     "calendar": {
       "today": "Dnes"

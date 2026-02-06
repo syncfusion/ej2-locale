@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} tidak dapat diakses. Anda memerlukan kebenaran untuk melakukan tindakan {1}.",
       "Network-Error": "Ralat Rangkaian: Gagal mengirim pada XMLHTTPReses: Gagal dimuat",
-      "Server-Error": "Kesalahan Server: Respons tidak sah dari"
+      "Server-Error": "Kesalahan Server: Respons tidak sah dari",
+      "File": "Fail",
+      "Folder": "Folder"
     },
     "calendar": {
       "today": "Hari ini"

@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} tidak dapat diakses. Anda perlu izin untuk melakukan tindakan {1}.",
       "Network-Error": "Kesalahan Jaringan: Gagal mengirim pada XMLHTTPRequest: Gagal memuat",
-      "Server-Error": "ServerError: Tanggapan dari"
+      "Server-Error": "ServerError: Tanggapan dari",
+      "File": "Berkas",
+      "Folder": "Folder"
     },
     "calendar": {
       "today": "Hari ini"

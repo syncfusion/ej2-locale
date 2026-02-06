@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} no es accesible. Necesita permiso para realizar la acción {1}.",
       "Network-Error": "NetworkError: error al enviar en XMLHTTPRequest: error al cargar",
-      "Server-Error": "ServerError: respuesta no válida de"
+      "Server-Error": "ServerError: respuesta no válida de",
+      "File": "Archivo",
+      "Folder": "Carpeta"
     },
     "calendar": {
       "today": "Hoy"

@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} erişilebilir değil. {1} eylemini gerçekleştirmek için izne ihtiyacınız var.",
       "Network-Error": "NetworkError: XMLHTTPRequest'te gönderilemedi: Yüklenemedi",
-      "Server-Error": "ServerError: Geçersiz yanıt"
+      "Server-Error": "ServerError: Geçersiz yanıt",
+      "File": "Dosya",
+      "Folder": "Klasör"
     },
     "calendar": {
       "today": "Bugün"

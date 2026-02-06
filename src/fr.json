@@ -921,7 +921,9 @@
       "KB": "Ko",
       "Access-Message": "{0} n'est pas accessible. Vous avez besoin de la permission pour effectuer l'action {1}.",
       "Network-Error": "NetworkError: échec d'envoi sur XMLHTTPRequest: échec de chargement",
-      "Server-Error": "Erreur serveur : réponse non valide de"
+      "Server-Error": "Erreur serveur : réponse non valide de",
+      "File": "Tiedosto",
+      "Folder": "Dossier"
     },
     "calendar": {
       "today": "Aujourd'hui"

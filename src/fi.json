@@ -921,7 +921,9 @@
       "KB": "KB",
       "Access-Message": "{0} ei ole käytettävissä. Tarvitset luvan {1} -toiminnan suorittamiseen.",
       "Network-Error": "NetworkError: XMLHTTPRequest-lähetys epäonnistui: Lataus epäonnistui",
-      "Server-Error": "ServerError: virheellinen vastaus käyttäjältä"
+      "Server-Error": "ServerError: virheellinen vastaus käyttäjältä",
+      "File": "Tiedosto",
+      "Folder": "Kansio"
     },
     "calendar": {
       "today": "Tänään"

@@ -920,7 +920,9 @@
       "KB": "KB",
       "Access-Message": "{0} is niet toegankelijk. Je hebt toestemming nodig om de actie {1} uit te voeren.",
       "Network-Error": "Verzenden op XMLHTTPRequest mislukt: kan niet worden geladen",
-      "Server-Error": "Serverfout: ongeldige reactie van"
+      "Server-Error": "Serverfout: ongeldige reactie van",
+      "File": "Bestand",
+      "Folder": "Map"
     },
     "calendar": {
       "today": "Vandaag"
