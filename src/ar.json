@@ -922,8 +922,8 @@
       "Access-Message": "{0} لا يمكن الوصول إليه. تحتاج إلى إذن لتنفيذ الإجراء {1}.",
       "Network-Error": "NetworkError: فشل الإرسال على XMLHTTPRequest: فشل التحميل",
       "Server-Error": "ServerError: استجابة غير صالحة من",
-      "File": "ملف",
-      "Folder": "مجلد"
+       "File": "ملف",
+       "Folder": "مجلد"
     },
     "calendar": {
       "today": "اليوم"
@@ -3889,7 +3889,7 @@
       "stopAriaLabel": "اضغط لإيقاف التحدث وإنهاء النسخ",
       "startTooltipText": "ابدأ بالاستماع",
       "stopTooltipText": "توقف عن الاستماع"
-    },
+  },
     "splitter": {
       "ToggleNavigation": "تبديل التنقل"
     }

@@ -921,7 +921,7 @@
       "Access-Message": "{0} ist nicht zugänglich. Sie benötigen die Berechtigung, um die Aktion {1} auszuführen.",
       "Network-Error": "NetworkError: Fehler beim Senden auf XMLHTTPRequest: Fehler beim Laden",
       "Server-Error": "ServerError: Ungültige Antwort von",
-      "File": "Datei",
+      "File" : "Datei",
       "Folder": "Ordner"
     },
     "calendar": {
