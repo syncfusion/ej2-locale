@@ -3857,6 +3857,10 @@
       "stopResponseText": "Ne válaszolj",
       "thinkingIndicator": "Gondolkodás",
       "editingIndicator": "Szerkesztés"
+    },
+    "ribbon": {
+      "groupOverflow": "További csoportbeállítások",
+      "overflow": "További lehetőségek"
     }
   }
 }

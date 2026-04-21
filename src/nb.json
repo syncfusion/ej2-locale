@@ -3857,6 +3857,10 @@
       "stopResponseText": "Slutt å svare",
       "thinkingIndicator": "Tenker",
       "editingIndicator": "Redigering"
+    },
+    "ribbon": {
+      "groupOverflow": "Flere gruppealternativer",
+      "overflow": "Flere alternativer"
     }
   }
 }

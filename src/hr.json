@@ -3857,6 +3857,10 @@
       "stopResponseText": "Prestani odgovarati",
       "thinkingIndicator": "Razmišljanje",
       "editingIndicator": "Uređivanje"
+    },
+    "ribbon": {
+      "groupOverflow": "Više opcija grupe",
+      "overflow": "Više opcija"
     }
   }
 }

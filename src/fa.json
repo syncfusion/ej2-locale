@@ -3735,6 +3735,10 @@
       "stopResponseText": "پاسخ دادن را متوقف کنید",
       "thinkingIndicator": "فکر کردن",
       "editingIndicator": "در حال ویرایش"
+    },
+    "ribbon": {
+      "groupOverflow": "گزینه های گروه بیشتر",
+      "overflow": "گزینه های بیشتر"
     }
   }
 }

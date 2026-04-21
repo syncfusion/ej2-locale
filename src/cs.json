@@ -3856,6 +3856,10 @@
       "stopResponseText": "Přestat reagovat",
       "thinkingIndicator": "myšlení",
       "editingIndicator": "Editace"
+    },
+    "ribbon": {
+      "groupOverflow": "Další možnosti skupiny",
+      "overflow": "Další možnosti"
     }
   }
 }

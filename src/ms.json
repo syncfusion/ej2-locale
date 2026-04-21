@@ -3857,6 +3857,10 @@
       "stopResponseText": "Berhenti Menjawab",
       "thinkingIndicator": "Berfikir",
       "editingIndicator": "Mengedit"
+    },
+    "ribbon": {
+      "groupOverflow": "Lebih Banyak Pilihan Kumpulan",
+      "overflow": "Lebih Banyak Pilihan"
     }
   }
 }

@@ -3920,6 +3920,10 @@
       "stopResponseText": "Hören Sie auf zu antworten",
       "thinkingIndicator": "Denken",
       "editingIndicator": "Bearbeiten"
+    },
+    "ribbon": {
+      "groupOverflow": "Weitere Gruppenoptionen",
+      "overflow": "Weitere Optionen"
     }
   }
 }

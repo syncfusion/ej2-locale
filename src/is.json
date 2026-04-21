@@ -3682,6 +3682,10 @@
       "stopResponseText": "Hættu að svara",
       "thinkingIndicator": "Að hugsa",
       "editingIndicator": "Klippingu"
+    },
+    "ribbon": {
+      "groupOverflow": "Fleiri hópvalkostir",
+      "overflow": "Fleiri valkostir"
     }
   }
 }

@@ -3919,6 +3919,10 @@
       "stopResponseText": "توقف عن الرد",
       "thinkingIndicator": "التفكير",
       "editingIndicator": "التحرير"
+    },
+    "ribbon": {
+      "groupOverflow": "المزيد من خيارات المجموعة",
+      "overflow": "المزيد من الخيارات"
     }
   }
 }

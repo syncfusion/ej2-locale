@@ -3859,6 +3859,10 @@
       "stopResponseText": "Stop Responding",
       "thinkingIndicator": "Thinking",
       "editingIndicator": "Editing"
+    },
+    "ribbon": {
+      "groupOverflow": "More Group Options",
+      "overflow": "More Options"
     }
   }
 }

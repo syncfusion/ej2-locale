@@ -3857,6 +3857,10 @@
       "stopResponseText": "หยุดการตอบสนอง",
       "thinkingIndicator": "กำลังคิด",
       "editingIndicator": "การแก้ไข"
+    },
+    "ribbon": {
+      "groupOverflow": "ตัวเลือกกลุ่มเพิ่มเติม",
+      "overflow": "ตัวเลือกเพิ่มเติม"
     }
   }
 }

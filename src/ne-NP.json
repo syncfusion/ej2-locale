@@ -3859,6 +3859,10 @@
       "stopResponseText": "प्रतिक्रिया दिन रोक्नुहोस्",
       "thinkingIndicator": "सोच्दै",
       "editingIndicator": "सम्पादन गर्दै"
+    },
+    "ribbon": {
+      "groupOverflow": "थप समूह विकल्पहरू",
+      "overflow": "थप विकल्पहरू"
     }
   }
 }

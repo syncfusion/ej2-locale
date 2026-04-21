@@ -3857,6 +3857,10 @@
       "stopResponseText": "Prestať reagovať",
       "thinkingIndicator": "Myslenie",
       "editingIndicator": "Úprava"
+    },
+    "ribbon": {
+      "groupOverflow": "Ďalšie možnosti skupiny",
+      "overflow": "Ďalšie možnosti"
     }
   }
 }

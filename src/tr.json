@@ -3857,6 +3857,10 @@
       "stopResponseText": "Yanıtlamayı Durdur",
       "thinkingIndicator": "Düşünme",
       "editingIndicator": "Düzenleme"
+    },
+    "ribbon": {
+      "groupOverflow": "Daha Fazla Grup Seçeneği",
+      "overflow": "Daha Fazla Seçenek"
     }
   }
 }

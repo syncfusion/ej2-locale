@@ -3861,6 +3861,10 @@
       "stopResponseText": "Stop met reageren",
       "thinkingIndicator": "Denken",
       "editingIndicator": "Bewerken"
+    },
+    "ribbon": {
+      "groupOverflow": "Meer groepsopties",
+      "overflow": "Meer opties"
     }
   }
 }

@@ -3860,6 +3860,10 @@
       "stopResponseText": "응답 중지",
       "thinkingIndicator": "생각",
       "editingIndicator": "편집"
+    },
+    "ribbon": {
+      "groupOverflow": "더 많은 그룹 옵션",
+      "overflow": "추가 옵션"
     }
   }
 }

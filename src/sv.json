@@ -3858,6 +3858,10 @@
       "stopResponseText": "Sluta svara",
       "thinkingIndicator": "Tänker",
       "editingIndicator": "Redigering"
+    },
+    "ribbon": {
+      "groupOverflow": "Fler gruppalternativ",
+      "overflow": "Fler alternativ"
     }
   }
 }

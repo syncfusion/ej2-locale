@@ -3856,6 +3856,10 @@
       "stopResponseText": "Lopeta vastaaminen",
       "thinkingIndicator": "Ajatteleminen",
       "editingIndicator": "Muokkaus"
+    },
+    "ribbon": {
+      "groupOverflow": "Lisää ryhmävaihtoehtoja",
+      "overflow": "Lisää vaihtoehtoja"
     }
   }
 }

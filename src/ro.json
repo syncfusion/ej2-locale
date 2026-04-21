@@ -3860,6 +3860,10 @@
       "stopResponseText": "Nu mai răspunde",
       "thinkingIndicator": "Gândirea",
       "editingIndicator": "Editare"
+    },
+    "ribbon": {
+      "groupOverflow": "Mai multe opțiuni de grup",
+      "overflow": "Mai multe opțiuni"
     }
   }
 }

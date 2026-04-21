@@ -3857,6 +3857,10 @@
       "stopResponseText": "Ngừng phản hồi",
       "thinkingIndicator": "suy nghĩ",
       "editingIndicator": "Chỉnh sửa"
+    },
+    "ribbon": {
+      "groupOverflow": "Tùy chọn nhóm khác",
+      "overflow": "Tùy chọn khác"
     }
   }
 }

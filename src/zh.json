@@ -3920,6 +3920,10 @@
       "stopResponseText": "停止回应",
       "thinkingIndicator": "思考",
       "editingIndicator": "编辑"
+    },
+    "ribbon": {
+      "groupOverflow": "更多团体选项",
+      "overflow": "更多选择"
     }
   }
 }

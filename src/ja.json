@@ -3857,6 +3857,10 @@
       "stopResponseText": "応答を停止する",
       "thinkingIndicator": "考える",
       "editingIndicator": "編集"
+    },
+    "ribbon": {
+      "groupOverflow": "その他のグループオプション",
+      "overflow": "その他のオプション"
     }
   }
 }

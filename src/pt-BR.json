@@ -3736,6 +3736,10 @@
       "stopResponseText": "Pare de responder",
       "thinkingIndicator": "Pensando",
       "editingIndicator": "Edição"
+    },
+    "ribbon": {
+      "groupOverflow": "Mais opções de grupo",
+      "overflow": "Mais opções"
     }
   }
 }
