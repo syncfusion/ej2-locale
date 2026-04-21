@@ -2657,6 +2657,7 @@
       "Your permissions": "Vaše oprávnění",
       "Protected Document": "Tento dokument je chráněn před neúmyslnými úpravami. V této oblasti můžete upravovat.",
       "FormFieldsOnly": "Formuláře můžete vyplňovat pouze v tomto regionu.",
+      "Unprotect Document":"Zrušit ochranu dokumentu",
       "CommentsOnly": "Komentáře můžete vkládat pouze do této oblasti.",
       "ReadOnlyProtection": "V této oblasti můžete upravovat.",
       "Stop Protection": "Zastavte ochranu",

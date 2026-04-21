@@ -2657,6 +2657,7 @@
       "Your permissions": "Tillatelsene dine",
       "Protected Document": "Dette dokumentet er beskyttet mot utilsiktet redigering. Du kan redigere i denne regionen.",
       "FormFieldsOnly": "Du kan kun fylle ut skjemaer i denne regionen.",
+      "Unprotect Document": "Opphev beskyttelsen av dokumentet",
       "CommentsOnly": "Du kan bare legge inn kommentarer i denne regionen.",
       "ReadOnlyProtection": "Du kan redigere i denne regionen.",
       "Stop Protection": "Stopp beskyttelse",

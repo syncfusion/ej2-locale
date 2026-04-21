@@ -2666,6 +2666,7 @@
       "Your permissions": "Vos autorisations",
       "Protected Document": "Ce document est protégé contre toute modification involontaire. Vous pouvez le modifier dans cette région.",
       "FormFieldsOnly": "Vous ne pouvez remplir des formulaires que dans cette région.",
+      "Unprotect Document":"Déprotéger le document",
       "CommentsOnly": "Vous ne pouvez insérer des commentaires que dans cette région.",
       "ReadOnlyProtection": "Vous pouvez éditer dans cette région.",
       "Stop Protection": "Arrêter la protection",

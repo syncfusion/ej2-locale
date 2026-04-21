@@ -2657,6 +2657,7 @@
       "Your permissions": "Izin Anda",
       "Protected Document": "Dokumen ini dilindungi dari pengeditan yang tidak disengaja. Anda dapat mengedit di wilayah ini.",
       "FormFieldsOnly": "Anda hanya dapat mengisi formulir di wilayah ini.",
+      "Unprotect Document": "Buka Proteksi Dokumen",
       "CommentsOnly": "Anda hanya dapat memasukkan komentar ke dalam wilayah ini.",
       "ReadOnlyProtection": "Anda dapat mengedit di wilayah ini.",
       "Stop Protection": "Hentikan Perlindungan",

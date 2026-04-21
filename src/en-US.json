@@ -2664,6 +2664,7 @@
       "Your permissions": "Your permissions",
       "Protected Document": "This document is protected from unintentional editing.You may edit in this region.",
       "FormFieldsOnly": "You may only fill in forms in this region.",
+      "Unprotect Document":"Unprotect Document",
       "CommentsOnly": "You may only insert comments into this region.",
       "ReadOnlyProtection": "You may edit in this region.",
       "Stop Protection": "Stop Protection",

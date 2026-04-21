@@ -2665,6 +2665,7 @@
       "Your permissions": "您的权限",
       "Protected Document": "本文档受到保护，不会被无意编辑。",
       "FormFieldsOnly": "您只能在该地区填写表格。",
+      "Unprotect Document": "取消保护文档",
       "CommentsOnly": "您只能将评论插入该区域。",
       "ReadOnlyProtection": "您可以在此区域进行编辑。",
       "Stop Protection": "停止保护",

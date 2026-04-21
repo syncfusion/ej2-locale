@@ -2536,6 +2536,7 @@
       "Your permissions": "Suas permissões",
       "Protected Document": "Este documento está protegido contra edição não intencional. Você pode editar nesta região.",
       "FormFieldsOnly": "Você só pode preencher formulários nesta região.",
+      "Unprotect Document": "Desproteger documento",
       "CommentsOnly": "Você só pode inserir comentários nesta região.",
       "ReadOnlyProtection": "Você pode editar nesta região.",
       "Stop Protection": "Pare a proteção",

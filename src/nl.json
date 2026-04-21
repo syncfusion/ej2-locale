@@ -2657,6 +2657,7 @@
       "Your permissions": "Uw rechten",
       "Protected Document": "Dit document is beschermd tegen onbedoelde bewerking. U kunt bewerken in deze gebieden.",
       "FormFieldsOnly": "U mag alleen in dit gebied formulieren invullen.",
+      "Unprotect Document": "Document beveiligen opheffen",
       "CommentsOnly": "U mag alleen opmerkingen invoegen in dit gebied.",
       "ReadOnlyProtection": "U kunt in dit gebied bewerken.",
       "Stop Protection": "Stop bescherming",

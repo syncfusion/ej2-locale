@@ -2657,6 +2657,7 @@
       "Your permissions": "Quyền của bạn",
       "Protected Document": "Tài liệu này được bảo vệ khỏi chỉnh sửa không chủ ý. Bạn có thể chỉnh sửa trong khu vực này.",
       "FormFieldsOnly": "Bạn chỉ có thể điền vào các biểu mẫu trong khu vực này.",
+      "Unprotect Document": "Bỏ bảo vệ tài liệu",
       "CommentsOnly": "Bạn chỉ có thể chèn nhận xét vào khu vực này.",
       "ReadOnlyProtection": "Bạn có thể chỉnh sửa trong khu vực này.",
       "Stop Protection": "Ngừng bảo vệ",

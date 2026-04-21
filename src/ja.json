@@ -2657,6 +2657,7 @@
       "Your permissions": "あなたの許可",
       "Protected Document": "このドキュメントは意図しない編集から保護されています。この地域で編集できます。",
       "FormFieldsOnly": "この地域のフォームにのみ記入できます。",
+      "Unprotect Document": "ドキュメントの保護を解除する",
       "CommentsOnly": "この領域にのみコメントを挿入できます。",
       "ReadOnlyProtection": "この地域で編集できます。",
       "Stop Protection": "保護を停止",

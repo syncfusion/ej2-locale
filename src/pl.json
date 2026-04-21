@@ -2657,6 +2657,7 @@
       "Your permissions": "Twoje uprawnienia",
       "Protected Document": "Ten dokument jest chroniony przed niezamierzoną edycją. Możesz edytować w tym regionie.",
       "FormFieldsOnly": "Formularze można wypełniać tylko w tym regionie.",
+      "Unprotect Document": "Odblokuj dokument",
       "CommentsOnly": "Możesz wstawiać komentarze tylko w tym regionie.",
       "ReadOnlyProtection": "Możesz edytować w tym regionie.",
       "Stop Protection": "Zatrzymaj ochronę",
