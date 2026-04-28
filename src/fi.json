@@ -2657,6 +2657,7 @@
       "Your permissions": "Oikeutesi",
       "Protected Document": "Tämä asiakirja on suojattu tahattomalta muokkaamiselta.Voit muokata tätä aluetta.",
       "FormFieldsOnly": "Voit täyttää lomakkeita vain tällä alueella.",
+      "Unprotect Document":"Poista asiakirjan suojaus",
       "CommentsOnly": "Voit lisätä kommentteja vain tälle alueelle.",
       "ReadOnlyProtection": "Voit muokata tällä alueella.",
       "Stop Protection": "Pysäytä suojaus",

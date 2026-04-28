@@ -2657,6 +2657,7 @@
       "Your permissions": "Vaša dopuštenja",
       "Protected Document": "Ovaj je dokument zaštićen od nenamjernog uređivanja. Možete uređivati ​​u ovoj regiji.",
       "FormFieldsOnly": "Obrasce možete ispunjavati samo u ovoj regiji.",
+      "Unprotect Document":"Uklonite zaštitu dokumenta",
       "CommentsOnly": "Možete samo umetati komentare u ovu regiju.",
       "ReadOnlyProtection": "Možete uređivati ​​u ovoj regiji.",
       "Stop Protection": "Zaustavljanje zaštite",

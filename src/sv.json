@@ -2658,6 +2658,7 @@
       "Your permissions": "Dina behörigheter",
       "Protected Document": "Detta dokument är skyddat från oavsiktlig redigering. Du kan redigera i den här regionen.",
       "FormFieldsOnly": "Du får endast fylla i formulär i denna region.",
+      "Unprotect Document": "Avskydda dokument",
       "CommentsOnly": "Du kan bara infoga kommentarer i denna region.",
       "ReadOnlyProtection": "Du kan redigera i den här regionen.",
       "Stop Protection": "Stoppa skyddet",

@@ -2657,6 +2657,7 @@
       "Your permissions": "İzinleriniz",
       "Protected Document": "Bu belge istemeden düzenlenmeye karşı korunuyor. Bu bölgede düzenleme yapabilirsiniz.",
       "FormFieldsOnly": "Sadece bu bölgedeki formları doldurabilirsiniz.",
+      "Unprotect Document": "Belgenin Korumasını Kaldır",
       "CommentsOnly": "Bu bölgeye yalnızca yorum ekleyebilirsiniz.",
       "ReadOnlyProtection": "Bu bölgede düzenleme yapabilirsiniz.",
       "Stop Protection": "Korumayı Durdur",

@@ -2657,6 +2657,7 @@
       "Your permissions": "ההרשאות שלך",
       "Protected Document": "מסמך זה מוגן מפני עריכה לא מכוונת. אתה רשאי לערוך באזור זה.",
       "FormFieldsOnly": "ניתן למלא טפסים רק באזור זה.",
+      "Unprotect Document":"בטל הגנה על מסמך",
       "CommentsOnly": "אתה יכול רק להוסיף הערות לאזור זה.",
       "ReadOnlyProtection": "אתה יכול לערוך באזור זה.",
       "Stop Protection": "הפסק את ההגנה",

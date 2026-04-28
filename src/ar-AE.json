@@ -2657,6 +2657,7 @@
       "Your permissions": "أذوناتك",
       "Protected Document": "هذا المستند محمي من التحرير غير المقصود. يمكنك التعديل في هذه المنطقة.",
       "FormFieldsOnly": "يمكنك فقط ملء النماذج في هذه المنطقة.",
+      "Unprotect Document":"وثيقة غير محمية",
       "CommentsOnly": "يمكنك فقط إدراج التعليقات في هذه المنطقة.",
       "ReadOnlyProtection": "يمكنك التعديل في هذه المنطقة.",
       "Stop Protection": "وقف الحماية",

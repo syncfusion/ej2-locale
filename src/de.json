@@ -2664,6 +2664,7 @@
       "Your permissions": "Ihre Berechtigungen",
       "Protected Document": "Dieses Dokument ist vor unbeabsichtigter Bearbeitung geschützt. Sie können in dieser Region Änderungen vornehmen.",
       "FormFieldsOnly": "Formulare dürfen nur in dieser Region ausgefüllt werden.",
+      "Unprotect Document":"Dokumentschutz aufheben",
       "CommentsOnly": "Sie können nur Kommentare in diesen Bereich einfügen.",
       "ReadOnlyProtection": "Sie können in dieser Region bearbeiten.",
       "Stop Protection": "Stoppen Sie den Schutz",

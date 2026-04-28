@@ -2658,6 +2658,7 @@
       "Your permissions": "Le tue autorizzazioni",
       "Protected Document": "Questo documento è protetto da modifiche accidentali.",
       "FormFieldsOnly": "Puoi solo compilare i moduli in questa sezione.",
+      "Unprotect Document": "Rimuovi protezione documento",
       "CommentsOnly": "Puoi solo inserire commenti in questa sezione.",
       "ReadOnlyProtection": "Puoi modificare in questa sezione.",
       "Stop Protection": "Interrompi protezione",

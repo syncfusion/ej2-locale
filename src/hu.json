@@ -2657,6 +2657,7 @@
       "Your permissions": "Az Ön engedélyei",
       "Protected Document": "Ez a dokumentum védve van a nem szándékos szerkesztéstől. Szerkesztheti ebben a régióban.",
       "FormFieldsOnly": "Űrlapokat csak ebben a régióban tölthet ki.",
+      "Unprotect Document":"Törölje a dokumentum védelmét",
       "CommentsOnly": "Csak ebbe a régióba írhat be megjegyzéseket.",
       "ReadOnlyProtection": "Ebben a régióban szerkesztheti.",
       "Stop Protection": "Stop védelem",

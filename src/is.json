@@ -2480,6 +2480,7 @@
       "Your permissions": "Heimildir þínar",
       "Protected Document": "Þetta skjal er varið gegn óviljandi breytingum.",
       "FormFieldsOnly": "Þú getur aðeins fyllt út eyðublöð á þessu svæði.",
+      "Unprotect Document": "Afvernd skjal",
       "CommentsOnly": "Þú getur aðeins sett inn athugasemdir á þetta svæði.",
       "ReadOnlyProtection": "Þú getur breytt á þessu svæði.",
       "Stop Protection": "Stöðva vernd",
