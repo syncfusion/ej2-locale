@@ -827,7 +827,15 @@
       "PreviousNote": "上一条注释",
       "NextNote": "下一条注释",
       "Review": "评论",
-      "Print": "列印"
+      "Print": "列印",
+      "CalcOptions": "計算選項",
+      "CalcOptionsTip": "選擇要自動或手動計算公式。",
+      "CalcActiveSheet": "計算工作表",
+      "CalcWorkbook": "計算活頁簿",
+      "Automatic": "自動",
+      "Manual": "手動",
+      "CalcSheetTip": "計算作用中的工作表",
+      "CalcWorkbookTip": "計算整個活頁簿"
     },
     "filemanager": {
       "NewFolder": "新建文件夾",

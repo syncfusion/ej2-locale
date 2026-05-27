@@ -827,7 +827,15 @@
       "PreviousNote": "الملاحظة السابقة",
       "NextNote": "الملاحظة التالية",
       "Review": "مراجعة",
-      "Print": "طباعة"
+      "Print": "طباعة",
+      "CalcOptions": "خيارات الحساب",
+      "CalcOptionsTip": "اختر ما إذا كنت تريد حساب الصيغ تلقائيًا أو يدويًا.",
+      "CalcActiveSheet": "ورقة الحساب",
+      "CalcWorkbook": "دفتر عمل الحساب",
+      "Automatic": "تلقائي",
+      "Manual": "يدوي",
+      "CalcSheetTip": "حساب الورقة النشطة",
+      "CalcWorkbookTip": "حساب دفتر العمل بالكامل"
     },
     "filemanager": {
       "NewFolder": "مجلد جديد",

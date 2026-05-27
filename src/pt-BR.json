@@ -827,7 +827,15 @@
       "PreviousNote": "Nota Anterior",
       "NextNote": "Próxima nota",
       "Review": "Revisão",
-      "Print": "Imprimir"
+      "Print": "Imprimir",
+      "CalcOptions": "Opções de cálculo",
+      "CalcOptionsTip": "Escolha se deseja calcular fórmulas automaticamente ou manualmente.",
+      "CalcActiveSheet": "Calcular planilha",
+      "CalcWorkbook": "Calcular pasta de trabalho",
+      "Automatic": "Automático",
+      "Manual": "Manual",
+      "CalcSheetTip": "Calcular planilha ativa",
+      "CalcWorkbookTip": "Calcular toda a pasta de trabalho"
     },
     "filemanager": {
       "NewFolder": "Nova pasta",

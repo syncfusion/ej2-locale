@@ -826,7 +826,16 @@
       "ShowAllNotes": "Toon alle notities",
       "PreviousNote": "Vorige opmerking",
       "NextNote": "Volgende opmerking",
-      "Review": "Beoordeling"
+      "Review": "Beoordeling",
+      "Print": "Afdrukken",
+      "CalcOptions": "Berekeningsopties",
+      "CalcOptionsTip": "Kies of formules automatisch of handmatig berekend moeten worden.",
+      "CalcActiveSheet": "Werkblad berekenen",
+      "CalcWorkbook": "Werkmap berekenen",
+      "Automatic": "Automatisch",
+      "Manual": "Handmatig",
+      "CalcSheetTip": "Actief werkblad berekenen",
+      "CalcWorkbookTip": "Volledige werkmap berekenen"
     },
     "filemanager": {
       "NewFolder": "Nieuwe map",

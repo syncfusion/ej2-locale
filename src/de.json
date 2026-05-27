@@ -826,7 +826,15 @@
       "ShowAllNotes": "Alle Notizen anzeigen",
       "PreviousNote": "Vorheriger Hinweis",
       "NextNote": "Nächster Hinweis",
-      "Review": "Rezension"
+      "Review": "Rezension",
+      "CalcOptions": "Berechnungsoptionen",
+      "CalcOptionsTip": "Wählen Sie, ob Formeln automatisch oder manuell berechnet werden sollen.",
+      "CalcActiveSheet": "Blatt berechnen",
+      "CalcWorkbook": "Arbeitsmappe berechnen",
+      "Automatic": "Automatisch",
+      "Manual": "Manuell",
+      "CalcSheetTip": "Aktives Blatt berechnen",
+      "CalcWorkbookTip": "Gesamte Arbeitsmappe berechnen"
     },
     "filemanager": {
       "NewFolder": "Neuer Ordner",

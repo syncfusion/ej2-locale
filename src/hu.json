@@ -827,7 +827,15 @@
       "PreviousNote": "Előző Megjegyzés",
       "NextNote": "Következő Megjegyzés",
       "Review": "Tekintse át",
-      "Print": "Nyomtatás"
+      "Print": "Nyomtatás",
+      "CalcOptions": "Számítási beállítások",
+      "CalcOptionsTip": "Válassza ki, hogy a képletek automatikusan vagy manuálisan legyenek-e kiszámítva.",
+      "CalcActiveSheet": "Munkalap számítása",
+      "CalcWorkbook": "Munkafüzet számítása",
+      "Automatic": "Automatikus",
+      "Manual": "Manuális",
+      "CalcSheetTip": "Aktív munkalap számítása",
+      "CalcWorkbookTip": "Teljes munkafüzet számítása"
     },
     "filemanager": {
       "NewFolder": "Új mappa",

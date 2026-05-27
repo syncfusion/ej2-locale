@@ -827,7 +827,15 @@
       "PreviousNote": "Предыдущее примечание",
       "NextNote": "Следующее примечание",
       "Review": "Обзор",
-      "Print": "Печать"
+      "Print": "Печать",
+      "CalcOptions": "Параметры вычислений",
+      "CalcOptionsTip": "Выберите, вычислять формулы автоматически или вручную.",
+      "CalcActiveSheet": "Вычислить лист",
+      "CalcWorkbook": "Вычислить книгу",
+      "Automatic": "Автоматически",
+      "Manual": "Вручную",
+      "CalcSheetTip": "Вычислить активный лист",
+      "CalcWorkbookTip": "Вычислить всю книгу"
     },
     "filemanager": {
       "NewFolder": "Новая папка",

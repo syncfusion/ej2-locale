@@ -827,7 +827,15 @@
       "PreviousNote": "Predchádzajúca poznámka",
       "NextNote": "Ďalšia poznámka",
       "Review": "recenzia",
-      "Print": "Tlačiť"
+      "Print": "Tlačiť",
+      "CalcOptions": "Možnosti výpočtu",
+      "CalcOptionsTip": "Vyberte, či sa majú vzorce počítať automaticky alebo manuálne.",
+      "CalcActiveSheet": "Vypočítať hárok",
+      "CalcWorkbook": "Vypočítať zošit",
+      "Automatic": "Automaticky",
+      "Manual": "Manuálne",
+      "CalcSheetTip": "Vypočítať aktívny hárok",
+      "CalcWorkbookTip": "Vypočítať celý zošit"
     },
     "filemanager": {
       "NewFolder": "Nový priečinok",

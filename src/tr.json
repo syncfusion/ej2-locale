@@ -827,7 +827,15 @@
       "PreviousNote": "Önceki Not",
       "NextNote": "Sonraki Not",
       "Review": "İncele",
-      "Print": "Yazdır"
+      "Print": "Yazdır",
+      "CalcOptions": "Hesaplama Seçenekleri",
+      "CalcOptionsTip": "Formüllerin otomatik mi yoksa manuel mi hesaplanacağını seçin.",
+      "CalcActiveSheet": "Sayfayı Hesapla",
+      "CalcWorkbook": "Çalışma Kitabını Hesapla",
+      "Automatic": "Otomatik",
+      "Manual": "Manuel",
+      "CalcSheetTip": "Aktif sayfayı hesapla",
+      "CalcWorkbookTip": "Tüm çalışma kitabını hesapla"
     },
     "filemanager": {
       "NewFolder": "Yeni Klasör",

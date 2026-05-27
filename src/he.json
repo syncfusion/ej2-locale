@@ -827,7 +827,15 @@
       "PreviousNote": "הערה קודמת",
       "NextNote": "הערה הבאה",
       "Review": "סקירה",
-      "Print": "הֶדפֵּס"
+      "Print": "הֶדפֵּס",
+      "CalcOptions": "אפשרויות חישוב",
+      "CalcOptionsTip": "בחר אם לחשב נוסחאות באופן אוטומטי או ידני.",
+      "CalcActiveSheet": "חשב גיליון",
+      "CalcWorkbook": "חשב חוברת עבודה",
+      "Automatic": "אוטומטי",
+      "Manual": "ידני",
+      "CalcSheetTip": "חשב גיליון פעיל",
+      "CalcWorkbookTip": "חשב את חוברת העבודה כולה"
     },
     "filemanager": {
       "NewFolder": "תיקייה חדשה",

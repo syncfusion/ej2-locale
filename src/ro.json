@@ -827,7 +827,15 @@
       "PreviousNote": "Notă anterioară",
       "NextNote": "Notă următoare",
       "Review": "Revizuire",
-      "Print": "Imprimați"
+      "Print": "Imprimați",
+      "CalcOptions": "Opțiuni de calcul",
+      "CalcOptionsTip": "Alegeți dacă să calculați formulele automat sau manual.",
+      "CalcActiveSheet": "Calculați foaia",
+      "CalcWorkbook": "Calculați registrul de lucru",
+      "Automatic": "Automat",
+      "Manual": "Manual",
+      "CalcSheetTip": "Calculați foaia activă",
+      "CalcWorkbookTip": "Calculați întregul registru de lucru"
     },
     "filemanager": {
       "NewFolder": "Dosar nou",

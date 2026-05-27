@@ -827,7 +827,15 @@
       "PreviousNote": "Forrige merknad",
       "NextNote": "Neste merknad",
       "Review": "Gjennomgå",
-      "Print": "Skriv ut"
+      "Print": "Skriv ut",
+      "CalcOptions": "Beregningsalternativer",
+      "CalcOptionsTip": "Velg om formler skal beregnes automatisk eller manuelt.",
+      "CalcActiveSheet": "Beregn ark",
+      "CalcWorkbook": "Beregn arbeidsbok",
+      "Automatic": "Automatisk",
+      "Manual": "Manuell",
+      "CalcSheetTip": "Beregn aktivt ark",
+      "CalcWorkbookTip": "Beregn hele arbeidsboken"
     },
     "filemanager": {
       "NewFolder": "Ny mappe",

@@ -826,7 +826,15 @@
       "ShowAllNotes": "نمایش همه یادداشت ها",
       "PreviousNote": "یادداشت قبلی",
       "NextNote": "یادداشت بعدی",
-      "Review": "بررسی کنید"
+      "Review": "بررسی کنید",
+      "CalcOptions": "گزینه‌های محاسبه",
+      "CalcOptionsTip": "انتخاب کنید که فرمول‌ها به صورت خودکار یا دستی محاسبه شوند.",
+      "CalcActiveSheet": "محاسبه برگه",
+      "CalcWorkbook": "محاسبه کارپوشه",
+      "Automatic": "خودکار",
+      "Manual": "دستی",
+      "CalcSheetTip": "محاسبه برگه فعال",
+      "CalcWorkbookTip": "محاسبه کل کارپوشه"
     },
     "filemanager": {
       "NewFolder": "پوشه جدید",

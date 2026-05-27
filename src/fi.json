@@ -827,7 +827,15 @@
       "PreviousNote": "Edellinen huomautus",
       "NextNote": "Seuraava huomautus",
       "Review": "Tarkista",
-      "Print": "Tulosta"
+      "Print": "Tulosta",
+      "CalcOptions": "Laskenta-asetukset",
+      "CalcOptionsTip": "Valitse, lasketaanko kaavat automaattisesti vai manuaalisesti.",
+      "CalcActiveSheet": "Laske taulukko",
+      "CalcWorkbook": "Laske työkirja",
+      "Automatic": "Automaattinen",
+      "Manual": "Manuaalinen",
+      "CalcSheetTip": "Laske aktiivinen taulukko",
+      "CalcWorkbookTip": "Laske koko työkirja"
     },
     "filemanager": {
       "NewFolder": "Uusi kansio",

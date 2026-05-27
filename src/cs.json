@@ -827,7 +827,15 @@
       "PreviousNote": "Předchozí poznámka",
       "NextNote": "Další Poznámka",
       "Review": "Recenze",
-      "Print": "Vytisknout"
+      "Print": "Vytisknout",
+      "CalcOptions": "Možnosti výpočtu",
+      "CalcOptionsTip": "Vyberte, zda chcete vzorce počítat automaticky nebo ručně.",
+      "CalcActiveSheet": "Vypočítat list",
+      "CalcWorkbook": "Vypočítat sešit",
+      "Automatic": "Automaticky",
+      "Manual": "Ručně",
+      "CalcSheetTip": "Vypočítat aktivní list",
+      "CalcWorkbookTip": "Vypočítat celý sešit"
     },
     "filemanager": {
       "NewFolder": "Nová složka",
