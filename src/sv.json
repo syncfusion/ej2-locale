@@ -829,12 +829,12 @@
       "Review": "Granska",
       "Print": "Skriv ut",
       "CalcOptions": "Beräkningsalternativ",
-      "CalcOptionsTip": "Välj om formler ska beräknas automatiskt eller manuellt.",
-      "CalcActiveSheet": "Beräkna blad",
+      "CalcOptionsTip": "Välj att beräkna formler automatiskt eller manuellt",
+      "CalcActiveSheet": "Beräkna ark",
       "CalcWorkbook": "Beräkna arbetsbok",
-      "Automatic": "Automatiskt",
-      "Manual": "Manuellt",
-      "CalcSheetTip": "Beräkna aktivt blad",
+      "Automatic": "Automatisk",
+      "Manual": "Manuell",
+      "CalcSheetTip": "Beräkna det aktiva arket",
       "CalcWorkbookTip": "Beräkna hela arbetsboken"
     },
     "filemanager": {

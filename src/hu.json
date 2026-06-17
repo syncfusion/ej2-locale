@@ -829,13 +829,13 @@
       "Review": "Tekintse át",
       "Print": "Nyomtatás",
       "CalcOptions": "Számítási beállítások",
-      "CalcOptionsTip": "Válassza ki, hogy a képletek automatikusan vagy manuálisan legyenek-e kiszámítva.",
-      "CalcActiveSheet": "Munkalap számítása",
-      "CalcWorkbook": "Munkafüzet számítása",
+      "CalcOptionsTip": "Válassza ki, hogy a képleteket automatikusan vagy manuálisan szeretné kiszámítani",
+      "CalcActiveSheet": "Számítási munkalap",
+      "CalcWorkbook": "Számítási munkafüzet",
       "Automatic": "Automatikus",
       "Manual": "Manuális",
-      "CalcSheetTip": "Aktív munkalap számítása",
-      "CalcWorkbookTip": "Teljes munkafüzet számítása"
+      "CalcSheetTip": "Az aktív munkalap kiszámítása",
+      "CalcWorkbookTip": "Az egész munkafüzet kiszámítása"
     },
     "filemanager": {
       "NewFolder": "Új mappa",

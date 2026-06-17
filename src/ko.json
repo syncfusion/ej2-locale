@@ -832,7 +832,7 @@
       "Review": "검토",
       "Print": "인쇄",
       "CalcOptions": "계산 옵션",
-      "CalcOptionsTip": "수식을 자동으로 또는 수동으로 계산할지 선택합니다.",
+      "CalcOptionsTip": "수식을 자동 또는 수동으로 계산하도록 선택",
       "CalcActiveSheet": "시트 계산",
       "CalcWorkbook": "통합 문서 계산",
       "Automatic": "자동",

@@ -777,12 +777,12 @@
       "Review": "Upprifjun",
       "Print": "Prenta",
       "CalcOptions": "Útreikningsvalkostir",
-      "CalcOptionsTip": "Veldu hvort reikna eigi formúlur sjálfkrafa eða handvirkt.",
+      "CalcOptionsTip": "Veldu til að reikna formúlur sjálfkrafa eða handvirkt",
       "CalcActiveSheet": "Reikna blað",
       "CalcWorkbook": "Reikna vinnubók",
-      "Automatic": "Sjálfvirkt",
+      "Automatic": "Sjálfkrafa",
       "Manual": "Handvirkt",
-      "CalcSheetTip": "Reikna virkt blað",
+      "CalcSheetTip": "Reikna virka blaðið",
       "CalcWorkbookTip": "Reikna alla vinnubókina"
     },
     "filemanager": {

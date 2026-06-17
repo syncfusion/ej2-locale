@@ -829,13 +829,13 @@
       "Review": "recenzia",
       "Print": "Tlačiť",
       "CalcOptions": "Možnosti výpočtu",
-      "CalcOptionsTip": "Vyberte, či sa majú vzorce počítať automaticky alebo manuálne.",
-      "CalcActiveSheet": "Vypočítať hárok",
-      "CalcWorkbook": "Vypočítať zošit",
+      "CalcOptionsTip": "Vyberte si, či chcete počítať vzorce automaticky alebo ručne",
+      "CalcActiveSheet": "Vypočítať list",
+      "CalcWorkbook": "Vypočítať pracovný zošit",
       "Automatic": "Automaticky",
-      "Manual": "Manuálne",
-      "CalcSheetTip": "Vypočítať aktívny hárok",
-      "CalcWorkbookTip": "Vypočítať celý zošit"
+      "Manual": "Ručne",
+      "CalcSheetTip": "Vypočítať aktívny list",
+      "CalcWorkbookTip": "Vypočítať celý pracovný zošit"
     },
     "filemanager": {
       "NewFolder": "Nový priečinok",

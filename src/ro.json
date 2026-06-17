@@ -829,13 +829,13 @@
       "Review": "Revizuire",
       "Print": "Imprimați",
       "CalcOptions": "Opțiuni de calcul",
-      "CalcOptionsTip": "Alegeți dacă să calculați formulele automat sau manual.",
+      "CalcOptionsTip": "Alegeți să calculați formulele automat sau manual",
       "CalcActiveSheet": "Calculați foaia",
-      "CalcWorkbook": "Calculați registrul de lucru",
+      "CalcWorkbook": "Calculați cartea",
       "Automatic": "Automat",
       "Manual": "Manual",
       "CalcSheetTip": "Calculați foaia activă",
-      "CalcWorkbookTip": "Calculați întregul registru de lucru"
+      "CalcWorkbookTip": "Calculați toată cartea"
     },
     "filemanager": {
       "NewFolder": "Dosar nou",

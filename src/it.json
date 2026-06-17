@@ -829,13 +829,13 @@
       "Review": "Recensione",
       "Print": "Stampa",
       "CalcOptions": "Opzioni di calcolo",
-      "CalcOptionsTip": "Scegli se calcolare le formule automaticamente o manualmente.",
+      "CalcOptionsTip": "Scegli se calcolare le formule automaticamente o manualmente",
       "CalcActiveSheet": "Calcola foglio",
       "CalcWorkbook": "Calcola cartella di lavoro",
       "Automatic": "Automatico",
       "Manual": "Manuale",
-      "CalcSheetTip": "Calcola foglio attivo",
-      "CalcWorkbookTip": "Calcola intera cartella di lavoro"
+      "CalcSheetTip": "Calcola il foglio attivo",
+      "CalcWorkbookTip": "Calcola l'intera cartella di lavoro"
     },
     "filemanager": {
       "NewFolder": "Nuova cartella",

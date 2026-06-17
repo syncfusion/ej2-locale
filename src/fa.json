@@ -827,14 +827,15 @@
       "PreviousNote": "یادداشت قبلی",
       "NextNote": "یادداشت بعدی",
       "Review": "بررسی کنید",
+      "Print": "چاپ",
       "CalcOptions": "گزینه‌های محاسبه",
-      "CalcOptionsTip": "انتخاب کنید که فرمول‌ها به صورت خودکار یا دستی محاسبه شوند.",
-      "CalcActiveSheet": "محاسبه برگه",
-      "CalcWorkbook": "محاسبه کارپوشه",
+      "CalcOptionsTip": "انتخاب کنید تا فرمول‌ها به‌طور خودکار یا دستی محاسبه شوند",
+      "CalcActiveSheet": "محاسبه برگ",
+      "CalcWorkbook": "محاسبه کتاب کار",
       "Automatic": "خودکار",
       "Manual": "دستی",
-      "CalcSheetTip": "محاسبه برگه فعال",
-      "CalcWorkbookTip": "محاسبه کل کارپوشه"
+      "CalcSheetTip": "محاسبه برگ فعال",
+      "CalcWorkbookTip": "محاسبه کل کتاب کار"
     },
     "filemanager": {
       "NewFolder": "پوشه جدید",

@@ -829,12 +829,12 @@
       "Review": "Gjennomgå",
       "Print": "Skriv ut",
       "CalcOptions": "Beregningsalternativer",
-      "CalcOptionsTip": "Velg om formler skal beregnes automatisk eller manuelt.",
+      "CalcOptionsTip": "Velg å beregne formler automatisk eller manuelt",
       "CalcActiveSheet": "Beregn ark",
       "CalcWorkbook": "Beregn arbeidsbok",
       "Automatic": "Automatisk",
       "Manual": "Manuell",
-      "CalcSheetTip": "Beregn aktivt ark",
+      "CalcSheetTip": "Beregn det aktive arket",
       "CalcWorkbookTip": "Beregn hele arbeidsboken"
     },
     "filemanager": {

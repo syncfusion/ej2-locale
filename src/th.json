@@ -829,13 +829,13 @@
       "Review": "โฟลเดอร์ใหม่",
       "Print": "พิมพ์",
       "CalcOptions": "ตัวเลือกการคำนวณ",
-      "CalcOptionsTip": "เลือกว่าจะคำนวณสูตรโดยอัตโนมัติหรือด้วยตนเอง",
-      "CalcActiveSheet": "คำนวณแผ่นงาน",
-      "CalcWorkbook": "คำนวณสมุดงาน",
+      "CalcOptionsTip": "เลือกคำนวณสูตรโดยอัตโนมัติหรือด้วยตนเอง",
+      "CalcActiveSheet": "คำนวณชีท",
+      "CalcWorkbook": "คำนวณเวิร์กบุ๊ก",
       "Automatic": "อัตโนมัติ",
       "Manual": "ด้วยตนเอง",
-      "CalcSheetTip": "คำนวณแผ่นงานที่ใช้งานอยู่",
-      "CalcWorkbookTip": "คำนวณทั้งสมุดงาน"
+      "CalcSheetTip": "คำนวณชีทที่ใช้งาน",
+      "CalcWorkbookTip": "คำนวณเวิร์กบุ๊กทั้งหมด"
     },
     "filemanager": {
       "NewFolder": "แฟ้มใหม่",

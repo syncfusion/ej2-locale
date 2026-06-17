@@ -829,12 +829,12 @@
       "Review": "İncele",
       "Print": "Yazdır",
       "CalcOptions": "Hesaplama Seçenekleri",
-      "CalcOptionsTip": "Formüllerin otomatik mi yoksa manuel mi hesaplanacağını seçin.",
+      "CalcOptionsTip": "Formülleri otomatik veya manuel olarak hesaplamayı seçin",
       "CalcActiveSheet": "Sayfayı Hesapla",
       "CalcWorkbook": "Çalışma Kitabını Hesapla",
       "Automatic": "Otomatik",
-      "Manual": "Manuel",
-      "CalcSheetTip": "Aktif sayfayı hesapla",
+      "Manual": "El İle",
+      "CalcSheetTip": "Etkin sayfayı hesapla",
       "CalcWorkbookTip": "Tüm çalışma kitabını hesapla"
     },
     "filemanager": {

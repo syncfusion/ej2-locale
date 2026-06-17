@@ -829,13 +829,13 @@
       "Review": "סקירה",
       "Print": "הֶדפֵּס",
       "CalcOptions": "אפשרויות חישוב",
-      "CalcOptionsTip": "בחר אם לחשב נוסחאות באופן אוטומטי או ידני.",
-      "CalcActiveSheet": "חשב גיליון",
-      "CalcWorkbook": "חשב חוברת עבודה",
+      "CalcOptionsTip": "בחר לחישוב נוסחאות באופן אוטומטי או ידני",
+      "CalcActiveSheet": "חישוב גיליון",
+      "CalcWorkbook": "חישוב חוברת",
       "Automatic": "אוטומטי",
       "Manual": "ידני",
-      "CalcSheetTip": "חשב גיליון פעיל",
-      "CalcWorkbookTip": "חשב את חוברת העבודה כולה"
+      "CalcSheetTip": "חישוב הגיליון הפעיל",
+      "CalcWorkbookTip": "חישוב כל החוברת"
     },
     "filemanager": {
       "NewFolder": "תיקייה חדשה",

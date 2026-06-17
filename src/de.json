@@ -827,14 +827,15 @@
       "PreviousNote": "Vorheriger Hinweis",
       "NextNote": "Nächster Hinweis",
       "Review": "Rezension",
+      "Print": "Drucken",
       "CalcOptions": "Berechnungsoptionen",
-      "CalcOptionsTip": "Wählen Sie, ob Formeln automatisch oder manuell berechnet werden sollen.",
-      "CalcActiveSheet": "Blatt berechnen",
+      "CalcOptionsTip": "Wählen Sie, ob Formeln automatisch oder manuell berechnet werden sollen",
+      "CalcActiveSheet": "Arbeitsblatt berechnen",
       "CalcWorkbook": "Arbeitsmappe berechnen",
       "Automatic": "Automatisch",
       "Manual": "Manuell",
-      "CalcSheetTip": "Aktives Blatt berechnen",
-      "CalcWorkbookTip": "Gesamte Arbeitsmappe berechnen"
+      "CalcSheetTip": "Das aktive Arbeitsblatt berechnen",
+      "CalcWorkbookTip": "Die gesamte Arbeitsmappe berechnen"
     },
     "filemanager": {
       "NewFolder": "Neuer Ordner",

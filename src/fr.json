@@ -829,7 +829,7 @@
       "Review": "Examen",
       "Print": "Imprimer",
       "CalcOptions": "Options de calcul",
-      "CalcOptionsTip": "Choisissez si les formules doivent être calculées automatiquement ou manuellement.",
+      "CalcOptionsTip": "Choisissez de calculer les formules automatiquement ou manuellement",
       "CalcActiveSheet": "Calculer la feuille",
       "CalcWorkbook": "Calculer le classeur",
       "Automatic": "Automatique",

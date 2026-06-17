@@ -829,13 +829,13 @@
       "Review": "Semakan",
       "Print": "Cetak",
       "CalcOptions": "Pilihan Pengiraan",
-      "CalcOptionsTip": "Pilih sama ada untuk mengira formula secara automatik atau manual.",
+      "CalcOptionsTip": "Pilih untuk mengira formula secara automatik atau manual",
       "CalcActiveSheet": "Kira Helaian",
       "CalcWorkbook": "Kira Buku Kerja",
       "Automatic": "Automatik",
       "Manual": "Manual",
       "CalcSheetTip": "Kira helaian aktif",
-      "CalcWorkbookTip": "Kira seluruh buku kerja"
+      "CalcWorkbookTip": "Kira keseluruhan buku kerja"
     },
     "filemanager": {
       "NewFolder": "Fail baharu",

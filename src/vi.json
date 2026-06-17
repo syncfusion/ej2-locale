@@ -829,12 +829,12 @@
       "Review": "Xem lại",
       "Print": "In",
       "CalcOptions": "Tùy chọn tính toán",
-      "CalcOptionsTip": "Chọn tính công thức tự động hoặc thủ công.",
+      "CalcOptionsTip": "Chọn tính toán công thức tự động hoặc thủ công",
       "CalcActiveSheet": "Tính toán trang tính",
       "CalcWorkbook": "Tính toán sổ làm việc",
       "Automatic": "Tự động",
       "Manual": "Thủ công",
-      "CalcSheetTip": "Tính toán trang tính đang hoạt động",
+      "CalcSheetTip": "Tính toán trang tính hoạt động",
       "CalcWorkbookTip": "Tính toán toàn bộ sổ làm việc"
     },
     "filemanager": {

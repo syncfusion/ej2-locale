@@ -829,13 +829,13 @@
       "Review": "مراجعة",
       "Print": "طباعة",
       "CalcOptions": "خيارات الحساب",
-      "CalcOptionsTip": "اختر ما إذا كنت تريد حساب الصيغ تلقائيًا أو يدويًا.",
-      "CalcActiveSheet": "ورقة الحساب",
-      "CalcWorkbook": "دفتر عمل الحساب",
+      "CalcOptionsTip": "اختر لحساب الصيغ تلقائيًا أو يدويًا",
+      "CalcActiveSheet": "احسب ورقة العمل",
+      "CalcWorkbook": "احسب دفتر العمل",
       "Automatic": "تلقائي",
       "Manual": "يدوي",
-      "CalcSheetTip": "حساب الورقة النشطة",
-      "CalcWorkbookTip": "حساب دفتر العمل بالكامل"
+      "CalcSheetTip": "احسب ورقة العمل النشطة",
+      "CalcWorkbookTip": "احسب دفتر العمل بالكامل"
     },
     "filemanager": {
       "NewFolder": "ملف جديد",

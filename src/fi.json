@@ -828,13 +828,13 @@
       "NextNote": "Seuraava huomautus",
       "Review": "Tarkista",
       "Print": "Tulosta",
-      "CalcOptions": "Laskenta-asetukset",
-      "CalcOptionsTip": "Valitse, lasketaanko kaavat automaattisesti vai manuaalisesti.",
-      "CalcActiveSheet": "Laske taulukko",
+      "CalcOptions": "Laskentavaihtoehdot",
+      "CalcOptionsTip": "Valitse, lasketaanko kaavat automaattisesti vai manuaalisesti",
+      "CalcActiveSheet": "Laske laskentataulukko",
       "CalcWorkbook": "Laske työkirja",
       "Automatic": "Automaattinen",
       "Manual": "Manuaalinen",
-      "CalcSheetTip": "Laske aktiivinen taulukko",
+      "CalcSheetTip": "Laske aktiivinen laskentataulukko",
       "CalcWorkbookTip": "Laske koko työkirja"
     },
     "filemanager": {

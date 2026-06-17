@@ -829,13 +829,13 @@
       "Review": "Review",
       "Print": "Print",
       "CalcOptions": "Calculation Options",
-      "CalcOptionsTip": "Choose whether to calculate formulas automatically or manually.",
+      "CalcOptionsTip": "Choose to calculate formulas either automatically or manually",
       "CalcActiveSheet": "Calculate Sheet",
       "CalcWorkbook": "Calculate Workbook",
       "Automatic": "Automatic",
       "Manual": "Manual",
-      "CalcSheetTip": "Calculate active sheet",
-      "CalcWorkbookTip": "Calculate entire workbook"
+      "CalcSheetTip": "Calculate the active sheet",
+      "CalcWorkbookTip": "Calculate the entire workbook"
     },
     "filemanager": {
       "NewFolder": "New folder",

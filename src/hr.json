@@ -829,13 +829,13 @@
       "Review": "pregled",
       "Print": "Ispis",
       "CalcOptions": "Opcije izračuna",
-      "CalcOptionsTip": "Odaberite hoće li se formule izračunavati automatski ili ručno.",
+      "CalcOptionsTip": "Odaberi da li želiš da formule budu izračunate automatski ili ručno",
       "CalcActiveSheet": "Izračunaj list",
-      "CalcWorkbook": "Izračunaj radnu knjigu",
+      "CalcWorkbook": "Izračunaj radnu svesku",
       "Automatic": "Automatski",
       "Manual": "Ručno",
       "CalcSheetTip": "Izračunaj aktivni list",
-      "CalcWorkbookTip": "Izračunaj cijelu radnu knjigu"
+      "CalcWorkbookTip": "Izračunaj cijelu radnu svesku"
     },
     "filemanager": {
       "NewFolder": "Nova mapa",
