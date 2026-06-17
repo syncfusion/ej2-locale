@@ -830,7 +830,15 @@
       "PreviousNote": "이전 참고",
       "NextNote": "다음 메모",
       "Review": "검토",
-      "Print": "인쇄"
+      "Print": "인쇄",
+      "CalcOptions": "계산 옵션",
+      "CalcOptionsTip": "수식을 자동 또는 수동으로 계산하도록 선택",
+      "CalcActiveSheet": "시트 계산",
+      "CalcWorkbook": "통합 문서 계산",
+      "Automatic": "자동",
+      "Manual": "수동",
+      "CalcSheetTip": "활성 시트 계산",
+      "CalcWorkbookTip": "전체 통합 문서 계산"
     },
     "filemanager": {
       "NewFolder": "새 폴더",

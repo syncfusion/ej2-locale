@@ -827,7 +827,15 @@
       "PreviousNote": "Ghi chú trước đó",
       "NextNote": "Ghi chú tiếp theo",
       "Review": "Xem lại",
-      "Print": "In"
+      "Print": "In",
+      "CalcOptions": "Tùy chọn tính toán",
+      "CalcOptionsTip": "Chọn tính toán công thức tự động hoặc thủ công",
+      "CalcActiveSheet": "Tính toán trang tính",
+      "CalcWorkbook": "Tính toán sổ làm việc",
+      "Automatic": "Tự động",
+      "Manual": "Thủ công",
+      "CalcSheetTip": "Tính toán trang tính hoạt động",
+      "CalcWorkbookTip": "Tính toán toàn bộ sổ làm việc"
     },
     "filemanager": {
       "NewFolder": "Thư mục mới",

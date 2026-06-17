@@ -827,7 +827,15 @@
       "PreviousNote": "Föregående anmärkning",
       "NextNote": "Nästa anmärkning",
       "Review": "Granska",
-      "Print": "Skriv ut"
+      "Print": "Skriv ut",
+      "CalcOptions": "Beräkningsalternativ",
+      "CalcOptionsTip": "Välj att beräkna formler automatiskt eller manuellt",
+      "CalcActiveSheet": "Beräkna ark",
+      "CalcWorkbook": "Beräkna arbetsbok",
+      "Automatic": "Automatisk",
+      "Manual": "Manuell",
+      "CalcSheetTip": "Beräkna det aktiva arket",
+      "CalcWorkbookTip": "Beräkna hela arbetsboken"
     },
     "filemanager": {
       "NewFolder": "Ny mapp",

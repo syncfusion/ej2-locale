@@ -775,7 +775,15 @@
       "PreviousNote": "Fyrri athugasemd",
       "NextNote": "Næsta athugasemd",
       "Review": "Upprifjun",
-      "Print": "Prenta"
+      "Print": "Prenta",
+      "CalcOptions": "Útreikningsvalkostir",
+      "CalcOptionsTip": "Veldu til að reikna formúlur sjálfkrafa eða handvirkt",
+      "CalcActiveSheet": "Reikna blað",
+      "CalcWorkbook": "Reikna vinnubók",
+      "Automatic": "Sjálfkrafa",
+      "Manual": "Handvirkt",
+      "CalcSheetTip": "Reikna virka blaðið",
+      "CalcWorkbookTip": "Reikna alla vinnubókina"
     },
     "filemanager": {
       "NewFolder": "Ný mappa",

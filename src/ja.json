@@ -827,7 +827,15 @@
       "PreviousNote": "前のメモ",
       "NextNote": "次のメモ",
       "Review": "レビュー",
-      "Print": "印刷"
+      "Print": "印刷",
+      "CalcOptions": "計算オプション",
+      "CalcOptionsTip": "数式を自動または手動で計算するかを選択します",
+      "CalcActiveSheet": "シートを計算",
+      "CalcWorkbook": "ブックを計算",
+      "Automatic": "自動",
+      "Manual": "手動",
+      "CalcSheetTip": "アクティブシートを計算",
+      "CalcWorkbookTip": "ブック全体を計算"
     },
     "filemanager": {
       "NewFolder": "新規フォルダー",

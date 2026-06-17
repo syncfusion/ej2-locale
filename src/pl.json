@@ -827,7 +827,15 @@
       "PreviousNote": "Poprzednia uwaga",
       "NextNote": "Następna uwaga",
       "Review": "Recenzja",
-      "Print": "Drukuj"
+      "Print": "Drukuj",
+      "CalcOptions": "Opcje obliczania",
+      "CalcOptionsTip": "Wybierz obliczanie formuł automatycznie lub ręcznie",
+      "CalcActiveSheet": "Oblicz arkusz",
+      "CalcWorkbook": "Oblicz skoroszyt",
+      "Automatic": "Automatycznie",
+      "Manual": "Ręcznie",
+      "CalcSheetTip": "Oblicz aktywny arkusz",
+      "CalcWorkbookTip": "Oblicz cały skoroszyt"
     },
     "filemanager": {
       "NewFolder": "Nowy folder",

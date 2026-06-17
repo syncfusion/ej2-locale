@@ -827,7 +827,15 @@
       "PreviousNote": "Catatan Sebelumnya",
       "NextNote": "Catatan Berikutnya",
       "Review": "Ulasan",
-      "Print": "Cetak"
+      "Print": "Cetak",
+      "CalcOptions": "Opsi Perhitungan",
+      "CalcOptionsTip": "Pilih untuk menghitung rumus secara otomatis atau manual",
+      "CalcActiveSheet": "Hitung Lembar",
+      "CalcWorkbook": "Hitung Buku Kerja",
+      "Automatic": "Otomatis",
+      "Manual": "Manual",
+      "CalcSheetTip": "Hitung lembar aktif",
+      "CalcWorkbookTip": "Hitung seluruh buku kerja"
     },
     "filemanager": {
       "NewFolder": "Folder baru",

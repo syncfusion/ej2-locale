@@ -827,7 +827,15 @@
       "PreviousNote": "Remarque précédente",
       "NextNote": "Remarque suivante",
       "Review": "Examen",
-      "Print": "Imprimer"
+      "Print": "Imprimer",
+      "CalcOptions": "Options de calcul",
+      "CalcOptionsTip": "Choisissez de calculer les formules automatiquement ou manuellement",
+      "CalcActiveSheet": "Calculer la feuille",
+      "CalcWorkbook": "Calculer le classeur",
+      "Automatic": "Automatique",
+      "Manual": "Manuel",
+      "CalcSheetTip": "Calculer la feuille active",
+      "CalcWorkbookTip": "Calculer le classeur entier"
     },
     "filemanager": {
       "NewFolder": "Nouveau dossier",
