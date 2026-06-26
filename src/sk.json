@@ -827,7 +827,15 @@
       "PreviousNote": "Predchádzajúca poznámka",
       "NextNote": "Ďalšia poznámka",
       "Review": "recenzia",
-      "Print": "Tlačiť"
+      "Print": "Tlačiť",
+      "CalcOptions": "Možnosti výpočtu",
+      "CalcOptionsTip": "Vyberte si, či chcete počítať vzorce automaticky alebo ručne",
+      "CalcActiveSheet": "Vypočítať list",
+      "CalcWorkbook": "Vypočítať pracovný zošit",
+      "Automatic": "Automaticky",
+      "Manual": "Ručne",
+      "CalcSheetTip": "Vypočítať aktívny list",
+      "CalcWorkbookTip": "Vypočítať celý pracovný zošit"
     },
     "filemanager": {
       "NewFolder": "Nový priečinok",

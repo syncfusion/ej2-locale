@@ -827,7 +827,15 @@
       "PreviousNote": "Prethodna bilješka",
       "NextNote": "Sljedeća bilješka",
       "Review": "pregled",
-      "Print": "Ispis"
+      "Print": "Ispis",
+      "CalcOptions": "Opcije izračuna",
+      "CalcOptionsTip": "Odaberi da li želiš da formule budu izračunate automatski ili ručno",
+      "CalcActiveSheet": "Izračunaj list",
+      "CalcWorkbook": "Izračunaj radnu svesku",
+      "Automatic": "Automatski",
+      "Manual": "Ručno",
+      "CalcSheetTip": "Izračunaj aktivni list",
+      "CalcWorkbookTip": "Izračunaj cijelu radnu svesku"
     },
     "filemanager": {
       "NewFolder": "Nova mapa",

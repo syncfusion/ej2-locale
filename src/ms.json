@@ -827,7 +827,15 @@
       "PreviousNote": "Nota Sebelumnya",
       "NextNote": "Nota Seterusnya",
       "Review": "Semakan",
-      "Print": "Cetak"
+      "Print": "Cetak",
+      "CalcOptions": "Pilihan Pengiraan",
+      "CalcOptionsTip": "Pilih untuk mengira formula secara automatik atau manual",
+      "CalcActiveSheet": "Kira Helaian",
+      "CalcWorkbook": "Kira Buku Kerja",
+      "Automatic": "Automatik",
+      "Manual": "Manual",
+      "CalcSheetTip": "Kira helaian aktif",
+      "CalcWorkbookTip": "Kira keseluruhan buku kerja"
     },
     "filemanager": {
       "NewFolder": "Fail baharu",

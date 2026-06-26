@@ -827,7 +827,15 @@
       "PreviousNote": "หมายเหตุถัดไป",
       "NextNote": "รีวิว",
       "Review": "โฟลเดอร์ใหม่",
-      "Print": "พิมพ์"
+      "Print": "พิมพ์",
+      "CalcOptions": "ตัวเลือกการคำนวณ",
+      "CalcOptionsTip": "เลือกคำนวณสูตรโดยอัตโนมัติหรือด้วยตนเอง",
+      "CalcActiveSheet": "คำนวณชีท",
+      "CalcWorkbook": "คำนวณเวิร์กบุ๊ก",
+      "Automatic": "อัตโนมัติ",
+      "Manual": "ด้วยตนเอง",
+      "CalcSheetTip": "คำนวณชีทที่ใช้งาน",
+      "CalcWorkbookTip": "คำนวณเวิร์กบุ๊กทั้งหมด"
     },
     "filemanager": {
       "NewFolder": "แฟ้มใหม่",

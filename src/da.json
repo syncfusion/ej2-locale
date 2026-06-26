@@ -827,7 +827,15 @@
       "PreviousNote": "Forrige note",
       "NextNote": "Næste note",
       "Review": "Gennemgå",
-      "Print": "Udskriv"
+      "Print": "Udskriv",
+      "CalcOptions": "Beregningsindstillinger",
+      "CalcOptionsTip": "Vælg at beregne formler automatisk eller manuelt",
+      "CalcActiveSheet": "Beregn ark",
+      "CalcWorkbook": "Beregn arbejdsbog",
+      "Automatic": "Automatisk",
+      "Manual": "Manuelt",
+      "CalcSheetTip": "Beregn det aktive ark",
+      "CalcWorkbookTip": "Beregn hele arbejdsbogen"
     },
     "filemanager": {
       "NewFolder": "Ny mappe",

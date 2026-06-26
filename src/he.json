@@ -827,7 +827,15 @@
       "PreviousNote": "הערה קודמת",
       "NextNote": "הערה הבאה",
       "Review": "סקירה",
-      "Print": "הֶדפֵּס"
+      "Print": "הֶדפֵּס",
+      "CalcOptions": "אפשרויות חישוב",
+      "CalcOptionsTip": "בחר לחישוב נוסחאות באופן אוטומטי או ידני",
+      "CalcActiveSheet": "חישוב גיליון",
+      "CalcWorkbook": "חישוב חוברת",
+      "Automatic": "אוטומטי",
+      "Manual": "ידני",
+      "CalcSheetTip": "חישוב הגיליון הפעיל",
+      "CalcWorkbookTip": "חישוב כל החוברת"
     },
     "filemanager": {
       "NewFolder": "תיקייה חדשה",

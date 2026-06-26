@@ -827,7 +827,15 @@
       "PreviousNote": "Nota precedente",
       "NextNote": "Nota successiva",
       "Review": "Recensione",
-      "Print": "Stampa"
+      "Print": "Stampa",
+      "CalcOptions": "Opzioni di calcolo",
+      "CalcOptionsTip": "Scegli se calcolare le formule automaticamente o manualmente",
+      "CalcActiveSheet": "Calcola foglio",
+      "CalcWorkbook": "Calcola cartella di lavoro",
+      "Automatic": "Automatico",
+      "Manual": "Manuale",
+      "CalcSheetTip": "Calcola il foglio attivo",
+      "CalcWorkbookTip": "Calcola l'intera cartella di lavoro"
     },
     "filemanager": {
       "NewFolder": "Nuova cartella",
