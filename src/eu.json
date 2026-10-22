@@ -3930,7 +3930,17 @@
       "startTooltipText": "Hasi entzuten",
       "stopTooltipText": "Utzi entzuteari",
       "clear": "Garbitu",
-      "noRecordsTemplate": "Ez da erregistrorik aurkitu"
+      "noRecordsTemplate": "Ez da erregistrorik aurkitu",
+      "status": "Egoera",
+      "toolCalls": "Tresna Deiak",
+      "duration": "Iraupena",
+      "streamingChunks": "Streaming zatiak",
+      "model": "Eredua",
+      "inputTokens": "Sarrerako tokenak",
+      "outputTokens": "Irteerako tokenak",
+      "totalTokens": "Tokens guztira",
+      "reasoningTokens": "Arrazoitzeko tokenak",
+      "cachedInputTokens": "Cachean sartutako sarrera-tokenak"
     },
     "chat-ui": {
       "oneUserTyping": "{0} idazten ari da",
