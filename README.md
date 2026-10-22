@@ -7,16 +7,19 @@ Locale translations for Essential JS 2 components in multiple languages.
 | Culture-Code | Language                       |
 | ------------ | ------------------------------ |
 | ar-AE        | Arabic - United Arab Emirates  |
-|ar            | Arabic - Arabia               |
+| ar            | Arabic - Arabia               |
+| ca           | Catalan - Spain                |
 | cs        | Czech - Czech Republic         |
 | da      | Danish - Denmark               |
 | de       | German - Germany               |
 | en-GB     | English - United Kingdom      |
 | en-US        | English - United States        |
 | es      | Spanish - Spain                |
+| eu           | Basque - Spain                 |
 | fa      | Farsi - Iran                   |
 | fi       | Finnish - Finland              |
 | fr        | French - France                |
+| gl           | Galician - Spain                |
 | he       | Hebrew - Israel                |
 | hr      | Croatian - Croatia             |
 | hu     | Hungarian - Hungary    
