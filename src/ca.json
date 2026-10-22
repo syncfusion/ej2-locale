@@ -3930,7 +3930,17 @@
       "startTooltipText": "Comença a escoltar",
       "stopTooltipText": "Deixa d'escoltar",
       "clear": "Esborra",
-      "noRecordsTemplate": "No s'ha trobat cap registre"
+      "noRecordsTemplate": "No s'ha trobat cap registre",
+      "status": "Estat",
+      "toolCalls": "Trucades d'eines",
+      "duration": "Durada",
+      "streamingChunks": "Trossos de streaming",
+      "model": "Model",
+      "inputTokens": "Fitxes d'entrada",
+      "outputTokens": "Fitxes de sortida",
+      "totalTokens": "Total de fitxes",
+      "reasoningTokens": "Fitxes de raonament",
+      "cachedInputTokens": "Fitxes d'entrada a la memòria cau"
     },
     "chat-ui": {
       "oneUserTyping": "{0} està escrivint",

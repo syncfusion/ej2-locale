@@ -3930,7 +3930,17 @@
       "startTooltipText": "Comezar a escoitar",
       "stopTooltipText": "Deixar de escoitar",
       "clear": "Borrar",
-      "noRecordsTemplate": "Non se atoparon rexistros"
+      "noRecordsTemplate": "Non se atoparon rexistros",
+      "status": "Estado",
+      "toolCalls": "Chamadas de ferramentas",
+      "duration": "Duración",
+      "streamingChunks": "Anacos de transmisión",
+      "model": "Modelo",
+      "inputTokens": "Fichas de entrada",
+      "outputTokens": "Fichas de saída",
+      "totalTokens": "Tokens totais",
+      "reasoningTokens": "Fichas de razoamento",
+      "cachedInputTokens": "Tokens de entrada en caché"
     },
     "chat-ui": {
       "oneUserTyping": "{0} está escribindo",
